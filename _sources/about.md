@@ -7,3 +7,6 @@ This document was built by contributors from the SustainOSS Academic Working Gro
   - Discourse forum: https://sustainoss.org/
   - Podcast: https://sustainoss.org/
 - The Academic Working group focuses only on open source in an academic setting. It is open to everyone.
+  - Details: https://sustainoss.org/working-groups/academic-projects/
+
+
