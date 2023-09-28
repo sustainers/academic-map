@@ -2,7 +2,7 @@
 
 This notebook is an aid for navigating the ecosystem of open source within academia.
 
-Open source software is everyone. In an academic context, it can be used either for research software, within an ed tech context used by the administration, or as a topic of instruction to students. Open source also is built into all layers of software used by academics, as well of industry at large. It can also be an object of study for researchers seeking to learn more about code generation and usage, collaborative networks, and so on.
+Open source software is everywhere. In an academic context, it can be used either for research software, within an ed tech context used by the administration, or as a topic of instruction to students. Open source also is built into all layers of software used by academics, as well of industry at large. It can also be an object of study for researchers seeking to learn more about code generation and usage, collaborative networks, and so on.
 
 The many areas where open source can apply means that navigating the landscape of open source software can be difficult to practitioners looking to specialize in open source as a whole. 
 
