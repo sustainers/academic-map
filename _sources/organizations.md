@@ -4,10 +4,10 @@ Open source in academia is often driven by communities and non-profit organizati
 
 ## Foundations and Fiscal Hosts
 
-- Apereo
 - NumFOCUS
 - Open Collective
 - TODO Group
+- Apereo
 
 ## Communities of practice
 

@@ -28,11 +28,4 @@ This work cannot be done by a single person or a single team. There are several 
 - Add a page directly to the Git repository using a **Pull Request**. The GitHub repo is [here](https://github.com/sustainers/academic-map/). If you have a university, community, or so on, and you know how to use Git and GitHub, please open a PR with the resource! 
 - **Complain**. If this isn't working for you, tell us why, and we'd be more than happy to work to make it better.
 - **Join** the regular calls. We meet every fourth Thursday. These are announced in [the Sustain Discourse](https://discourse.sustainoss.org/).
-
-### Code of Conduct
-
-All of the work here is done under the SustainOSS [Code of Conduct](https://sustainoss.org/code-of-conduct/). Please read it and abide by it, and report any issues as soon as they come up.
-
-## License
-
-All of the work here is licensed under an [MIT License](./LICENSE), with the copyright held by the contributors. 
+- **Send an email.** Richard Littauer is the main editor for this repository, at the moment, and he's happy to incorporate any changes or to build a more welcoming and inclusive structure for collaboration here if any of the above options is less than ideal. Email [richard@sustainoss.org](mailto:richard@sustainoss.org).
