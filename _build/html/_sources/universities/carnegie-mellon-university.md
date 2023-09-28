@@ -6,7 +6,7 @@ link: "https://www.library.cmu.edu/service/ospo"
 # Carnegie Mellon University
 
 - *OSPO*: Yes, in the Library.
-- *Personnell*: Sayeed Choudhury, Thomas Hughes
+- *Personnel*: Sayeed Choudhury, Thomas Hughes
 - *Link*: https://www.library.cmu.edu/service/ospo
 - *Member of*: HELIOS
 
@@ -27,3 +27,7 @@ link: "https://www.library.cmu.edu/service/ospo"
 
 - Sayeed Choudhury, *Associate Dean for Digital Infrastructure*
 - Thomas Hughes, *OSPO Community Manager*
+
+## Other context
+
+Sayeed Choudury joined CMU last year, coming from his work founding the first University OSPO at Johns Hopkins University. CMU already has a history of good open source work - see, for instance, Bogdan Vasilescu's [STRUDEL](https://cmustrudel.github.io/) lab there - but hasn't historically had a centrally operating OSPO to help oversee the work going on. CMU's OSPO was [initially funded](https://sloan.org/grant-detail/10077) by the Alfred P. Sloan foundation, along with several other OSPOs in 2022.

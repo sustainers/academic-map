@@ -4,45 +4,51 @@
 format: jb-book
 root: intro
 chapters:
+- file: about
 - file: universities
   sections:
-  - file: universities/aalborg-university.md
-  - file: universities/arizona-state-university.md
+  # - file: universities/aalborg-university.md
+  # - file: universities/arizona-state-university.md
   - file: universities/carnegie-mellon-university.md
-  - file: universities/friere-universitat.md
+  # - file: universities/friere-universitat.md
   - file: universities/george-washington-university.md
-  - file: universities/georgia-institute-of-technology.md
+  # - file: universities/georgia-institute-of-technology.md
   - file: universities/johns-hopkins-university.md
-  - file: universities/leipzig-university.md
-  - file: universities/mcgill-university.md
-  - file: universities/michigan-technology.md
-  - file: universities/new-york-university.md
-  - file: universities/north-carolina-university.md
-  - file: universities/oregon-state-university.md
-  - file: universities/oxford-university.md
-  - file: universities/princeton-university.md
-  - file: universities/rey-juan-carlos-university.md
+  # - file: universities/leipzig-university.md
+  # - file: universities/mcgill-university.md
+  # - file: universities/michigan-technology.md
+  # - file: universities/new-york-university.md
+  # - file: universities/north-carolina-university.md
+  # - file: universities/oregon-state-university.md
+  # - file: universities/oxford-university.md
+  # - file: universities/princeton-university.md
+  # - file: universities/rey-juan-carlos-university.md
   - file: universities/rochester-institute-of-technology.md
-  - file: universities/royal-holloway-university-of-london.md
+  # - file: universities/royal-holloway-university-of-london.md
   - file: universities/saint-louis-university-slu.md
   - file: universities/stanford-university.md
-  - file: universities/syracuse-university.md
+  # - file: universities/syracuse-university.md
   - file: universities/trinity-college-dublin.md
-  - file: universities/uc-santa-barbara.md
+  # - file: universities/uc-santa-barbara.md
   - file: universities/university-of-california-santa-cruz.md
-  - file: universities/university-of-cambridge.md
-  - file: universities/university-of-canberra.md
-  - file: universities/university-of-colorado.md
-  - file: universities/university-of-limerick.md
-  - file: universities/university-of-michigan.md
-  - file: universities/university-of-missouri.md
-  - file: universities/university-of-nebraska.md
-  - file: universities/university-of-sheffield.md
-  - file: universities/university-of-tartu.md
+  # - file: universities/university-of-cambridge.md
+  # - file: universities/university-of-canberra.md
+  # - file: universities/university-of-colorado.md
+  # - file: universities/university-of-limerick.md
+  # - file: universities/university-of-michigan.md
+  # - file: universities/university-of-missouri.md
+  # - file: universities/university-of-nebraska.md
+  # - file: universities/university-of-sheffield.md
+  # - file: universities/university-of-tartu.md
   - file: universities/university-of-texas-austin.md
-  - file: universities/university-of-toronto.md
+  # - file: universities/university-of-toronto.md
   - file: universities/university-of-vermont.md
-  - file: universities/university-of-victoria.md
+  # - file: universities/university-of-victoria.md
   - file: universities/university-of-washington.md
-  - file: universities/university-of-wisconsin-madison.md
-  - file: universities/yale-university.md
+  # - file: universities/university-of-wisconsin-madison.md
+  # - file: universities/yale-university.md
+- file: organizations
+  sections:
+  - file: organizations/urssi.md
+  - file: organizations/chaoss.md
+- file: individuals.md
