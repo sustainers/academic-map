@@ -4,37 +4,27 @@ Open source in academia is often driven by communities and non-profit organizati
 
 ## Foundations and Fiscal Hosts
 
+Sorted alphabetically.
+
+- Apereo: 
+- Invest in Open Infrastructure
 - NumFOCUS
 - Open Collective
+- Software Sustainability Institute
 - TODO Group
-- Apereo
 
 ## Communities of practice
 
-- Software Carpentry
-- ReSA
-- InnerSource Commons
-- The Carpentries
-- OSPO++
+- [CHAOSS](./organizations/chaoss.md)
 - [URSSI](./organizations/urssi.md)
-- CHAOSS
+- InnerSource Commons
+- OSPO++
+- ReSA
+- The Carpentries
+  - Software Carpentry
 
-## Collaborations
+## Unsorted
 
 - HELIOS
 
-## Unknown
-
-- Invest in Open Infrastructure
-- Software Sustainability Institute
-
-
-- OSSci
-- OpenHatch
-- OpenStax
-- Open Life science 
-- Open source at Aalto
-- Open life scienece
-- Research software alliance 
-- Open Education Global 
 
