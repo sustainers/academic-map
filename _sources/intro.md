@@ -10,7 +10,7 @@ The many areas where open source can apply means that navigating the landscape o
 
 ## How to use this website
 
-At its heart, this is a simple Jupyter notebook that can display information in a structured format. Jupyter Notebooks have a long history of use in the sciences for documenting software and research methods - there are also other groups, like [The Turing Way](), that use these notebooks for providing resources on how to work collaboratively in the open.
+At its heart, this is a simple Jupyter notebook that can display information in a structured format. Jupyter Notebooks have a long history of use in the sciences for documenting software and research methods - there are also other groups, like [The Turing Way](https://the-turing-way.netlify.app/index.html), that use these notebooks for providing resources on how to work collaboratively in the open.
 
 ### Current Sections
 
