@@ -12,7 +12,7 @@ chapters:
   - file: universities/carnegie-mellon-university.md
   # - file: universities/friere-universitat.md
   - file: universities/george-washington-university.md
-  # - file: universities/georgia-institute-of-technology.md
+  - file: universities/georgia-institute-of-technology.md
   - file: universities/johns-hopkins-university.md
   # - file: universities/leipzig-university.md
   # - file: universities/mcgill-university.md
