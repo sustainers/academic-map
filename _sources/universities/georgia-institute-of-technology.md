@@ -5,9 +5,9 @@ link: "https://ospo.cc.gatech.edu/"
 
 # Georgia Institute of Technology
 
-    - *OSPO*: Yes
-    - *Personnel*: Jeffrey Young, Fang Liu, Ron Rahaman, Alessandro Orso, Susan Parham
-    - *Link*: https://ospo.cc.gatech.edu/
+- *OSPO*: Yes
+- *Personnel*: Jeffrey Young, Fang Liu, Ron Rahaman, Alessandro Orso, Susan Parham
+- *Link*: https://ospo.cc.gatech.edu/
 
 ##  General Description
 
