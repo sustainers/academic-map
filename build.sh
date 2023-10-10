@@ -20,7 +20,7 @@ fi
 git checkout main || error_exit "Failed to switch to main branch."
 
 # Build the Jupyter book
-jupyter-book build . || error_exit "Failed to build Jupyter book."
+jupyter-book build --all . || error_exit "Failed to build Jupyter book."
 
 # Ensure the build directory exists
 if [[ ! -d "$BUILD_DIR" ]]; then
