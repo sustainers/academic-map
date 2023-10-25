@@ -11,9 +11,9 @@ link: "https://ospo.cc.gatech.edu/"
 
 ##  General Description
 
-> The open source programs office (OSPO) raises awareness and capacity for open source software to better develop, manage, curate, and share it for research, education, translation, and broader impact.
+The open source programs office (OSPO) raises awareness and capacity for open source software to better develop, manage, curate, and share it for research, education, translation, and broader impact.
 
-> Georgia Tech's OSPO aims to build open source capacity on campus and at nearby academic institutions through education on best practices, outreach, and training and engagement of students.
+Georgia Tech's OSPO aims to build open source capacity on campus and at nearby academic institutions through education on best practices, outreach, and training and engagement of students.
 
 ## Core Objectives
 

@@ -7,7 +7,7 @@
 
 ## General Description
 
-> Cross creates open source leaders by blending open source software strategies with graduate-level research in a concentrated environment of mentorship and interaction with world class industry, academia, and open source experts. CROSS transfers cutting-edge technology resulting from student research to industry via successful open source projects.
+Cross creates open source leaders by blending open source software strategies with graduate-level research in a concentrated environment of mentorship and interaction with world class industry, academia, and open source experts. CROSS transfers cutting-edge technology resulting from student research to industry via successful open source projects.
 
 ## Core Objectives
 
