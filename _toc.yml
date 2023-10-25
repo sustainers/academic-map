@@ -42,7 +42,7 @@ chapters:
   # - file: universities/university-of-tartu.md
   # - file: universities/university-of-texas-austin.md
   # - file: universities/university-of-toronto.md
-  # - file: universities/university-of-vermont.md
+  - file: universities/university-of-vermont.md
   # - file: universities/university-of-victoria.md
   # - file: universities/university-of-washington.md
   # - file: universities/university-of-wisconsin-madison.md
