@@ -12,6 +12,7 @@ This is a Jupyter notebook, and depends on the tooling system of Jupyter Noteboo
 
 - Clone this repository locally.
 - Edit any Markdown locally.
+- Add any pages that you want to be in the Table of Contents to `_toc.yml`.
 - Run `build.sh` in order to automatically build the changes. You may need to run `chmod +x build.sh` to make this executable, first.
 
 ## Contribute
