@@ -12,9 +12,9 @@ link: "https://www.library.cmu.edu/service/ospo"
 
 ## General Description
 
-> The open source programs office (OSPO) raises awareness and capacity for open source software to better develop, manage, curate, and share it for research, education, translation, and broader impact.
+The open source programs office (OSPO) raises awareness and capacity for open source software to better develop, manage, curate, and share it for research, education, translation, and broader impact.
 
-> As a community convener and center of competency, the OSPO aims to build open source capacity within CMU and beyond, leveraging the institution's research, teaching, and policy expertise to maximize its social impact on a global scale.
+As a community convener and center of competency, the OSPO aims to build open source capacity within CMU and beyond, leveraging the institution's research, teaching, and policy expertise to maximize its social impact on a global scale.
 
 ## Core Objectives
 

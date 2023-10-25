@@ -7,11 +7,11 @@
 
 ## General Description
 
-> The Vermont Open Source Progam Office (VERSO) aims to build university systems and infrastructure to facilitate open-source development, open science and open practices through growing infrastructure through supporting the adoption of open source tools, growing open source projects and acting as an educational resource for the entire university.  
+The Vermont Open Source Progam Office (VERSO) aims to build university systems and infrastructure to facilitate open-source development, open science and open practices through growing infrastructure through supporting the adoption of open source tools, growing open source projects and acting as an educational resource for the entire university.  
 
-> Expecially given the University of Vermont's (UVM) landgrant institutional status we act as a connection point for creating projects that partner community organizations and governmental organizations with UVM to solve problems and promote an open approach in collaboration
+Expecially given the University of Vermont's (UVM) landgrant institutional status we act as a connection point for creating projects that partner community organizations and governmental organizations with UVM to solve problems and promote an open approach in collaboration
 
-> VERSO also serves to support and create research into the how and why of open work by fasciliating events and research. 
+VERSO also serves to support and create research into the how and why of open work by fasciliating events and research. 
 
 ## Core Objectives
 
