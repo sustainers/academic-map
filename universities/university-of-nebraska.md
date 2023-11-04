@@ -24,4 +24,4 @@ To promote and supporte the principles of open source and open data, in knowledg
 
 ## Other context
 
-We support the principles of the Free and Open Source Software (FOSS) model which provides tools and processes with which researchers can create, exchange, share and exploit software and knowledge efficiently and effectively.
+We support the principles of the Free and Open Source Software (FOSS) model which provides tools and processes with which researchers can create, exchange, share and exploit software and knowledge efficiently and effectively. The office empowers researchers to execute on their open source and open data strategies by providing advice and the tools they need.
