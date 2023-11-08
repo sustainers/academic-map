@@ -7,7 +7,7 @@ Open source in academia is often driven by communities and non-profit organizati
 Sorted alphabetically.
 
 - [Apereo](https://www.apereo.org/)
-- [Community Initiatives[(https://communityinitiatives.org/)
+- [Community Initiatives](https://communityinitiatives.org/)
 - [Eclipse Foundation](https://www.eclipse.org/) 
 - [Invest in Open Infrastructure](https://investinopen.org/)
 - [Code for Science and Society](https://www.codeforsociety.org/)
