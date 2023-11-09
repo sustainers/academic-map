@@ -11,7 +11,8 @@ Sorted alphabetically.
 - NumFOCUS
 - Open Collective
 - Software Sustainability Institute
-- TODO Group
+- Linux Foundation
+   - [TODO Group](https://todogroup.org/)
 
 ## Communities of practice
 
@@ -22,6 +23,7 @@ Sorted alphabetically.
 - ReSA
 - The Carpentries
   - Software Carpentry
+- [TODO Group](https://todogroup.org/)
 
 ## Unsorted
 
