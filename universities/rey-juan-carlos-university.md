@@ -9,6 +9,7 @@ link: "https://ofilibre.gitlab.io/"
 - *Link*: https://ofilibre.gitlab.io/
 
 ## General Description
+
 The Office of Free Knowledge and Culture (OfiLibre) has the function of informing, promoting, coordinating, and facilitating its areas of action, and collaborating with all stakeholders at the URJC University.
 
 ## Core Objectives
