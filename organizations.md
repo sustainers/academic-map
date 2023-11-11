@@ -20,13 +20,13 @@ Sorted alphabetically.
 ## Communities of practice
 
 - [CHAOSS](./organizations/chaoss.md)
-- [URSSI](./organizations/urssi.md)
-- InnerSource Commons
+- [InnerSource Commons](https://innersourcecommons.org/)
 - [OSPO++](https://ospoplusplus.org/)
 - [ReSA](https://www.researchsoft.org/about-resa/)
 - [The Carpentries](https://carpentries.org)
   - [Software Carpentry](https://software-carpentry.org)
 - [TODO Group](https://todogroup.org/)
+- [URSSI](./organizations/urssi.md)
 
 ## Unsorted
 
