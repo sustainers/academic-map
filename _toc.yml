@@ -13,7 +13,6 @@ chapters:
   - file: universities/university-of-california-santa-cruz.md
   - file: universities/university-of-vermont.md
   - file: universities/university-of-toronto.md
-  
 - file: organizations
   sections:
   - file: organizations/urssi.md
