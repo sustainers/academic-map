@@ -4,116 +4,96 @@ University involvement in open source varies widely. For instance, a university 
 
 The following universities have some involvement in open source: 
 
-  - [Aalbord University](./universities/aalborg-university.md)
-  - [Arizona State University](./universities/arizona-state-university.md)
   - [Carnegie Mellon University](./universities/carnegie-mellon-university.md)
-  - [Friere Universitat](./universities/friere-universitat.md)
-  - [George Washington University](./universities/george-washington-university.md)
   - [Georgia Institute of Technology](./universities/georgia-institute-of-technology.md)
   - [Johns Hopkins University](./universities/johns-hopkins-university.md)
-  - [Leipzig University](./universities/leipzig-university.md)
-  - [McGill University](./universities/mcgill-university.md)
-  - [Michigan Technology](./universities/michigan-technology.md)
-  - [New York University](./universities/new-york-university.md)
-  - [North Carolina University](./universities/north-carolina-university.md)
-  - [Oregon State University](./universities/oregon-state-university.md)
-  - [Oxford University](./universities/oxford-university.md)
-  - [Princeton University](./universities/princeton-university.md)
   - [Rey Juan Carlos University](./universities/rey-juan-carlos-university.md)
-  - [Rochester Institute of Technology](./universities/rochester-institute-of-technology.md)
-  - [Royal Holloway University of London](./universities/royal-holloway-university-of-london.md)
-  - [Saint Louis University](./universities/saint-louis-university-slu.md)
-  - [Stanford University](./universities/stanford-university.md)
-  - [Syracuse University](./universities/syracuse-university.md)
-  - [Trinity College Dublin](./universities/trinity-college-dublin.md)
-  - [UC Santa Barbara](./universities/uc-santa-barbara.md)
+  - [Oregon State University](./universities/oregon-state-university.md)
+  - Rochester Institute of Technology
   - [UC Santa Cruz](./universities/university-of-california-santa-cruz.md)
-  - [University of Cambridge](./universities/university-of-cambridge.md)
-  - [University of Canberra](./universities/university-of-canberra.md)
-  - [University of Colorado](./universities/university-of-colorado.md)
-  - [University of Limerick](./universities/university-of-limerick.md)
-  - [University of Michigan](./universities/university-of-michigan.md)
-  - [University of Missouri](./universities/university-of-missouri.md)
-  - [University of Nebraska](./universities/university-of-nebraska.md)
-  - [University of Sheffield](./universities/university-of-sheffield.md)
-  - [University of Tartu](./universities/university-of-tartu.md)
-  - [University of Texas Austin](./universities/university-of-texas-austin.md)
-  - [University of Toronto](./universities/university-of-toronto.md)
+  - University of Texas Austin
   - [University of Vermont](./universities/university-of-vermont.md)
-  - [University of Victoria](./universities/university-of-victoria.md)
-  - [University of Washington](./universities/university-of-washington.md)
-  - [University of Wisconsin Madison](./universities/university-of-wisconsin-madison.md)
-  - [Yale University](./universities/yale-university.md)
+  - [Oregon State University](./universities/oregon-state-university.md)
 
 ## More universities
 
 The following have some open source usage, but haven't been fully evaluated yet: 
 
+- Aalbord University
+- Arizona State University
 - Belmont University
 - Benedict College
 - Berea College
 - Boston University
-- Brock university
-- California community college
+- Brock University
+- California Community College
 - California Institute of Technology
 - Case Western Reserve University
-- Case Western University
-- Claremount college
-- colby college
+- Claremount College
+- Colby College
 - Colorado College
 - Colorado State University
 - Cornell University
 - Dartmouth College
 - Drexel University
-- Duke university
+- Duke University
 - Emory University
 - Florida International University
 - Florida State University
+- Friere Universitat
 - George Washington University
 - Harvard University
 - Haverford College
-- HEC Montreal
 - Hosei University
-- Hotelschool the Hague
 - Iowa State University
 - Kyoto University
 - Lafayette College
-- LAMP
+- Leipzig University
+- McGill University
 - MCI Management Center Innsbruck
+- Michigan Technology
 - Middle Tennessee State University
 - Middlebury College
 - Mississippi State University
 - Montclair State University
 - Nagoya University
+- New York University
 - North Carolina State University
 - North-West University
 - Northeastern University
 - Northern Illinois University
 - Northwestern University
 - Oakland University
+- Oxford University
 - Penn State University
+- Princeton University
 - Purdue University
 - Roger Williams University
+- Royal Holloway University of London
 - Rush University
 - Rutgers University
 - Saint Louis University
 - Skidmore College
+- Stanford University
+- Syracuse University
 - Temple University
 - Towson University
+- Trinity College Dublin
+- UC Santa Barbara
 - Universidad Politecnica de Valencia
 - Universidad Publica de Navarra
 - Universitat de Lleida
-- Universität Konstanz
-- Université de Rennes 1
-- Université Polytechnique Hauts-de-France
 - University of Akron
 - University of Amsterdam
 - University of California Irvine
 - University of California Los Angeles
 - University of California Office of the President
 - University of California San Francisco
+- University of Cambridge
+- University of Canberra
 - University of Cape Town
 - University of Chicago
+- University of Colorado
 - University of Delaware
 - University of Edinburgh
 - University of Georgia
@@ -121,6 +101,7 @@ The following have some open source usage, but haven't been fully evaluated yet:
 - University of Houston
 - University of Illinois
 - University of Iowa
+- University of Limerick
 - University of Louisiana at Lafayette
 - University of Louisville
 - University of Manchester
@@ -129,12 +110,14 @@ The following have some open source usage, but haven't been fully evaluated yet:
 - University of Maryland Eastern Shore
 - University of Massachusetts
 - University of Massachusetts Boston
+- University of Michigan
 - University of Minnesota
+- University of Missouri
+- University of Nebraska
 - University of Nevada, Las Vegas
 - University of North Carolina Chapel Hill
 - University of North Carolina Greensboro
 - University of North Carolina Wilmington
-- University of North Carolina, Chapel Hill
 - University of North Dakota
 - University of North Texas
 - University of Notre Dame
@@ -143,15 +126,25 @@ The following have some open source usage, but haven't been fully evaluated yet:
 - University of Pennsylvania
 - University of Pittsburgh
 - University of Richmond
+- University of Sheffield
 - University of South Florida
 - University of Southern California
+- University of Tartu
 - University of Texas at Austin
 - University of the Pacific
+- University of Toronto
+- University of Victoria
 - University of Virginia
 - University of Virginia Western University
+- University of Washington
+- University of Wisconsin Madison
+- Universität Konstanz
+- Université de Rennes
+- Université Polytechnique Hauts-de-France
 - Vanderbilt University
 - Washington University in St. Louis
 - Wayne State University
 - West Virginia University
 - Whitman College
 - Xavier University of Louisiana
+- Yale University

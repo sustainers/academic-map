@@ -4,7 +4,7 @@
 - *OSPO*: Yes, in the Library.
 - *Personnel*: Bill Branan, Megan Forbes
 - *Link*: https://drcc.library.jhu.edu/open-source-programs-office/
-- *Member* of: [Eclipse Foundation](https://www.eclipse.org), [OSPO++](https://ospoplusplus.com/)
+- *Member* of: [Eclipse Foundation](https://www.eclipse.org), [OSPO++](https://ospoplusplus.org/)
 
 ## General Description
 
