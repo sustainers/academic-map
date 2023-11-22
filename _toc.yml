@@ -15,6 +15,7 @@ chapters:
   - file: universities/saint-louis-university.md
   - file: universities/university-of-california-santa-cruz.md
   - file: universities/university-of-vermont.md
+  - file: universities/university-of-wisconsin-madison.md
 - file: organizations
   sections:
   - file: organizations/urssi.md
