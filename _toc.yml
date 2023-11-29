@@ -16,4 +16,5 @@ chapters:
   sections:
   - file: organizations/urssi.md
   - file: organizations/chaoss.md
+  - file: orgaizations/helios.md
 - file: individuals.md
