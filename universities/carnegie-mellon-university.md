@@ -1,8 +1,3 @@
----
-title: "Carnegie Mellon University"
-link: "https://www.library.cmu.edu/service/ospo"
---- 
-
 # Carnegie Mellon University
 
 - *OSPO*: Yes, in the Library.
