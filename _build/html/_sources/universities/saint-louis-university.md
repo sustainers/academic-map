@@ -1,6 +1,6 @@
 # Saint Louis University
 
-- *OSPO*: Yes, in the Library.
+- *OSPO*: Yes, in the CS Department.
 - *Personnel*: Daniel Shown
 - *Link*: [https://oss-slu.github.io/](https://oss-slu.github.io/)
 - *Member of*: [HELIOS](https://www.heliosopen.org/members)
@@ -11,9 +11,9 @@ Open Source with SLU was established to help SLU researchers with their custom s
 
 ## Core Objectives
 
-- Support open scholarship.
-- Deliver value for researchers with software and tools
-- Provide students with realistic software development experience.
+- To provide 'real-world' software development experiences for students.
+- To develop and maintain software tools for research.
+- To support and serve open scholarship and open science throughout the university and wider community.
 
 ## Primary Contacts
 
@@ -21,4 +21,4 @@ Open Source with SLU was established to help SLU researchers with their custom s
 
 ## Other context
 
-The program is funded by a grant from the Alfred P. Sloan Foundation, and employs Computer Science graduate students to prototype, design, and deliver open-source software to help SLU researchers and their collaborators worldwide.
+The program is funded by a grant from the Alfred P. Sloan Foundation, and employs Computer Science graduate students to prototype, design, and deliver open-source software to help SLU researchers and their collaborators worldwide. It was set up in 2022, in the Computer Science department. There is an acting research software engineer service bureau, and one full-time CS facultiy, one full-time director, with grad students as tech leads and student workers.
