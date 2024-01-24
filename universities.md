@@ -11,6 +11,7 @@ The following universities have some involvement in open source:
   - [Oregon State University](./universities/oregon-state-university.md)
   - Rochester Institute of Technology
   - [Stanford University](./universities/stanford-university.md)
+  - [Trinity College Dublin](./universities/trinity-college-dublin.md)
   - [UC Santa Cruz](./universities/university-of-california-santa-cruz.md)
   - University of Texas Austin
   - [University of Vermont](./universities/university-of-vermont.md)

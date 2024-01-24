@@ -1,14 +1,9 @@
----
-title: "Trinity College Dublin"
-link: "https://www.tcd.ie/innovation/OSPO/"
---- 
-
 # Trinity College Dublin
 
 - *OSPO*: Yes
 - *Personnel*: John Whelan, Aoife Tierney
 - *Link*: https://www.tcd.ie/innovation/OSPO/
-- *Member of*: 
+- *Member of*:
 
 ##  General Description
 
@@ -31,4 +26,6 @@ The OSPO’s primary function is the empowerment of researchers to execute on th
 
 ## Other Context
 
-Examples of open source spinouts from TCD include [Software Radio Systems](https://www.srs.io/) (SRS) and [TerminusDB](https://terminusdb.com/). SRS is an open software radio company Their mission is to develop high-performance software radio solutions for 4G and 5G, with complete UE and RAN solutions, supporting the creation of new mobile services. They work with commercial partners to develop custom solutions for bespoke production networks across challenging terrestrial, air-to-ground and satellite deployments. TerminusDB, the company, is the organization behind TerminusDB, the open source document-oriented graph database focused on collaboration and versioning (as well as query performance).
+Examples of open source spinouts from TCD include [Software Radio Systems](https://www.srs.io/) (SRS) and [TerminusDB](https://terminusdb.com/). SRS is an open software radio company. Their mission is to develop high-performance software radio solutions for 4G and 5G, with complete UE and RAN solutions, supporting the creation of new mobile services. They work with commercial partners to develop custom solutions for bespoke production networks across challenging terrestrial, air-to-ground and satellite deployments.
+
+[TerminusDB](https://terminusdb.com/), the company, is the organization behind TerminusDB, the open source document-oriented graph database focused on collaboration and versioning (as well as query performance).
