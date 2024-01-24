@@ -1,1 +1,0 @@
-# UC Santa Barbara
