@@ -21,9 +21,9 @@ From [their website](http://ospo.wisc.edu/):
 
 ## Primary Contacts
 
-- [Allison Kittinger](mailto:allison.kittinger@wisc.edu)
+- [Allison Kittinger](mailto:allison.kittinger@wisc.edu) – OSPO Manager
 
-Kyle Cranmer is the director of the Data Science Institute. Bethany Philbrick is the OSPO Outreach Specialist, who started in February 2024.
+Kyle Cranmer is the director of the Data Science Institute. Bethany Philbrick is the OSPO Outreach Specialist, who will start in February 2024.
 
 ## Other context
 
