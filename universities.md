@@ -1,8 +1,8 @@
 # Universities
 
-University involvement in open source varies widely. For instance, a university could have: a fully structured Open Source Program Offices (OSPOs); a lab or department dedicated to open source; unstructured work done by university staff; investment in open source from libraries or researchers; use of open source edtech internally; taught courses on open source with students; and so on. Because of this, providing a list of universities active in the open source space is hard, and is best thought of as broken down by categories or by usage. 
+University involvement in open source varies widely. For instance, a university could have: a fully structured Open Source Program Offices (OSPOs); a lab or department dedicated to open source; unstructured work done by university staff; investment in open source from libraries or researchers; use of open source edtech internally; taught courses on open source with students; and so on. Because of this, providing a list of universities active in the open source space is hard, and is best thought of as broken down by categories or by usage.
 
-The following universities have some involvement in open source: 
+The following universities have some involvement in open source:
 
   - [Carnegie Mellon University](./universities/carnegie-mellon-university.md)
   - [Georgia Institute of Technology](./universities/georgia-institute-of-technology.md)
@@ -17,7 +17,7 @@ The following universities have some involvement in open source:
 
 ## More universities
 
-The following have some open source usage, but haven't been fully evaluated yet: 
+The following have some open source usage, but haven't been fully evaluated yet:
 
 - Aalbord University
 - Arizona State University
