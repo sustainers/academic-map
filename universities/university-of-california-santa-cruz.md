@@ -2,7 +2,7 @@
 
 - *OSPO*: Yes, in the Center.
 - *Personnel*: Carlos Maltzahn, Stephanie Lieggi
-- *Link*: https://ucsc-ospo.github.io/
+- *Link*: [https://ucsc-ospo.github.io/](https://ucsc-ospo.github.io/)
 - *Member of*: HELIOS (University of California Office of the President (UCOP), and UCSC will become one)
 
 ## General Description
@@ -17,26 +17,26 @@ The CROSS stakeholders and their benefits are:
 
 Industry gets to:
 
-  - Leverage open source software to create and shape new markets
-  - Network with talent and potential recruits
-  - Influence education, research, and the next generation OSS systems
+- Leverage open source software to create and shape new markets
+- Network with talent and potential recruits
+- Influence education, research, and the next generation OSS systems
 
 Talent (Students, Postdocs) can:
 
-  - Become an OSS leader and well-known expert
-  - Learn how to get systems built
-  - Know where to find the right tools & technologies
+- Become an OSS leader and well-known expert
+- Learn how to get systems built
+- Know where to find the right tools & technologies
 
 UC Santa Cruz gets to:
 
-  - Efficiently transfer technology and strengthen its beacon of innovation
-  - Attract and fund talented graduate students
-  - Leveragge the OSS communities and technologies for education and research
+- Efficiently transfer technology and strengthen its beacon of innovation
+- Attract and fund talented graduate students
+- Leveragge the OSS communities and technologies for education and research
 
 ## Primary Contacts
 
 - Carlos Maltzahn, *Director*
-- Stephanie Lieggi, *Assistant Director* slieggi@ucsc.edu
+- Stephanie Lieggi, [*Assistant Director*](mailto:slieggi@ucsc.edu)
 
 ## Other context
 
