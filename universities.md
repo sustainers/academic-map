@@ -14,6 +14,7 @@ The following universities have some involvement in open source:
   - University of Texas Austin
   - [University of Vermont](./universities/university-of-vermont.md)
   - [Oregon State University](./universities/oregon-state-university.md)
+  - [University of Wisconsin-Madison](./universities/university-of-wisconsin-madison.md)
 
 ## More universities
 
