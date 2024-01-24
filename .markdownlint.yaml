@@ -1,0 +1,14 @@
+# Example markdownlint configuration with all properties set to their default value
+
+# Default state for all rules
+default: true
+
+# Path to configuration file to extend
+extends: null
+
+# Disable line length, doesn't matter for us.
+MD013: false
+
+# This stops more than one header being flagged - the front-matter and the top header for pages seems to clash, here
+# I don't know why they clash; it seems arbitrary. I don't understand what the front-matter title is doing.
+MD025: false
