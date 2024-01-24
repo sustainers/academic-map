@@ -7,12 +7,12 @@
     "build": "./build.sh",
 
     "lint": "markdownlint . -i _build/",
-    "lint-fix": "markdownlint --fix .",
+    "lint-fix": "markdownlint --fix . -i _build/",
 
     "check-links": "markdown-link-check ./*.md -c mdlinkcheckconfig.json && markdown-link-check ./**/*.md -c mdlinkcheckconfig.json",
     "check-links-ci": "markdown-link-check -q ./*.md -c mdlinkcheckconfig.json && markdown-link-check ./**/*.md -q -c mdlinkcheckconfig.json",
 
-    "test": "npm run lint && npm run check-links-ci",
+    "run-all": "npm run lint && npm run check-links-ci",
     "pretest": "npm run lint-fix"
   },
   "devDependencies": {
