@@ -1,16 +1,11 @@
----
-title: "University of Wisconsin Madison"
-link: "http://ospo.wisc.edu/"
----
-
 # University of Wisconsin Madison
 
 - *OSPO*: Yes
-- *Personnel*: Kyle Cranmer
-- *Link*: http://ospo.wisc.edu/
-- *Member of*: [Carpentries](https://carpentries.org/members/)
+- *Personnel*: Kyle Cranmer, Allison Kittinger
+- *Link*: [http://ospo.wisc.edu/](http://ospo.wisc.edu/)
+- *Member of*: [The Carpentries](https://carpentries.org/members/)
 
-##  General Description
+## General Description
 
 From [their website](http://ospo.wisc.edu/):
 
@@ -24,10 +19,10 @@ From [their website](http://ospo.wisc.edu/):
 
 ## Primary Contacts
 
-- [Kyle Cranmer, UW–Madison] (research@datascience.wisc.edu)
+- [Allison Kittinger](mailto:allison.kittinger@wisc.edu)
 
 ## Other context
 
 UW–Madison is one of six U.S. higher education institutions recently selected by the Alfred P. Sloan Foundation to launch campus OSPOs. Sloan is supporting a total of 12 university OSPOs, including projects selected in earlier funding rounds.
 
-At least initially, the OSPO will be based at the Data Science Institute on the UW-Madison campus. <!-- Dated: This summer, the institute will hire a program manager and other staff, with the goal of launching the OSPO and its first events this fall. -->
+At least initially, the OSPO will be based at the Data Science Institute on the UW-Madison campus. This summer, the institute will hire a program manager and other staff, with the goal of launching the OSPO and its first events this fall.
