@@ -10,9 +10,9 @@
 From their website:
 
 > OpenSource@Stanford is the organizational hub that coordinates, facilitates, and supports open source activity at Stanford, primarily in the research enterprise. Through programs, workshops, guides and other informative materials – as well as an active registry of open source projects at the University – we aim to improve scientific inquiry by making software more transparent, reliable, and open.
-
+>
 > Our community-driven approach ensures active engagement with researchers on best practices for developing, maintaining, and contributing to open source research projects. Part of our job is to listen to what is already working well, and help good ideas and good practices get escape velocity to reach different disciplines.
-
+>
 > We also focus on lowering the barriers to creating, developing, and disseminating open source software. We know that prioritizing equity, diversity, and inclusion will bring about meaningful change to how research is conducted, produced, and spread.
 
 ## Core Objectives
