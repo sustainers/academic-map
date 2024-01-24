@@ -1,8 +1,3 @@
----
-title: "Saint Louis University"
-link: "https://oss-slu.github.io/"
---- 
-
 # Saint Louis University
 
 - *OSPO*: Yes, in the Library.

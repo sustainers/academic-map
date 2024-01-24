@@ -1,8 +1,3 @@
----
-title: "Oregon State University"
-link: "https://osuosl.org/"
---- 
-
 # Oregon State University
 
 - *OSPO*: Yes

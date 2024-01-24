@@ -1,8 +1,8 @@
 # University of California Santa Cruz
 
 - *OSPO*: Yes, in the Center.
-- *Personnel*: Carlos Maltzahn, Stephanie Lieggi
-- *Link*: https://ucsc-ospo.github.io/
+- *Personnel*: Stephanie Lieggi
+- *Link*: [https://ucsc-ospo.github.io/](https://ucsc-ospo.github.io/)
 - *Member of*: HELIOS (University of California Office of the President (UCOP), and UCSC will become one)
 
 ## General Description
@@ -17,29 +17,32 @@ The CROSS stakeholders and their benefits are:
 
 Industry gets to:
 
-  - Leverage open source software to create and shape new markets
-  - Network with talent and potential recruits
-  - Influence education, research, and the next generation OSS systems
+- Leverage open source software to create and shape new markets
+- Network with talent and potential recruits
+- Influence education, research, and the next generation OSS systems
 
 Talent (Students, Postdocs) can:
 
-  - Become an OSS leader and well-known expert
-  - Learn how to get systems built
-  - Know where to find the right tools & technologies
+- Become an OSS leader and well-known expert
+- Learn how to get systems built
+- Know where to find the right tools & technologies
 
 UC Santa Cruz gets to:
 
-  - Efficiently transfer technology and strengthen its beacon of innovation
-  - Attract and fund talented graduate students
-  - Leveragge the OSS communities and technologies for education and research
+- Efficiently transfer technology and strengthen its beacon of innovation
+- Attract and fund talented graduate students
+- Leveragge the OSS communities and technologies for education and research
 
 ## Primary Contacts
 
-- Carlos Maltzahn, *Director*
-- Stephanie Lieggi, *Assistant Director* slieggi@ucsc.edu
+- [Stephanie Lieggi](mailto:slieggi@ucsc.edu), Executive Director
+- [James Davis](mailto:davisje@ucsc.edu), Faculty Director
+- [Emily Lovell](mailto:elovell@ucsc.edu), Incubator fellow
 
 ## Other context
 
 CROSS is one of the few centres at a university that have figured out how to successfully use open source software to bridge industry and academia, by enabling institutions that want PhDs to work on specific projects to work closely with the students as they work on their project in the open. They are one of the earlier university OSPOs. The OSPO will split out from CROSS, but for now, they are basically similar entities.
+
+Carlos Maltzahn ran the OSPO for years, before he stepped down in early 2024 to retire.
 
 CROSS's OSPO project was funded by the Alfred P. Sloan foundation, along with several other OSPOs in 2022. They are currently working on building a UC-wide OSPO Network.

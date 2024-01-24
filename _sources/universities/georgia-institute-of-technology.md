@@ -1,8 +1,3 @@
----
-title: "Georgia Institute of Technology"
-link: "https://ospo.cc.gatech.edu/"
---- 
-
 # Georgia Institute of Technology
 
 - *OSPO*: Yes
