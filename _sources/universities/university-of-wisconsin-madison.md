@@ -1,9 +1,8 @@
 ---
-title: "University of Wisconsin Madison"
 link: "http://ospo.wisc.edu/"
 ---
 
-<!-- # University of Wisconsin Madison -->
+# University of Wisconsin Madison
 
 - *OSPO*: Yes
 - *Personnel*: Kyle Cranmer, Allison Kittinger
