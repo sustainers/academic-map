@@ -1,0 +1,22 @@
+{
+  "name": "academic-map",
+  "private": true,
+  "version": "1.0.0",
+  "description": "An ecosystem map for academic OSS",
+  "scripts": {
+    "build": "./build.sh",
+
+    "lint": "markdownlint . -i _build/",
+    "lint-fix": "markdownlint --fix .",
+
+    "check-links": "markdown-link-check ./*.md -c mdlinkcheckconfig.json && markdown-link-check ./**/*.md -c mdlinkcheckconfig.json",
+    "check-links-ci": "markdown-link-check -q ./*.md -c mdlinkcheckconfig.json && markdown-link-check ./**/*.md -q -c mdlinkcheckconfig.json",
+
+    "test": "npm run lint && npm run check-links-ci",
+    "pretest": "npm run lint-fix"
+  },
+  "devDependencies": {
+    "markdown-link-check": "^3.8.0",
+    "markdownlint": "^0.29.0"
+  }
+}

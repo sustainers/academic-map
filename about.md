@@ -14,7 +14,7 @@ This document was built by contributors from the SustainOSS Academic Working Gro
 
 The [**Academic Working Group**](https://sustainoss.org/working-groups/academic-projects/) focuses only on open source in an academic setting. It is open to everyone.
 
-[Richard Littauer](https://burntfen.com) is one of the facilitators and organizers for the academic working group – he can be reached at [richard@sustainoss.org](mailto:richard@sustainoss.org). [Clare Dillon](https://ie.linkedin.com/in/claredillon) and [Sayeed Choudhury](https://www.linkedin.com/in/sayeed-choudhury-4184015/) are coorganizers. Currently, they are funded through an Alfred P. Sloan grant for this and other community work.
+[Richard Littauer](https://burntfen.com) is one of the facilitators and organizers for the academic working group – he can be reached at [richard@sustainoss.org](mailto:richard@sustainoss.org). [Clare Dillon](https://www.linkedin.com/in/claredillon/) and [Sayeed Choudhury](https://www.linkedin.com/in/sayeed-choudhury-4184015/) are coorganizers. Currently, they are funded through an Alfred P. Sloan grant for this and other community work.
 
 Anyone is welcome to get involved with organizing either the Academic WG, or any other part of SustainOSS. Get in touch if you are interested.
 
