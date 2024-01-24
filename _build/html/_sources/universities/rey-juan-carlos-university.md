@@ -1,7 +1,7 @@
 # Rey Juan Carlos University
 
 - *OSPO*: Yes, under the office of knowledge and free culture
-- *Link*: https://ofilibre.gitlab.io/
+- *Link*: [https://ofilibre.gitlab.io/](https://ofilibre.gitlab.io/)
 
 ## General Description
 

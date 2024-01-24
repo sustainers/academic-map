@@ -2,7 +2,7 @@
 
 - *OSPO*: Yes
 - *Personnel*: Lance Albertson
-- *Link*: https://osuosl.org/
+- *Link*: [https://osuosl.org/](https://osuosl.org/)
 - *Member of*: [HELIOS](https://www.heliosopen.org/members)
 
 ## General Description
@@ -17,7 +17,7 @@ The lab, in partnership with the School of Electrical Engineering and Computer S
 
 ## Primary Contacts
 
-- Lance Albertson,*Director*
+- Lance Albertson, *Director*
 
 ## Other context
 
