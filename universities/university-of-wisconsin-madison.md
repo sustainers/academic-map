@@ -1,4 +1,4 @@
-# University of Wisconsin Madison
+# University of Wisconsin-Madison
 
 - *OSPO*: Yes
 - *Personnel*: Kyle Cranmer, Allison Kittinger
