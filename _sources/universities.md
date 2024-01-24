@@ -4,19 +4,19 @@ University involvement in open source varies widely. For instance, a university 
 
 The following universities have some involvement in open source:
 
-  - [Carnegie Mellon University](./universities/carnegie-mellon-university.md)
-  - [Georgia Institute of Technology](./universities/georgia-institute-of-technology.md)
-  - [Johns Hopkins University](./universities/johns-hopkins-university.md)
-  - [Rey Juan Carlos University](./universities/rey-juan-carlos-university.md)
-  - [Oregon State University](./universities/oregon-state-university.md)
-  - Rochester Institute of Technology
-  - [Stanford University](./universities/stanford-university.md)
-  - [Trinity College Dublin](./universities/trinity-college-dublin.md)
-  - [UC Santa Cruz](./universities/university-of-california-santa-cruz.md)
-  - University of Texas Austin
-  - [University of Vermont](./universities/university-of-vermont.md)
-  - [Oregon State University](./universities/oregon-state-university.md)
-  - [University of Wisconsin-Madison](./universities/university-of-wisconsin-madison.md)
+- [Carnegie Mellon University](./universities/carnegie-mellon-university.md)
+- [Georgia Institute of Technology](./universities/georgia-institute-of-technology.md)
+- [Johns Hopkins University](./universities/johns-hopkins-university.md)
+- [Rey Juan Carlos University](./universities/rey-juan-carlos-university.md)
+- [Oregon State University](./universities/oregon-state-university.md)
+- Rochester Institute of Technology
+- [Stanford University](./universities/stanford-university.md)
+- [Trinity College Dublin](./universities/trinity-college-dublin.md)
+- [UC Santa Cruz](./universities/university-of-california-santa-cruz.md)
+- University of Texas Austin
+- [University of Vermont](./universities/university-of-vermont.md)
+- [Oregon State University](./universities/oregon-state-university.md)
+- [University of Wisconsin-Madison](./universities/university-of-wisconsin-madison.md)
 
 ## Labs
 

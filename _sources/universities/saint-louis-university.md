@@ -2,7 +2,7 @@
 
 - *OSPO*: Yes, in the Library.
 - *Personnel*: Daniel Shown
-- *Link*: https://oss-slu.github.io/
+- *Link*: [https://oss-slu.github.io/](https://oss-slu.github.io/)
 - *Member of*: [HELIOS](https://www.heliosopen.org/members)
 
 ## General Description
@@ -12,12 +12,12 @@ Open Source with SLU was established to help SLU researchers with their custom s
 ## Core Objectives
 
 - Support open scholarship.
-- Deliver value for researchers with software and tools 
+- Deliver value for researchers with software and tools
 - Provide students with realistic software development experience.
 
 ## Primary Contacts
 
--  Daniel Shown, *Program Director*
+- Daniel Shown, *Program Director*
 
 ## Other context
 

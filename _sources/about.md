@@ -5,14 +5,14 @@ This document was built by contributors from the SustainOSS Academic Working Gro
 ## Governance
 
 **SustainOSS** is a loose organization of people interested in holding space for discussions around the sustainability of open source. You can read more about this on [the Sustain website](https://sustainoss.org/). SustainOSS is funded through donations on Open Collective.
-  - Website: https://sustainoss.org/
-  - Discourse forum: https://sustainoss.org/
-  - Podcast: https://sustainoss.org/
-  - Open Collective: https://opencollective.com/sustainoss
-  - Slack (#sustainoss and #sustainoss-academia): https://slack.opencollective.com/
 
-The **Academic Working Group** focuses only on open source in an academic setting. It is open to everyone.
-  - Details: https://sustainoss.org/working-groups/academic-projects/
+- Website: [https://sustainoss.org/](https://sustainoss.org/)
+- Discourse forum: [https://discourse.sustainoss.org/](https://discourse.sustainoss.org/)
+- Podcast: [https://podcast.sustainoss.org/](https://podcast.sustainoss.org/)
+- Open Collective: [https://opencollective.com/sustainoss](https://opencollective.com/sustainoss)
+- Slack (#sustainoss and #sustainoss-academia): [https://slack.opencollective.com/](https://slack.opencollective.com/)
+
+The [**Academic Working Group**](https://sustainoss.org/working-groups/academic-projects/) focuses only on open source in an academic setting. It is open to everyone.
 
 [Richard Littauer](https://burntfen.com) is one of the facilitators and organizers for the academic working group – he can be reached at [richard@sustainoss.org](mailto:richard@sustainoss.org). [Clare Dillon](https://ie.linkedin.com/in/claredillon) and [Sayeed Choudhury](https://www.linkedin.com/in/sayeed-choudhury-4184015/) are coorganizers. Currently, they are funded through an Alfred P. Sloan grant for this and other community work.
 
@@ -28,4 +28,4 @@ All of the work here is done under the SustainOSS [Code of Conduct](https://sust
 
 ## License
 
-All of the work here is licensed under an [MIT License](./LICENSE), with the copyright held by the contributors. 
+All of the work here is licensed under an [MIT License](./LICENSE), with the copyright held by the contributors.
