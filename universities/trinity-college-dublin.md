@@ -6,7 +6,7 @@ link: "https://www.tcd.ie/innovation/OSPO/"
 # Trinity College Dublin
 
 - *OSPO*: Yes
-- *Personnel*: John Whelen, Aoife Tierney
+- *Personnel*: John Whelan, Aoife Tierney
 - *Link*: https://www.tcd.ie/innovation/OSPO/
 - *Member of*: 
 
