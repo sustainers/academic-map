@@ -9,7 +9,6 @@ The following universities have an office which has the standing of an Open Sour
 - [Carnegie Mellon University](./universities/carnegie-mellon-university.md)
 - [Georgia Institute of Technology](./universities/georgia-institute-of-technology.md)
 - [Johns Hopkins University](./universities/johns-hopkins-university.md)
-- [Rey Juan Carlos University](./universities/rey-juan-carlos-university.md)
 - [Rochester Institute of Technology](./universities/rit.md)
 - [Stanford University](./universities/stanford-university.md)
 - [Trinity College Dublin](./universities/trinity-college-dublin.md)
@@ -29,4 +28,5 @@ There's a host of universities which don't have open source program offices, but
 
 There are also universities that develop open source software, but don't have policies publicly set for staff or researchers.
 
+- [Rey Juan Carlos University](./universities/rey-juan-carlos-university.md)
 - University of Cambridge – [IT services has some code available](https://www.dns.cam.ac.uk/about/floss.html).
