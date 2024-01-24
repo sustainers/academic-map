@@ -25,4 +25,4 @@ From [their website](http://ospo.wisc.edu/):
 
 UW–Madison is one of six U.S. higher education institutions recently selected by the Alfred P. Sloan Foundation to launch campus OSPOs. Sloan is supporting a total of 12 university OSPOs, including projects selected in earlier funding rounds.
 
-At least initially, the OSPO will be based at the Data Science Institute on the UW-Madison campus. <!-- Dated: This summer, the institute will hire a program manager and other staff, with the goal of launching the OSPO and its first events this fall. -->
+At least initially, the OSPO will be based at the Data Science Institute on the UW-Madison campus. This summer, the institute will hire a program manager and other staff, with the goal of launching the OSPO and its first events this fall.
