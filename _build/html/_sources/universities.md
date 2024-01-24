@@ -24,6 +24,8 @@ There's a host of universities which don't have open source program offices, but
 
 - [Oregon State University](./universities/oregon-state-university.md)
 - [University of Nebraska Bridge Lab](https://www.unomaha.edu/college-of-information-science-and-technology/bridge/index.php) – This lab includes [Matt Germonprez](https://www.unomaha.edu/college-of-information-science-and-technology/about/faculty-staff/matt-germonprez.php), who works closely with [CHAOSS](https://chaoss.community/). <!-- TODO Link to Chaoss internally -->
+- UMass Amherst (Open Source Computer Lab](https://www.umass.edu/opensource/content/mission.html)
+- University at Albany [OSI Lab](https://www.albany.edu/cehc/osi-lab)
 
 ## Universities without OSPOs
 
