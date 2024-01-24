@@ -9,10 +9,10 @@
     "lint": "markdownlint . -i _build/",
     "lint-fix": "markdownlint --fix . -i _build/",
 
-    "check-links": "markdown-link-check ./*.md -c mdlinkcheckconfig.json && markdown-link-check ./**/*.md -c mdlinkcheckconfig.json",
-    "check-links-ci": "markdown-link-check -q ./*.md -c mdlinkcheckconfig.json && markdown-link-check ./**/*.md -q -c mdlinkcheckconfig.json",
+    "links": "markdown-link-check ./*.md -c mdlinkcheckconfig.json && markdown-link-check ./**/*.md -c mdlinkcheckconfig.json",
+    "links-ci": "markdown-link-check -q ./*.md -c mdlinkcheckconfig.json && markdown-link-check ./**/*.md -q -c mdlinkcheckconfig.json",
 
-    "run-all": "npm run lint && npm run check-links-ci",
+    "run-all": "npm run lint && npm run links-ci",
     "pretest": "npm run lint-fix"
   },
   "devDependencies": {
