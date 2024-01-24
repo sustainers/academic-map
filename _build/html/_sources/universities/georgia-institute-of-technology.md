@@ -4,7 +4,7 @@
 - *Personnel*: Jeffrey Young, Fang Liu, Ron Rahaman, Alessandro Orso, Susan Parham
 - *Link*: https://ospo.cc.gatech.edu/
 
-##  General Description
+## General Description
 
 The open source programs office (OSPO) raises awareness and capacity for open source software to better develop, manage, curate, and share it for research, education, translation, and broader impact.
 

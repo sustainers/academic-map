@@ -5,7 +5,7 @@
 - *Link*: https://osuosl.org/
 - *Member of*: [HELIOS](https://www.heliosopen.org/members)
 
-##  General Description
+## General Description
 
 The lab, in partnership with the School of Electrical Engineering and Computer Science at Oregon State University, provides hosting for more than 160 projects, including those of worldwide leaders like the Apache Software Foundation, the Linux Foundation and Drupal. The lab partners with industry leaders and policy makers to bring open source technologies to new sectors, including education, health and government.
 

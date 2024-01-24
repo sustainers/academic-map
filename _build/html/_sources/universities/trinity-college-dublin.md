@@ -5,7 +5,7 @@
 - *Link*: https://www.tcd.ie/innovation/OSPO/
 - *Member of*:
 
-##  General Description
+## General Description
 
 Trinity College Dublin’s (TCD) OSPO was launched in 2020. The office is a division of Trinity Innovation within the university. The OSPO promotes and supports the principles of open source and open data in knowledge transfer and industry engagement for TCD researchers.
 
