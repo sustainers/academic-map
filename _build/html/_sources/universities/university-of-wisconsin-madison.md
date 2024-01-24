@@ -1,16 +1,11 @@
----
-title: "University of Wisconsin Madison"
-link: "http://ospo.wisc.edu/"
----
-
 # University of Wisconsin Madison
 
 - *OSPO*: Yes
-- *Personnel*: Kyle Cranmer
-- *Link*: http://ospo.wisc.edu/
-- *Member of*: [Carpentries](https://carpentries.org/members/)
+- *Personnel*: Kyle Cranmer, Allison Kittinger
+- *Link*: [http://ospo.wisc.edu/](http://ospo.wisc.edu/)
+- *Member of*: [The Carpentries](https://carpentries.org/members/)
 
-##  General Description
+## General Description
 
 From [their website](http://ospo.wisc.edu/):
 
@@ -24,7 +19,7 @@ From [their website](http://ospo.wisc.edu/):
 
 ## Primary Contacts
 
-- [Kyle Cranmer, UW–Madison] (research@datascience.wisc.edu)
+- [Allison Kittinger](mailto:allison.kittinger@wisc.edu)
 
 ## Other context
 
