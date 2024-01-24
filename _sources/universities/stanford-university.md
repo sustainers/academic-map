@@ -28,7 +28,7 @@ From their website:
 
 ## Primary Contacts
 
-- [General information email](opensource-info@stanford.edu)
+- [General information email](mailto:opensource-info@stanford.edu)
 - [Zach Chandler](https://profiles.stanford.edu/zach-chandler), Director
 
 ## Other context
