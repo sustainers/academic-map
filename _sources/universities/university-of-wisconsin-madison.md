@@ -1,7 +1,3 @@
----
-link: "http://ospo.wisc.edu/"
----
-
 # University of Wisconsin Madison
 
 - *OSPO*: Yes
