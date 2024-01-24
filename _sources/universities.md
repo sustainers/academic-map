@@ -22,6 +22,12 @@ There's a host of universities which don't have open source program offices, but
 
 - [University of Nebraska Bridge Lab](https://www.unomaha.edu/college-of-information-science-and-technology/bridge/index.php) – This lab includes [Matt Germonprez](https://www.unomaha.edu/college-of-information-science-and-technology/about/faculty-staff/matt-germonprez.php), who works closely with [CHAOSS](https://chaoss.community/). <!-- TODO Link to Chaoss internally -->
 
+## Universities without OSPOs
+
+There are a host of universities that develop open source software, but don't have policies publicly set for staff or researchers.
+
+- University of Cambridge – [IT services has some code available](https://www.dns.cam.ac.uk/about/floss.html).
+
 ## More universities
 
 The following have some open source usage, but haven't been fully evaluated yet:

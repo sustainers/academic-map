@@ -1,7 +1,7 @@
 # University of Wisconsin-Madison
 
 - *OSPO*: Yes
-- *Personnel*: Kyle Cranmer, Allison Kittinger
+- *Personnel*: Allison Kittinger, Kyle Cranmer, Bethany Philbrick
 - *Link*: [http://ospo.wisc.edu/](http://ospo.wisc.edu/)
 - *Member of*: [The Carpentries](https://carpentries.org/members/)
 
@@ -13,16 +13,20 @@ From [their website](http://ospo.wisc.edu/):
 
 ## Core Objectives
 
-- Host a series of workshops with the Office of Business Engagement, the Division of Extension, and the campus open source ecosystem.
-- Expanding the existing Open Source Internship program and broaden participation through a partnership with Madison College.
-- Host a symposium and training event aimed at growing open source projects and communities.
+- Support ongoing OSS projects on campus
+- Provide avenues for education/participation
+- Facilitate strategic partnerships
+- Create OSS community infrastructure
+- Focus efforts on DEI initiatives
 
 ## Primary Contacts
 
 - [Allison Kittinger](mailto:allison.kittinger@wisc.edu)
 
+Kyle Cranmer is the director of the Data Science Institute. Bethany Philbrick is the OSPO Outreach Specialist, who started in February 2024.
+
 ## Other context
 
-UW–Madison is one of six U.S. higher education institutions recently selected by the Alfred P. Sloan Foundation to launch campus OSPOs. Sloan is supporting a total of 12 university OSPOs, including projects selected in earlier funding rounds.
+UW–Madison is one of six U.S. higher education institutions recently selected by the Alfred P. Sloan Foundation to launch campus OSPOs. Sloan is supporting a total of 12 university OSPOs, including projects selected in earlier funding rounds. It started in November, 2023.
 
-At least initially, the OSPO will be based at the Data Science Institute on the UW-Madison campus. This summer, the institute will hire a program manager and other staff, with the goal of launching the OSPO and its first events this fall.
+The OSPO is hosted in the Data Science Institute on the UW-Madison campus.
