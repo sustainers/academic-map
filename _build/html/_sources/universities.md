@@ -16,6 +16,12 @@ The following universities have some involvement in open source:
   - [Oregon State University](./universities/oregon-state-university.md)
   - [University of Wisconsin-Madison](./universities/university-of-wisconsin-madison.md)
 
+## Labs
+
+There's a host of universities which don't have open source program offices, but which do have labs which do a considerable amount of open source work.
+
+- [University of Nebraska Bridge Lab](https://www.unomaha.edu/college-of-information-science-and-technology/bridge/index.php) – This lab includes [Matt Germonprez](https://www.unomaha.edu/college-of-information-science-and-technology/about/faculty-staff/matt-germonprez.php), who works closely with [CHAOSS](https://chaoss.community/). <!-- TODO Link to Chaoss internally -->
+
 ## More universities
 
 The following have some open source usage, but haven't been fully evaluated yet:
