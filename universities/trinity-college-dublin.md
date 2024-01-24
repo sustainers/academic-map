@@ -26,8 +26,8 @@ The OSPO’s primary function is the empowerment of researchers to execute on th
 
 ## Primary Contacts
 
-- John Whelan
-- Aoife Tierney
+* John Whelan
+* Aoife Tierney
 
 ## Other Context
 
