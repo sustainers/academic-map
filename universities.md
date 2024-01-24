@@ -7,6 +7,7 @@ University involvement in open source varies widely. For instance, a university 
 The following universities have an office which has the standing of an Open Source Program Office:
 
 - [Carnegie Mellon University](./universities/carnegie-mellon-university.md)
+- [George Washington University](./universities/george-washington.md)
 - [Georgia Institute of Technology](./universities/georgia-institute-of-technology.md)
 - [Johns Hopkins University](./universities/johns-hopkins-university.md)
 - [Rey Juan Carlos University](./universities/rey-juan-carlos-university.md)
