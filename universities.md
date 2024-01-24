@@ -12,6 +12,7 @@ The following universities have an office which has the standing of an Open Sour
 - [Johns Hopkins University](./universities/johns-hopkins-university.md)
 - [Rochester Institute of Technology](./universities/rit.md)
 - [Stanford University](./universities/stanford-university.md)
+- [Syracuse University](./universities/syracuse.md)
 - [Trinity College Dublin](./universities/trinity-college-dublin.md)
 - [UC Santa Cruz](./universities/university-of-california-santa-cruz.md)
 - [University of Texas Austin](./universities/ut-austin.md)
