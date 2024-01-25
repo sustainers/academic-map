@@ -1,12 +1,12 @@
 # Syracuse University
 
- * *OSPO*: Yes
+ * *OSPO*: Yes, in the Office of Research
  * *Personnel*: Collin Capano (director), postdoc (to be hired)
  * *Link*: https://researchcomputing.syr.edu/ospo
 
 ## General Description
 
-Housed in the Office of Research, the Syracuse University Open Source Project Office (SU-OSPO) works collaboratively across disciplines at a university-wide level, bringing together subject expertise and foundational technologies in open-source software. The SU-OSPO promotes the use of open-source software in the university community, supports the professional development of faculty and students engaged in open-source projects, leverages the University’s investment in technology transfer and open publishing, helps faculty and students transition their existing projects to open source, and works with the University’s Research Computing group to guide researchers towards existing open-source solutions.
+The Syracuse University Open Source Project Office (SU-OSPO) works collaboratively across disciplines at a university-wide level, bringing together subject expertise and foundational technologies in open-source software. The SU-OSPO promotes the use of open-source software in the university community, supports the professional development of faculty and students engaged in open-source projects, leverages the University’s investment in technology transfer and open publishing, helps faculty and students transition their existing projects to open source, and works with the University’s Research Computing group to guide researchers towards existing open-source solutions.
 
 
 ## Core Objectives
@@ -26,4 +26,4 @@ Housed in the Office of Research, the Syracuse University Open Source Project Of
 
 The SU-OSPO was created in 2023 with seed money from a Sloan Foundation grant. The PIs of the grant were Duncan Brown (VP of Research), David Seaman (Dean of Libraries), Eric Sedore (interm VP of IT and CIO), and Alex Nitz (Associate Professor of Physics). Collin Capano (Research Associate Professor of Physics) was hired as the first director in winter 2023, with a postdoc to follow in 2024. The office works closely with the Syracuse University Research Computing staff to coordinate and direct open source efforts at the University.
 
-In addition to the activities listed above, the OSPO will provide fellowships to students to work making their research code open source.
+In addition to the activities listed above, the OSPO will provide fellowships to students who are working on open-source projects.
