@@ -21,7 +21,7 @@ Thanks to a grant from the Alfred P. Sloan Foundation, The University of Wiscons
 
 - [Allison Kittinger](mailto:allison.kittinger@wisc.edu) – Program manager
 
-Kyle Cranmer is the director of the Data Science Institute. Bethany Philbrick is the OSPO Outreach Specialist, who will start in February 2024.
+Kyle Cranmer is the director of the Data Science Institute. Bethany Philbrick is the OSPO Outreach Specialist, who started in February 2024.
 
 ## Other context
 
