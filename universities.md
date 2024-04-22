@@ -12,6 +12,7 @@ The following universities have an office which has the standing of an Open Sour
 - [Johns Hopkins University](./universities/johns-hopkins-university.md)\
 - [Lero](./universities/lero.md) - Technically a Research Center for a collection of universities
 - [Rochester Institute of Technology](./universities/rit.md)
+- [Saint Louis University](./universities/slu.md)
 - [Stanford University](./universities/stanford-university.md)
 - [Syracuse University](./universities/syracuse.md)
 - [Trinity College Dublin](./universities/trinity-college-dublin.md)
