@@ -2,8 +2,8 @@
 
 - *OSPO*: Yes, in the Library.
 - *Personnel*: Bill Branan, Megan Forbes
-- *Link*: [https://drcc.library.jhu.edu/open-source-programs-office/](https://drcc.library.jhu.edu/open-source-programs-office/)
-- *Member* of: [Eclipse Foundation](https://www.eclipse.org), [OSPO++](https://ospoplusplus.org/)
+- *Link*: [https://ospo.library.jhu.edu/](https://ospo.library.jhu.edu/)
+- *Member* of: [CURIOSS](https://curioss.org/), [Eclipse Foundation](https://www.eclipse.org), [OSPO++](https://ospoplusplus.org/)
 
 ## General Description
 
@@ -13,14 +13,17 @@ We do this by providing education and resources, curating open source software d
 
 ## Core Objectives
 
-- Building awareness of the value and impact of open source within the university.
-- Providing resources, tools, and engineering support to promote the use of open source within the university's academic community.
-- Supporting the participation of faculty, staff, and students in open source through educational programs, information sharing, and guidance on best practices.
-- Encouraging the translation of academic discovery into products and services that generate social impact in addition to commercial success.
+We are committed to helping faculty, staff, and students use, contribute to, and benefit from open-source software by:
+
+- Cultivating an engaged, sustainable, and collaborative open source community
+- Building awareness of the value and impact of open source within the University
+- Providing resources, tools, and engineering support to promote the use of open source within the university community
+- Supporting the participation of faculty, staff, and students in open source through educational programs, information sharing, and guidance on best practices
+- Facilitating the translation of open-source software into products and services that generate social impact and commercial success
 
 ## Primary Contacts
 
-- Bill Branan, Manager, Digital Research and Curation Center, Sheridan Libraries
+- Bill Branan, Hodson Director, Digital Research & Curation Center and Open Source Programs Office, Sheridan Libraries
 - Megan Forbes, Program Manager, Open Source Programs Office
 
 ## Other Context
