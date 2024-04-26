@@ -3,7 +3,7 @@
 - *OSPO*: Yes, in the Library.
 - *Personnel*: Bill Branan, Megan Forbes
 - *Link*: [https://ospo.library.jhu.edu/](https://ospo.library.jhu.edu/)
-- *Member* of: [CURIOSS](https://curioss.org/), [Eclipse Foundation](https://www.eclipse.org), [OSPO++](https://ospoplusplus.org/)
+- *Member* of: [CURIOSS](https://curioss.org/), [HELIOS Open](https://www.heliosopen.org/members), [Eclipse Foundation](https://www.eclipse.org), [OSPO++](https://ospoplusplus.org/)
 
 ## General Description
 
