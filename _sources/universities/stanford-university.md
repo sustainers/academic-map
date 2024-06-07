@@ -35,4 +35,4 @@ From their website:
 
 Stanford is one of six U.S. higher education institutions recently selected by the Alfred P. Sloan Foundation to launch campus OSPOs. Sloan is supporting a total of 12 university OSPOs, including projects selected in earlier funding rounds. It began in the fall of 2023.
 
-There is also an [Open Source Lab](https://opensource.su.domains) at Stanford.
+There is also an [Open Source Lab](https://opensource.stanford.edu/) at Stanford.
