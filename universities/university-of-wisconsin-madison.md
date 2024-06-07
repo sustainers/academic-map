@@ -3,7 +3,7 @@
 - *OSPO*: Yes, in the Data Science Institute.
 - *Personnel*: Allison Kittinger, Kyle Cranmer, Bethany Philbrick
 - *Link*: [http://ospo.wisc.edu/](http://ospo.wisc.edu/)
-- *Member of*: [The Carpentries](https://carpentries.org/members/)
+- *Member of*: [The Carpentries](https://carpentries.org/members/), [CURIOSS](https://curioss.org/)
 
 ## General Description
 
