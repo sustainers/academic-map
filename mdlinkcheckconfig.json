@@ -5,6 +5,9 @@
     },
     {
       "pattern": "ospoplusplus.org"
+    },
+    {
+      "pattern": "https://opensource.su.domains"
     }
   ]
 }
