@@ -3,7 +3,7 @@
 - *OSPO*: Yes
 - *Personnel*: John Whelan, Aoife Tierney
 - *Link*: [https://www.tcd.ie/innovation/OSPO/](https://www.tcd.ie/innovation/OSPO/)
-- *Member of*: [LERO](./lero.md)
+- *Member of*: [CURIOSS](https://curioss.org/), [LERO](./lero.md)
 
 ## General Description
 
