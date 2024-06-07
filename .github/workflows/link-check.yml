@@ -15,10 +15,11 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '14'
+          # I had an issue here where the node-version needed to be above '14'
+          node-version: '18'
 
       - name: Install Dependencies
         run: npm install -g markdown-link-check
 
       - name: Check Links
-        run: markdown-link-check .
+        run: markdown-link-check -q ./*.md -c mdlinkcheckconfig.json && markdown-link-check ./**/*.md -q -c mdlinkcheckconfig.json
