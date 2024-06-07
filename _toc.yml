@@ -26,4 +26,5 @@ chapters:
 - file: organizations
   sections:
   - file: organizations/chaoss.md
+  - file: organizations/joss.md
 - file: individuals.md
