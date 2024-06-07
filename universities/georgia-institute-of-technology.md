@@ -2,7 +2,7 @@
 
 - *OSPO*: Yes
 - *Personnel*: Jeffrey Young, Fang Liu, Ron Rahaman, Alessandro Orso, Susan Parham
-- *Link*: [https://ospo.cc.gatech.edu/](https://ospo.cc.gatech.edu/)
+- *Link*: [https://ospo.cc.gatech.edu/](https://ospo.cc.gatech.edu/), [CURIOSS](https://curioss.org/)
 
 ## General Description
 
