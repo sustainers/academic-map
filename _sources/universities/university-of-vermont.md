@@ -3,7 +3,7 @@
 - *OSPO*: Yes, in the Library.
 - *Personnel*: Kendall Fortney
 - *Link*: [https://verso.w3.uvm.edu/](https://verso.w3.uvm.edu/)
-- *Member of*: HELIOS
+- *Member of*: [CURIOSS](https://curioss.org/), [HELIOS](https://www.heliosopen.org/members)
 
 ## General Description
 
