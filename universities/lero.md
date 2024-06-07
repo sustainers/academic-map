@@ -3,6 +3,7 @@
 - *OSPO*: Yes
 - *Personnel*: Patrick Healy, Clare Dillon
 - *Link*: [https://sfi-lero.github.io/OSPO/](https://sfi-lero.github.io/OSPO/)
+- *Member* of: [CURIOSS](https://curioss.org/)
 
 ## General Description
 
