@@ -3,7 +3,7 @@
 - *OSPO*: Yes, in the CS Department.
 - *Personnel*: Daniel Shown, Kate Holdener
 - *Link*: [https://oss-slu.github.io/](https://oss-slu.github.io/)
-- *Member of*: [HELIOS](https://www.heliosopen.org/members), [US-RSE](https://us-rse.org/)
+- *Member of*: [CURIOSS](https://curioss.org/), [HELIOS](https://www.heliosopen.org/members), [US-RSE](https://us-rse.org/)
 
 ## General Description
 
