@@ -25,7 +25,7 @@ Sorted alphabetically.
 
 - **[CHAOSS](./organizations/chaoss.md)**
 - [InnerSource Commons](https://innersourcecommons.org/)
-- [OSPO++](https://ospoplusplus.org/)
+- [OSPO++](https://ospoplusplus.org/) (Site down)
 - [ReSA](https://www.researchsoft.org/about-resa/)
 - [The Carpentries](https://carpentries.org)
   - [Software Carpentry](https://software-carpentry.org)
