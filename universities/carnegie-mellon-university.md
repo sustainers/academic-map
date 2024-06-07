@@ -3,7 +3,7 @@
 - *OSPO*: Yes, in the Library.
 - *Personnel*: Sayeed Choudhury, Thomas Hughes
 - *Link*: [https://www.library.cmu.edu/service/ospo](https://www.library.cmu.edu/service/ospo)
-- *Member of*: [HELIOS](https://www.heliosopen.org/members), [Carpentries](https://carpentries.org/members/)
+- *Member of*: [HELIOS](https://www.heliosopen.org/members), [Carpentries](https://carpentries.org/members/), [CURIOSS](https://curioss.org/)
 
 ## General Description
 
