@@ -3,7 +3,7 @@
 - *OSPO*: Yes, in the Libraries and Academic Innovation
 - *Personnel*: David Lippert, Lorena Barba, Robin Delaloye
 - *Link*: [https://library.gwu.edu/ospo](https://library.gwu.edu/ospo)
-- *Member of*: [HELIOS](https://www.heliosopen.org/members), [OSF](https://osf.io/institutions/gwu)
+- *Member of*: [HELIOS](https://www.heliosopen.org/members), [OSF](https://osf.io/institutions/gwu), [CURIOSS](https://curioss.org/)
 
 ## General Description
 
