@@ -3,6 +3,7 @@
 - *OSPO*: Yes, in the Office of Research
 - *Personnel*: Collin Capano (director), postdoc (to be hired)
 - *Link*: [https://researchcomputing.syr.edu/ospo](https://researchcomputing.syr.edu/ospo)
+- *Member* of: [CURIOSS](https://curioss.org/)
 
 ## General Description
 
