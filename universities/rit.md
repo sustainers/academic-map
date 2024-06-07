@@ -3,7 +3,7 @@
 - *OSPO*: Yes, situated within VP of Research, Rochester Institute of Technology
 - *Personnel*: Stephen Jacobs, Michael Nolan, and Christopher Baker
 - *Link*: [https://openr.it/](https://openr.it/)
-- *Member* of: CHAOSS Academic Working Group, [CURIOSS](https://curioss.org/), FOSSET, FOSS SIG, International Game Developers Association (IGDA), Linux Foundation TODO Group and Open 3DE Foundation, NASEM HELIOS RIT Representative and co-lead for Best Practices Working Group, OSI Open Policy Alliance, OSPO++, Sustainoss Academic Working Group
+- *Member* of: CHAOSS Academic Working Group, [CURIOSS](https://curioss.org/), FOSSET, FOSS SIG, International Game Developers Association (IGDA), Linux Foundation TODO Group and Open 3DE Foundation, NASEM [HELIOS](https://www.heliosopen.org/members) RIT Representative and co-lead for Best Practices Working Group, OSI Open Policy Alliance, OSPO++, Sustainoss Academic Working Group
 
 ## General Description
 

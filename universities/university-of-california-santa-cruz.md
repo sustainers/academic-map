@@ -3,7 +3,7 @@
 - *OSPO*: Yes, in the Center.
 - *Personnel*: Stephanie Lieggi
 - *Link*: [https://ucsc-ospo.github.io/](https://ucsc-ospo.github.io/)
-- *Member of*: [CURIOSS](https://curioss.org/), HELIOS (University of California Office of the President (UCOP), and UCSC will become one)
+- *Member of*: [CURIOSS](https://curioss.org/), [HELIOS](https://www.heliosopen.org/members) (University of California Office of the President (UCOP), and UCSC will become one)
 
 ## General Description
 
