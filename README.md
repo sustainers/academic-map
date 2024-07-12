@@ -32,3 +32,7 @@ Please see [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
 ## License
 
 [MIT](LICENSE).
+
+### Disclaimer
+
+This site wa originally was sponsored by the Alfred P. Sloan Foundation under Grant Number G-2023-21015. Any opinions, findings, conclusions or recommendations expressed herein are those of the author(s) and do not reflect the views of the Alfred P. Sloan Foundation or Carnegie Mellon University.
