@@ -15,7 +15,7 @@
 
 ## Primary Contacts
 
-- [Vessela Ensberg](vensberg@ucdavis.edu)
+- [Vessela Ensberg](mailto:vensberg@ucdavis.edu)
 
 ## Other context
 
