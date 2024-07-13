@@ -22,4 +22,4 @@ The primary functions of the OSPO are to foster a culture of networked collabora
 
 ## Other context
 
-GW's OSPO is funded by the Alfrd P. Sloan foundation, and started in 2023.
+GW's OSPO is funded by the Alfred P. Sloan foundation, and started in 2023.
