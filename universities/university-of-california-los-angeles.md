@@ -1,8 +1,8 @@
 # University of California Los Angeles
 
-- *OSPO*: Yes, in the ...
+- *OSPO*: Yes, in the Library
 - *Personnel*: Tim Dennis
-- *Link*: 
+- *Link*:
 - *Member of*: [CURIOSS](https://curioss.org/)
 
 ## General Description
