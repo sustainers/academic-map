@@ -2,7 +2,7 @@
 
 - *OSPO*: Yes, in the Technology Transfer Office
 - *Personnel*: Jacek Plucinski
-- *Link*: 
+- *Link*:
 - *Member of*: [CURIOSS](https://curioss.org/)
 
 ## General Description
@@ -11,7 +11,7 @@
 
 ## Core Objectives
 
-- 
+
 
 ## Primary Contacts
 
