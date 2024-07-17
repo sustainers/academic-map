@@ -11,7 +11,7 @@
 
 ## Core Objectives
 
-- 
+
 
 ## Primary Contacts
 
