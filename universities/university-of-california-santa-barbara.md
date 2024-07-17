@@ -2,7 +2,7 @@
 
 - *OSPO*: Yes, in the Libraries and Academic Innovation
 - *Personnel*: Amber Budden
-- *Link*: 
+- *Link*:
 - *Member of*: [CURIOSS](https://curioss.org/)
 
 ## General Description
@@ -11,7 +11,7 @@
 
 ## Core Objectives
 
--
+
 
 ## Primary Contacts
 
