@@ -1,7 +1,7 @@
 # University of California Santa Cruz
 
 - *OSPO*: Yes, in the Center.
-- *Personnel*: Stephanie Lieggi
+- *Personnel*: James David (Director), Stephanie Lieggi (Executive Director)
 - *Link*: [https://ucsc-ospo.github.io/](https://ucsc-ospo.github.io/)
 - *Member of*: [CURIOSS](https://curioss.org/), [HELIOS](https://www.heliosopen.org/members) (University of California Office of the President (UCOP), and UCSC will become one)
 
@@ -45,4 +45,4 @@ CROSS is one of the few centres at a university that have figured out how to suc
 
 Carlos Maltzahn ran the OSPO for years, before he stepped down in early 2024 to retire.
 
-CROSS's OSPO project was funded by the Alfred P. Sloan foundation, along with several other OSPOs in 2022. They are currently working on building a UC-wide OSPO Network.
+CROSS's OSPO project was funded by the Alfred P. Sloan foundation, along with several other OSPOs in 2022. Building on the success of the OSPO at UC Santa Cruz, funding was awarded in 2024 to develop a multi-campus OSPO network in the University of California system. The UC OSPO network aims to strengthen collaboration and knowledge-sharing among the campuses, demonstrate the value of a networked approach to supporting open source, and identify a resource and governance structure to allow the network to grow and thrive. More information [here](https://news.ucsc.edu/2024/04/uc-ospo-network.html).
