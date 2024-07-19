@@ -11,6 +11,9 @@
 
 ## Core Objectives
 
+- Building awareness of open source and open source software
+- Compliance
+- Smooth IP valorization of software assets
 
 
 ## Primary Contacts
