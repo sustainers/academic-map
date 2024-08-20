@@ -4,10 +4,16 @@
       "pattern": "linkedin"
     },
     {
-      "pattern": "ospoplusplus.org"
+      "pattern": "https://opensource.su.domains"
     },
     {
-      "pattern": "https://opensource.su.domains"
+      "pattern": "^https://www.uni.lu/snt-en*"
+    },
+    {
+      "pattern": "https://researchcomputing.syr.edu/ospo"
+    },
+    {
+      "pattern": "https://artsandsciences.syracuse.edu/people/faculty/collin-capano/"
     }
   ]
 }
