@@ -29,3 +29,7 @@ All of the work here is done under the SustainOSS [Code of Conduct](https://sust
 ## License
 
 All of the work here is licensed under an [MIT License](./LICENSE), with the copyright held by the contributors.
+
+## Funding and Disclaimer
+
+This site was sponsored by the Alfred P. Sloan Foundation under Grant Number G-2023-21015. Any opinions, findings, conclusions or recommendations expressed herein are those of the author(s) and do not reflect the views of the Alfred P. Sloan Foundation or Carnegie Mellon University.
