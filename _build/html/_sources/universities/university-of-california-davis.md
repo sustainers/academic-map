@@ -6,6 +6,7 @@
 - *Member of*: [CURIOSS](https://curioss.org/)
 
 ## General Description
+
 The UC OSPO network aims to strengthen collaboration and knowledge-sharing among the campuses, demonstrate the value of a networked approach to supporting open source projects, and identify a resource and governance structure to allow the network to grow and thrive.
 
 
@@ -24,5 +25,6 @@ The UC OSPO Network has three thematic areas: UC OSS projects discovery, OSS sus
 - [Vessela Ensberg](mailto:vensberg@ucdavis.edu)
 
 ## Other context
-This project is funded by the Alfred P. Sloan Foundation. The UC Davis principal investigators are Peter Brantley at the UC Davis Library and Vladimir Filkov at the Department of Computer Science. 
+
+This project is funded by the Alfred P. Sloan Foundation. The UC Davis principal investigators are Peter Brantley at the UC Davis Library and Vladimir Filkov at the Department of Computer Science.
 
