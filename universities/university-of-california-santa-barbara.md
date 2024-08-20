@@ -7,7 +7,7 @@
 
 ## General Description
 
-
+The UC Santa Barbara OSPO is part of the University of California's OSPO network. The UC OSPO network aims to strengthen collaboration and knowledge-sharing among the campuses, demonstrate the value of a networked approach to supporting open source, and identify a resource and governance structure to allow the network to grow and thrive. More information [here](https://www.library.ucsb.edu/news/ospo-grant).
 
 ## Core Objectives
 
@@ -18,7 +18,3 @@
 ## Primary Contacts
 
 - [Amber Budden](mailto:aebudden@ucsb.edu)
-
-## Other context
-
-The UC Santa Barbara OSPO is part of the University of California's OSPO network. The UC OSPO network aims to strengthen collaboration and knowledge-sharing among the campuses, demonstrate the value of a networked approach to supporting open source, and identify a resource and governance structure to allow the network to grow and thrive. More information [here](https://www.library.ucsb.edu/news/ospo-grant).
