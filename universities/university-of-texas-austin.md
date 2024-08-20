@@ -1,4 +1,4 @@
-# UT Austin
+# University of Texas Austin
 
 - *OSPO*: Yes, situated across the university in the Texas Advanced Computing Center (TACC), the central IT office, (CIO), the School of Information (iSchool), and the University Libraries.
 - *Personnel*: PI - Dr. Jennifer Schopf (TACC), co-PI and Director - Dr. Angela Newell (CIO), co-PI - Dr. James Howison (iSchool), co-PI - Michael Shensky (Libraries).
