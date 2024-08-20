@@ -7,7 +7,7 @@
       "pattern": "https://opensource.su.domains"
     },
     {
-      "pattern": "^https://www.uni.lu/snt-en*"
+      "pattern": "^https://www.uni.lu/*"
     },
     {
       "pattern": "https://researchcomputing.syr.edu/ospo"
