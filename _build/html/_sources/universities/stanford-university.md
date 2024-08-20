@@ -3,7 +3,7 @@
 - *OSPO*: Yes, as part of Stanford Data Science, in the Center for Open and Reproducible Science (VPR).
 - *Personnel*: [Zach Chandler](https://profiles.stanford.edu/zach-chandler)
 - *Link*: [https://opensource.stanford.edu](https://opensource.stanford.edu)
-- *Member of*: [HELIOS](https://www.heliosopen.org/members)
+- *Member of*: [CURIOSS](https://curioss.org/), [HELIOS](https://www.heliosopen.org/members)
 
 ## General Description
 
