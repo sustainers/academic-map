@@ -11,7 +11,7 @@ exclude_patterns: [README.md, CODE_OF_CONDUCT.md, contributing.md]
 execute:
   execute_notebooks: force
 
-url: https://sustainoss.org/academic-map
+url: https://sustainoss.org
 baseurl: /academic-map
 
 # Define the name of the latex output file for PDF builds
