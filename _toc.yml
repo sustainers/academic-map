@@ -41,4 +41,5 @@ chapters:
   - file: organizations/chaoss.md
   - file: organizations/joss.md
   - file: organizations/outreachy.md
+  - file: organizations/psf.md
 - file: individuals.md
