@@ -16,8 +16,8 @@ At its heart, this is a simple Jupyter notebook that can display information in 
 
 At the moment, we have these sections:
 
-- [Universities](./universities.md). This is meant to cover universities which have a formal relationship with open source. While many universities have an open access or open research policy, sometimes publicly available, and while many universities have researchers who use or work on open source, only a few universities have allocated funding for a lab, department, library resources, or staff to work on open source issues. Sometimes, this takes the form of an Open Source Program Office (OSPO), but not always, and this appelation covers a variety of tasks that the university may already be doing in a formal manner.
-- [Organizations](./organizations.md). There are many groups which work on open source within an academic or research context. Sometimes, these are foundations which do work academically - or, they could just be user groups or special interest groups that meet to discuss in a less formal manner.
+- [Universities](./universities/index.md). This is meant to cover universities which have a formal relationship with open source. While many universities have an open access or open research policy, sometimes publicly available, and while many universities have researchers who use or work on open source, only a few universities have allocated funding for a lab, department, library resources, or staff to work on open source issues. Sometimes, this takes the form of an Open Source Program Office (OSPO), but not always, and this appelation covers a variety of tasks that the university may already be doing in a formal manner.
+- [Organizations](./organizations/index.md). There are many groups which work on open source within an academic or research context. Sometimes, these are foundations which do work academically - or, they could just be user groups or special interest groups that meet to discuss in a less formal manner.
 - Practictioners. _Do we want this?_
 
 ## Contribute

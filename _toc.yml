@@ -5,7 +5,7 @@ format: jb-book
 root: intro
 chapters:
 - file: about
-- file: universities
+- file: universities/index.md
   sections:
   - file: universities/carnegie-mellon-university.md
   - file: universities/george-washington.md
@@ -36,7 +36,7 @@ chapters:
   - file: universities/university-of-wisconsin-madison.md
   - file: universities/university-of-texas-austin.md
     title: UT Austin
-- file: organizations
+- file: organizations/index.md
   sections:
   - file: organizations/chaoss.md
   - file: organizations/joss.md

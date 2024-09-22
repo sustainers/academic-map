@@ -14,16 +14,17 @@ Sorted alphabetically.
 - [Eclipse Foundation](https://www.eclipse.org/)
 - [Invest in Open Infrastructure](https://investinopen.org/)
 - [Linux Foundation](https://www.linuxfoundation.org/)
-- [NumFOCUS](https://numfocus.org)
 - [Open Collective](https://opencollective.com)
   - [Open Source Collective](https://www.oscollective.org/)
   - [Open Collective Foundation](https://opencollective.foundation/)
 - [Open Molecular Software Foundation](https://omsf.io/)
+- [NumFOCUS](https://numfocus.org)
+- **[Python Software Foundtion (PSF)](./psf.md)**
 - [Software Sustainability Institute](https://software.ac.uk)
 
 ## Communities of practice
 
-- **[CHAOSS](./organizations/chaoss.md)**
+- **[CHAOSS](./chaoss.md)**
 - [InnerSource Commons](https://innersourcecommons.org/)
 - [OSPO++](https://ospoplusplus.com)
 - [ReSA](https://www.researchsoft.org/about-resa/)
@@ -36,3 +37,4 @@ Sorted alphabetically.
 
 - HELIOS
 - RDA
+- **[Outreachy](./outreachy.md)**
