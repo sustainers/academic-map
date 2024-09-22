@@ -1,6 +1,6 @@
 # Outreachy
 
-- *Website*: https://www.outreachy.org/  
+- *Website*: [Link](https://www.outreachy.org/)
 - *Fiscal host*: Software Freedom Conservancy
 
 > Outreachy provides internships in open source and open science. Outreachy provides internships to people subject to systemic bias and impacted by underrepresentation in the technical industry where they are living. Outreachy internships are paid, remote, and three-months long.
