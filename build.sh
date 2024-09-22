@@ -19,6 +19,9 @@ fi
 # Switch to the main branch
 git checkout main || error_exit "Failed to switch to main branch."
 
+# Run lint and link checks
+npm run run-all || error_exit "Failed lint and link checks."
+
 # Build the Jupyter book
 jupyter-book build --all . || error_exit "Failed to build Jupyter book."
 

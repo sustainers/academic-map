@@ -4,7 +4,9 @@
   "version": "1.0.0",
   "description": "An ecosystem map for academic OSS",
   "scripts": {
-    "build": "./build.sh",
+    "build": "jupyter-book build --all .",
+
+    "publish": "./build.sh",
 
     "lint": "markdownlint . -i _build/",
     "lint-fix": "markdownlint --fix . -i _build/",
