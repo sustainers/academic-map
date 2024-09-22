@@ -2,12 +2,10 @@
 
 - *OSPO*: Yes, in the Library
 - *Personnel*: David Minor, Erik Mitchell
-- *Link*: https://datanexus.ucsd.edu/ospo/index.html
+- *Link*: <https://datanexus.ucsd.edu/ospo/index.html>
 - *Member of*: [CURIOSS](https://curioss.org/)
 
 ## General Description
-
-
 
 ## Core Objectives
 
