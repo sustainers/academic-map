@@ -17,6 +17,9 @@
     },
     {
       "pattern": "https://ospo.gwu.edu"
+    },
+    {
+      "pattern": "https://www.umass.edu/opensource/content/mission.html"
     }
   ]
 }
