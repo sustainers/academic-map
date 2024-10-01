@@ -32,6 +32,7 @@ Sorted alphabetically.
   - [Software Carpentry](https://software-carpentry.org)
 - [TODO Group](https://todogroup.org/)
 - **[URSSI](./urssi.md)**
+- **[USRSE](./usrse.md)**
 
 ## Unsorted
 
