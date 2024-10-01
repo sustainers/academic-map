@@ -43,6 +43,7 @@ chapters:
   - file: organizations/outreachy.md
   - file: organizations/psf.md
   - file: organizations/urssi.md
+  - file: organizations/usrse.md
 - file: service-providers/index.md
   sections:
   - file: service-providers/tidelift.md
