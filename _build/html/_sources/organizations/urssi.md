@@ -1,6 +1,4 @@
-# URSSI
-
-The US Research Software Sustainability Institute.
+# The US Research Software Sustainability Institute (URSSI)
 
 - [Website](https://urssi.us/)
 - Fiscal Host: [Code for Science and Society](https://www.codeforsociety.org/)
