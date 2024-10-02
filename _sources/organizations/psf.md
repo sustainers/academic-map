@@ -1,4 +1,4 @@
-# Python Software Foundation
+# Python Software Foundation (PSF)
 
 - *Homepage*: [PSF](https://www.python.org/psf-landing/), [Python](https://www.python.org)
 - *Contact*: [Deb Nicholson](https://www.linkedin.com/in/denicholson)

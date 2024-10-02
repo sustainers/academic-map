@@ -20,7 +20,7 @@ Sorted alphabetically.
 - [Open Molecular Software Foundation](https://omsf.io/)
 - [NumFOCUS](https://numfocus.org)
 - **[Python Software Foundtion (PSF)](./psf.md)**
-- [Software Sustainability Institute](https://software.ac.uk)
+- **[Software Sustainability Institute](./ssi.md)**
 
 ## Communities of practice
 
