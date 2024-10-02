@@ -39,11 +39,18 @@ chapters:
 - file: organizations/index.md
   sections:
   - file: organizations/chaoss.md
+    title: CHAOSS
   - file: organizations/joss.md
+    title: JOSS
   - file: organizations/outreachy.md
   - file: organizations/psf.md
+    title: PSF
+  - file: organizations/ssi.md
+    title: SSI
   - file: organizations/urssi.md
+    title: URSSI
   - file: organizations/usrse.md
+    title: US-RSE
 - file: service-providers/index.md
   sections:
   - file: service-providers/tidelift.md

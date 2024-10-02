@@ -1,6 +1,4 @@
-# US-RSE
-
-The United States Research Software Engineer Association.
+# The United States Research Software Engineer Association (US-RSE)
 
 - [Website](https://us-rse.org/).
 - Fiscal host: [Community initiatives](https://communityinitiatives.org/)
