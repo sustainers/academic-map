@@ -11,6 +11,7 @@ The following universities have an office which has the standing of an Open Sour
 - [Georgia Institute of Technology](./georgia-institute-of-technology.md)
 - [Johns Hopkins University](./johns-hopkins-university.md)
 - [Lero](./lero.md) - Technically a Research Center for a collection of universities
+- [Penn State](./penn-state.md)
 - [Rochester Institute of Technology](./rit.md)
 - [Saint Louis University](./slu.md)
 - [SnT, University of Luxembourg](./snt-university-of-luxembourg.md)
