@@ -10,5 +10,5 @@ By adding your name in a PR below, you are in the least saying that you are will
 
 _To keep it simple, limit your details to one paragraph, starting with your name (followed by a period), and including organization or institution, and any contactable social profile or website._
 
-- Richard Littauer. SustainOSS organizer and podcast host, former organizer of OSPO++. Alumn of Edinburgh University and Saarland University. [Personal website](https://burntfen.com), [LinkedIn](https://www.linkedin.com/in/richard-littauer-130026138/), and email at [richard@sustainoss.org](mailto:richard@sustainoss.org).
+- Richard Littauer. SustainOSS organizer and podcast host, former organizer of OSPO++. PhD Candidate at Te Herenga Waka – Victoria University of Wellington. Alumn of Edinburgh University and Saarland University. [Personal website](https://burntfen.com), [LinkedIn](https://www.linkedin.com/in/richard-littauer-130026138/), and email at [richard@sustainoss.org](mailto:richard@sustainoss.org).
 - Philip Durbin. Developer at Harvard University. Core contributor to [Dataverse](https://dataverse.org). Creator of the [Open Source at Harvard](https://doi.org/10.7910/DVN/TJCLKP) dataset. [Personal website](http://greptilian.com), [LinkedIn](https://www.linkedin.com/in/pdurbin/), and email at [philip_durbin@harvard.edu](mailto:philip_durbin@harvard.edu)
