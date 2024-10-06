@@ -20,6 +20,9 @@
     },
     {
       "pattern": "https://www.umass.edu/opensource/content/mission.html"
+    },
+    {
+      "pattern": "https://doi.org/10.7910/DVN/TJCLKP"
     }
   ]
 }
