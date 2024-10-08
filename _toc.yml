@@ -43,6 +43,8 @@ chapters:
     title: CHAOSS
   - file: organizations/joss.md
     title: JOSS
+  - file: organizations/ospoplusplus.md
+    title: OSPO++
   - file: organizations/outreachy.md
   - file: organizations/psf.md
     title: PSF
@@ -55,4 +57,5 @@ chapters:
 - file: service-providers/index.md
   sections:
   - file: service-providers/tidelift.md
+- file: funders/index.md
 - file: individuals.md
