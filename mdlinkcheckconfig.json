@@ -23,6 +23,10 @@
     },
     {
       "pattern": "https://doi.org/10.7910/DVN/TJCLKP"
+    },
+    {
+      "pattern": "https://www.turing.ac.uk",
+      "reason": "403"
     }
   ]
 }
