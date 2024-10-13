@@ -41,6 +41,8 @@ chapters:
   sections:
   - file: organizations/chaoss.md
     title: CHAOSS
+  - file: organizations/curioss.md
+    title: CURIOSS
   - file: organizations/joss.md
     title: JOSS
   - file: organizations/ospoplusplus.md

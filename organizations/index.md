@@ -25,6 +25,7 @@ Sorted alphabetically.
 ## Communities of practice
 
 - **[CHAOSS](./chaoss.md)**
+- **[CURIOSS](./curioss.md)**
 - [InnerSource Commons](https://innersourcecommons.org/)
 - [OSPO++](./ospoplusplus.md)
 - [ReSA](https://www.researchsoft.org/about-resa/)
