@@ -20,7 +20,7 @@ Coalition, Samuel H. Kress Foundation, Siegel Family Endowment, Stewart J. Guss 
 Creative Commons has worked with a variety of institutions worldwide, including universities, museums, libraries, and governments. Some key academic collaborations include:
 
 - **MIT’s OpenCourseWare**, using Creative Commons licenses to make educational materials freely accessible.
-- **University of Nebraska at Omaha**, which collaborated with CC to create a microcredential course on Open Educational Resources (OER).
+- **University of Nebraska at Omaha**, which collaborated with Creative Commons to create a microcredential course on Open Educational Resources (OER).
 - Campaigns like **#FreeTheTextbook**, advocating for the use of open textbooks in universities globally.
 
-These initiatives are part of CC's broader commitment to open sharing of educational content and research worldwide.
+These initiatives are part of CC's broader commitment to open sharing of educational content and research worldwide. Learn more [here](https://creativecommons.org/share-your-work/platform/).
