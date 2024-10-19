@@ -1,13 +1,18 @@
 # Creative Commons Overview
 
-**Website:** [Creative Commons](https://creativecommons.org/about/)  
-**Resources:** [Creative Commons Resources](https://creativecommons.org/share-your-work/)
+**Website:**  
+[Creative Commons About](https://creativecommons.org/about/)
+
+**Resources:**  
+- [Creative Commons Resources](https://creativecommons.org/share-your-work/)  
+- [Open Education page](https://creativecommons.org/about/education/)
+
 
 ## Overview
 Creative Commons (CC) is a global non-profit organization that provides free, legally sound tools to enable sharing, collaboration, and reuse of creative works. Through its widely used open licenses, Creative Commons facilitates open access to content while ensuring that authors can maintain control over how their work is used. Its mission is to promote knowledge-sharing and creativity across academia, art, science, education, and government sectors.
 
 ## Contact
-For general inquiries, please reach out to [info@creativecommons.org](mailto:info@creativecommons.org) or call +1-415-429-6753.  
+For general inquiries, please reach out to [info@creativecommons.org](mailto:info@creativecommons.org) 
 For press/media inquiries, contact: [communications@creativecommons.org](mailto:communications@creativecommons.org).
 
 **Personnel:** CEO Anna Tumadóttir supported by staff, Board Members, Advisory Council, and Audit Committee, along with a global community of affiliates, volunteers, and legal experts.
@@ -23,4 +28,8 @@ Creative Commons has worked with a variety of institutions worldwide, including 
 - **University of Nebraska at Omaha**, which collaborated with Creative Commons to create a microcredential course on Open Educational Resources (OER).
 - Campaigns like **#FreeTheTextbook**, advocating for the use of open textbooks in universities globally.
 
-These initiatives are part of CC's broader commitment to open sharing of educational content and research worldwide. Learn more [here](https://creativecommons.org/share-your-work/platform/).
+These initiatives reflect Creative Commons' broader commitment to supporting the academic open-source movement. By providing the legal framework for open access to educational content, CC empowers educators, researchers, and students to share and build on knowledge freely while ensuring creators' rights are respected. Through its licenses and tools, CC fosters collaboration, transparency, and innovation in academia.
+
+To learn more about how Creative Commons contributes to open education, visit their [Education page](https://creativecommons.org/about/education/).
+
+
