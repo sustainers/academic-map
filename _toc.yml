@@ -39,6 +39,8 @@ chapters:
     title: UT Austin
 - file: organizations/index.md
   sections:
+  - file: organizations/apachefoundation.md
+    title: Apache
   - file: organizations/chaoss.md
     title: CHAOSS
   - file: organizations/curioss.md
