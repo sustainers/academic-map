@@ -43,6 +43,8 @@ chapters:
     title: Apache
   - file: organizations/chaoss.md
     title: CHAOSS
+  - file: organizations/creativecommons.md
+    title: Creative Commons
   - file: organizations/curioss.md
     title: CURIOSS
   - file: organizations/joss.md
