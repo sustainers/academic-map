@@ -27,6 +27,10 @@
     {
       "pattern": "https://www.turing.ac.uk",
       "reason": "403"
+    },
+    {
+      "pattern": "https://foundation.gnome.org/",
+      "reason": "403"
     }
   ]
 }
