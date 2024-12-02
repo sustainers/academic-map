@@ -15,4 +15,4 @@ Applications may be submitted by non-profit and for-profit organizations, public
 
 ## Deadline
 
-Cycle 6 closed in October 2023.
+Currently closed - Last cycle 6 closed in October 2023.
