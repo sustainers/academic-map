@@ -60,6 +60,103 @@ chapters:
     title: URSSI
   - file: organizations/usrse.md
     title: US-RSE
+  - file: organizations/2i2c.md
+    title: 2i2c
+  - file: organizations/academic-data-science-alliance.md
+    title: ADSA
+  - file: organizations/alan-turing-institute.md
+    title: Alan Turing Institute
+  - file: organizations/american-association-for-the-advancement-of-science.md
+    title: AAAS
+  - file: organizations/american-astronomical-society.md
+    title: AAS
+  - file: organizations/american-chemical-society.md
+    title: ACS
+  - file: organizations/american-geophysical-union.md
+    title: AGU
+  - file: organizations/american-physical-society.md
+    title: APS
+  - file: organizations/american-psychological-association.md
+    title: APA
+  - file: organizations/american-society-for-microbiology.md
+    title: ASM
+  - file: organizations/apache-software-foundation.md
+    title: Apache
+  - file: organizations/association-for-computing-machinery.md
+    title: ACM
+  - file: organizations/astropy.md
+    title: Astropy
+  - file: organizations/bioconductor.md
+  - file: organizations/center-for-scientific-collaboration-and-community-engagement.md
+    title: CSCCE
+  - file: organizations/creative-commons.md
+    title: Creative Commons
+  - file: organizations/ecological-society-of-america.md
+    title: ESA
+  - file: organizations/electronic-frontier-foundation.md
+    title: EFF
+  - file: organizations/european-space-agency.md
+  - file: organizations/free-software-foundation.md
+    title: FSF
+  - file: organizations/institute-of-electrical-and-electronics-engineers.md
+    title: IEEE
+  - file: organizations/internet-society.md
+  - file: organizations/japan-aerospace-exploration-agency.md
+  - file: organizations/julia-language.md
+    title: Julia
+  - file: organizations/linux-foundation.md
+    title: Linux Foundation
+  - file: organizations/matplotlib.md
+  - file: organizations/molecular-sciences-software-institute.md
+    title: MSSI
+  - file: organizations/mozilla-foundation.md
+    title: Mozilla
+  - file: organizations/national-aeronautics-and-space-administration.md
+    title: NASA
+  - file: organizations/numfocus.md
+    title: NumFOCUS
+  - file: organizations/numpy.md
+    title: Numpy
+  - file: organizations/open-knowledge-foundation.md
+    title: OKF
+  - file: organizations/open-life-science.md
+    title: OLS
+  - file: organizations/openai.md
+    title: OpenAI
+  - file: organizations/ospo.md
+    title: OSPO++
+  - file: organizations/project-jupyter.md
+    title: Project Jupyter
+  - file: organizations/pyopensci.md
+    title: PyOpenSci
+  - file: organizations/pytorch.md
+    title: PyTorch
+  - file: organizations/research-software-alliance.md
+    title: RSA
+  - file: organizations/research-software-engineers.md
+    title: RSE
+  - file: organizations/ropensci.md
+    title: rOpenSci
+  - file: organizations/science-gateways-community-institute.md
+    title: SGCI
+  - file: organizations/scipy.md
+    title: Scipy
+  - file: organizations/software-freedom-conservancy.md
+    title: SFC
+  - file: organizations/space-telescope-science-insitute.md
+    title: STSI
+  - file: organizations/stan.md
+    title: Stan
+  - file: organizations/sustainoss.md
+    title: SustainOSS
+  - file: organizations/the-carpentries.md
+    title: The Carpentries
+  - file: organizations/the-turing-way.md
+    title: The Turing Way
+  - file: organizations/uk-software-sustainability-institute.md
+    title: SSI
+  - file: organizations/us-research-software-sustainability-institute.md
+    title: USSSI
 - file: service-providers/index.md
   sections:
   - file: service-providers/tidelift.md
