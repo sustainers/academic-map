@@ -8,7 +8,7 @@
 
     "publish": "./build.sh",
 
-    "lint": "markdownlint . -i _build/",
+    "lint": "markdownlint . -i _build/ -i node_modules",
     "lint-fix": "markdownlint --fix . -i _build/",
 
     "links": "markdown-link-check ./*.md -c mdlinkcheckconfig.json && markdown-link-check ./**/*.md -c mdlinkcheckconfig.json",
