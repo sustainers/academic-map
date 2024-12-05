@@ -33,9 +33,7 @@ A full list is [here](https://en.wikipedia.org/wiki/Crown_Research_Institute).
 
 ## Individual Funding Opportunities
 
-The below funding opportunities have been taken from the [open-funding](https://github.com/ralphtheninja/open-funding) github repository and are sub-set of funding specifically relevant to academia.
-
-Sorted alphabetically
+The following funding opportunities have been taken from the [open-funding](https://github.com/ralphtheninja/open-funding) GitHub repository and are subset of funding specifically relevant to academia. Sorted alphabetically.
 
  - [Chan Zuckerberg Initiative](./czi.md)
  - [Cisco Research Grants (web3 related)](./cisco.md)
