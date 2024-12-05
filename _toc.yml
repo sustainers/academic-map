@@ -64,4 +64,9 @@ chapters:
   sections:
   - file: service-providers/tidelift.md
 - file: funders/index.md
+  sections:
+  - file: funders/cisco.md
+  - file: funders/czi.md
+  - file: funders/protocollabs.md
+  - file: funders/top10vpn.md
 - file: individuals.md

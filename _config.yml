@@ -4,7 +4,7 @@
 title: SustainOSS Academic Ecosystem Map
 author: SustainOSS Academic Working Group
 logo: logo.svg
-exclude_patterns: [README.md, CODE_OF_CONDUCT.md, contributing.md, node_modules]
+exclude_patterns: [README.md, CODE_OF_CONDUCT.md, contributing.md, node_modules, organizations/example.md]
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
