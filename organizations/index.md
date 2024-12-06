@@ -44,6 +44,7 @@ Sorted alphabetically.
 - **[Outreachy](./outreachy.md)**
 
 ### Science Policy
+
 - **[American Chemical Society (ACS)](./american-chemical-society.md)**
 - **[American Geophysical Union (AGU)](./american-geophysical-union.md)**
 - **[American Psychological Association (APA)](./american-psychological-association.md)**
@@ -57,6 +58,7 @@ Sorted alphabetically.
 - **[Molecular Sciences Software Institute (MolSSI)](./molecular-sciences-software-institute.md)**
 
 ### Scientific Software
+
 - **[Python Software Foundation](./psf.md)**
 - **[SciPy](./numfocus.md)**
 - **[Matplotlib](./matplotlib.md)**
@@ -66,11 +68,13 @@ Sorted alphabetically.
 - **[2i2c](./2i2c.md)**
 
 ### Leadership Education
+
 - **[Academic Data Science Alliance](./academic-data-science-alliance.md)**
 - **[UK Software Sustainability Institute](./uk-software-sustainability-institute.md)**
 - **[Research Software Engineers (RSE)](./research-software-engineers.md)**
 
 ### Software Education
+
 - **[Open Life Science](./open-life-science.md)**
 - **[The Carpentries](./the-carpentries.md)**
 - **[NumFOCUS](./numfocus.md)**
@@ -79,17 +83,20 @@ Sorted alphabetically.
 - **[rOpenSci](./ropensci.md)**
 
 ### Software
+
 - **[NumPy](./numpy.md)**
 - **[NumFOCUS](./numfocus.md)**
 - **[PyTorch](./pytorch.md)**
 - **[Project Jupyter](./project-jupyter.md)**
 
 ### Leadership
+
 - **[OSPO++](./ospoplusplus.md)**
 - **[URSSI](./urssi.md)**
 - **[Science Gateways Community Institute (SGCI)](./science-gateways-community-institute.md)**
 - **[SustainOSS](./sustainoss.md)**
 
 ### Science
+
 - **[NASA](./national-aeronautics-and-space-administration.md)**
 - **[Space Telescope Science Institute (STScI)](./space-telescope-science-insitute.md)**
