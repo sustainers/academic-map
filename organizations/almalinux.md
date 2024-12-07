@@ -24,7 +24,6 @@ The AlmaLinux OS Foundation is governed by a Board of Directors who uphold the o
 - **Jun Yoshida** – Director and Leader of MIRACLE LINUX Initiatives
 - **David [Last Name]** – Non-voting Invited Expert, Legal Counsel at WebPros, and General Advisor to the AlmaLinux OS Foundation Board
 
-
 ## Funders
 AlmaLinux’s operations are supported by prominent sponsors, including CloudLinux (founding sponsor), Microsoft Azure, AWS, AMD, KnownHost, and CodeNotary. These are not the only sponsors contributing to the project; AlmaLinux benefits from a broad range of organizational support that helps it remain free and enterprise-grade. For further details, visit [AlmaLinux](https://almalinux.org/).
 
