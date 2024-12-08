@@ -1,4 +1,4 @@
-# AlmaLinux Overview
+# AlmaLinux
 **Website:** [AlmaLinux Official Website](https://almalinux.org/)  
 **Resources:** [Blog](https://almalinux.org/blog/)
 
