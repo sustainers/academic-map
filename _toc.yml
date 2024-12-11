@@ -54,6 +54,8 @@ chapters:
   - file: organizations/outreachy.md
   - file: organizations/psf.md
     title: PSF
+  - file: organizations/scicodes.md
+    title: SciCodes
   - file: organizations/ssi.md
     title: SSI
   - file: organizations/urssi.md
