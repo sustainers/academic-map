@@ -41,6 +41,7 @@ chapters:
   sections:
   - file: organizations/apachefoundation.md
     title: Apache
+  - file: organizations/apereo.md
   - file: organizations/academic-data-science-alliance.md
     title: ADSA
   - file: organizations/alan-turing-institute.md
