@@ -42,3 +42,61 @@ Sorted alphabetically.
 - HELIOS
 - RDA
 - **[Outreachy](./outreachy.md)**
+
+### Science Policy
+
+- **[American Chemical Society (ACS)](./american-chemical-society.md)**
+- **[American Geophysical Union (AGU)](./american-geophysical-union.md)**
+- **[American Psychological Association (APA)](./american-psychological-association.md)**
+- **[American Society for Microbiology](./american-society-for-microbiology.md)**
+- **[Association for Computing Machinery (ACM)](./association-for-computing-machinery.md)**
+- **[Ecological Society of America (ESA)](./ecological-society-of-america.md)**
+- **[Institute of Electrical and Electronics Engineers (IEEE)](./institute-of-electrical-and-electronics-engineers.md)**
+- **[American Physical Society (APS)](./american-physical-society.md)**
+- **[American Association for the Advancement of Science (AAAS)](./american-association-for-the-advancement-of-science.md)**
+- **[European Space Agency (ESA)](./european-space-agency.md)**
+- **[Molecular Sciences Software Institute (MolSSI)](./molecular-sciences-software-institute.md)**
+
+### Scientific Software
+
+- **[Python Software Foundation](./psf.md)**
+- **[SciPy](./numfocus.md)**
+- **[Matplotlib](./matplotlib.md)**
+- **[Astropy](./astropy.md)**
+- **[Bioconductor](./bioconductor.md)**
+- **[Julia Language](./julia-language.md)**
+- **[2i2c](./2i2c.md)**
+
+### Leadership Education
+
+- **[Academic Data Science Alliance](./academic-data-science-alliance.md)**
+- **[UK Software Sustainability Institute](./uk-software-sustainability-institute.md)**
+- **[Research Software Engineers (RSE)](./research-software-engineers.md)**
+
+### Software Education
+
+- **[Open Life Science](./open-life-science.md)**
+- **[The Carpentries](./the-carpentries.md)**
+- **[NumFOCUS](./numfocus.md)**
+- **[pyOpenSci](./pyopensci.md)**
+- **[The Turing Way](./the-turing-way.md)**
+- **[rOpenSci](./ropensci.md)**
+
+### Software
+
+- **[NumPy](./numpy.md)**
+- **[NumFOCUS](./numfocus.md)**
+- **[PyTorch](./pytorch.md)**
+- **[Project Jupyter](./project-jupyter.md)**
+
+### Leadership
+
+- **[OSPO++](./ospoplusplus.md)**
+- **[URSSI](./urssi.md)**
+- **[Science Gateways Community Institute (SGCI)](./science-gateways-community-institute.md)**
+- **[SustainOSS](./sustainoss.md)**
+
+### Science
+
+- **[NASA](./national-aeronautics-and-space-administration.md)**
+- **[Space Telescope Science Institute (STScI)](./space-telescope-science-insitute.md)**

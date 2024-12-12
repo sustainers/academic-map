@@ -41,29 +41,6 @@ chapters:
   sections:
   - file: organizations/apachefoundation.md
     title: Apache
-  - file: organizations/chaoss.md
-    title: CHAOSS
-  - file: organizations/creativecommons.md
-    title: Creative Commons
-  - file: organizations/curioss.md
-    title: CURIOSS
-  - file: organizations/joss.md
-    title: JOSS
-  - file: organizations/ospoplusplus.md
-    title: OSPO++
-  - file: organizations/outreachy.md
-  - file: organizations/psf.md
-    title: PSF
-  - file: organizations/scicodes.md
-    title: SciCodes
-  - file: organizations/ssi.md
-    title: SSI
-  - file: organizations/urssi.md
-    title: URSSI
-  - file: organizations/usrse.md
-    title: US-RSE
-  - file: organizations/2i2c.md
-    title: 2i2c
   - file: organizations/academic-data-science-alliance.md
     title: ADSA
   - file: organizations/alan-turing-institute.md
@@ -89,10 +66,14 @@ chapters:
   - file: organizations/astropy.md
     title: Astropy
   - file: organizations/bioconductor.md
+  - file: organizations/chaoss.md
+    title: CHAOSS
+  - file: organizations/creativecommons.md
+    title: Creative Commons
   - file: organizations/center-for-scientific-collaboration-and-community-engagement.md
     title: CSCCE
-  - file: organizations/creative-commons.md
-    title: Creative Commons
+  - file: organizations/curioss.md
+    title: CURIOSS
   - file: organizations/ecological-society-of-america.md
     title: ESA
   - file: organizations/electronic-frontier-foundation.md
@@ -104,6 +85,8 @@ chapters:
     title: IEEE
   - file: organizations/internet-society.md
   - file: organizations/japan-aerospace-exploration-agency.md
+  - file: organizations/joss.md
+    title: JOSS
   - file: organizations/julia-language.md
     title: Julia
   - file: organizations/linux-foundation.md
@@ -125,10 +108,13 @@ chapters:
     title: OLS
   - file: organizations/openai.md
     title: OpenAI
-  - file: organizations/ospo.md
+  - file: organizations/ospoplusplus.md
     title: OSPO++
+  - file: organizations/outreachy.md
   - file: organizations/project-jupyter.md
     title: Project Jupyter
+  - file: organizations/psf.md
+    title: PSF
   - file: organizations/pyopensci.md
     title: PyOpenSci
   - file: organizations/pytorch.md
@@ -139,12 +125,16 @@ chapters:
     title: RSE
   - file: organizations/ropensci.md
     title: rOpenSci
-  - file: organizations/science-gateways-community-institute.md
-    title: SGCI
+  - file: organizations/scicodes.md
+    title: SciCodes
   - file: organizations/scipy.md
     title: Scipy
   - file: organizations/software-freedom-conservancy.md
     title: SFC
+  - file: organizations/science-gateways-community-institute.md
+    title: SGCI
+  - file: organizations/ssi.md
+    title: SSI
   - file: organizations/space-telescope-science-insitute.md
     title: STSI
   - file: organizations/stan.md
@@ -157,8 +147,12 @@ chapters:
     title: The Turing Way
   - file: organizations/uk-software-sustainability-institute.md
     title: SSI
-  - file: organizations/us-research-software-sustainability-institute.md
-    title: USSSI
+  - file: organizations/urssi.md
+    title: URSSI
+  - file: organizations/usrse.md
+    title: USRSE
+  - file: organizations/2i2c.md
+    title: 2i2c
 - file: service-providers/index.md
   sections:
   - file: service-providers/tidelift.md
