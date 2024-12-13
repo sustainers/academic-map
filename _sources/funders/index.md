@@ -16,6 +16,8 @@ This list is incomplete. Please add to it!
 
 - [NSF](https://www.nsf.gov/)
   - [NSF POSE grants](https://new.nsf.gov/funding/opportunities/pose-pathways-enable-open-source-ecosystems)
+  - [NSF Safe-OSE](https://new.nsf.gov/funding/opportunities/safe-ose-safety-security-privacy-open-source-ecosystems)
+  - [NSF GEO OSE](https://new.nsf.gov/funding/opportunities/geo-ose-geosciences-open-science-ecosystem)
 
 ### Aotearoa New Zealand
 
@@ -28,3 +30,12 @@ A full list is [here](https://en.wikipedia.org/wiki/Crown_Research_Institute).
 - [The Alfred P. Sloan Foundation](https://sloan.org/)
 - [Chan Zuckerberg Initiative](https://chanzuckerberg.com/)
 - [Ford Foundation](https://www.fordfoundation.org/)
+
+## Individual Funding Opportunities
+
+The following funding opportunities have been taken from the [open-funding](https://github.com/ralphtheninja/open-funding) GitHub repository and are subset of funding specifically relevant to academia. Sorted alphabetically.
+
+- [Chan Zuckerberg Initiative](./czi.md)
+- [Cisco Research Grants (web3 related)](./cisco.md)
+- [Protocol Labs Research (web3 related)](./protocollabs.md)
+- [Top10vpn Research Grant](./top10vpn.md)

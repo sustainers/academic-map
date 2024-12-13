@@ -1,8 +1,8 @@
 # Syracuse University
 
 - *OSPO*: Yes, in the Office of Research
-- *Personnel*: Collin Capano (director), postdoc (to be hired)
-- *Link*: [https://researchcomputing.syr.edu/ospo](https://researchcomputing.syr.edu/ospo)
+- *Personnel*: Collin Capano (director), William Gearty (postdoc)
+- *Link*: [https://opensource.syracuse.edu](https://opensource.syracuse.edu)
 - *Member* of: [CURIOSS](https://curioss.org/)
 
 ## General Description
@@ -11,7 +11,7 @@ The Syracuse University Open Source Project Office (SU-OSPO) works collaborative
 
 ## Core Objectives
 
-- Support, nuture, share, and grow the use of open-source software within the Syracuse University community and the wider network of academic OSPOs.
+- Support, nurture, share, and grow the use of open-source software within the Syracuse University community and the wider network of academic OSPOs.
 - Enable communication between researchers across departments and disciplines on open-source best practices, tools, and methods.
 - Educate the university -- in the form of seminars, workshops, and online materials -- on how to develop and use open-source software, and how to make their research open and accessible.
 - Advocate for faculty and their research groups to get more recognition for their open-source contributions, by making open-source contributions one of the criteria considered in faculty promotion and retention.
@@ -24,6 +24,6 @@ The Syracuse University Open Source Project Office (SU-OSPO) works collaborative
 
 ## Other Context
 
-The SU-OSPO was created in 2023 with seed money from a Sloan Foundation grant. The PIs of the grant were Duncan Brown (VP of Research), David Seaman (Dean of Libraries), Eric Sedore (interm VP of IT and CIO), and Alex Nitz (Associate Professor of Physics). Collin Capano (Research Associate Professor of Physics) was hired as the first director in winter 2023, with a postdoc to follow in 2024. The office works closely with the Syracuse University Research Computing staff to coordinate and direct open source efforts at the University.
+The SU-OSPO was created in 2023 with seed money from a Sloan Foundation grant. The PIs of the grant were Duncan Brown (VP of Research), David Seaman (Dean of Libraries), Eric Sedore (interm VP of IT and CIO), and Alex Nitz (Associate Professor of Physics). Collin Capano (Research Associate Professor of Physics) was hired as the first director in winter 2023. William Gearty was hired as the OSPO postdoc in September 2024. The office works closely with Syracuse University Research Computing, the Office of Research, and the School of Information Studies to coordinate and direct open source efforts at the University.
 
-In addition to the activities listed above, the OSPO will provide fellowships to students who are working on open-source projects.
+In addition to the activities listed above, the OSPO funds student open-source projects as a part of our OSS Development Program.

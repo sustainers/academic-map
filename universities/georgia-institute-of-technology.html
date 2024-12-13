@@ -52,7 +52,7 @@
     <script>let toggleOpenOnPrint = 'true';</script>
     <script src="../_static/togglebutton.js?v=4a39c7ea"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
-    <script src="../_static/design-tabs.js?v=36754332"></script>
+    <script src="../_static/design-tabs.js?v=f930bc37"></script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
     <script async="async" src="../_static/sphinx-thebe.js?v=c100c467"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
@@ -182,6 +182,7 @@
 <li class="toctree-l1"><a class="reference internal" href="../about.html">About</a></li>
 <li class="toctree-l1 current active has-children"><a class="reference internal" href="index.html">Universities</a><details open="open"><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul class="current">
 <li class="toctree-l2"><a class="reference internal" href="carnegie-mellon-university.html">Carnegie Mellon University</a></li>
+<li class="toctree-l2"><a class="reference internal" href="eth-zurich.html">ETH Zurich</a></li>
 <li class="toctree-l2"><a class="reference internal" href="george-washington.html">George Washington University</a></li>
 <li class="toctree-l2 current active"><a class="current reference internal" href="#">Georgia Institute of Technology</a></li>
 <li class="toctree-l2"><a class="reference internal" href="johns-hopkins-university.html">Johns Hopkins University</a></li>
@@ -207,21 +208,81 @@
 </ul>
 </details></li>
 <li class="toctree-l1 has-children"><a class="reference internal" href="../organizations/index.html">Communities and Organizations</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/apachefoundation.html">Apache</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/apereo.html">Apereo Foundation</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/academic-data-science-alliance.html">ADSA</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/alan-turing-institute.html">Alan Turing Institute</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/american-association-for-the-advancement-of-science.html">AAAS</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/american-astronomical-society.html">AAS</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/american-chemical-society.html">ACS</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/american-geophysical-union.html">AGU</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/american-physical-society.html">APS</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/american-psychological-association.html">APA</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/american-society-for-microbiology.html">ASM</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/apache-software-foundation.html">Apache</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/association-for-computing-machinery.html">ACM</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/astropy.html">Astropy</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/bioconductor.html">Bioconductor Overview</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../organizations/chaoss.html">CHAOSS</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/creativecommons.html">Creative Commons</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/center-for-scientific-collaboration-and-community-engagement.html">CSCCE</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/curioss.html">CURIOSS</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/ecological-society-of-america.html">ESA</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/electronic-frontier-foundation.html">EFF</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/european-space-agency.html">European Space Agency (ESA) Overview</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/free-software-foundation.html">FSF</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/institute-of-electrical-and-electronics-engineers.html">IEEE</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/internet-society.html">Internet Society (ISOC) Overview</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/japan-aerospace-exploration-agency.html">Japan Aerospace Exploration Agency (JAXA) Overview</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../organizations/joss.html">JOSS</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/julia-language.html">Julia</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/linux-foundation.html">Linux Foundation</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/matplotlib.html">Matplotlib Overview</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/molecular-sciences-software-institute.html">MSSI</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/mozilla-foundation.html">Mozilla</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/national-aeronautics-and-space-administration.html">NASA</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/numfocus.html">NumFOCUS</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/numpy.html">Numpy</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/open-knowledge-foundation.html">OKF</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/open-life-science.html">OLS</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/openai.html">OpenAI</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../organizations/ospoplusplus.html">OSPO++</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../organizations/outreachy.html">Outreachy</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/project-jupyter.html">Project Jupyter</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../organizations/psf.html">PSF</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/pyopensci.html">PyOpenSci</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/pytorch.html">PyTorch</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/research-software-alliance.html">RSA</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/research-software-engineers.html">RSE</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/ropensci.html">rOpenSci</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/scicodes.html">SciCodes</a></li>
+
+<li class="toctree-l2"><a class="reference internal" href="../organizations/scipy.html">Scipy</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/software-freedom-conservancy.html">SFC</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/science-gateways-community-institute.html">SGCI</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../organizations/ssi.html">SSI</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/space-telescope-science-insitute.html">STSI</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/stan.html">Stan</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/sustainoss.html">SustainOSS</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/the-carpentries.html">The Carpentries</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/the-turing-way.html">The Turing Way</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/uk-software-sustainability-institute.html">SSI</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../organizations/urssi.html">URSSI</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../organizations/usrse.html">US-RSE</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/usrse.html">USRSE</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/2i2c.html">2i2c</a></li>
 </ul>
 </details></li>
 <li class="toctree-l1 has-children"><a class="reference internal" href="../service-providers/index.html">Service Providers</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
 <li class="toctree-l2"><a class="reference internal" href="../service-providers/tidelift.html">Tidelift</a></li>
 </ul>
 </details></li>
-<li class="toctree-l1"><a class="reference internal" href="../funders/index.html">Funders</a></li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../funders/index.html">Funders</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l2"><a class="reference internal" href="../funders/cisco.html"><code class="docutils literal notranslate"><span class="pre">Cisco</span> <span class="pre">Research</span> <span class="pre">Grants</span></code></a></li>
+<li class="toctree-l2"><a class="reference internal" href="../funders/czi.html"><code class="docutils literal notranslate"><span class="pre">Chan</span> <span class="pre">Zuckerberg</span> <span class="pre">Initiative</span></code></a></li>
+<li class="toctree-l2"><a class="reference internal" href="../funders/protocollabs.html"><code class="docutils literal notranslate"><span class="pre">Protocol</span> <span class="pre">Labs</span> <span class="pre">Research</span></code></a></li>
+<li class="toctree-l2"><a class="reference internal" href="../funders/top10vpn.html"><code class="docutils literal notranslate"><span class="pre">Top10vpn</span> <span class="pre">Research</span> <span class="pre">Grant</span></code></a></li>
+</ul>
+</details></li>
 <li class="toctree-l1"><a class="reference internal" href="../individuals.html">Individuals</a></li>
 </ul>
 
