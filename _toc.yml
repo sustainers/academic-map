@@ -8,6 +8,7 @@ chapters:
 - file: universities/index.md
   sections:
   - file: universities/carnegie-mellon-university.md
+  - file: universities/eth-zurich.md
   - file: universities/george-washington.md
   - file: universities/georgia-institute-of-technology.md
   - file: universities/johns-hopkins-university.md

@@ -1,12 +1,11 @@
 # ETH Zurich
 
 - *OSPO*: OSS Working Group
-- *Personnel*: 
+- *Personnel*:
 - *Link*: [https://ethz.ch/en/industry/transfer.html](https://ethz.ch/en/industry/transfer.html)
 - *Member of*: [CURIOSS](https://curioss.org/)
 
 ## General Description
-
 
 ## Core Objectives
 
@@ -20,4 +19,3 @@
 - [Name]*Job Title*
 
 ## Other context
-
