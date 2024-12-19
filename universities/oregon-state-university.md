@@ -1,6 +1,6 @@
 # Oregon State University
 
-- *OSPO*: Yes
+- *OSPO*: Lab
 - *Personnel*: Lance Albertson
 - *Link*: [https://osuosl.org/](https://osuosl.org/)
 - *Member of*: [HELIOS](https://www.heliosopen.org/members)
