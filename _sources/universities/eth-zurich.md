@@ -1,7 +1,7 @@
 # ETH Zurich
 
 - *OSPO*: OSS Working Group
-- *Personnel*:
+- *Personnel*: Ying Wang
 - *Link*: [https://ethz.ch/en/industry/transfer.html](https://ethz.ch/en/industry/transfer.html)
 - *Member of*: [CURIOSS](https://curioss.org/)
 
@@ -16,6 +16,6 @@
 
 ## Primary Contacts
 
-- [Name]*Job Title*
+- [Ying Wang] *Technology Manager*
 
 ## Other context
