@@ -31,6 +31,14 @@
     {
       "pattern": "https://foundation.gnome.org/",
       "reason": "403"
+    },
+    {
+      "pattern": "https://www.aps.org/",
+      "reason": "403"
+    },
+    {
+      "pattern": "https://openai.com/",
+      "reason": "403"
     }
   ]
 }
