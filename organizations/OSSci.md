@@ -27,7 +27,7 @@ For collaboration inquiries, please contact [info@numfocus.org](mailto:info@numf
 
 ## Funders
 
-OSSci is co-founded by NumFOCUS and IBM and collaborates with various partners and sponsors.
+OSSci is co-founded by [NumFOCUS](https://numfocus.org/open-source-science-initiative-ossci) and IBM. While additional funders specific to OSSci have not been explicitly detailed, organizations such as NASA, the Chan Zuckerberg Initiative, and the National Science Foundation have supported open-source science initiatives more broadly. ([Source](https://new.nsf.gov/tip/updates/nsf-invests-over-26m-open-source-projects))
 
 ## Members and Collaborators
 
