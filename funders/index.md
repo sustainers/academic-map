@@ -16,8 +16,8 @@ This list is incomplete. Please add to it!
 
 - [NSF](https://www.nsf.gov/)
   - [NSF POSE grants](./nsf-grants/pose.md)
-  - [NSF Safe-OSE](https://new.nsf.gov/funding/opportunities/safe-ose-safety-security-privacy-open-source-ecosystems)
-  - [NSF GEO OSE](https://new.nsf.gov/funding/opportunities/geo-ose-geosciences-open-science-ecosystem)
+  - [NSF Safe-OSE](./nsf-grants/safe-ose.md)
+  - [NSF GEO OSE](./nsf-grants/geo-ose.md)
 
 ### Aotearoa New Zealand
 
