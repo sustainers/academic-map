@@ -26,3 +26,15 @@ As a community convener and center of competency, the OSPO aims to build open so
 ## Other context
 
 Sayeed Choudury joined CMU last year, coming from his work founding the first University OSPO at Johns Hopkins University. CMU already has a history of open source work done by researchers, but hasn't historically had a centrally operating OSPO to help oversee the work going on. CMU's OSPO was [initially funded](https://sloan.org/grant-detail/10077) by the Alfred P. Sloan foundation, along with several other OSPOs in 2022.
+
+## Sustain Podcast Features
+
+Carnegie Mellon University (CMU) has been featured in several episodes of the **Sustain Podcast**, highlighting its contributions to open-source research and sustainability efforts.  
+
+### **Episode 140: Toxicity and Information Flow in Open Source Communities**  
+- **Guests:** Courtney Miller & Hongbo Fang (PhD students at CMU)  
+- **Listen here:** [Sustain Podcast - Episode 140](https://podcast.sustainoss.org/140)  
+
+### **Episode 40: How Open Source Maintainers Don't Get Rich**  
+- **Guest:** Bogdan Vasilescu (Assistant Professor, School of Computer Science, CMU)  
+- **Listen here:** [Sustain Podcast - Episode 40](https://podcast.sustainoss.org/40)  
