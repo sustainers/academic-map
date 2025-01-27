@@ -1,4 +1,4 @@
-# [`NSF Pathways to Enable Open-Source Ecosystems (POSE)`](https://new.nsf.gov/funding/opportunities/pose-pathways-enable-open-source-ecosystems)
+# [NSF Pathways to Enable Open-Source Ecosystems (POSE)](https://new.nsf.gov/funding/opportunities/pose-pathways-enable-open-source-ecosystems)
 
 ## About
 

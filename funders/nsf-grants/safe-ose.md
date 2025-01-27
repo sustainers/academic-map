@@ -1,4 +1,4 @@
-# [`NSF Safety, Security, and Privacy of Open-Source Ecosystems (Safe-OSE)`](https://new.nsf.gov/funding/opportunities/safe-ose-safety-security-privacy-open-source-ecosystems/nsf24-608/solicitation)
+# [NSF Safety, Security, and Privacy of Open-Source Ecosystems (Safe-OSE)](https://new.nsf.gov/funding/opportunities/safe-ose-safety-security-privacy-open-source-ecosystems/nsf24-608/solicitation)
 
 ## About
 
