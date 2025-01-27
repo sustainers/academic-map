@@ -31,10 +31,10 @@ Sayeed Choudury joined CMU last year, coming from his work founding the first Un
 
 Carnegie Mellon University (CMU) has been featured in several episodes of the [**Sustain Podcast**](https://podcast.sustainoss.org/), highlighting its contributions to open source research and sustainability efforts.
 
-### **Episode 140: Toxicity and Information Flow in Open Source Communities**  
-- **Guests:** Courtney Miller & Hongbo Fang (PhD students at CMU)  
-- **Listen here:** [Sustain Podcast - Episode 140](https://podcast.sustainoss.org/140)  
+- **Episode 140: Toxicity and Information Flow in Open Source Communities**  
+  - **Guests:** Courtney Miller & Hongbo Fang (PhD students at CMU)  
+  - **Listen here:** [Sustain Podcast - Episode 140](https://podcast.sustainoss.org/140)  
 
-### **Episode 40: How Open Source Maintainers Don't Get Rich**  
-- **Guest:** Bogdan Vasilescu (Assistant Professor, School of Computer Science, CMU)  
-- **Listen here:** [Sustain Podcast - Episode 40](https://podcast.sustainoss.org/40)  
+- **Episode 40: How Open Source Maintainers Don't Get Rich**  
+  - **Guest:** Bogdan Vasilescu (Assistant Professor, School of Computer Science, CMU)  
+  - **Listen here:** [Sustain Podcast - Episode 40](https://podcast.sustainoss.org/40)  
