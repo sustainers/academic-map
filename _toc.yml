@@ -164,4 +164,7 @@ chapters:
   - file: funders/czi.md
   - file: funders/protocollabs.md
   - file: funders/top10vpn.md
+  - file: funders/nsf-grants/pose.md
+  - file: funders/nsf-grants/safe-ose.md
+  - file: funders/nsf-grants/geo-ose.md
 - file: individuals.md
