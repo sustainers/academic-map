@@ -14,7 +14,7 @@ This list is incomplete. Please add to it!
 
 ### USA
 
-- [NSF](https://www.nsf.gov/)
+- [National Science Foundation Homepage](https://www.nsf.gov/)
   - [NSF POSE grants](./nsf-grants/pose.md)
   - [NSF Safe-OSE](./nsf-grants/safe-ose.md)
   - [NSF GEO OSE](./nsf-grants/geo-ose.md)
