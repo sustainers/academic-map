@@ -10,7 +10,7 @@ The University of Pennsylvania (UPenn) is a leader in computational linguistics,
 
 ## Open Source Science Collaboration
 
-UPenn actively collaborates with **[Open Source Science Initiative (OSSci)](https://www.opensource.science/)**, reinforcing its commitment to open science and reproducible research.
+UPenn actively collaborates with **[Open Source Science Initiative (OSSci)](https://github.com/sustainers/academic-map/blob/main/organizations/OSSci.md)**, reinforcing its commitment to open science and reproducible research. 
 
 ### Notable Open Source Contributions  
 
