@@ -6,7 +6,7 @@
 
 ## Overview  
 
-The University of Victoria (UVic) is a research-intensive institution known for its advancements in materials science, technology, and open-source innovation. **CAMTEC (Centre for Advanced Materials and Related Technology)** leads UVic’s open science efforts, promoting interdisciplinary collaboration in material sciences.
+The University of Victoria (UVic) is a research-intensive institution known for its advancements in materials science, technology, and open-source innovation. **CAMTEC (Centre for Advanced Materials and Related Technology)** leads UVic’s open science efforts, promoting interdisciplinary collaboration in material sciences. While UVic actively participates in open-source research and collaboration, it does not currently have a formal Open Source Program Office (OSPO).
 
 ## Open Source Science Collaboration  
 
