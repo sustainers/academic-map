@@ -6,7 +6,7 @@
 
 ## Overview  
 
-The University at Buffalo (UB) is a leading research university with a strong focus on materials science, computational modeling, and open-source innovation. The **Department of Materials Design and Innovation (MDI)** integrates data science and materials research, promoting an open-science approach.
+The University at Buffalo (UB) is a leading research university with a strong focus on materials science, computational modeling, and open-source innovation. The **Department of Materials Design and Innovation (MDI)** integrates data science and materials research, promoting an open-science approach.  UB actively engages in open-source research and community-driven initiatives; however, it does not currently have a formal Open Source Program Office (OSPO).  
 
 ## Open Source Science Collaboration  
 
