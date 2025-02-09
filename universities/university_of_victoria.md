@@ -10,7 +10,7 @@ The University of Victoria (UVic) is a research-intensive institution known for 
 
 ## Open Source Science Collaboration  
 
-UVic is a launch partner of the **[Open Source Science Initiative (OSSci)](https://www.opensource.science/)** and is actively involved in its **Chemistry and Materials Science** interest group.
+UVic is a launch partner of the **[Open Source Science Initiative (OSSci)](https://github.com/sustainers/academic-map/blob/main/organizations/OSSci.md)** and is actively involved in its **Chemistry and Materials Science** interest group.
 
 ### Notable Open Source Contributions  
 
