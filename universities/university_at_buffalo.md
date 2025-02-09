@@ -10,7 +10,7 @@ The University at Buffalo (UB) is a leading research university with a strong fo
 
 ## Open Source Science Collaboration  
 
-UB collaborates with the **[Open Source Science Initiative (OSSci)](https://www.opensource.science/)**, focusing on **Chemistry and Materials Science**.
+UB collaborates with the **[Open Source Science Initiative (OSSci)](https://github.com/sustainers/academic-map/blob/main/organizations/OSSci.md)**, focusing on **Chemistry and Materials Science**. 
 
 ### Notable Open Source Contributions  
 
