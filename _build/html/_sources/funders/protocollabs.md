@@ -1,4 +1,4 @@
-# [`Protocol Labs Research`](https://github.com/protocol/research#private-retrieval)
+# [Protocol Labs Research](https://github.com/protocol/research#private-retrieval)
 
 ## About
 
