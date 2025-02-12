@@ -10,7 +10,7 @@ Stony Brook University (SBU) is a major research institution recognized for its 
 
 ## Open Source Science Collaboration  
 
-SBU is involved with the **[Open Source Science Initiative (OSSci)](https://github.com/sustainers/academic-map/blob/main/organizations/OSSci.md)**, particularly in the **Climate & Sustainability** interest group.
+SBU is involved with the **[Open Source Science Initiative (OSSci)](https://sustainoss.org/academic-map/organizations/OSSci.html)**, particularly in the **Climate & Sustainability** interest group.
 
 ### Notable Open Source Contributions  
 
