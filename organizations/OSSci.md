@@ -34,8 +34,8 @@ OSSci is co-founded by [NumFOCUS](https://sustainoss.org/academic-map/organizati
 OSSci collaborates with a diverse range of organizations, including academic institutions. Notable university partners include:
 
 - **[University of Wisconsin-Madison](https://sustainoss.org/academic-map/universities/university-of-wisconsin-madison.html)** – The Data Science Institute at the University of Wisconsin-Madison emphasizes the importance of open-source software in data-intensive science and is a launch partner of OSSci.  
-- **University of Pennsylvania** – The Linguistic Data Consortium at the University of Pennsylvania has a history of contributing to open-source human language technology and supports OSSci's mission.  
-- **Stony Brook University** – The Associate Dean for Research at Stony Brook University acknowledges the role of open-source approaches in addressing societal challenges like climate change and is involved with OSSci.  
-- **University of Victoria** – The Centre for Advanced Materials and Related Technology (CAMTEC) at the University of Victoria is dedicated to open science values and is a launch partner of OSSci.  
-- **University at Buffalo** – The Department of Materials Design and Innovation at the University at Buffalo recognizes the importance of open-source approaches in scientific research and collaborates with OSSci.  
+- **[University of Pennsylvania](https://sustainoss.org/academic-map/universities/university_of_pennsylvania.html)** – The Linguistic Data Consortium at the University of Pennsylvania has a history of contributing to open-source human language technology and supports OSSci's mission.  
+- **[Stony Brook University](https://sustainoss.org/academic-map/universities/stony_brook_university.html)** – The Associate Dean for Research at Stony Brook University acknowledges the role of open-source approaches in addressing societal challenges like climate change and is involved with OSSci.  
+- **[University of Victoria](https://sustainoss.org/academic-map/universities/university_of_victoria.html)** – The Centre for Advanced Materials and Related Technology (CAMTEC) at the University of Victoria is dedicated to open science values and is a launch partner of OSSci.  
+- **[University at Buffalo](https://sustainoss.org/academic-map/universities/university_at_buffalo.html)** – The Department of Materials Design and Innovation at the University at Buffalo recognizes the importance of open-source approaches in scientific research and collaborates with OSSci.  
 
