@@ -14,26 +14,24 @@ There are two types of POSE proposals:
 
 Phase I proposals should have the following qualities & objectives:
 
- - Small community of external users (but not necessarily contributors)
- - Seeking to develop a plan for community sustainability
- - Seeking to provide training & resources to maintainers and other stakeholders trying to build an OSE
-
+- Small community of external users (but not necessarily contributors)
+- Seeking to develop a plan for community sustainability
+- Seeking to provide training & resources to maintainers and other stakeholders trying to build an OSE
 
 ### Phase II
 
 Phase II proposals should have the following qualities & objectives:
 
- - Existing small community of **both** contributors and users.
- - Seeking to execute and deliver upon a detailed project plan (similar to those funded in Phase I) to support the further development and sustainability of the OSE.
+- Existing small community of **both** contributors and users.
+- Seeking to execute and deliver upon a detailed project plan (similar to those funded in Phase I) to support the further development and sustainability of the OSE.
 
 Phase II proposals do not necessarily need to have completed or have been funded for Phase I.
 
 ### Estimated number of awards
 
-**30 to 50 Total**
+#### 30 to 50 Total
 
 Approximately 20 Phase I awards of up to $300,000 per award with durations up to 1 year and 10 Phase II awards of up to $1,500,000 per award with durations up to 2 years are anticipated, subject to the availability of funds and quality of proposals received.
-
 
 ## Eligibility Criteria
 
