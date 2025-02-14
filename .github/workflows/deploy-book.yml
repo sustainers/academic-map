@@ -15,7 +15,7 @@ on:
 
 # This job installs dependencies, builds the book, and pushes it to `gh-pages`
 jobs:
-  deploy-book:
+  build:
     runs-on: ubuntu-latest
     permissions:
       pages: write
@@ -30,9 +30,15 @@ jobs:
         python-version: 3.11
 
     - name: Set up Node.js
-      uses: actions/setup-node@v3
+      uses: actions/setup-node@v4
       with:
         node-version: '18'
+
+    - name: Node install
+      run: |
+        npm install
+        npm install -g markdownlint-cli
+        markdownlint --help
 
     - name: Install dependencies
       run: |
@@ -48,18 +54,33 @@ jobs:
         path: _build/.jupyter_cache
         key: jupyter-book-cache-${{ hashFiles('requirements.txt') }}
 
+    - name: Lint
+      run: |
+        npm run run-all
+
     # Build the book
     - name: Build the book
       run: |
-        sh ./build.sh
+        jupyter-book build --all .
 
     # Upload the book's HTML as an artifact
     - name: Upload artifact
-      uses: actions/upload-pages-artifact@v4
+      uses: actions/upload-pages-artifact@v3
       with:
         path: "_build/html"
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    needs: build
+    steps:
 
     # Deploy the book's HTML to GitHub Pages
     - name: Deploy to GitHub Pages
       id: deployment
-      uses: actions/deploy-pages@v2
+      uses: actions/deploy-pages@v4
