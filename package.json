@@ -16,5 +16,8 @@
   "devDependencies": {
     "markdown-link-check": "^3.12.2",
     "markdownlint": "^0.36.1"
+  },
+  "dependencies": {
+    "markdownlint-rule-helpers": "^0.28.0"
   }
 }

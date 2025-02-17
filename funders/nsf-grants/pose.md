@@ -1,10 +1,10 @@
-# [NSF Pathways to Enable Open-Source Ecosystems (POSE)](https://new.nsf.gov/funding/opportunities/pose-pathways-enable-open-source-ecosystems)
+# [NSF Pathways to Enable open source Ecosystems (POSE)](https://new.nsf.gov/funding/opportunities/pose-pathways-enable-open-source-ecosystems)
 
 ## About
 
-POSE is aimed to develop Open Source Ecosystems (OSE) around existing open-source products developed within academia. Those applying should view POSE as a similar pathway of translation of scientific innovation to more sustainable forms. In NSF words:
+POSE is aimed to develop Open Source Ecosystems (OSE) around existing open source products developed within academia. Those applying should view POSE as a similar pathway of translation of scientific innovation to more sustainable forms. In NSF words:
 
-> POSE constitutes a new pathway to translate scientific innovations, akin to the Lab-to-Market Platform that NSF has pioneered over many decades. Whereas programs like the NSF Innovation Corps (NSF I-Corps™) and America’s Seed Fund [Small Business Innovation Research (SBIR) and Small Business Technology Transfer (STTR)] represent an integrated set of programs to provide researchers with the capacity to transform their fundamental research into deep technology ventures, POSE is specifically focused on another translational pathway – supporting the transition from open-source research artifacts to OSEs.
+> POSE constitutes a new pathway to translate scientific innovations, akin to the Lab-to-Market Platform that NSF has pioneered over many decades. Whereas programs like the NSF Innovation Corps (NSF I-Corps™) and America’s Seed Fund [Small Business Innovation Research (SBIR) and Small Business Technology Transfer (STTR)] represent an integrated set of programs to provide researchers with the capacity to transform their fundamental research into deep technology ventures, POSE is specifically focused on another translational pathway – supporting the transition from open source research artifacts to OSEs.
 
 POSE is **not** meant to fund the development of projects or existing well-resourced ecosystems. This is rather meant to supporting the development of **new OSEs**.
 

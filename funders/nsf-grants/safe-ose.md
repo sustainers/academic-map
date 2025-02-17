@@ -1,4 +1,4 @@
-# [NSF Safety, Security, and Privacy of Open-Source Ecosystems (Safe-OSE)](https://new.nsf.gov/funding/opportunities/safe-ose-safety-security-privacy-open-source-ecosystems/nsf24-608/solicitation)
+# [NSF Safety, Security, and Privacy of open source Ecosystems (Safe-OSE)](https://new.nsf.gov/funding/opportunities/safe-ose-safety-security-privacy-open-source-ecosystems/nsf24-608/solicitation)
 
 ## About
 
@@ -24,7 +24,7 @@ invited to submit a **full proposal.**
 
 Preliminary proposals should have the following qualities & objectives (as per the solicitation):
 
-    Describe the current status of the targeted OSE and provide pointers to the OSE managing organization and the public repositories for the open-source product. As the PAPPG does not permit URLs in the Project Description, use the References Cited section of the proposal to identify the appropriate resources.
+    Describe the current status of the targeted OSE and provide pointers to the OSE managing organization and the public repositories for the open source product. As the PAPPG does not permit URLs in the Project Description, use the References Cited section of the proposal to identify the appropriate resources.
     Describe the national/societal/economic impacts of the OSE.
     Articulate the targeted classes of safety, security, and/or privacy vulnerabilities to be addressed and the broader impacts of addressing them. Discuss, as appropriate, the potential attacks that could take advantage of these vulnerabilities.
     Briefly describe a development plan to address these vulnerabilities.
