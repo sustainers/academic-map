@@ -5,14 +5,11 @@
   "description": "An ecosystem map for academic OSS",
   "scripts": {
     "build": "jupyter-book build --all .",
-
     "publish": "./build.sh",
-
     "lint": "markdownlint . -i _build/ -i node_modules",
     "lint-fix": "markdownlint --fix . -i _build/ -i node_modules",
     "links": "markdown-link-check ./*.md -c mdlinkcheckconfig.json && markdown-link-check ./**/*.md -c mdlinkcheckconfig.json",
     "links-ci": "markdown-link-check -q ./*.md -c mdlinkcheckconfig.json && markdown-link-check ./**/*.md -q -c mdlinkcheckconfig.json",
-
     "run-all": "npm run lint && npm run links-ci",
     "pretest": "npm run lint-fix"
   },
