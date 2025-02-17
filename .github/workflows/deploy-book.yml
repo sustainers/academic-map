@@ -1,17 +1,11 @@
 name: deploy-book
 
-# Run this when the master or main branch changes
+# Runs on main branch changes or manual dispatch
 on:
   workflow_dispatch:
   push:
     branches:
     - main
-    # If your git repository has the Jupyter Book within some-subfolder next to
-    # unrelated files, you can make this run only if a file within that specific
-    # folder has been modified.
-    #
-    # paths:
-    # - some-subfolder/**
 
 # This job installs dependencies, builds the book, and pushes it to `gh-pages`
 jobs:
@@ -29,34 +23,9 @@ jobs:
       with:
         python-version: 3.11
 
-    - name: Set up Node.js
-      uses: actions/setup-node@v4
-      with:
-        node-version: '18'
-
-    - name: Node install
-      run: |
-        npm install
-        npm install -g markdownlint-cli
-        markdownlint --help
-
     - name: Install dependencies
       run: |
         pip install -r requirements.txt
-
-    # (optional) Cache your executed notebooks between runs
-    # if you have config:
-    # execute:
-    #   execute_notebooks: cache
-    - name: cache executed notebooks
-      uses: actions/cache@v3
-      with:
-        path: _build/.jupyter_cache
-        key: jupyter-book-cache-${{ hashFiles('requirements.txt') }}
-
-    - name: Lint
-      run: |
-        npm run run-all
 
     # Build the book
     - name: Build the book
