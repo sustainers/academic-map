@@ -6,7 +6,7 @@
 
 ## Overview
 
-The National Science Foundation (NSF) is a U.S. government agency that supports fundamental research across various scientific disciplines. NSF has been a key advocate for open science, funding numerous initiatives that promote open-source software, data sharing, and reproducible research.
+The National Science Foundation (NSF) is a U.S. government agency that supports fundamental research across various scientific disciplines. NSF has been a key advocate for open science, funding numerous initiatives that promote open source software, data sharing, and reproducible research.
 
 ## Open Source Science Support
 
