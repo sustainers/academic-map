@@ -155,6 +155,8 @@ chapters:
     title: USRSE
   - file: organizations/2i2c.md
     title: 2i2c
+  - file: organizations/national_science_foundation.md
+    title: National Science Foundation
 - file: service-providers/index.md
   sections:
   - file: service-providers/tidelift.md
