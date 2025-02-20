@@ -14,17 +14,17 @@ NSF has provided significant funding to open science initiatives to advance scie
 
 ### Notable Open Source Science Funding Initiatives
 
-- **NSF Open Source Investment – 2022:** NSF committed **$26 million** to support open-source projects that drive innovation in science and engineering. ([Source](https://new.nsf.gov/tip/updates/nsf-invests-over-26m-open-source-projects))
+The National Science Foundation (NSF) is a U.S. government agency that supports fundamental research across various scientific disciplines. NSF has been a key advocate for open science, funding numerous initiatives that promote open source software, data sharing, and reproducible research.
 
-- **Open Science Policy & Infrastructure:** NSF has been a strong advocate for open-access research through its **Public Access Plan 2.0**, ensuring federally funded research is openly available. ([Source](https://new.nsf.gov/open-science))
+- **NSF Open Source Investment – 2022:** NSF committed **$26 million** to support open source projects that drive innovation in science and engineering. ([Source](https://new.nsf.gov/tip/updates/nsf-invests-over-26m-open-source-projects))
 
-- **Open-Source Software for Science:** NSF funds various scientific computing initiatives, including software infrastructure projects that support open-source research tools and data accessibility.
+- **Open Source Software for Science:** NSF funds various scientific computing initiatives, including software infrastructure projects that support open source research tools and data accessibility.
 
 #### **NSF-Funded Open Source Subgrants**  
+
 - [NSF POSE Grants](./funders/nsf-grants/pose.md)  
 - [NSF Safe-OSE](./funders/nsf-grants/safe-ose.md)  
 - [NSF GEO OSE](./funders/nsf-grants/geo-ose.md)  
-
 
 ## Contact
 
