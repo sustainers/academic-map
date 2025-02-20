@@ -164,6 +164,8 @@ chapters:
   - file: service-providers/tidelift.md
 - file: funders/index.md
   sections:
+  - file: funders/national_science_foundation.md
+    title: National Science Foundation
   - file: funders/cisco.md
   - file: funders/czi.md
   - file: funders/protocollabs.md
