@@ -14,8 +14,6 @@ NSF has provided significant funding to open science initiatives to advance scie
 
 ### Notable Open Source Science Funding Initiatives
 
-- **[Open Source Science Initiative (OSSci)](https://sustainoss.org/academic-map/organizations/OSSci.html):** OSSci, co-founded by [NumFOCUS](https://sustainoss.org/academic-map/organizations/numfocus.html) and IBM, connects researchers with open-source software communities. It supports interest groups focused on Climate & Sustainability, Reproducible Science, and Healthcare & Life Sciences.
-
 - **NSF Open Source Investment – 2022:** NSF committed **$26 million** to support open-source projects that drive innovation in science and engineering. ([Source](https://new.nsf.gov/tip/updates/nsf-invests-over-26m-open-source-projects))
 
 - **Open Science Policy & Infrastructure:** NSF has been a strong advocate for open-access research through its **Public Access Plan 2.0**, ensuring federally funded research is openly available. ([Source](https://new.nsf.gov/open-science))
@@ -23,9 +21,10 @@ NSF has provided significant funding to open science initiatives to advance scie
 - **Open-Source Software for Science:** NSF funds various scientific computing initiatives, including software infrastructure projects that support open-source research tools and data accessibility.
 
 #### **NSF-Funded Open Source Subgrants**  
-- [NSF POSE Grants](./nsf-grants/pose.md)  
-- [NSF Safe-OSE](./nsf-grants/safe-ose.md)  
-- [NSF GEO OSE](./nsf-grants/geo-ose.md)  
+- [NSF POSE Grants](./funders/nsf-grants/pose.md)  
+- [NSF Safe-OSE](./funders/nsf-grants/safe-ose.md)  
+- [NSF GEO OSE](./funders/nsf-grants/geo-ose.md)  
+
 
 ## Contact
 
