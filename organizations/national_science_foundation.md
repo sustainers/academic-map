@@ -22,9 +22,9 @@ The National Science Foundation (NSF) is a U.S. government agency that supports 
 
 #### **NSF-Funded Open Source Subgrants**  
 
-- [NSF POSE Grants](./funders/nsf-grants/pose.md)  
-- [NSF Safe-OSE](./funders/nsf-grants/safe-ose.md)  
-- [NSF GEO OSE](./funders/nsf-grants/geo-ose.md)  
+- [NSF POSE Grants](../funders/nsf-grants/pose.md)  
+- [NSF Safe-OSE](../funders/nsf-grants/safe-ose.md)  
+- [NSF GEO OSE](../funders/nsf-grants/geo-ose.md)  
 
 ## Contact
 
