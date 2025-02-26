@@ -28,6 +28,10 @@
       "pattern": "https://ospoplusplus.com"
     },
     {
+      "pattern": "https://x.com/scicodes1",
+      "reason": "400"
+    },
+    {
       "pattern": "https://www.turing.ac.uk",
       "reason": "403"
     },
