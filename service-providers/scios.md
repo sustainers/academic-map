@@ -1,5 +1,7 @@
 # SciOS: Advancing Open Science Infrastructure
 
+ - *Homepage*: [Link](https://www.scios.tech/)
+
 ## Mission and Core Objectives
 
 SciOS is a collaborative organization with a mission to “advance infrastructure”
