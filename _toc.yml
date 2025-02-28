@@ -155,6 +155,8 @@ chapters:
     title: USRSE
   - file: organizations/2i2c.md
     title: 2i2c
+  - file: organizations/ossci.md
+    title: OSSci
 - file: service-providers/index.md
   sections:
   - file: service-providers/tidelift.md
