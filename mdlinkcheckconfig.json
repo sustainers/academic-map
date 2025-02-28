@@ -39,6 +39,10 @@
     {
       "pattern": "https://openai.com/",
       "reason": "403"
+    },
+    {
+      "pattern": "https://osf.io/institutions/gwu",
+      "reason": "500 error, possible site downtime"
     }
   ]
 }
