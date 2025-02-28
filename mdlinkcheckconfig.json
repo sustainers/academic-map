@@ -54,6 +54,10 @@
     {
       "pattern": "https://osf.io/institutions/gwu",
       "reason": "500"
+    },
+    {
+      "pattern": "https://x.com/scicodes1",
+      "reason": "400"
     }
   ]
 }
