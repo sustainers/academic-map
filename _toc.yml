@@ -162,6 +162,7 @@ chapters:
 - file: service-providers/index.md
   sections:
   - file: service-providers/tidelift.md
+  - file: service-providers/scios.md
 - file: funders/index.md
   sections:
   - file: funders/cisco.md
