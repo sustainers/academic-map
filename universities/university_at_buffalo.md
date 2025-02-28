@@ -1,23 +1,30 @@
 # University at Buffalo Overview
 
 - **Website:** [University at Buffalo](https://www.buffalo.edu/)
-- **Department of Materials Design and Innovation:** [MDI at UB](https://engineering.buffalo.edu/materials-design-innovation.html)
+- **Department of Materials Design and Innovation (MDI):** [MDI at UB](https://engineering.buffalo.edu/materials-design-innovation.html)
 - **Open Science & Research:** [UB Research](https://www.buffalo.edu/research.html)
 
-## Overview  
+## Overview
 
-The University at Buffalo (UB) is a leading research university with a strong focus on materials science, computational modeling, and open-source innovation. The **Department of Materials Design and Innovation (MDI)** integrates data science and materials research, promoting an open-science approach.  UB actively engages in open-source research and community-driven initiatives; however, it does not currently have a formal Open Source Program Office (OSPO).  
+The University at Buffalo (UB) is a leading research university with a strong focus on materials science, computational modeling, and open source innovation. The **Department of Materials Design and Innovation (MDI)** integrates data science and materials research, promoting an open science approach.
 
-## Open Source Science Collaboration  
+UB **does not currently have a formal Open Source Program Office (OSPO)**; however, it actively promotes open source initiatives through various student organizations and research centers.
 
-UB collaborates with the **[Open Source Science Initiative (OSSci)](https://sustainoss.org/academic-map/organizations/OSSci.html)**, focusing on **Chemistry and Materials Science**. 
+### Notable Open Source Contributions
 
-### Notable Open Source Contributions  
+- **MakeOpenSource Club:** A student-run organization at UB fostering a community of programmers and developers engaged in open source projects. Open to both undergraduate and graduate students.  
+  [Learn more](https://engineering.buffalo.edu/computer-science-engineering/people/professional-and-student-organizations.host.html/content/shared/engineering/school-wide-content/clubs/seas/open-source.detail.html)
 
-- **Materials Design & Open Data:** UB’s MDI department uses open-source tools for materials discovery and research.
-- **Participation in OSSci:** UB researchers work on open computational frameworks to advance reproducibility in materials science.
-- **Cross-Disciplinary Collaboration:** UB promotes the intersection of materials science and data-driven methodologies.
+- **Center for Computational Research (CCR):** UB's CCR actively maintains an open source repository, contributing to advancements in computational science and engineering.  
+  [View UB CCR GitHub](https://github.com/ubccr)
 
-## Contact  
+- **Materials Design & Open Data:** The MDI department utilizes open source tools and data science methodologies to advance materials discovery and research.  
+  [Explore MDI Research](https://engineering.buffalo.edu/materials-design-innovation/research.html)
+
+- **Cross-Disciplinary Collaboration:** UB promotes the intersection of materials science and data-driven methodologies, fostering innovative solutions to complex problems.  
+  [Learn about UB's AI Initiatives](https://www.buffalo.edu/research/research-expertise/expertise-in-ai.html)
+
+## Contact
 
 For more information on UB’s open science research, visit [MDI at UB](https://engineering.buffalo.edu/materials-design-innovation.html) or contact [mdi@buffalo.edu](mailto:mdi@buffalo.edu).
+
