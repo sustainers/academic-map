@@ -34,6 +34,8 @@ chapters:
     title: UC Santa Barbara
   - file: universities/university-of-california-santa-cruz.md
     title: UC Santa Cruz
+  - file: universities/university_of_pennsylvania.md
+    title: University of Pennsylvania
   - file: universities/university-of-vermont.md
   - file: universities/university-of-wisconsin-madison.md
   - file: universities/university-of-texas-austin.md
