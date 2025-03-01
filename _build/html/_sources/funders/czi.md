@@ -1,4 +1,4 @@
-# [`Chan Zuckerberg Initiative`](https://chanzuckerberg.com/eoss/)
+# [Chan Zuckerberg Initiative](https://chanzuckerberg.com/eoss/)
 
 ## About
 
