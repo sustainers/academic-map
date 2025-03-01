@@ -42,6 +42,7 @@ Sorted alphabetically.
 - HELIOS
 - RDA
 - **[Outreachy](./outreachy.md)**
+- **[OpSci](./opsci.md)**
 
 ### Science Policy
 
