@@ -42,6 +42,7 @@ There's a host of universities which don't have open source program offices, but
 There are also universities that develop open source software, but don't have policies publicly set for staff or researchers.
 
 - University of Cambridge – [IT services has some code available](https://www.dns.cam.ac.uk/about/floss.html).
-- [University at Buffalo](./university_at_buffalo.md)
+- [ETH Zurich](./eth-zurich.md)
 - [Rey Juan Carlos University](./rey-juan-carlos-university.md)
+- [University at Buffalo](./university_at_buffalo.md)
 
