@@ -1,4 +1,4 @@
-# [`Top10vpn Research Grant`](https://www.top10vpn.com/research-grant/)
+# [Top10vpn Research Grant](https://www.top10vpn.com/research-grant/)
 
 ## About
 
