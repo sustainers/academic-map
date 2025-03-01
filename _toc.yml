@@ -38,6 +38,8 @@ chapters:
   - file: universities/university-of-wisconsin-madison.md
   - file: universities/university-of-texas-austin.md
     title: UT Austin
+  - file: universities/university_of_victoria.md
+    title: University of Victoria
 - file: organizations/index.md
   sections:
   - file: organizations/apachefoundation.md
