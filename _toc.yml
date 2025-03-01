@@ -133,6 +133,8 @@ chapters:
     title: SciCodes
   - file: organizations/scipy.md
     title: Scipy
+  - file: organizations/opsci.md
+    title: OPSCI
   - file: organizations/software-freedom-conservancy.md
     title: SFC
   - file: organizations/science-gateways-community-institute.md
@@ -166,4 +168,7 @@ chapters:
   - file: funders/czi.md
   - file: funders/protocollabs.md
   - file: funders/top10vpn.md
+  - file: funders/nsf-grants/pose.md
+  - file: funders/nsf-grants/safe-ose.md
+  - file: funders/nsf-grants/geo-ose.md
 - file: individuals.md

@@ -1,4 +1,4 @@
-# [`Cisco Research Grants`](https://research.cisco.com/open-rfps)
+# [Cisco Research Grants](https://research.cisco.com/open-rfps)
 
 ## About
 
