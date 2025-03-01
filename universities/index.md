@@ -43,3 +43,4 @@ There are also universities that develop open source software, but don't have po
 
 - [Rey Juan Carlos University](./rey-juan-carlos-university.md)
 - University of Cambridge – [IT services has some code available](https://www.dns.cam.ac.uk/about/floss.html).
+- [University of Victoria](./university_of_victoria.md)
