@@ -6,17 +6,21 @@
 
 ## Overview  
 
-Stony Brook University (SBU) is a major research institution recognized for its work in sustainability, environmental science, and open-source technology. The university fosters interdisciplinary research on climate change, data science, and computational modeling. While SBU actively engages in open-source research and collaboration, it does not currently have a formal Open Source Program Office (OSPO).
+Stony Brook University (SBU) is a major research institution recognized for its work in sustainability, environmental science, and open source technology. The university fosters interdisciplinary research on climate change, data science, and computational modeling. While SBU actively engages in open source research and collaboration, it does not currently have a formal Open Source Program Office (OSPO).  
 
-## Open Source Science Collaboration  
+## Notable Open Source Contributions  
 
-SBU is involved with the **[Open Source Science Initiative (OSSci)](https://sustainoss.org/academic-map/organizations/OSSci.html)**, particularly in the **Climate & Sustainability** interest group.
+- **Biomedical Informatics Open Source Projects:** The Department of Biomedical Informatics maintains an organizational GitHub repository featuring open source software projects led by faculty members. Many of these projects are supported by state and national grants.  
+  [Explore SBU BMI GitHub](https://bmi.stonybrookmedicine.edu/SBUBMIGithub)
 
-### Notable Open Source Contributions  
+- **Computer Vision Lab (CVLab) GitHub Repositories:** The CVLab at SBU hosts numerous open source projects on GitHub, focusing on areas such as document unwarping, crowd counting, and scanpath prediction.  
+  [View CVLab GitHub](https://github.com/cvlab-stonybrook)
 
-- **Climate & Sustainability Research:** SBU researchers leverage open-source tools to develop climate models and sustainable energy solutions.
-- **Participation in OSSci:** SBU’s Associate Dean for Research emphasizes open-source approaches in addressing climate-related challenges.
-- **Data Transparency & Open Science:** The university promotes open-access research and collaborative data sharing.
+- **McKinnon Rosati Lab Open Source Initiatives:** This lab emphasizes the use of open source software and hardware in scientific research, providing projects that offer insights into research methodologies.  
+  [Visit McKinnon Rosati Lab](https://you.stonybrook.edu/mckinnonrosati/open-source/)
+
+- **Participation in Google Summer of Code:** SBU's Department of Biomedical Informatics has been a mentoring organization for the Google Summer of Code program since 2015, guiding students in developing open source projects in biomedical informatics.  
+  [Learn about SBU's GSoC](https://bmi.stonybrookmedicine.edu/gsoc)
 
 ## Contact  
 
