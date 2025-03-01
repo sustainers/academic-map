@@ -50,6 +50,30 @@
     {
       "pattern": "https://openai.com/",
       "reason": "403"
+    },
+    {
+      "pattern": "https://www.nsf.gov/",
+      "reason": "403"
+    },
+    {
+      "pattern": "https://www.unomaha.edu/college-of-information-science-and-technology/about/faculty-staff/matt-germonprez.php",
+      "reason": "403"
+    },
+    {
+      "pattern": "https://www.unomaha.edu/college-of-information-science-and-technology/bridge/index.php",
+      "reason": "403"
+    },
+    {
+      "pattern": "https://www.ieee.org/",
+      "reason": "403"
+    },
+    {
+      "pattern": "https://datanexus.ucsd.edu/ospo/index.html",
+      "reason": "403"
+    },
+    {
+      "pattern": "https://today.ucsd.edu/story/new-grant-supports-multi-uc-campus-effort-to-build-network-of-open-source-program-offices",
+      "reason": "403"
     }
   ]
 }
