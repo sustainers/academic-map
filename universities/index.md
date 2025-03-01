@@ -42,6 +42,6 @@ There's a host of universities which don't have open source program offices, but
 There are also universities that develop open source software, but don't have policies publicly set for staff or researchers.
 
 - University of Cambridge – [IT services has some code available](https://www.dns.cam.ac.uk/about/floss.html).
-- [Stony Brook University](./stony-brook-university.md)
+- [Stony Brook University](./stony_brook_university.md)
 - [ETH Zurich](./eth-zurich.md)
 - [Rey Juan Carlos University](./rey-juan-carlos-university.md)
