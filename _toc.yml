@@ -20,10 +20,14 @@ chapters:
   - file: universities/slu.md
   - file: universities/snt-university-of-luxembourg.md
   - file: universities/stanford-university.md
+  - file: universities/stony-brook-university.md
+    title: Stony Brook University
   - file: universities/syracuse.md
   - file: universities/trinity-college-dublin.md
   - file: universities/university-of-california-berkeley.md
     title: UC Berkeley
+  - file: universities/university_at_buffalo.md
+    title: University at Buffalo
   - file: universities/university-of-california-davis.md
     title: UC Davis
   - file: universities/university-of-california-los-angeles.md
@@ -34,20 +38,15 @@ chapters:
     title: UC Santa Barbara
   - file: universities/university-of-california-santa-cruz.md
     title: UC Santa Cruz
+  - file: universities/university_of_victoria.md
+    title: University of Victoria
   - file: universities/university_of_pennsylvania.md
     title: UPenn
-  - file: universities/university-of-vermont.md
-  - file: universities/university-of-wisconsin-madison.md
   - file: universities/university-of-texas-austin.md
     title: UT Austin
-<<<<<<< HEAD
-  - file: universities/university_at_buffalo.md
-    title: University at Buffalo
-||||||| c1b3271
-=======
-  - file: universities/stony-brook-university.md
-    title: Stony Brook University
->>>>>>> @{-1}
+  - file: universities/university-of-vermont.md
+    title: UVM
+  - file: universities/university-of-wisconsin-madison.md
 - file: organizations/index.md
   sections:
   - file: organizations/apachefoundation.md
