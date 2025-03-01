@@ -6,21 +6,23 @@
 
 ## Overview
 
-The University of Pennsylvania (UPenn) is a leader in computational linguistics, artificial intelligence, and open-source research. Through the **Linguistic Data Consortium (LDC)**, UPenn has significantly contributed to open-source human language technology, supporting researchers worldwide in their efforts to develop machine learning models and natural language processing tools. While UPenn actively participates in open-source initiatives, it does not currently have a formal Open Source Program Office (OSPO).
+The University of Pennsylvania (UPenn) is a leader in computational linguistics, artificial intelligence, and open source research. Through the **Linguistic Data Consortium (LDC)**, UPenn has significantly contributed to open source human language technology, supporting researchers worldwide in their efforts to develop machine learning models and natural language processing tools. While UPenn actively participates in open source initiatives, it does not currently have a formal Open Source Program Office (OSPO).
 
 ## Open Source Science Collaboration
 
-UPenn actively collaborates with **[Open Source Science Initiative (OSSci)](https://sustainoss.org/academic-map/organizations/OSSci.html)**, reinforcing its commitment to open science and reproducible research. 
+UPenn actively collaborates with **[Open Source Science Initiative (OSSci)](https://sustainoss.org/academic-map/organizations/OSSci.html)**, reinforcing its commitment to open science and reproducible research.  
 
-### Notable Open Source Contributions  
+### Notable Open Source Contributions
 
-- **Linguistic Data Consortium (LDC):** A leading provider of linguistic datasets supporting open-source AI and NLP research.
-- **Participation in OSSci:** UPenn contributes expertise in computational linguistics and data sharing as part of OSSci's Reproducible Science and Open Data initiatives.
-- **Open Science & Reproducibility:** UPenn supports transparent research through its open data policies and computational tools.
+- **Linguistic Data Consortium (LDC):** Provides linguistic datasets and tools under open source licenses, facilitating advancements in language-related research and technology.  
+  [Explore LDC Resources](https://www.ldc.upenn.edu/language-resources)
+
+- **GitHub Campus Program:** Offers the UPenn community access to GitHub Enterprise features, promoting the development and sharing of open source projects.  
+  [View UPenn GitHub](https://github.com/upenn)
+
+- **Penn Libraries' GitHub Repositories:** Hosts a variety of open source projects and tools, contributing to the broader open source ecosystem.  
+  [Explore Penn Libraries GitHub](https://github.com/upenn-libraries)
 
 ## Contact  
 
 For more information on open science at UPenn, visit the [Penn Research](https://research.upenn.edu/) page or contact [ldc@upenn.edu](mailto:ldc@upenn.edu).
-
-
-
