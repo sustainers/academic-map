@@ -6,17 +6,21 @@
 
 ## Overview  
 
-The University of Victoria (UVic) is a research-intensive institution known for its advancements in materials science, technology, and open-source innovation. **CAMTEC (Centre for Advanced Materials and Related Technology)** leads UVic’s open science efforts, promoting interdisciplinary collaboration in material sciences. While UVic actively participates in open-source research and collaboration, it does not currently have a formal Open Source Program Office (OSPO).
+The University of Victoria (UVic) is a research-intensive institution known for its advancements in materials science, technology, and open source innovation. **CAMTEC (Centre for Advanced Materials and Related Technology)** leads UVic’s open science efforts, promoting interdisciplinary collaboration in material sciences. While UVic actively participates in open source research and collaboration, it does not currently have a formal Open Source Program Office (OSPO).
 
-## Open Source Science Collaboration  
+## Notable Open Source Contributions  
 
-UVic is a launch partner of the **[Open Source Science Initiative (OSSci)](https://sustainoss.org/academic-map/organizations/OSSci.html)** and is actively involved in its **Chemistry and Materials Science** interest group.
+- **Propagation Lab Initiatives:** UVic’s Propagation Laboratory contributes to open source projects like the Modular CubeSat Radio, an open source software-defined radio (SDR) designed for the Skya’anaSat project.  
+  [Learn more](https://www.propagationlab.ca/opensource/)
 
-### Notable Open Source Contributions  
+- **Humanities Computing and Media Centre (HCMC):** The HCMC collaborates on projects using open source technologies and internationally recognized standards to ensure reusability and accessibility.  
+  [Visit HCMC](https://www.uvic.ca/humanities/hcmc/aboutus/index.php)
 
-- **CAMTEC’s Open Science Mission:** CAMTEC prioritizes transparency and accessibility in materials research.
-- **Participation in OSSci:** UVic researchers contribute to open-source software and data initiatives in chemistry and materials science.
-- **Open Data & Materials Innovation:** UVic supports reproducible research through open data frameworks and computational modeling.
+- **MoEML Project:** The Map of Early Modern London (MoEML) is an open source and open-access project that provides freely available content licensed under Creative Commons.  
+  [View MoEML](https://mapoflondon.uvic.ca/contributor_rights.htm)
+
+- **Open Insights Project:** UVic collaborates on the Open Insights project, which develops open source models for climate policy modeling, fostering transparency and continuous improvement.  
+  [Explore Open Insights](https://www.uvic.ca/news/topics/2024%2Bclean-prosperity-foundation-open-insights%2Bnews)
 
 ## Contact  
 
