@@ -20,12 +20,16 @@ The National Science Foundation (NSF) is a U.S. government agency that supports 
 
 - **Open Source Software for Science:** NSF funds various scientific computing initiatives, including software infrastructure projects that support open source research tools and data accessibility.
 
-#### **NSF-Funded Open Source Subgrants**  
+#### **NSF-Funded Open Source Subgrants**
 
-- [NSF POSE Grants](nsf-grants/pose.md)  
-- [NSF Safe-OSE](nsf-grants/safe-ose.md)  
-- [NSF GEO OSE](nsf-grants/geo-ose.md)  
+- [NSF POSE Grants](nsf-grants/pose.md)
+- [NSF Safe-OSE](nsf-grants/safe-ose.md)
+- [NSF GEO OSE](nsf-grants/geo-ose.md)
 
 ## Contact
 
 For inquiries about NSF’s Open Science and Open Source funding programs, visit the [NSF Open Science page](https://new.nsf.gov/open-science) or contact [info@nsf.gov](mailto:info@nsf.gov).
+
+## Extra context
+
+The NSF is currently undergoing a massive reduction in funding and personnel, as a result of the new administration. These grants may not be applicable at the moment.
