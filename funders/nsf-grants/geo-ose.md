@@ -5,21 +5,19 @@
 
 GEO OSE seeks to build upon  the POSE solicitation by targeting community building programs specific to the geospace sciences, ocean sciences, Earth sciences, and polar sciences. As per the solicitation:
 
-
     Develop and foster adoption of open, inclusive, and equitable research practices across geoscience domains informed by open science principles, including (but not limited to) the FAIR, CARE, and TRUST Principles, as well as Reproducibility and Replicability;
-    advance transformational and innovative open science approaches that advance geosciences research and education by leveraging and building connections across the existing ecosystem of cyberinfrastructure resources, including data repositories, open-source software communities, and shared computing (e.g., high-performance and cloud computing);
+    advance transformational and innovative open science approaches that advance geosciences research and education by leveraging and building connections across the existing ecosystem of cyberinfrastructure resources, including data repositories, open source software communities, and shared computing (e.g., high-performance and cloud computing);
     strengthen the capacity of current and future geoscientists to access, utilize, and collaborate within the growing ecosystem of open science resources, and to enable input and participation from the full spectrum of diverse talent that society has to offer which includes underrepresented and under-served communities.
 
 Regarding funding phases, the GEO OSE program offers two tracks:
 
- - Track 1: Supports smaller-scale activities such as open science planning, education, and training initiatives. Projects under this track can have a duration of up to 2 years with a maximum budget of $500,000.
+- Track 1: Supports smaller-scale activities such as open science planning, education, and training initiatives. Projects under this track can have a duration of up to 2 years with a maximum budget of $500,000.
 
- - Track 2: Supports larger-scale activities aimed at transforming geoscience research communities toward open science practices. Projects under this track can have a duration of up to 3 years with a maximum budget of $1,000,000.
-
+- Track 2: Supports larger-scale activities aimed at transforming geoscience research communities toward open science practices. Projects under this track can have a duration of up to 3 years with a maximum budget of $1,000,000.
 
 ### Estimated number of awards
 
-**3-8 Total**
+#### 3-8 Total
 
 Anticipated Funding Amount: $2,000,000 to $4,000,000
 
