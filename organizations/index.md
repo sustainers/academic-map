@@ -28,6 +28,7 @@ Sorted alphabetically.
 
 - **[CHAOSS](./chaoss.md)**
 - **[CURIOSS](./curioss.md)**
+- **[OSSci](./ossci.md)**
 - [InnerSource Commons](https://innersourcecommons.org/)
 - [OSPO++](./ospoplusplus.md)
 - [ReSA](https://www.researchsoft.org/about-resa/)
