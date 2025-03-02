@@ -53,7 +53,7 @@
     },
     {
       "pattern": "https://osf.io/institutions/gwu",
-      "reason": "500 error, possible site downtime"
+      "reason": "500"
     }
   ]
 }
