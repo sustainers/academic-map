@@ -167,8 +167,7 @@ chapters:
   - file: funders/cisco.md
   - file: funders/czi.md
   - file: funders/national_science_foundation.md
+    title: NSF
   - file: funders/protocollabs.md
   - file: funders/top10vpn.md
-  - file: funders/national_science_foundation.md
-    title: NSF
 - file: individuals.md
