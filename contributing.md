@@ -47,3 +47,7 @@ In order to add your university, you need to edit the code that this website is 
     If you have any questions, ping @RichardLitt wherever he is found.
 
     Thanks!
+
+## Editorial notes
+
+* "open source" should always be spelled in full, instead of "open-source" with a hyphen.

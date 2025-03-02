@@ -25,6 +25,13 @@
       "pattern": "https://doi.org/10.7910/DVN/TJCLKP"
     },
     {
+      "pattern": "https://ospoplusplus.com"
+    },
+    {
+      "pattern": "https://x.com/scicodes1",
+      "reason": "400"
+    },
+    {
       "pattern": "https://www.turing.ac.uk",
       "reason": "403"
     },
@@ -34,6 +41,10 @@
     },
     {
       "pattern": "https://www.aps.org/",
+      "reason": "403"
+    },
+    {
+      "pattern": "https://www.aaas.org/",
       "reason": "403"
     },
     {
