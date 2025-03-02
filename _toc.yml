@@ -132,7 +132,7 @@ chapters:
   - file: organizations/scipy.md
     title: Scipy
   - file: organizations/opsci.md
-    title: OPSCI
+    title: OpSci
   - file: organizations/software-freedom-conservancy.md
     title: SFC
   - file: organizations/science-gateways-community-institute.md
