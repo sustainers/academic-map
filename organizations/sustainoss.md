@@ -1,4 +1,4 @@
-# SustainOSS Overview
+# SustainOSS
 
 - **Website:** [SustainOSS](https://sustainoss.org/)
 

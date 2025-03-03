@@ -1,4 +1,4 @@
-# American Chemical Society Overview
+# American Chemical Society
 
 - **Website:** [American Chemical Society](https://www.acs.org/)
 

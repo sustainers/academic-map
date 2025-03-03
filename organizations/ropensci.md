@@ -1,4 +1,4 @@
-# rOpenSci Overview
+# rOpenSci
 
 - **Website:** [rOpenSci](https://ropensci.org/)
 

@@ -1,4 +1,4 @@
-# Research Software Engineers (RSE) Overview
+# Research Software Engineers (RSE)
 
 - **Website:** [Research Software Engineers (RSE)](https://researchsoftware.org/)
 

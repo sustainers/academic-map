@@ -1,4 +1,4 @@
-# National Aeronautics and Space Administration (NASA) Overview
+# National Aeronautics and Space Administration (NASA)
 
 - **Website:** [National Aeronautics and Space Administration (NASA)](https://www.nasa.gov/)
 

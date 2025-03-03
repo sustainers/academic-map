@@ -1,4 +1,4 @@
-# The Carpentries Overview
+# The Carpentries
 
 - **Website:** [The Carpentries](https://carpentries.org/)
 

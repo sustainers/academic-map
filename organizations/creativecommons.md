@@ -1,4 +1,4 @@
-# Creative Commons Overview
+# Creative Commons
 
 - **Website:** [Creative Commons About](https://creativecommons.org/about/)  
 - **Resources:** [Creative Commons Resources](https://creativecommons.org/share-your-work/), [Open Education page](https://creativecommons.org/about/education/)

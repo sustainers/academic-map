@@ -1,4 +1,4 @@
-# CURIOSS Overview
+# CURIOSS
 
 - **Website:** [Curioss About](https://curioss.org/about/)
 - **Resources:** [Curioss Resources](https://curioss.org/resources/)

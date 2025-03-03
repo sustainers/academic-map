@@ -1,4 +1,4 @@
-# Institute of Electrical and Electronics Engineers (IEEE) Overview
+# Institute of Electrical and Electronics Engineers (IEEE)
 
 - **Website:** [Institute of Electrical and Electronics Engineers (IEEE)](https://www.ieee.org/)
 

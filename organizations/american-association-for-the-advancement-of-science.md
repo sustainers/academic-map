@@ -1,4 +1,4 @@
-# American Association for the Advancement of Science (AAAS) Overview
+# American Association for the Advancement of Science (AAAS)
 
 - **Website:** [American Association for the Advancement of Science (AAAS)](https://www.aaas.org/)
 

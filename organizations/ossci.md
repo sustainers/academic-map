@@ -1,4 +1,4 @@
-# Open Source Science Initiative (OSSci) Overview
+# Open Source Science Initiative (OSSci)
 
 - **Website:** [Open Source Science Initiative](https://www.opensource.science/)
 - **Join Interest Groups:** [Join OSSci Interest Groups](https://chief.sc/ossci-join)

@@ -1,4 +1,4 @@
-# European Space Agency (ESA) Overview
+# European Space Agency (ESA)
 
 - **Website:** [European Space Agency (ESA)](https://www.esa.int/)
 

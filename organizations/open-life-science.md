@@ -1,4 +1,4 @@
-# Open Life Science Overview
+# Open Life Science
 
 - **Website:** [Open Life Science](https://openlifesci.org/)
 

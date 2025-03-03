@@ -1,4 +1,4 @@
-# Molecular Sciences Software Institute (MolSSI) Overview
+# Molecular Sciences Software Institute (MolSSI)
 
 - **Website:** [Molecular Sciences Software Institute (MolSSI)](https://molssi.org/)
 

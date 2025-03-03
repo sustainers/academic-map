@@ -1,4 +1,4 @@
-# SciPy Overview
+# SciPy
 
 - **Website:** [SciPy](https://scipy.org/)
 

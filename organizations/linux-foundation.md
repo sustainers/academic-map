@@ -1,4 +1,4 @@
-# Linux Foundation Overview
+# Linux Foundation
 
 - **Website:** [Linux Foundation](https://www.linuxfoundation.org/)
 

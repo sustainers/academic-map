@@ -1,4 +1,4 @@
-# Mozilla Foundation Overview
+# Mozilla Foundation
 
 - **Website:** [Mozilla Foundation](https://foundation.mozilla.org/)
 
