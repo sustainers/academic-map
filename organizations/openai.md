@@ -1,4 +1,4 @@
-# OpenAI Overview
+# OpenAI
 
 - **Website:** [OpenAI](https://openai.com/)
 

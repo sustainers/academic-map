@@ -1,4 +1,4 @@
-# Software Freedom Conservancy Overview
+# Software Freedom Conservancy
 
 - **Website:** [Software Freedom Conservancy](https://sfconservancy.org/)
 

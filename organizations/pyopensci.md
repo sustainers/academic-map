@@ -1,4 +1,4 @@
-# pyOpenSci Overview
+# pyOpenSci
 
 - **Website:** [pyOpenSci](https://www.pyopensci.org/)
 

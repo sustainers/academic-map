@@ -1,4 +1,4 @@
-# Apache Foundation Overview
+# Apache Foundation
 
 - **Website:** [Apache Foundation](https://www.apache.org/foundation/)
 - **Resources:** [Apache Dev Resources](https://www.apache.org/dev/)

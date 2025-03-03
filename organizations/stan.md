@@ -1,4 +1,4 @@
-# Stan Overview
+# Stan
 
 - **Website:** [Stan](https://mc-stan.org/)
 

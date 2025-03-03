@@ -1,4 +1,4 @@
-# UK Software Sustainability Institute Overview
+# UK Software Sustainability Institute
 
 - **Website:** [UK Software Sustainability Institute](https://www.software.ac.uk/)
 

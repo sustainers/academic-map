@@ -1,4 +1,4 @@
-# Academic Data Science Alliance Overview
+# Academic Data Science Alliance
 
 - **Website:** [Academic Data Science Alliance](https://academicdatascience.org/)
 

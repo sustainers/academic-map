@@ -1,4 +1,4 @@
-# Project Jupyter Overview
+# Project Jupyter
 
 - **Website:** [Project Jupyter](https://jupyter.org/)
 

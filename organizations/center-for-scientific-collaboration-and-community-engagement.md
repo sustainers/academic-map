@@ -1,4 +1,4 @@
-# Center for Scientific Collaboration and Community Engagement (CSCCE) Overview
+# Center for Scientific Collaboration and Community Engagement (CSCCE)
 
 - **Website:** [Center for Scientific Collaboration and Community Engagement (CSCCE)](https://www.cscce.org/)
 

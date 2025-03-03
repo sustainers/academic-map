@@ -1,4 +1,4 @@
-# Internet Society (ISOC) Overview
+# Internet Society (ISOC)
 
 - **Website:** [Internet Society (ISOC)](https://www.internetsociety.org/)
 

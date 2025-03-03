@@ -1,4 +1,4 @@
-# American Physical Society (APS) Overview
+# American Physical Society (APS)
 
 - **Website:** [American Physical Society (APS)](https://www.aps.org/)
 

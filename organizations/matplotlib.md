@@ -1,4 +1,4 @@
-# Matplotlib Overview
+# Matplotlib
 
 - **Website:** [Matplotlib](https://matplotlib.org/)
 

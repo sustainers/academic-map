@@ -1,4 +1,4 @@
-# The Turing Way Overview
+# The Turing Way
 
 - **Website:** [The Turing Way](https://the-turing-way.netlify.app/)
 

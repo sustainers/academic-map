@@ -1,4 +1,4 @@
-# Astropy Overview
+# Astropy
 
 - **Website:** [Astropy](https://www.astropy.org/)
 

@@ -1,4 +1,4 @@
-# Japan Aerospace Exploration Agency (JAXA) Overview
+# Japan Aerospace Exploration Agency (JAXA)
 
 - **Website:** [Japan Aerospace Exploration Agency (JAXA)](https://www.jaxa.jp/)
 

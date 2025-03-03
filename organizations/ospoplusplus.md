@@ -1,4 +1,4 @@
-# OSPO++ Overview
+# OSPO++
 
 - **Website:** [OSPO++](https://ospoplusplus.com/)
 

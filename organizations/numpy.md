@@ -1,4 +1,4 @@
-# NumPy Overview
+# NumPy
 
 - **Website:** [NumPy](https://numpy.org/)
 

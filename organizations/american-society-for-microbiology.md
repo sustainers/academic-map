@@ -1,4 +1,4 @@
-# American Society for Microbiology Overview
+# American Society for Microbiology
 
 - **Website:** [American Society for Microbiology](https://asm.org/)
 
