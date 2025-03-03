@@ -1,6 +1,3 @@
----
-orphan: true
----
 # [NSF Geosciences Open Science Ecosystem (GEO OSE)](https://new.nsf.gov/funding/opportunities/geo-ose-geosciences-open-science-ecosystem)
 
 ## About
