@@ -19,3 +19,7 @@ OpSci is working on several projects that aim to build a decentralized, open-sci
 ### OpSci Fellowship Program
 
 The [OpSci dWeb Fellowship](https://github.com/opscientia/society-home?tab=readme-ov-file#opsci-fellowship) is a 12-week program that supports talented students and early-career researchers in contributing to open source software and research aligned with OpSci’s mission . Fellows receive a stipend and mentorship to work on projects that advance decentralized science. The fellowship is as much about building human capital (educating and training “DeSci” developers/researchers) as it is about producing new tools and research.
+
+## Extra context
+
+It appears that OpScientia is related to [Protocol Labs](../funders/protocollabs.md), as they are [linked](https://commons.opsci.io/) to the Filecoin Foundation. It is unclear who the team is or how to get involved.

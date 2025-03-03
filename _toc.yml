@@ -134,7 +134,7 @@ chapters:
   - file: organizations/scipy.md
     title: Scipy
   - file: organizations/opsci.md
-    title: OPSCI
+    title: OpSci
   - file: organizations/software-freedom-conservancy.md
     title: SFC
   - file: organizations/science-gateways-community-institute.md
@@ -159,6 +159,8 @@ chapters:
     title: USRSE
   - file: organizations/2i2c.md
     title: 2i2c
+  - file: organizations/ossci.md
+    title: OSSci
 - file: service-providers/index.md
   sections:
   - file: service-providers/tidelift.md
@@ -166,9 +168,8 @@ chapters:
   sections:
   - file: funders/cisco.md
   - file: funders/czi.md
+  - file: funders/national_science_foundation.md
+    title: NSF
   - file: funders/protocollabs.md
   - file: funders/top10vpn.md
-  - file: funders/nsf-grants/pose.md
-  - file: funders/nsf-grants/safe-ose.md
-  - file: funders/nsf-grants/geo-ose.md
 - file: individuals.md

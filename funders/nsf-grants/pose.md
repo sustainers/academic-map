@@ -1,3 +1,6 @@
+---
+orphan: true
+---
 # [NSF Pathways to Enable open source Ecosystems (POSE)](https://new.nsf.gov/funding/opportunities/pose-pathways-enable-open-source-ecosystems)
 
 ## About

@@ -74,6 +74,14 @@
     {
       "pattern": "https://today.ucsd.edu/story/new-grant-supports-multi-uc-campus-effort-to-build-network-of-open-source-program-offices",
       "reason": "403"
+
+      "pattern": "https://osf.io/institutions/gwu",
+      "reason": "500"
+    },
+    {
+      "pattern": "https://x.com/scicodes1",
+      "reason": "400"
+
     }
   ]
 }
