@@ -1,6 +1,6 @@
 # SciOS: Advancing Open Science Infrastructure
 
- - *Homepage*: [Link](https://www.scios.tech/)
+- *Homepage*: [Link](https://www.scios.tech/)
 
 ## Mission and Core Objectives
 
