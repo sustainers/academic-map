@@ -40,8 +40,14 @@ chapters:
   - file: universities/university-of-wisconsin-madison.md
   - file: universities/university-of-texas-austin.md
     title: UT Austin
+<<<<<<< HEAD
   - file: universities/university_at_buffalo.md
     title: University at Buffalo
+||||||| c1b3271
+=======
+  - file: universities/stony-brook-university.md
+    title: Stony Brook University
+>>>>>>> @{-1}
 - file: organizations/index.md
   sections:
   - file: organizations/apachefoundation.md
