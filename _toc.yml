@@ -40,6 +40,8 @@ chapters:
   - file: universities/university-of-wisconsin-madison.md
   - file: universities/university-of-texas-austin.md
     title: UT Austin
+  - file: universities/university_at_buffalo.md
+    title: University at Buffalo
 - file: organizations/index.md
   sections:
   - file: organizations/apachefoundation.md
