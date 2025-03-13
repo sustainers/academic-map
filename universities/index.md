@@ -44,7 +44,6 @@ There are also universities that develop open source software, but don't have po
 - [University at Buffalo](./university_at_buffalo.md)
 - University of Cambridge – [IT services has some code available](https://www.dns.cam.ac.uk/about/floss.html).
 - [ETH Zurich](./eth-zurich.md)
-- [Rey Juan Carlos University](./rey-juan-carlos-university.md)
 - [Stony Brook University](./stony_brook_university.md)
 - [University of Pennsylvania](./university_of_pennsylvania.md)
 - [University of Victoria](./university_of_victoria.md)
