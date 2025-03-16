@@ -27,4 +27,4 @@ UNIZG has established several initiatives to advance open source and open scienc
 
 ## Contact  
 
-For more information on open science and software development at UNIZG, visit the [University of Zagreb homepage](https://www.unizg.hr/homepage/) or contact [info@unizg.hr](mailto:info@unizg.hr).
+For more information on open science and software development at UNIZG, visit the [University of Zagreb](https://www.unizg.hr) or contact [info@unizg.hr](mailto:info@unizg.hr).
