@@ -30,6 +30,8 @@ chapters:
     title: University at Buffalo
   - file: universities/university-of-california-davis.md
     title: UC Davis
+  - file: universities/university_of_zagreb.md
+    title: University of Zagreb
   - file: universities/university-of-california-los-angeles.md
     title: UCLA
   - file: universities/university-of-california-san-diego.md
