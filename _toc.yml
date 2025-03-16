@@ -32,8 +32,6 @@ chapters:
     title: UC Berkeley
   - file: universities/university-of-california-davis.md
     title: UC Davis
-  - file: universities/university-college-london.md
-    title: UCL
   - file: universities/university-of-california-los-angeles.md
     title: UCLA
   - file: universities/university-of-california-san-diego.md
@@ -56,6 +54,9 @@ chapters:
   - file: universities/university-of-vermont.md
     title: UVM
   - file: universities/university-of-wisconsin-madison.md
+    title: University of Wisconsin–Madison
+  - file: universities/university_of_zagreb.md
+    title: University of Zagreb
 - file: organizations/index.md
   sections:
   - file: organizations/apachefoundation.md
