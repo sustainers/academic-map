@@ -1,6 +1,6 @@
 # University of Zagreb Overview
 
-- **Website:** [University of Zagreb](https://www.unizg.hr/homepage/)
+- **Website:** [University of Zagreb](https://www.unizg.hr)
 - **Open Science Policy:** [Open Science at UNIZG](https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/news/open-source-service-open-science)
 - **Centre for Software Development:** [Software Development at UNIZG](https://www.foi.unizg.hr/en/about-us/departments/czrpp)
 
