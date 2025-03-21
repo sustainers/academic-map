@@ -26,7 +26,7 @@ chapters:
   - file: universities/trinity-college-dublin.md
   - file: universities/university-of-california-berkeley.md
     title: UC Berkeley
-  - file: universities/university_at_buffalo.md
+  - file: universities/university-at-buffalo.md
     title: University at Buffalo
   - file: universities/university-of-california-davis.md
     title: UC Davis
@@ -39,9 +39,9 @@ chapters:
   - file: universities/university-of-california-santa-cruz.md
     title: UC Santa Cruz
   - file: universities/university-of-michigan.md
-  - file: universities/university_of_victoria.md
+  - file: universities/university-of-victoria.md
     title: University of Victoria
-  - file: universities/university_of_pennsylvania.md
+  - file: universities/university-of-pennsylvania.md
     title: UPenn
   - file: universities/university-of-texas-austin.md
     title: UT Austin
@@ -177,7 +177,7 @@ chapters:
   sections:
   - file: funders/cisco.md
   - file: funders/czi.md
-  - file: funders/national_science_foundation.md
+  - file: funders/national-science-foundation.md
     title: NSF
   - file: funders/protocollabs.md
   - file: funders/top10vpn.md
