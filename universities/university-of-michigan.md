@@ -11,8 +11,8 @@ MOSS is a pilot iniative launched by the technology transfer office. The long-te
 
 ## Core Objectives
 
-- Offering promotion and community development for open source projects. 
-- Equipping open source project teams with the tools and resources to grow and sustain an active community. 
+- Offering promotion and community development for open source projects.
+- Equipping open source project teams with the tools and resources to grow and sustain an active community.
 
 ## Primary Contacts
 
