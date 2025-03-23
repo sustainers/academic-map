@@ -28,4 +28,3 @@ UNIZG has established several initiatives to advance open source and open scienc
 ## Contact
 
 There are no known ways to contact UNIZG about open source work. You can contact the general university through their [website](https://www.unizg.hr) or via [info@unizg.hr](mailto:info@unizg.hr).
-
