@@ -12,7 +12,7 @@ IOI plays a pivotal role in strengthening the open ecosystem through cross-secto
 ## Key Activities Supporting Open Infrastructure
 
 - **Strategic Support for Open Source Projects:** IOI provides analysis, funding pathways, and infrastructure guidance to developers and institutions involved in open source technology.  
-  [See IOI's Work](https://investinopen.org/work/)
+  [See IOI's Work](https://investinopen.org/our-impact/)
 
 - **Investments in Open Infrastructure Research:** IOI conducts global research to identify gaps in open science infrastructure and promote equitable access to funding and governance.  
   [Read the Landscape Scan](https://investinopen.org/research/)
