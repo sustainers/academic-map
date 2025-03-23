@@ -80,6 +80,10 @@
       "reason": "500"
     },
     {
+      "pattern": "https://www.esa.int/",
+      "reason": "403"
+    },
+    {
       "pattern": "https://x.com/scicodes1",
       "reason": "400"
     }
