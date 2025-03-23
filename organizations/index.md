@@ -14,7 +14,7 @@ Sorted alphabetically.
 - [Community Initiatives](https://communityinitiatives.org/)
 - [Creative Commons](./creativecommons.md)
 - [Eclipse Foundation](https://www.eclipse.org/)
-- [Invest in Open Infrastructure](https://investinopen.org/)
+- **[Invest in Open Infrastructure](./invest-in-open-infrastructure.md)**
 - [Linux Foundation](https://www.linuxfoundation.org/)
 - [Open Collective](https://opencollective.com)
   - [Open Source Collective](https://www.oscollective.org/)
