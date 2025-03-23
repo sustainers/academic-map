@@ -25,6 +25,7 @@ UNIZG has established several initiatives to advance open source and open scienc
 
 - **Open Science and Research Data Sharing:** The university supports open data initiatives, ensuring research findings remain accessible to the global academic community.
 
-## Contact  
+## Contact
 
-For more information on open science and software development at UNIZG, visit the [University of Zagreb](https://www.unizg.hr) or contact [info@unizg.hr](mailto:info@unizg.hr).
+There are no known ways to contact UNIZG about open source work. You can contact the general university through their [website](https://www.unizg.hr) or via [info@unizg.hr](mailto:info@unizg.hr).
+
