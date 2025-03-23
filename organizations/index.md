@@ -66,6 +66,7 @@ Sorted alphabetically.
 - **[Matplotlib](./matplotlib.md)**
 - **[Astropy](./astropy.md)**
 - **[Bioconductor](./bioconductor.md)**
+- **[CERN](./cern.md)**
 - **[Julia Language](./julia-language.md)**
 - **[2i2c](./2i2c.md)**
 
