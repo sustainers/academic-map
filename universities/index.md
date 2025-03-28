@@ -49,3 +49,9 @@ There are also universities that develop open source software, but don't have po
 - [University of Michigan](./university-of-michigan.md)
 - [University of Pennsylvania](./university-of-pennsylvania.md)
 - [University of Victoria](./university-of-victoria.md)
+
+## Research Institutions
+
+These institutions are not universities but play a major role in advancing open source research and infrastructure.
+
+- [CERN](../organizations/cern.md)
