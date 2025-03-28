@@ -88,8 +88,12 @@
       "reason": "402"
     },
     {
-  "pattern": "https://commons.opsci.io/",
-  "reason": "402"
+      "pattern": "https://commons.opsci.io/",
+      "reason": "402"
+    },
+    {
+      "pattern": "https://www.heliosopen.org/members",
+      "reason": "403"
     }
   ]
 }
