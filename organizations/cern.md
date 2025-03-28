@@ -1,4 +1,4 @@
-# CERN (European Organization for Nuclear Research) Overview
+# European Organization for Nuclear Research (CERN)
 
 - **Website:** [CERN](https://home.cern/)
 - **Open Source Program Office (OSPO):** [CERN OSPO Announcement](https://home.cern/news/news/computing/cerns-new-open-source-program-office)
