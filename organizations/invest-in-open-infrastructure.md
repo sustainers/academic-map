@@ -20,15 +20,6 @@ IOI plays a pivotal role in strengthening the open ecosystem through cross-secto
 - **Cross-Institutional Collaboration:** IOI engages with universities, libraries, and funders to advocate for more sustainable support for open infrastructure and software.  
   [See Collaboration in Action](https://investinopen.org/blog/invest-in-open-infrastructure-announces-2-7m-commitment-from-founding-group-for-the-ioi-fund-for-network-adoption)
 
-## Impact
-
-IOI's work has helped shape global conversations on sustainable digital infrastructure. Highlights of their impact include:
-
-- Influencing policy change and funding models at institutions and philanthropic organizations.
-- Supporting over 10 organizations through strategic guidance and funding discovery.
-- Publishing influential research that is cited across the open science and open infrastructure ecosystem.  
-  [Explore IOI's Impact](https://investinopen.org/our-impact/)
-
 ## Contact
 
 To learn more about IOI’s research or to collaborate, visit [investinopen.org](https://investinopen.org/) or contact [info@investinopen.org](mailto:info@investinopen.org).
