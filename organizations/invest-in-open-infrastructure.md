@@ -20,6 +20,13 @@ IOI plays a pivotal role in strengthening the open ecosystem through cross-secto
 - **Cross-Institutional Collaboration:** IOI engages with universities, libraries, and funders to advocate for more sustainable support for open infrastructure and software.  
   [See Collaboration in Action](https://investinopen.org/blog/invest-in-open-infrastructure-announces-2-7m-commitment-from-founding-group-for-the-ioi-fund-for-network-adoption)
 
+## Sustain Podcast
+
+IOI team members have been featured on the Sustain Podcast, where they discuss the challenges and opportunities in building sustainable open infrastructure:
+
+- [The State of Open Infrastructure 2024, from IOI with Emmy Tsang](https://podcast.sustainoss.org/235)
+- [Investing in Open Infrastructure with Kaitlin Thaney](https://podcast.sustainoss.org/43)
+
 ## Contact
 
 To learn more about IOI’s research or to collaborate, visit [investinopen.org](https://investinopen.org/) or contact [info@investinopen.org](mailto:info@investinopen.org).
