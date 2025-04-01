@@ -17,6 +17,7 @@ Sorted alphabetically.
 - HELIOS
 - **[Invest in Open Infrastructure](./invest-in-open-infrastructure.md)**
 - [Linux Foundation](https://www.linuxfoundation.org/)
+- **[Navigation](./navigation.md)**
 - [Open Collective](https://opencollective.com)
   - [Open Source Collective](https://www.oscollective.org/)
   - [Open Collective Foundation](https://opencollective.com/foundation)
