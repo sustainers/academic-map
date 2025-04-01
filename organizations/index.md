@@ -12,7 +12,7 @@ Sorted alphabetically.
 - [Apereo](https://www.apereo.org/)
 - [Code for Science and Society](https://www.codeforsociety.org/)
 - [Community Initiatives](https://communityinitiatives.org/)
-- [Creative Commons](./creativecommons.md)
+- **[Creative Commons](./creativecommons.md)**
 - [Eclipse Foundation](https://www.eclipse.org/)
 - **[Invest in Open Infrastructure](./invest-in-open-infrastructure.md)**
 - [Linux Foundation](https://www.linuxfoundation.org/)
