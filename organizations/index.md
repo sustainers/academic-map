@@ -16,6 +16,7 @@ Sorted alphabetically.
 - [Eclipse Foundation](https://www.eclipse.org/)
 - [Invest in Open Infrastructure](https://investinopen.org/)
 - [Linux Foundation](https://www.linuxfoundation.org/)
+- **[Navigation](./navigation.md)**
 - [Open Collective](https://opencollective.com)
   - [Open Source Collective](https://www.oscollective.org/)
   - [Open Collective Foundation](https://opencollective.foundation/)
