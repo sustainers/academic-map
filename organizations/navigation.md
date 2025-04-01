@@ -4,9 +4,9 @@
 
 ## Overview
 
-Navigation is a community-driven nonprofit organization dedicated to building and sustaining public interest technology ecosystems. It supports individuals, organizations, and governments working on projects that serve the public good, particularly at the intersection of technology, policy, and society. 
+Navigation is a community-driven nonprofit organization dedicated to building and sustaining public interest technology ecosystems. It supports individuals, organizations, and governments working on projects that serve the public good, particularly at the intersection of technology, policy, and society.
 
-Navigation focuses on creating sustainable pathways for technologists who want to work on issues like transparency, open government, public data, and civic engagement. 
+Navigation focuses on creating sustainable pathways for technologists who want to work on issues like transparency, open government, public data, and civic engagement.
 
 ## Key Activities Supporting Open Infrastructure and Public Interest Technology
 
