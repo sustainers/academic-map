@@ -18,12 +18,6 @@ UNIZG participates in and supports initiatives that promote open source and open
 - **Centre for Software Development:** Housed at the Faculty of Organization and Informatics, this center actively monitors and participates in open source software projects. It provides resources and support for students and researchers engaged in open development.  
   [Explore Software Development at UNIZG](https://www.foi.unizg.hr/en/about-us/departments/czrpp)
 
-## Notable Open Source Contributions
-
-- **Open Source Promotion:** UNIZG encourages open access and open source practices through institutional policies and participation in national and EU-level initiatives. While the university promotes open source, there is currently no central public repository of software projects.
-
-- **Open Science and Research Data Sharing:** The university supports open data initiatives, ensuring research findings remain accessible to the global academic community.
-
 ## Contact
 
 There are no known ways to contact UNIZG about open source work. You can contact the general university through their [website](https://www.unizg.hr) or via [info@unizg.hr](mailto:info@unizg.hr).
