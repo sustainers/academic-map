@@ -16,7 +16,7 @@ Navigation focuses on creating sustainable pathways for technologists who want t
 - **Fellowship and Mentorship Programs:** Navigation supports technologists and researchers through fellowships and mentorship programs that promote sustainable, open, and community-centered public interest technology projects.
 
 - **Infrastructure Support:** The organization offers fiscal sponsorship and strategic support for mission-driven technology projects, helping them scale sustainably and remain community-focused.  
-  [Learn more about Infrastructure Programs](https://www.navigation.org/for-projects)
+  [Learn more about Infrastructure Programs](https://www.navigation.org/grants/open-science)
 
 - **Community Building:** Navigation fosters collaboration through convenings, partnerships, and community initiatives that encourage knowledge exchange and mutual support among practitioners.
 
