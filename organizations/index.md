@@ -93,6 +93,7 @@ Sorted alphabetically.
 
 ### Leadership
 
+- **[CORSA (Center for Open-Source Research Software Advancement)](./corsa.md)**
 - **[OSPO++](./ospoplusplus.md)**
 - **[URSSI](./urssi.md)**
 - **[Science Gateways Community Institute (SGCI)](./science-gateways-community-institute.md)**
