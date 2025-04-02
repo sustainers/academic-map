@@ -43,6 +43,8 @@ chapters:
     title: UC Santa Cruz
   - file: universities/university-at-buffalo.md
     title: University at Buffalo
+  - file: universities/university-of-illinois-urbana-champaign.md
+    title: UIUC
   - file: universities/university-of-michigan.md
   - file: universities/university-of-victoria.md
     title: University of Victoria
