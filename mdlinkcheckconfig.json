@@ -94,6 +94,10 @@
     {
       "pattern": "https://www.heliosopen.org/members",
       "reason": "403"
+    },
+    {
+      "pattern": "https://terminusdb.com/",
+      "reason": "0"
     }
   ]
 }
