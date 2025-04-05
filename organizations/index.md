@@ -18,7 +18,7 @@ Sorted alphabetically.
 - [Linux Foundation](https://www.linuxfoundation.org/)
 - [Open Collective](https://opencollective.com)
   - [Open Source Collective](https://www.oscollective.org/)
-  - [Open Collective Foundation](https://opencollective.foundation/)
+  - [Open Collective Foundation](https://opencollective.com/foundation)
 - [Open Molecular Software Foundation](https://omsf.io/)
 - [NumFOCUS](https://numfocus.org)
 - **[Python Software Foundtion (PSF)](./psf.md)**
