@@ -98,6 +98,10 @@
     {
       "pattern": "https://terminusdb.com/",
       "reason": "0"
+    },
+    {
+      "pattern": "https://you.stonybrook.edu/mckinnonrosati/open-source/",
+      "reason": "0"
     }
   ]
 }
