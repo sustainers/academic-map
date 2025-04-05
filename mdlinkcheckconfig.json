@@ -109,6 +109,14 @@
     {
       "pattern": "https://you.stonybrook.edu/mckinnonrosati/open-source/",
       "reason": "0"
+    },
+    {
+      "pattern": "https://opencollective.foundation/",
+      "reason": "0"
+    },
+    {
+      "pattern": "https://terminusdb.com/",
+      "reason": "0"
     }
   ]
 }
