@@ -82,6 +82,18 @@
     {
       "pattern": "https://x.com/scicodes1",
       "reason": "400"
+    },
+    {
+      "pattern": "https://opsci.io",
+      "reason": "402"
+    },
+    {
+      "pattern": "https://commons.opsci.io/",
+      "reason": "402"
+    },
+    {
+      "pattern": "https://terminusdb.com/",
+      "reason": "0"
     }
   ]
 }
