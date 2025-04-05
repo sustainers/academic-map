@@ -80,6 +80,8 @@ chapters:
   - file: organizations/bioconductor.md
   - file: organizations/chaoss.md
     title: CHAOSS
+  - file: organizations/corsa.md
+    title: CORSA
   - file: organizations/creativecommons.md
     title: Creative Commons
   - file: organizations/center-for-scientific-collaboration-and-community-engagement.md
