@@ -7,7 +7,7 @@ University involvement in open source varies widely. For instance, a university 
 The following universities have an office which has the standing of an Open Source Program Office:
 
 - [Carnegie Mellon University](./carnegie-mellon-university.md)
-- [CERN](../organizations/cern.md) - Research instution
+- [CERN](./cern.md) - Research instution
 - [George Washington University](./george-washington.md)
 - [Georgia Institute of Technology](./georgia-institute-of-technology.md)
 - [Johns Hopkins University](./johns-hopkins-university.md)

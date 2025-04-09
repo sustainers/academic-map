@@ -8,6 +8,8 @@ chapters:
 - file: universities/index.md
   sections:
   - file: universities/carnegie-mellon-university.md
+  - file: universities/cern.md
+    title: CERN
   - file: universities/eth-zurich.md
   - file: universities/george-washington.md
   - file: universities/georgia-institute-of-technology.md
@@ -82,8 +84,6 @@ chapters:
   - file: organizations/bioconductor.md
   - file: organizations/chaoss.md
     title: CHAOSS
-  - file: organizations/cern.md
-    title: CERN
   - file: organizations/corsa.md
     title: CORSA
   - file: organizations/creativecommons.md
