@@ -19,6 +19,7 @@ The following universities have an office which has the standing of an Open Sour
 - [Stanford University](./stanford-university.md)
 - [Syracuse University](./syracuse.md)
 - [Trinity College Dublin](./trinity-college-dublin.md)
+- [Université Grenoble Alpes](./université-grenoble-alpes.md)
 - [University of California Berkeley](./university-of-california-berkeley.md)
 - [University of California Davis](./university-of-california-davis.md)
 - [University of California Los Angeles](./university-of-california-los-angeles.md)
