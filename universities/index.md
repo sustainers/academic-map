@@ -19,7 +19,6 @@ The following universities have an office which has the standing of an Open Sour
 - [Stanford University](./stanford-university.md)
 - [Syracuse University](./syracuse.md)
 - [Trinity College Dublin](./trinity-college-dublin.md)
-- [Université Grenoble Alpes](./université-grenoble-alpes.md)
 - [University of California Berkeley](./university-of-california-berkeley.md)
 - [University of California Davis](./university-of-california-davis.md)
 - [University of California Los Angeles](./university-of-california-los-angeles.md)
@@ -47,6 +46,7 @@ There are also universities that develop open source software, but don't have po
 - [Rey Juan Carlos University](./rey-juan-carlos-university.md)
 - [Stony Brook University](./stony-brook-university.md)
 - [University at Buffalo](./university-at-buffalo.md)
+- [Université Grenoble Alpes](./université-grenoble-alpes.md)
 - [University College London](./university-college-london.md)
 - [University of Cambridge](https://www.dns.cam.ac.uk/about/floss.html) – IT services has some code available.
 - [University of Michigan](./university-of-michigan.md)
