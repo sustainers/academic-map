@@ -11,7 +11,6 @@ SciCodes, established in 2021, is a consortium of academic, disciplinary, and in
 
 - **General Inquiries**: [info@scicodes.net](mailto:info@scicodes.net)  
 - **Mailing List**: [SciCodes Google Group](https://groups.google.com/g/scicodes?pli=1)  
-- **Twitter**: [@SciCodes1](https://x.com/scicodes1)  
 
 ## Personnel  
 
