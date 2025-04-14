@@ -17,6 +17,7 @@ chapters:
   - file: universities/lero.md
   - file: universities/oregon-state-university.md
   - file: universities/penn-state.md
+  - file: universities/purdue.md
   - file: universities/rey-juan-carlos-university.md
   - file: universities/rit.md
   - file: universities/slu.md
@@ -102,6 +103,8 @@ chapters:
   - file: organizations/european-space-agency.md
   - file: organizations/free-software-foundation.md
     title: FSF
+  - file: organizations/indiana.md
+    title: Indiana University
   - file: organizations/institute-of-electrical-and-electronics-engineers.md
     title: IEEE
   - file: organizations/internet-society.md
@@ -112,6 +115,7 @@ chapters:
     title: JOSS
   - file: organizations/julia-language.md
     title: Julia
+  - file: organizations/lawrence-berkeley-lab.md
   - file: organizations/linux-foundation.md
     title: Linux Foundation
   - file: organizations/matplotlib.md
@@ -174,6 +178,8 @@ chapters:
     title: SSI
   - file: organizations/urssi.md
     title: URSSI
+  - file: organizations/university-corp-atmospheric-research.md
+    title: NSF NCAR
   - file: organizations/usrse.md
     title: USRSE
   - file: organizations/2i2c.md
@@ -184,6 +190,7 @@ chapters:
   sections:
   - file: service-providers/tidelift.md
   - file: service-providers/scios.md
+  - file: service-providers/globus.md
 - file: funders/index.md
   sections:
   - file: funders/cisco.md
