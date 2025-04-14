@@ -7,7 +7,8 @@
 
 ## General Description
 
-UGA provides a range of support and education in four areas - infrastructure, training, events and general support: 
+UGA provides a range of support and education in four areas - infrastructure, training, events and general support:
+
 - **Infrastructure:** Provision of software forge (with shared runners) and harvested by Software Heritage, a Notebook platform, cloud computing (especially for private runners).
 - **Training and events:** Doctoral courses on open science and technical issues (Git, best practices, dissemination), thematic schools and webinars (dissemination, referencing).
 - **Events:** Conferences, workshops (Open Science Days@UGA, workshop on AI for development)

@@ -7,7 +7,8 @@
 
 ## General Description
 
-UCL's ARC group currently engage with researchers who are producing open source as part of the open science program. Current activities focus on: 
+UCL's ARC group currently engage with researchers who are producing open source as part of the open science program. Current activities focus on:
+
 - Promoting funding calls.
 - Delivering OSS workshops.
 - Capturing UCL OSS metrics.
@@ -17,6 +18,7 @@ UCL's ARC group currently engage with researchers who are producing open source 
 ## Core Objectives
 
 Long term goals and priorities are:
+
 - OSS discovery at the university.
 - Providing guidance and support for researchers consuming and creating OSS at UCL.
 
