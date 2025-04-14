@@ -6,9 +6,9 @@
 
 ## General Description
 
-Purdue University's Rosen Center for Advanced Computing (RCAC) actively supports and contributes to open-source software through various initiatives and tools designed to enhance research and collaboration. Key open-source programs and tools associated with RCAC include:​
+Purdue University's Rosen Center for Advanced Computing (RCAC) actively supports and contributes to open source software through various initiatives and tools designed to enhance research and collaboration. Key open source programs and tools associated with RCAC include:​
 
-Notable open-source software developed by RCAC includes:​
+Notable open source software developed by RCAC includes:​
 
 - **CANARI**: A Python-based framework designed for managing and automating HPC workflows, facilitating efficient job scheduling and resource utilization.​
 

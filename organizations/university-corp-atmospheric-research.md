@@ -4,9 +4,9 @@
 
 ## Overview
 
-The National Center for Atmospheric Research (NCAR), headquartered in Boulder, Colorado, is a U.S. National Science Foundation (NSF) facility managed by the University Corporation for Atmospheric Research (UCAR). NCAR is dedicated to advancing Earth system science through research, high-performance computing, and the development of open-source software tools that support the global scientific community.​
+The National Center for Atmospheric Research (NCAR), headquartered in Boulder, Colorado, is a U.S. National Science Foundation (NSF) facility managed by the University Corporation for Atmospheric Research (UCAR). NCAR is dedicated to advancing Earth system science through research, high-performance computing, and the development of open source software tools that support the global scientific community.​
 
-NCAR's contributions to open-source software are extensive and cater to various aspects of atmospheric and climate research. Notable open-source projects developed or maintained by NCAR include:​
+NCAR's contributions to open source software are extensive and cater to various aspects of atmospheric and climate research. Notable open source projects developed or maintained by NCAR include:​
 
 - **Community Earth System Model (CESM)**: A comprehensive climate model that simulates the Earth's climate system, integrating components like atmosphere, ocean, land, and sea ice.​
 Wikipedia
