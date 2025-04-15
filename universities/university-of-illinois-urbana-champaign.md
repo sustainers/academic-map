@@ -2,7 +2,7 @@
 # University of Illinois Urbana-Champaign
 
 - *OSPO*: No, but there is a student club [Open-Source @ Illinois](https://opensourceatillinois.com/)
-- *Personnel*:  Madicken Munk (who runs Summer School in Open Science + Research Software Engineering)
+- *Personnel*:  Madicken Munk (who runs Summer School in Open Science + Research Software Engineering) or Dan Katz (who is Associate Editor-in-Chief of the Journal of Open Source Software)
 - *Link*: [Summer School](https://urssi.us/blog/2024/05/20/applications-now-open-for-a-summer-school-in-open-science--research-software-engineering/) and [Student Club](https://opensourceatillinois.com/)
 
 ## General Description
