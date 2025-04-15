@@ -28,6 +28,10 @@
       "pattern": "https://ospoplusplus.com"
     },
     {
+      "pattern": "https://tidelift.com",
+      "reason": "404"
+    },
+    {
       "pattern": "https://x.com/scicodes1",
       "reason": "400"
     },
