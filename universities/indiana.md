@@ -1,7 +1,7 @@
 # Indiana University
 
 - *OSPO*: No, however the university does have open source guidelines (See below)
-- *Email*: opensource@iu.edu
+- *Email*: [opensource@iu.edu](mailto:opensource@iu.edu)
 - *Link*: [Open Source Policy & Procedures](https://indiana-university.github.io/)
 
 # Overview

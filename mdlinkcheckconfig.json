@@ -72,6 +72,9 @@
       "reason": "403"
     },
     {
+      "pattern": "https://opensource.syracuse.edu"
+    },
+    {
       "pattern": "https://datanexus.ucsd.edu/ospo/index.html",
       "reason": "403"
     },
