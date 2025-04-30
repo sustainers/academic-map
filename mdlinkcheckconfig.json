@@ -113,6 +113,22 @@
     {
       "pattern": "https://you.stonybrook.edu/mckinnonrosati/open-source/",
       "reason": "0"
+    },
+    {
+      "pattern": "./universities/indiana.md",
+      "reason": "400"
+    },
+    {
+      "pattern": "./universities/purdue.md",
+      "reason": "400"
+    },
+    {
+      "pattern": "universities/university-of-illinois-urbana-champaign.md",
+      "reason": "400"
+    },
+    {
+      "pattern": "./universities/notre-dame.md",
+      "reason": "400"
     }
   ]
 }
