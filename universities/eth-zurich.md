@@ -1,13 +1,13 @@
 # ETH Zurich
 
-- *OSPO*: OSS Working Group, in the Tech Transfer Office
-- *Personnel*: Ying Wang
-- *Link*: [https://ethz.ch/en/industry/transfer.html](https://ethz.ch/en/industry/transfer.html)
+- *OSPO*: OSS Working Group, in the Tech Transfer Office  
+- *Personnel*: Ying Wang  
+- *Link*: [https://ethz.ch/en/industry/transfer.html](https://ethz.ch/en/industry/transfer.html)  
 - *Member of*: [CURIOSS](https://curioss.org/)
 
-## General Description
+## Open Source Program Office
 
-ETH Zurich has an OPSO that runs through the Tech Transfer Office (TTO). They have a long page explaining their [Open Source Policy](https://ethz.ch/en/industry/researchers/licensing-software/open-source-software.html), which includes information about licensing, patenting, and archiving their code.
+ETH Zurich has an OSPO that runs through the Tech Transfer Office (TTO). They have a long page explaining their [Open Source Policy](https://ethz.ch/en/industry/researchers/licensing-software/open-source-software.html), which includes information about licensing, patenting, and archiving their code.
 
 ## Core Objectives
 

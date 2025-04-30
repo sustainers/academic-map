@@ -28,6 +28,10 @@
       "pattern": "https://ospoplusplus.com"
     },
     {
+      "pattern": "https://tidelift.com",
+      "reason": "404"
+    },
+    {
       "pattern": "https://x.com/scicodes1",
       "reason": "400"
     },
@@ -68,6 +72,9 @@
       "reason": "403"
     },
     {
+      "pattern": "https://opensource.syracuse.edu"
+    },
+    {
       "pattern": "https://datanexus.ucsd.edu/ospo/index.html",
       "reason": "403"
     },
@@ -80,12 +87,31 @@
       "reason": "500"
     },
     {
+      "pattern": "https://www.esa.int/",
+      "reason": "403"
+    },
+    {
       "pattern": "https://x.com/scicodes1",
       "reason": "400"
     },
     {
-  "pattern": "https://www.unizg.hr",
-  "reason": "0"
+      "pattern": "https://www.unizg.hr",
+      "reason": "0"
+    }
+      "pattern": "https://opsci.io",
+      "reason": "402"
+    },
+    {
+      "pattern": "https://commons.opsci.io/",
+      "reason": "402"
+    },
+    {
+      "pattern": "https://www.heliosopen.org/members",
+      "reason": "403"
+    },
+    {
+      "pattern": "https://you.stonybrook.edu/mckinnonrosati/open-source/",
+      "reason": "0"
     }
   ]
 }

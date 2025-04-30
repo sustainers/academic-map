@@ -8,6 +8,8 @@ chapters:
 - file: universities/index.md
   sections:
   - file: universities/carnegie-mellon-university.md
+  - file: universities/cern.md
+    title: CERN
   - file: universities/eth-zurich.md
   - file: universities/george-washington.md
   - file: universities/georgia-institute-of-technology.md
@@ -15,6 +17,7 @@ chapters:
   - file: universities/lero.md
   - file: universities/oregon-state-university.md
   - file: universities/penn-state.md
+  - file: universities/purdue.md
   - file: universities/rey-juan-carlos-university.md
   - file: universities/rit.md
   - file: universities/slu.md
@@ -24,12 +27,13 @@ chapters:
     title: Stony Brook University
   - file: universities/syracuse.md
   - file: universities/trinity-college-dublin.md
+  - file: universities/université-grenoble-alpes.md
   - file: universities/university-of-california-berkeley.md
     title: UC Berkeley
-  - file: universities/university-at-buffalo.md
-    title: University at Buffalo
   - file: universities/university-of-california-davis.md
     title: UC Davis
+  - file: universities/university-college-london.md
+    title: UCL
   - file: universities/university-of-california-los-angeles.md
     title: UCLA
   - file: universities/university-of-california-san-diego.md
@@ -38,6 +42,10 @@ chapters:
     title: UC Santa Barbara
   - file: universities/university-of-california-santa-cruz.md
     title: UC Santa Cruz
+  - file: universities/university-at-buffalo.md
+    title: University at Buffalo
+  - file: universities/university-of-illinois-urbana-champaign.md
+    title: UIUC
   - file: universities/university-of-michigan.md
   - file: universities/university-of-victoria.md
     title: University of Victoria
@@ -83,6 +91,8 @@ chapters:
   - file: organizations/bioconductor.md
   - file: organizations/chaoss.md
     title: CHAOSS
+  - file: organizations/corsa.md
+    title: CORSA
   - file: organizations/creativecommons.md
     title: Creative Commons
   - file: organizations/center-for-scientific-collaboration-and-community-engagement.md
@@ -96,14 +106,19 @@ chapters:
   - file: organizations/european-space-agency.md
   - file: organizations/free-software-foundation.md
     title: FSF
+  - file: organizations/indiana.md
+    title: Indiana University
   - file: organizations/institute-of-electrical-and-electronics-engineers.md
     title: IEEE
   - file: organizations/internet-society.md
+  - file: organizations/invest-in-open-infrastructure.md
+    title: Invest in Open Infrastructure
   - file: organizations/japan-aerospace-exploration-agency.md
   - file: organizations/joss.md
     title: JOSS
   - file: organizations/julia-language.md
     title: Julia
+  - file: organizations/lawrence-berkeley-lab.md
   - file: organizations/linux-foundation.md
     title: Linux Foundation
   - file: organizations/matplotlib.md
@@ -166,6 +181,8 @@ chapters:
     title: SSI
   - file: organizations/urssi.md
     title: URSSI
+  - file: organizations/university-corp-atmospheric-research.md
+    title: NSF NCAR
   - file: organizations/usrse.md
     title: USRSE
   - file: organizations/2i2c.md
@@ -176,6 +193,7 @@ chapters:
   sections:
   - file: service-providers/tidelift.md
   - file: service-providers/scios.md
+  - file: service-providers/globus.md
 - file: funders/index.md
   sections:
   - file: funders/cisco.md
