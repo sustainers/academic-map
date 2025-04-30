@@ -97,7 +97,8 @@
     {
       "pattern": "https://www.unizg.hr",
       "reason": "0"
-    }
+    },
+    {
       "pattern": "https://opsci.io",
       "reason": "402"
     },
