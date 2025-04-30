@@ -1,7 +1,7 @@
 # Open Source Science Initiative (OSSci) Overview
 
 - **Website:** [Open Source Science Initiative](https://www.opensource.science/)
-- **Join Interest Groups:** [Join OSSci Interest Groups](https://chief.sc/ossci-join)
+- **Join Interest Groups:** [Join OSSci Interest Groups](https://groups.google.com/a/opensource.science/g/map-of-open-source-science/about?pli=1)
 - **OSSci Spotlight on Medium:** [Read OSSci Spotlight](https://medium.com/tag/ossci-spotlight)
 
 ## Overview
@@ -19,7 +19,7 @@ OSSci has established several interest groups to foster collaboration in specifi
 - **Chemistry and Materials Science**
 - **Economics**
 
-Individuals interested in joining these groups can find more information [here](https://chief.sc/ossci-join).
+Individuals interested in joining these groups can find more information [here](https://groups.google.com/a/opensource.science/g/map-of-open-source-science/about?pli=1).
 
 ## Contact
 

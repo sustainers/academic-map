@@ -28,6 +28,10 @@
       "pattern": "https://ospoplusplus.com"
     },
     {
+      "pattern": "https://tidelift.com",
+      "reason": "404"
+    },
+    {
       "pattern": "https://x.com/scicodes1",
       "reason": "400"
     },
@@ -68,6 +72,9 @@
       "reason": "403"
     },
     {
+      "pattern": "https://opensource.syracuse.edu"
+    },
+    {
       "pattern": "https://datanexus.ucsd.edu/ospo/index.html",
       "reason": "403"
     },
@@ -78,6 +85,10 @@
     {
       "pattern": "https://osf.io/institutions/gwu",
       "reason": "500"
+    },
+    {
+      "pattern": "https://www.esa.int/",
+      "reason": "403"
     },
     {
       "pattern": "https://x.com/scicodes1",
@@ -96,11 +107,10 @@
       "reason": "403"
     },
     {
-      "pattern": "https://opencollective.foundation/",
-      "reason": "0"
+      "pattern": "https://terminusdb.com/"
     },
     {
-      "pattern": "https://terminusdb.com/",
+      "pattern": "https://you.stonybrook.edu/mckinnonrosati/open-source/",
       "reason": "0"
     }
   ]
