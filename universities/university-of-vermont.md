@@ -1,7 +1,7 @@
 # University of Vermont
 
 - *OSPO*: Yes, in the Library.
-- *Personnel*: Kendall Fortney
+- *Personnel*: Kendall Fortney (Program Director), Jonathan St-Onge (Research Software Engineer)
 - *Link*: [https://verso.w3.uvm.edu/](https://verso.w3.uvm.edu/)
 - *Member of*: [CURIOSS](https://curioss.org/), [HELIOS](https://www.heliosopen.org/members)
 
