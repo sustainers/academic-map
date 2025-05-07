@@ -123,6 +123,8 @@ chapters:
     title: MSSI
   - file: organizations/mozilla-foundation.md
     title: Mozilla
+  - file: organizations/navigation.md
+    title: Navigation
   - file: organizations/national-aeronautics-and-space-administration.md
     title: NASA
   - file: organizations/numfocus.md
