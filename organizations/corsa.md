@@ -8,6 +8,7 @@
 
 The Center for Open-Source Research Software Advancement (CORSA) is an organization focused on improving the sustainability of research software through collaboration, infrastructure support, and community engagement. CORSA complements the work of the Research Software Alliance (ReSA) by focusing specifically on the practical pathways research software projects can take—such as engaging with foundations, accessing funding, and building sustainable communities. While ReSA emphasizes policy and strategic coordination at a global scale, CORSA works more directly with research projects and infrastructure to implement sustainability in practice.
 
+
 ## Key Activities Supporting Open Source Sustainability
 
 - **Pathways to Foundations:** Assisting the research software ecosystem in leveraging resources and community structures of open source software foundations.  
@@ -25,3 +26,7 @@ The Center for Open-Source Research Software Advancement (CORSA) is an organizat
 ## Contact
 
 For more information, visit the [CORSA website](https://corsa.center/).
+
+## Other Context
+
+The Consortium for the Advancement of Scientific Software ([CASS](https://cass.community/)) is sponsored by DOE, as are six projects underneath it, of which CORSA is one. As a funded project, CORSA's primary team are the funded people behind those projects, but the larger community are the people on the mailing list. Most of the projects have specific software projects that DOE has mandated that they pass some of their funds to, to help sustain those software projects. CORSA focuses first on those software projects and their maintainers, then also on other software projects.
