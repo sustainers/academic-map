@@ -22,3 +22,5 @@ The lab, in partnership with the School of Electrical Engineering and Computer S
 ## Other context
 
 The Oregon State Business Solutions Group and OSL have partnered to form the Center for Applied Systems and Software (CASS) within the EECS school. Throughout the whole project lifecycle, including design, development, testing, and hosting, CASS offers its clients services. Through this collaboration, each organization is able to keep their distinct identity while pooling their knowledge and resources to take on more ambitious projects.
+
+OSU's lab does a tremendous amount of work for the OSS ecosystem, well beyond their own students. You can read more about that in their call to funding, [here](https://osuosl.org/blog/osl-future/).
