@@ -73,7 +73,6 @@ Sorted alphabetically.
 - **[Research Software Engineers (RSE)](./research-software-engineers.md)**
 - **[UK Software Sustainability Institute](./uk-software-sustainability-institute.md)**
 
-
 ### Software Education
 
 - **[Open Life Science](./open-life-science.md)**
