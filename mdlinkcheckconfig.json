@@ -117,6 +117,13 @@
     {
       "pattern": "https://terminusdb.com/",
       "reason": "0"
+    },
+    {
+      "pattern": "^./universities/"  // relative links to universities (400 errors)
+    },
+    {
+      "pattern": "https://innovationpartnerships.umich.edu/",
+      "reason": "403"
     }
   ]
 }
