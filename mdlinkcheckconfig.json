@@ -123,6 +123,9 @@
     },
     {
       "pattern": "https://innovationpartnerships.umich.edu/"
+    },
+    {
+      "pattern": "universities/university-of-illinois-urbana-champaign.md"
     }
   ]
 }
