@@ -32,7 +32,6 @@ A full list is [here](https://en.wikipedia.org/wiki/Crown_Research_Institute).
 - [Ford Foundation](https://www.fordfoundation.org/)
 - **[Navigation](./navigation.md)**
 
-
 ## Individual Funding Opportunities
 
 The following funding opportunities have been taken from the [open-funding](https://github.com/ralphtheninja/open-funding) GitHub repository and are subset of funding specifically relevant to academia. Sorted alphabetically.
