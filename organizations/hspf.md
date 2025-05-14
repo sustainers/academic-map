@@ -17,7 +17,7 @@ They aim to lower barriers to the productive use of current and future HPC syste
 - **E4S (Extreme-scale Scientific Software Stack)**: A curated collection of HPC software packages designed for scalable scientific computing.
 - **HPCToolkit**: A performance analysis toolset for measuring and analyzing program behavior on large-scale systems.
 - **Kokkos**: A C++ programming model that facilitates performance portability across various hardware architectures.
-- **OpenCHAMI**: A project aimed at developing open-source tools for high-performance computing applications.
+- **OpenCHAMI**: A project aimed at developing open source tools for high-performance computing applications.
 - **Spack**: A flexible package manager for building and managing scientific software stacks across diverse HPC systems.
 - **Trilinos**: A suite of reusable scientific libraries for solving complex multiphysics problems.
 - **Viskores**: A project focused on developing visualization tools for scientific data analysis.
