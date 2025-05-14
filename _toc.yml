@@ -131,6 +131,8 @@ chapters:
     title: NumFOCUS
   - file: organizations/numpy.md
     title: Numpy
+  - file: organizations/ocf.md
+    title: OCF
   - file: organizations/open-knowledge-foundation.md
     title: OKF
   - file: organizations/open-life-science.md
@@ -199,8 +201,6 @@ chapters:
   - file: funders/czi.md
   - file: funders/national-science-foundation.md
     title: NSF
-  - file: organizations/navigation.md
-    title: Navigation
   - file: funders/protocollabs.md
   - file: funders/top10vpn.md
 - file: individuals.md

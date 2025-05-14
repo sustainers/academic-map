@@ -20,7 +20,7 @@ Sorted alphabetically.
 - [Linux Foundation](https://www.linuxfoundation.org/)
 - [Open Collective](https://opencollective.com)
   - [Open Source Collective](https://www.oscollective.org/)
-  - [Open Collective Foundation](https://opencollective.com/foundation)
+  - **[Open Collective Foundation](./ocf.md)**
 - [Open Molecular Software Foundation](https://omsf.io/)
 - **[OpSci](./opsci.md)**
 - [NumFOCUS](https://numfocus.org)
