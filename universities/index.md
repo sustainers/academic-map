@@ -51,7 +51,7 @@ There are also universities that develop open source software, but don't have po
 - [Université Grenoble Alpes](./université-grenoble-alpes.md)
 - [University College London](./university-college-london.md)
 - [University of Cambridge](https://www.dns.cam.ac.uk/about/floss.html) – IT services has some code available.
-- [University of Illinois Urbana-Champaign](universities/university-of-illinois-urbana-champaign.md)
+- [University of Illinois Urbana-Champaign](./universities/university-of-illinois-urbana-champaign.md)
 - [University of Michigan](./university-of-michigan.md)
 - [University of Notre Dame](./universities/notre-dame.md)
 - [University of Pennsylvania](./university-of-pennsylvania.md)
