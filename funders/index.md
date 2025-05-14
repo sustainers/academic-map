@@ -30,6 +30,7 @@ A full list is [here](https://en.wikipedia.org/wiki/Crown_Research_Institute).
 - [The Alfred P. Sloan Foundation](https://sloan.org/)
 - [Chan Zuckerberg Initiative](https://chanzuckerberg.com/)
 - [Ford Foundation](https://www.fordfoundation.org/)
+- **[Navigation](./navigation.md)**
 
 ## Individual Funding Opportunities
 
