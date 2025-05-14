@@ -123,8 +123,6 @@ chapters:
     title: MSSI
   - file: organizations/mozilla-foundation.md
     title: Mozilla
-  - file: organizations/navigation.md
-    title: Navigation
   - file: organizations/national-aeronautics-and-space-administration.md
     title: NASA
   - file: organizations/numfocus.md
@@ -199,6 +197,8 @@ chapters:
   - file: funders/czi.md
   - file: funders/national-science-foundation.md
     title: NSF
+  - file: organizations/navigation.md
+    title: Navigation
   - file: funders/protocollabs.md
   - file: funders/top10vpn.md
 - file: individuals.md
