@@ -20,16 +20,7 @@ UNIZG participates in and supports initiatives that promote open source and open
 
 ## Contact
 
-For inquiries related to open source activities at the University of Zagreb, please contact:
+You can find their details on these pages:
 
-- **Centre for Software Development**  
-  Faculty of Organization and Informatics  
-  Phone: +385 42 390 831  
-  Email: [czrpp@foi.unizg.hr](mailto:czrpp@foi.unizg.hr)  
-  [Visit the Centre's Website](https://www.foi.unizg.hr/en/about-us/departments/czrpp)
-
-- **University Computing Centre (SRCE)**  
-  Address: Josipa Marohnića 5, 10000 Zagreb  
-  Phone: +385 1 6165 555  
-  Email: [helpdesk@srce.hr](mailto:helpdesk@srce.hr)  
-  [Visit SRCE's Website](https://www.srce.unizg.hr/en/open-science-support)
+- [Centre for Software Development – Faculty of Organization and Informatics](https://www.foi.unizg.hr/en/about-us/departments/czrpp)
+- [University Computing Centre (SRCE)](https://www.srce.unizg.hr/en/open-science-support)
