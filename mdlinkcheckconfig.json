@@ -28,6 +28,20 @@
       "reason": "500"
     },
     {
+
+      "pattern": "https://www.esa.int/",
+      "reason": "403"
+    },
+    {
+      "pattern": "https://x.com/scicodes1",
+      "reason": "400"
+    },
+    {
+      "pattern": "https://www.unizg.hr",
+      "reason": "0"
+    },
+    {
+
       "pattern": "https://opsci.io",
       "reason": "402"
     },
@@ -36,8 +50,33 @@
       "reason": "402"
     },
     {
+
       "pattern": "https://ospo.library.jhu.edu/",
       "reason": "500"
+
+      "pattern": "https://www.heliosopen.org/members",
+      "reason": "403"
+    },
+    {
+      "pattern": "https://you.stonybrook.edu/mckinnonrosati/open-source/",
+      "reason": "0"
+    },
+    {
+      "pattern": "./universities/indiana.md",
+      "reason": "400"
+    },
+    {
+      "pattern": "./universities/purdue.md",
+      "reason": "400"
+    },
+    {
+      "pattern": "universities/university-of-illinois-urbana-champaign.md",
+      "reason": "400"
+    },
+    {
+      "pattern": "./universities/notre-dame.md",
+      "reason": "400"
+
     }
   ]
 }

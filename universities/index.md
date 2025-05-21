@@ -56,3 +56,4 @@ There are also universities that develop open source software, but don't have po
 - [University of Notre Dame](./notre-dame.md)
 - [University of Pennsylvania](./university-of-pennsylvania.md)
 - [University of Victoria](./university-of-victoria.md)
+- [University of Zagreb](./university-of-zagreb.md)
