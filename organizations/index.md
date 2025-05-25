@@ -15,7 +15,7 @@ Sorted alphabetically.
 - **[Creative Commons](./creativecommons.md)**
 - [Eclipse Foundation](https://www.eclipse.org/)
 - HELIOS
-- **[HPSF](./hspf.md)**
+- **[HPSF](./hpsf.md)**
 - **[Invest in Open Infrastructure](./invest-in-open-infrastructure.md)**
 - [Linux Foundation](https://www.linuxfoundation.org/)
 - [Open Collective](https://opencollective.com)
@@ -41,6 +41,7 @@ Sorted alphabetically.
 - [The Carpentries](https://carpentries.org)
   - [Software Carpentry](https://software-carpentry.org)
 - [TODO Group](https://todogroup.org/)
+- **[Trier Center for Digital Humanities (TCDH)](./trier_center_for_digital_humanities.md)**
 
 ### Science Policy
 
