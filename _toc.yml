@@ -56,6 +56,9 @@ chapters:
   - file: universities/university-of-vermont.md
     title: UVM
   - file: universities/university-of-wisconsin-madison.md
+    title: University of Wisconsin–Madison
+  - file: universities/university_of_zagreb.md
+    title: University of Zagreb
 - file: organizations/index.md
   sections:
   - file: organizations/apachefoundation.md

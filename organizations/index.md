@@ -15,7 +15,7 @@ Sorted alphabetically.
 - **[Creative Commons](./creativecommons.md)**
 - [Eclipse Foundation](https://www.eclipse.org/)
 - HELIOS
-- **[HPSF](./hspf.md)**
+- **[HPSF](./hpsf.md)**
 - **[Invest in Open Infrastructure](./invest-in-open-infrastructure.md)**
 - [Linux Foundation](https://www.linuxfoundation.org/)
 - [Open Collective](https://opencollective.com)
