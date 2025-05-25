@@ -190,6 +190,8 @@ chapters:
     title: 2i2c
   - file: organizations/ossci.md
     title: OSSci
+  - file: organizations/trier_center_for_digital_humanities.md
+    title: TCDH
 - file: service-providers/index.md
   sections:
   - file: service-providers/tidelift.md
