@@ -38,18 +38,6 @@
     {
       "pattern": "https://ospo.library.jhu.edu/",
       "reason": "500"
-    },
-    {
-      "pattern": "./universities/purdue.md",
-      "reason": "400"
-    },
-    {
-      "pattern": "universities/university-of-illinois-urbana-champaign.md",
-      "reason": "400"
-    },
-    {
-      "pattern": "./universities/notre-dame.md",
-      "reason": "400"
     }
   ]
 }
