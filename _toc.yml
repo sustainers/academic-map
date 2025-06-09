@@ -134,6 +134,8 @@ chapters:
     title: NumFOCUS
   - file: organizations/numpy.md
     title: Numpy
+  - file: organizations/oce.md
+    title: OCE
   - file: organizations/ocf.md
     title: OCF
   - file: organizations/open-knowledge-foundation.md
@@ -142,6 +144,8 @@ chapters:
     title: OLS
   - file: organizations/openai.md
     title: OpenAI
+  - file: organizations/osc.md
+    title: OSC
   - file: organizations/ospoplusplus.md
     title: OSPO++
   - file: organizations/outreachy.md
@@ -195,9 +199,10 @@ chapters:
     title: OSSci
 - file: service-providers/index.md
   sections:
-  - file: service-providers/tidelift.md
-  - file: service-providers/scios.md
   - file: service-providers/globus.md
+  - file: service-providers/open-collective.md
+  - file: service-providers/scios.md
+  - file: service-providers/tidelift.md
 - file: funders/index.md
   sections:
   - file: funders/cisco.md

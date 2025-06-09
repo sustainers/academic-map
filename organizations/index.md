@@ -18,9 +18,10 @@ Sorted alphabetically.
 - **[HPSF](./hpsf.md)**
 - **[Invest in Open Infrastructure](./invest-in-open-infrastructure.md)**
 - [Linux Foundation](https://www.linuxfoundation.org/)
-- [Open Collective](https://opencollective.com)
-  - [Open Source Collective](https://www.oscollective.org/)
+- [Open Collective](../service-providers/open-collective.md)
+  - **[Open Source Collective](./osc.md)**
   - **[Open Collective Foundation](./ocf.md)**
+  - **[Open Collective Europe](./oce.md)**
 - [Open Molecular Software Foundation](https://omsf.io/)
 - **[OpSci](./opsci.md)**
 - [NumFOCUS](https://numfocus.org)
