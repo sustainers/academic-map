@@ -15,3 +15,7 @@ The university also offers resources like the Scholarly Commons, which compiles 
 
 - [UIUC Office of Technology Management](https://otm.illinois.edu/disclose-protect/open-source-licensing)
 - [Open Source @ Illinois Student Discord](https://opensourceatillinois.com/)
+
+## Featured on the Sustain Podcast
+
+[Daniel S. Katz on the Research Software Alliance (Episode 136)](https://podcast.sustainoss.org/136)
