@@ -9,7 +9,7 @@
 
 ## Core Objectives
 
-- To help build partnerships across UC San Diego focused on open-source landscape analysis and training
+- To help build partnerships across UC San Diego focused on open source landscape analysis and training
 - To build awareness and expertise with open source licenses
 - Development of training materials
 - Community building

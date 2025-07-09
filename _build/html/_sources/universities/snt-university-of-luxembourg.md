@@ -9,7 +9,7 @@
 
 University of Luxembourg's **Interdisciplinary Centre for Security, Reliability and Trust (SnT)**, is an international research and innovation centre in secure, reliable and trustworthy ICT systems and services. It plays an instrumental role in Luxembourg by fueling innovation through research partnerships with industry, boosting R&D investments leading to economic growth, and attracting highly qualified talents. It also provides due diligence and support for research projects incorporating Free and Open Source Software (FOSS). The center works closely with colleagues in the Technology Transfer Office and also co-ordinates a community of 'FOSS Liaisons' representing a range of research groups across the center.
 
-SnT **supports a proper use and deployment of free and open-source software (FOSS)** across its research activities. To ensure high technical and legal quality of software assets, SnT TTO has a dedicated task force (an OSPO, internally referred to as the FOSS team) to help researchers, developers, and partners with the matter. The FOSS team mission is to enable better impact with valorization and dissemination of high-quality software, free of any potential legal risks and IP infringements.
+SnT **supports a proper use and deployment of free and open source software (FOSS)** across its research activities. To ensure high technical and legal quality of software assets, SnT TTO has a dedicated task force (an OSPO, internally referred to as the FOSS team) to help researchers, developers, and partners with the matter. The FOSS team mission is to enable better impact with valorization and dissemination of high-quality software, free of any potential legal risks and IP infringements.
 
 ## Core Objectives
 

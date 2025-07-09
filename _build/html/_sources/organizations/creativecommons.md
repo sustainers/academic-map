@@ -7,7 +7,7 @@
 
 Creative Commons (CC) is a global non-profit organization that provides free, legally sound tools to enable sharing, collaboration, and reuse of creative works. Through its widely used open licenses, Creative Commons facilitates open access to content while ensuring that authors can maintain control over how their work is used. Its mission is to promote knowledge-sharing and creativity across academia, art, science, education, and government sectors.
 
-**Note:** Similar to the Open Source Initiative (OSI), which promotes and protects open-source software licenses, Creative Commons focuses on providing open licenses for creative and educational works. Both organizations support open access and transparency, but OSI primarily targets software and code, while Creative Commons applies to a broader range of creative and academic content, such as text, images, educational materials, and multimedia.
+**Note:** Similar to the Open Source Initiative (OSI), which promotes and protects open source software licenses, Creative Commons focuses on providing open licenses for creative and educational works. Both organizations support open access and transparency, but OSI primarily targets software and code, while Creative Commons applies to a broader range of creative and academic content, such as text, images, educational materials, and multimedia.
 
 ## Contact
 
@@ -26,7 +26,7 @@ Creative Commons has worked with a variety of institutions worldwide, including 
 - **University of Nebraska at Omaha**, which collaborated with Creative Commons to create a microcredential course on Open Educational Resources (OER).
 - Campaigns like **#FreeTheTextbook**, advocating for the use of open textbooks in universities globally.
 
-These initiatives reflect Creative Commons' broader commitment to supporting the academic open-source movement. By providing the legal framework for open access to educational content, CC empowers educators, researchers, and students to share and build on knowledge freely while ensuring creators' rights are respected. Through its licenses and tools, CC fosters collaboration, transparency, and innovation in academia.
+These initiatives reflect Creative Commons' broader commitment to supporting the academic open source movement. By providing the legal framework for open access to educational content, CC empowers educators, researchers, and students to share and build on knowledge freely while ensuring creators' rights are respected. Through its licenses and tools, CC fosters collaboration, transparency, and innovation in academia.
 
 ## Funders
 

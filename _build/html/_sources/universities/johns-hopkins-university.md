@@ -13,13 +13,13 @@ We do this by providing education and resources, curating open source software d
 
 ## Core Objectives
 
-We are committed to helping faculty, staff, and students use, contribute to, and benefit from open-source software by:
+We are committed to helping faculty, staff, and students use, contribute to, and benefit from open source software by:
 
 - Cultivating an engaged, sustainable, and collaborative open source community
 - Building awareness of the value and impact of open source within the University
 - Providing resources, tools, and engineering support to promote the use of open source within the university community
 - Supporting the participation of faculty, staff, and students in open source through educational programs, information sharing, and guidance on best practices
-- Facilitating the translation of open-source software into products and services that generate social impact and commercial success
+- Facilitating the translation of open source software into products and services that generate social impact and commercial success
 
 ## Primary Contacts
 

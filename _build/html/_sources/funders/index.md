@@ -14,7 +14,7 @@ This list is incomplete. Please add to it!
 
 ### USA
 
-- [National Science Foundation Homepage](https://www.nsf.gov/)
+- [National Science Foundation](./national-science-foundation.md)
   - [NSF POSE grants](./nsf-grants/pose.md)
   - [NSF Safe-OSE](./nsf-grants/safe-ose.md)
   - [NSF GEO OSE](./nsf-grants/geo-ose.md)
@@ -30,6 +30,7 @@ A full list is [here](https://en.wikipedia.org/wiki/Crown_Research_Institute).
 - [The Alfred P. Sloan Foundation](https://sloan.org/)
 - [Chan Zuckerberg Initiative](https://chanzuckerberg.com/)
 - [Ford Foundation](https://www.fordfoundation.org/)
+- **[Navigation](./navigation.md)**
 
 ## Individual Funding Opportunities
 
