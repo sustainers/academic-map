@@ -18,4 +18,4 @@ The university also offers resources like the Scholarly Commons, which compiles 
 
 ## Featured on the Sustain Podcast
 
-[Daniel S. Katz on the Research Software Alliance (Episode 136)](https://podcast.sustainoss.org/136)
+* [Daniel S. Katz on the Research Software Alliance (Episode 136)](https://podcast.sustainoss.org/136)

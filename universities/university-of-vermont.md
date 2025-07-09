@@ -33,4 +33,4 @@ We have created a community event in partnership with Champlain College called O
 
 ## Featured on the Sustain Podcast
 
-[Amanda Casari on ACROSS and Measuring Contributions in OSS (Episode 111)](https://podcast.sustainoss.org/111)
+* [Amanda Casari on ACROSS and Measuring Contributions in OSS (Episode 111)](https://podcast.sustainoss.org/111)
