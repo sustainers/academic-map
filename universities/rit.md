@@ -36,7 +36,5 @@ The Open@RIT Open programs office is supported by the [Alfred P. Sloan Foundatio
 
 ## Featured on the Sustain Podcast
 
-[Chris Baker & Stephen Jacobs on Open@RIT (Episode 171)](https://podcast.sustainoss.org/171)  
-[Ruth Cheesley & Mike Nolan at State of Open Con 2023 (Episode 158)](https://podcast.sustainoss.org/158)  
-[Working Group Updates with Justin & Javi (Episode 38)](https://podcast.sustainoss.org/38)  
-[How Playing Minecraft Opened a Door to the Open Source World with Justin W. Flory (Episode 21)](https://podcast.sustainoss.org/21)
+* [Chris Baker & Stephen Jacobs on Open@RIT (Episode 171)](https://podcast.sustainoss.org/171)
+* [Ruth Cheesley & Mike Nolan at State of Open Con 2023 (Episode 158)](https://podcast.sustainoss.org/158)

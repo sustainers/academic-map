@@ -9,13 +9,12 @@ Their work informs several companies that use the metrics to improve open source
 
 ## Featured on the Sustain Podcast
 
-[Sean Goggins on Sustainability through CHAOSS (Episode 265)](https://podcast.sustainoss.org/265)  
-[Divya Mohan of SUSE on CHAOSS Asia (Episode 246)](https://podcast.sustainoss.org/246)  
-[Brian Douglas of Open Sauced on Sustainability through Effective Metrics (Episode 245)](https://podcast.sustainoss.org/245)  
-[Elizabeth Barron, Luis Cañas-Diaz & Dawn Foster on CHAOSS Practitioner Guides (Episode 243)](https://podcast.sustainoss.org/243)  
-[Sophia Vargas of Google on Funding and Motivation in Open Source (Episode 206)](https://podcast.sustainoss.org/206)  
-[Maintainer Month with Predrag Gruevski & Kingsley Mkpandiok (Episode 178)](https://podcast.sustainoss.org/178)  
-[Dawn Foster & Andrew Nesbitt at State of Open Con 2023 (Episode 159)](https://podcast.sustainoss.org/159)  
-[Sustain and CHAOSS: A Joint Podcast (Episode 133)](https://podcast.sustainoss.org/133)  
-[Ana Jiménez Santamaría on OSPOs and the TODO Group (Episode 132)](https://podcast.sustainoss.org/132)  
-[OSCA, Docs, and Burnout with Anita Ihuman and Atinuke Oluwabamikemi Kayode (Episode 130)](https://podcast.sustainoss.org/130)
+- [Sean Goggins on Sustainability through CHAOSS (Episode 265)](https://podcast.sustainoss.org/265)
+- [Divya Mohan of SUSE on CHAOSS Asia (Episode 246)](https://podcast.sustainoss.org/246)
+- [Elizabeth Barron, Luis Cañas-Diaz & Dawn Foster on CHAOSS Practitioner Guides (Episode 243)](https://podcast.sustainoss.org/243)
+- [Sophia Vargas of Google on Funding and Motivation in Open Source (Episode 206)](https://podcast.sustainoss.org/206)
+- [Maintainer Month with Predrag Gruevski & Kingsley Mkpandiok (Episode 178)](https://podcast.sustainoss.org/178)
+- [Dawn Foster & Andrew Nesbitt at State of Open Con 2023 (Episode 159)](https://podcast.sustainoss.org/159)
+- [Sustain and CHAOSS: A Joint Podcast (Episode 133)](https://podcast.sustainoss.org/133)
+
+CHAOSS also has a podcast of their own, available at: https://podcast.chaoss.community/
