@@ -2,7 +2,7 @@
 
 - *OSPO*: OSS Working Group, in the Tech Transfer Office  
 - *Personnel*: Ying Wang  
-- *Link*: [https://ethz.ch/en/industry/transfer.html](https://ethz.ch/en/industry/transfer.html)  
+- *Link*: [https://transfer.ethz.ch/researchers/oss.html](https://transfer.ethz.ch/researchers/oss.html)  
 - *Member of*: [CURIOSS](https://curioss.org/)
 
 ## Open Source Program Office
