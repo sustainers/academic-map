@@ -2,7 +2,7 @@
 
 - *OSPO*: Advanced Research Computing Centre (ARC)
 - *Personnel*: Dr. David Pérez-Suárez
-- *Link*: [https://innovationpartnerships.umich.edu/moss/](https://www.ucl.ac.uk/advanced-research-computing/)
+- *Link*: [https://github-pages.ucl.ac.uk/open-source/](https://github-pages.ucl.ac.uk/open-source/)
 - *Member of*: [CURIOSS](https://curioss.org/)
 
 ## General Description
