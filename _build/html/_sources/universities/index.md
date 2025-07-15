@@ -7,10 +7,11 @@ University involvement in open source varies widely. For instance, a university 
 The following universities have an office which has the standing of an Open Source Program Office:
 
 - [Carnegie Mellon University](./carnegie-mellon-university.md)
+- [CERN](./cern.md) - Research instution
 - [George Washington University](./george-washington.md)
 - [Georgia Institute of Technology](./georgia-institute-of-technology.md)
 - [Johns Hopkins University](./johns-hopkins-university.md)
-- [Lero](./lero.md) - Technically a Research Center for a collection of universities
+- [Lero](./lero.md) - Research Center for a collection of universities
 - [Penn State](./penn-state.md)
 - [Rochester Institute of Technology](./rit.md)
 - [Saint Louis University](./slu.md)
@@ -41,6 +42,18 @@ There's a host of universities which don't have open source program offices, but
 
 There are also universities that develop open source software, but don't have policies publicly set for staff or researchers.
 
-- University of Cambridge – [IT services has some code available](https://www.dns.cam.ac.uk/about/floss.html).
 - [ETH Zurich](./eth-zurich.md)
+- [Indiana University](./indiana.md)
+- [Purdue University](./purdue.md)
 - [Rey Juan Carlos University](./rey-juan-carlos-university.md)
+- [Stony Brook University](./stony-brook-university.md)
+- [University at Buffalo](./university-at-buffalo.md)
+- [Université Grenoble Alpes](./université-grenoble-alpes.md)
+- [University College London](./university-college-london.md)
+- [University of Cambridge](https://www.dns.cam.ac.uk/about/floss.html) – IT services has some code available.
+- [University of Illinois Urbana-Champaign](./university-of-illinois-urbana-champaign.md)
+- [University of Michigan](./university-of-michigan.md)
+- [University of Notre Dame](./notre-dame.md)
+- [University of Pennsylvania](./university-of-pennsylvania.md)
+- [University of Victoria](./university-of-victoria.md)
+- [University of Zagreb](./university-of-zagreb.md)
