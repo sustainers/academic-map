@@ -12,7 +12,7 @@ The following universities have an office which has the standing of an Open Sour
 - [Georgia Institute of Technology](./georgia-institute-of-technology.md)
 - [Johns Hopkins University](./johns-hopkins-university.md)
 - [Lero](./lero.md) - Research Center for a collection of universities
-- [Mississippi State University](https://github.com/sustainers/academic-map/blob/main/universities/mississippi-state-university.md)
+- [Mississippi State University](./mississippi-state-university.md)
 - [Penn State](./penn-state.md)
 - [Rochester Institute of Technology](./rit.md)
 - [Saint Louis University](./slu.md)
