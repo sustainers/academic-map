@@ -1,7 +1,7 @@
 # Mississippi State University
 
 - *OSPO*: Mississipi State University Open Source Program Office
-- *Personnel*: John Walters
+- *Personnel*: John Walters (Director), Austin Check (Assistant Director)
 - *Link*: [https://www.otm.msstate.edu/ospo](https://www.otm.msstate.edu/ospo)
 - *Member of*: [CURIOSS](https://curioss.org/)
 
