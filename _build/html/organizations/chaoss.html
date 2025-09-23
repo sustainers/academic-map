@@ -187,8 +187,12 @@
 <li class="toctree-l2"><a class="reference internal" href="../universities/eth-zurich.html">ETH Zurich</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../universities/george-washington.html">George Washington University</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../universities/georgia-institute-of-technology.html">Georgia Institute of Technology</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../universities/indiana.html">Indiana University</a></li>
+
 <li class="toctree-l2"><a class="reference internal" href="../universities/johns-hopkins-university.html">Johns Hopkins University</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../universities/lero.html">Lero</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../universities/mississippi-state-university.html">Mississippi State University</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../universities/notre-dame.html">Notre Dame</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../universities/oregon-state-university.html">Oregon State University</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../universities/penn-state.html">PennState</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../universities/purdue.html">Purdue University</a></li>
@@ -216,6 +220,7 @@
 <li class="toctree-l2"><a class="reference internal" href="../universities/university-of-texas-austin.html">UT Austin</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../universities/university-of-vermont.html">UVM</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../universities/university-of-wisconsin-madison.html">University of Wisconsin–Madison</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../universities/university-of-zagreb.html">University of Zagreb</a></li>
 </ul>
 </details></li>
 <li class="toctree-l1 current active has-children"><a class="reference internal" href="index.html">Communities and Organizations</a><details open="open"><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul class="current">
@@ -264,6 +269,7 @@
 <li class="toctree-l2"><a class="reference internal" href="open-life-science.html">OLS</a></li>
 <li class="toctree-l2"><a class="reference internal" href="openai.html">OpenAI</a></li>
 <li class="toctree-l2"><a class="reference internal" href="osc.html">OSC</a></li>
+<li class="toctree-l2"><a class="reference internal" href="open-science-hardware-foundation.html">OSHF</a></li>
 <li class="toctree-l2"><a class="reference internal" href="ospoplusplus.html">OSPO++</a></li>
 <li class="toctree-l2"><a class="reference internal" href="outreachy.html">Outreachy</a></li>
 <li class="toctree-l2"><a class="reference internal" href="project-jupyter.html">Project Jupyter</a></li>
@@ -305,27 +311,14 @@
 <li class="toctree-l2"><a class="reference internal" href="../funders/cisco.html">Cisco Research Grants</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../funders/czi.html">Chan Zuckerberg Initiative (CZI)</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../funders/national-science-foundation.html">NSF</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../funders/navigation.html">Navigation</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../funders/protocollabs.html">Protocol Labs Research</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../funders/top10vpn.html">Top10vpn Research Grant</a></li>
 </ul>
 </details></li>
 <li class="toctree-l1"><a class="reference internal" href="../individuals.html">Individuals</a></li>
 <li class="toctree-l1 has-children"><a class="reference internal" href="../blog.html">Blog</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
-<li class="toctree-l2"><a class="reference internal" href="../blog/2025-07-report.html">Mapping the Academic Open Source Ecosystem: Insights from a Community Survey</a></li>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<li class="toctree-l2"><a class="reference internal" href="../blog/2025-07-report.html">2025 July Report</a></li>
 </ul>
 </details></li>
 </ul>
@@ -500,7 +493,9 @@ document.write(`
   </button>
 `);
 </script>
-
+<label class="sidebar-toggle secondary-toggle btn btn-sm" for="__secondary"title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</label>
 </div></div>
       
     </div>
@@ -516,6 +511,14 @@ document.write(`
     <div id="print-main-content">
         <div id="jb-print-toc">
             
+            <div>
+                <h2> Contents </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#featured-on-the-sustain-podcast">Featured on the Sustain Podcast</a></li>
+</ul>
+            </nav>
         </div>
     </div>
 </div>
@@ -531,6 +534,19 @@ document.write(`
 <em>Contact</em>: Matt Germonprez</p>
 <p>CHAOSS is a community of mixed academics and industry professionals working on defining usable metrics for open source community health (CHAOSS stands for Community Health Analytics in Open Source Software). They have <a class="reference external" href="https://chaoss.community/kb/working-groups/">several working groups</a>, including an OSPO and a University working group. Their work comes partially out of the Universities of Nebraska and Missouri, through <a class="reference external" href="https://www.unomaha.edu/college-of-information-science-and-technology/about/faculty-staff/matt-germonprez.php">Matt Germonprez</a> and <a class="reference external" href="https://engineering.missouri.edu/faculty/sean-patrick-goggins/">Sean Goggins</a>. The group is funded and hosted by the Linux Foundation as well as Alfred P. Sloan.</p>
 <p>Their work informs several companies that use the metrics to improve open source health for industry and university OSPOs, such as Bitergia. Other companies that use CHAOSS metrics can be found <a class="reference external" href="https://chaoss.community/about-chaoss/">here</a>.</p>
+<section id="featured-on-the-sustain-podcast">
+<h2>Featured on the Sustain Podcast<a class="headerlink" href="#featured-on-the-sustain-podcast" title="Link to this heading">#</a></h2>
+<ul class="simple">
+<li><p><a class="reference external" href="https://podcast.sustainoss.org/265">Sean Goggins on Sustainability through CHAOSS (Episode 265)</a></p></li>
+<li><p><a class="reference external" href="https://podcast.sustainoss.org/246">Divya Mohan of SUSE on CHAOSS Asia (Episode 246)</a></p></li>
+<li><p><a class="reference external" href="https://podcast.sustainoss.org/243">Elizabeth Barron, Luis Cañas-Diaz &amp; Dawn Foster on CHAOSS Practitioner Guides (Episode 243)</a></p></li>
+<li><p><a class="reference external" href="https://podcast.sustainoss.org/206">Sophia Vargas of Google on Funding and Motivation in Open Source (Episode 206)</a></p></li>
+<li><p><a class="reference external" href="https://podcast.sustainoss.org/178">Maintainer Month with Predrag Gruevski &amp; Kingsley Mkpandiok (Episode 178)</a></p></li>
+<li><p><a class="reference external" href="https://podcast.sustainoss.org/159">Dawn Foster &amp; Andrew Nesbitt at State of Open Con 2023 (Episode 159)</a></p></li>
+<li><p><a class="reference external" href="https://podcast.sustainoss.org/133">Sustain and CHAOSS: A Joint Podcast (Episode 133)</a></p></li>
+</ul>
+<p>CHAOSS also has a podcast of their own, available at <a class="reference external" href="https://podcast.chaoss.community/">https://podcast.chaoss.community/</a>.</p>
+</section>
 </section>
 
     <script type="text/x-thebe-config">
@@ -587,6 +603,21 @@ document.write(`
             </div>
             
             
+              
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#featured-on-the-sustain-podcast">Featured on the Sustain Podcast</a></li>
+</ul>
+  </nav></div>
+
+</div></div>
               
             
           </div>

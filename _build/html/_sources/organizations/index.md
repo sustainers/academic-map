@@ -24,6 +24,7 @@ Sorted alphabetically.
   - **[Open Collective Europe](./oce.md)**
 - [Open Molecular Software Foundation](https://omsf.io/)
 - **[OpSci](./opsci.md)**
+- **[Open Science Hardware Foundation](./open-science-hardware-foundation.md)**
 - [NumFOCUS](https://numfocus.org)
 - **[Python Software Foundtion (PSF)](./psf.md)**
 - RDA

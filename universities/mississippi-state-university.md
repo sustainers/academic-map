@@ -9,7 +9,8 @@
 
 Housed within the Office of Technology Management, the MSU Open Source Program Office (OSPO) is dedicated to supporting and guiding the university community in all aspects of open source. It serves as a central hub for open source strategy, policy and best practices; helping to align the university's open source activities with its broader goals of research excellence, economic development and societal impact.
 
-OSPO services include: 
+OSPO services include:
+
 - **Consultation & Guidance:** Advice on open source licensing, compliance and intellectual property considerations for research and software projects.
 - **Project Strategy:** Assistance with developing management strategies for open source projects, building contributor communities and ensuring long-term success.
 - **Education & Training:** Workshops and resources on open source best practices.

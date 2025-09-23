@@ -17,4 +17,4 @@ Their work informs several companies that use the metrics to improve open source
 - [Dawn Foster & Andrew Nesbitt at State of Open Con 2023 (Episode 159)](https://podcast.sustainoss.org/159)
 - [Sustain and CHAOSS: A Joint Podcast (Episode 133)](https://podcast.sustainoss.org/133)
 
-CHAOSS also has a podcast of their own, available at: https://podcast.chaoss.community/
+CHAOSS also has a podcast of their own, available at [https://podcast.chaoss.community/](https://podcast.chaoss.community/).
