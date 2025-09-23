@@ -1,7 +1,7 @@
 # University of California San Diego
 
 - *OSPO*: Yes, in the Library
-- *Personnel*: David Minor, Erik Mitchell
+- *Personnel*: David Minor, Erik Mitchell, Karla Padilla
 - *Link*: <https://datanexus.ucsd.edu/ospo/index.html>
 - *Member of*: [CURIOSS](https://curioss.org/)
 
@@ -16,7 +16,7 @@
 
 ## Primary Contacts
 
-- [David Minor](mailto:dminor@ucsd.edu)
+- [Karla Padilla](mailto:kapadilla@ucsd.edu)
 
 ## Other context
 

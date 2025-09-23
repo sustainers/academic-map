@@ -13,10 +13,13 @@ chapters:
   - file: universities/eth-zurich.md
   - file: universities/george-washington.md
   - file: universities/georgia-institute-of-technology.md
+  - file: universities/indiana.md
+    title: Indiana University
   - file: universities/johns-hopkins-university.md
   - file: universities/lero.md
-  - file: universities/oregon-state-university.md
   - file: universities/mississippi-state-university.md
+  - file: universities/notre-dame.md
+  - file: universities/oregon-state-university.md
   - file: universities/penn-state.md
   - file: universities/purdue.md
   - file: universities/rey-juan-carlos-university.md
@@ -58,7 +61,7 @@ chapters:
     title: UVM
   - file: universities/university-of-wisconsin-madison.md
     title: University of Wisconsin–Madison
-  - file: universities/university_of_zagreb.md
+  - file: universities/university-of-zagreb.md
     title: University of Zagreb
 - file: organizations/index.md
   sections:
@@ -109,8 +112,6 @@ chapters:
     title: FSF
   - file: organizations/hpsf.md
     title: HPSF
-  - file: organizations/indiana.md
-    title: Indiana University
   - file: organizations/institute-of-electrical-and-electronics-engineers.md
     title: IEEE
   - file: organizations/internet-society.md
@@ -212,6 +213,7 @@ chapters:
   - file: funders/czi.md
   - file: funders/national-science-foundation.md
     title: NSF
+  - file: funders/navigation.md
   - file: funders/protocollabs.md
   - file: funders/top10vpn.md
 - file: individuals.md

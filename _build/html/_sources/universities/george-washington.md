@@ -1,7 +1,7 @@
 # George Washington University
 
 - *OSPO*: Yes, in the Libraries and Academic Innovation
-- *Personnel*: David Lippert, Lorena Barba, Robin Delaloye
+- *Personnel*: David Lippert, Geneva Henry, Lorena Barba, Robin Delaloye, Rosemary Pauley
 - *Link*: [https://library.gwu.edu/ospo](https://ospo.gwu.edu)
 - *Member of*: [CURIOSS](https://curioss.org/), [HELIOS](https://www.heliosopen.org/members), [OSF](https://osf.io/institutions/gwu)
 

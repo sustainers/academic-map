@@ -30,3 +30,7 @@ The Vermont Open Source Progam Office (VERSO) was founded in 2022 and jointly ru
 We fascilitate a variety of events (see [here](https://verso.w3.uvm.edu/events/) and recieved funding from the NSF for the  [Interdisciplinary Open Practices Workshop](https://verso.w3.uvm.edu/interdisciplinary-open-practices-workshop/) on Oct 27-28, 2023 exploring the research questions on what practices make communities and workplaces open and how well do those practices (activities, policies, etc.) advance innovation, transparency, and other goals.
 
 We have created a community event in partnership with Champlain College called Open Source Connector [https://opensourceconnector.com/](https://opensourceconnector.com/) The Open Source Connector aims to create a new forum for collaboration and knowledge sharing around open source software development in Vermont and the surrounding region. Our goal is to support engagement between academia, industry, and government while driving real impact in the local community.
+
+## Featured on the Sustain Podcast
+
+- [Amanda Casari on ACROSS and Measuring Contributions in OSS (Episode 111)](https://podcast.sustainoss.org/111)

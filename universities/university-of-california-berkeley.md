@@ -2,7 +2,7 @@
 
 - *OSPO*: Yes, in the Berkeley Institute for Data Science (BIDS).
 - *Personnel*: Jarrod Millman, Fernando Pérez, Stéfan van der Walt, Kirstie Whitaker
-- *Link*: https://ospo-berkeley-edu.netlify.app/
+- *Link*: [Website](https://ospo-berkeley-edu.netlify.app/)
 - *Member of*: [CURIOSS](https://curioss.org/)
 
 ## General Description

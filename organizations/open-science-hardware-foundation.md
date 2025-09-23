@@ -1,6 +1,6 @@
 # Open Science Hardware Foundation
 
-- Website: https://opensciencehardware.org/
+- [Website](https://opensciencehardware.org/)
 
 ## Overview
 
