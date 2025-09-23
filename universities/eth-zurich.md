@@ -7,7 +7,7 @@
 
 ## Open Source Program Office
 
-ETH Zurich has an OSPO that runs through the Tech Transfer Office (TTO). They have a long page explaining their [Open Source Policy](https://ethz.ch/en/industry/researchers/licensing-software/open-source-software.html), which includes information about licensing, patenting, and archiving their code.
+ETH Zurich has an OSPO that runs through the Tech Transfer Office (TTO). They have a long page explaining their [Open Source Policies](https://transfer.ethz.ch/researchers/oss/policies.html), which includes information about licensing, patenting, and archiving their code.
 
 ## Core Objectives
 
@@ -18,4 +18,4 @@ ETH Zurich has an OSPO that runs through the Tech Transfer Office (TTO). They ha
 
 ## Primary Contacts
 
-[Ying Wang, *Technology Manager*](https://ethz.ch/en/industry/transfer/staff/yw.html)
+[Ying Wang, *Technology Manager*](https://transfer.ethz.ch/about/staff.html)

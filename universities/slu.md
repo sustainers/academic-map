@@ -18,8 +18,8 @@ Open Source with SLU was established to help SLU researchers with their custom s
 ## Primary Contacts
 
 - [General information email](mailto:oss@slu.edu)
-- [Daniel Shown, *Program Director*](https://oss-slu.github.io/docs/about)
-- [Kate Holdener, Ph.D.](https://oss-slu.github.io/docs/about)
+- [Daniel Shown, *Program Director*](https://oss-slu.github.io/people/leadership)
+- [Kate Holdener, Ph.D.](https://oss-slu.github.io/people/leadership)
 
 ## Other context
 

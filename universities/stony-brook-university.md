@@ -16,9 +16,6 @@ Stony Brook University (SBU) is a major research institution recognized for its 
 - **Computer Vision Lab (CVLab) GitHub Repositories:** The CVLab at SBU hosts numerous open source projects on GitHub, focusing on areas such as document unwarping, crowd counting, and scanpath prediction.  
   [View CVLab GitHub](https://github.com/cvlab-stonybrook)
 
-- **McKinnon Rosati Lab Open Source Initiatives:** This lab emphasizes the use of open source software and hardware in scientific research, providing projects that offer insights into research methodologies.  
-  [Visit McKinnon Rosati Lab](https://you.stonybrook.edu/mckinnonrosati/open-source/)
-
 - **Participation in Google Summer of Code:** SBU's Department of Biomedical Informatics has been a mentoring organization for the Google Summer of Code program since 2015, guiding students in developing open source projects in biomedical informatics.  
   [Learn about SBU's GSoC](https://bmi.stonybrookmedicine.edu/gsoc)
 
