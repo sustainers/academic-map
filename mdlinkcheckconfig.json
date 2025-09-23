@@ -38,6 +38,14 @@
     {
       "pattern": "https://ospo.library.jhu.edu/",
       "reason": "500"
+    },
+    {
+      "pattern": "https://www.esa.org/",
+      "reason": "307"
+    },
+    {
+      "pattern": "https://www.ieee.org/",
+      "reason": "418"
     }
   ]
 }
