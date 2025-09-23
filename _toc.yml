@@ -147,6 +147,8 @@ chapters:
     title: OpenAI
   - file: organizations/osc.md
     title: OSC
+  - file: organizations/open-science-hardware-foundation.md
+    title: OSHF
   - file: organizations/ospoplusplus.md
     title: OSPO++
   - file: organizations/outreachy.md
