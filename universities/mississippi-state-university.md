@@ -24,3 +24,4 @@ The OSPO's mission is to empower faculty, staff and students to effectively use,
 ## Primary Contacts
 
 [John Walters, *Director, Office of Technology Management*](https://www.otm.msstate.edu/directory/john-walters)
+[Austin Check, *Assistant Director, Office of Technology Management*](https://www.otm.msstate.edu/directory/austin-check)
