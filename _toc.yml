@@ -8,15 +8,12 @@ chapters:
 - file: universities/index.md
   sections:
   - file: universities/carnegie-mellon-university.md
-  - file: universities/cern.md
-    title: CERN
   - file: universities/eth-zurich.md
   - file: universities/george-washington.md
   - file: universities/georgia-institute-of-technology.md
   - file: universities/indiana.md
     title: Indiana University
   - file: universities/johns-hopkins-university.md
-  - file: universities/lero.md
   - file: universities/mississippi-state-university.md
   - file: universities/notre-dame.md
   - file: universities/oregon-state-university.md
@@ -201,6 +198,11 @@ chapters:
     title: 2i2c
   - file: organizations/ossci.md
     title: OSSci
+- file: research-institutions/index.md
+  sections:
+  - file: research-institutions/cern.md
+    title: CERN
+  - file: research-institutions/lero.md
 - file: service-providers/index.md
   sections:
   - file: service-providers/globus.md

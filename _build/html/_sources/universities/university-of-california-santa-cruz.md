@@ -7,7 +7,7 @@
 
 ## General Description
 
-[CROSS](https://cross.ucsc.edu/index.html) is the research center that the [OSPO](https://ucsc-ospo.github.io/) is based in.  The OSPO at UC Santa Cruz is being established to provide a center of gravity that brings together everything needed to unlock that potential. The UCSC OSPO’s mission is to create partnerships with stakeholders within and outside the UC system to promote open source literacy and best practices, helping students learn from open source communities, letting scientists use open source to accelerate research efforts, and connecting students and scientists with sponsors from industry, government, and foundations.
+[CROSS](https://cross.ucsc.edu/) is the research center that the [OSPO](https://ucsc-ospo.github.io/) is based in.  The OSPO at UC Santa Cruz is being established to provide a center of gravity that brings together everything needed to unlock that potential. The UCSC OSPO’s mission is to create partnerships with stakeholders within and outside the UC system to promote open source literacy and best practices, helping students learn from open source communities, letting scientists use open source to accelerate research efforts, and connecting students and scientists with sponsors from industry, government, and foundations.
 
 CROSS, meanwhile, creates open source leaders by blending open source software strategies with graduate-level research in a concentrated environment of mentorship and interaction with world class industry, academia, and open source experts. CROSS transfers cutting-edge technology resulting from student research to industry via successful open source projects.
 

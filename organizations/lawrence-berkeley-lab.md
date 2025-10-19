@@ -11,7 +11,7 @@ Berkeley Lab actively supports open source software (OSS) development. The lab h
 
 Notable open source projects from Berkeley Lab include:
 
-- **Project Jupyter**: [Co-developed by Berkeley Lab scientists](https://crd.lbl.gov/news-and-publications/news/2021/project-jupyter-a-computer-code-that-transformed-science/), this project offers tools like Jupyter Notebooks, which have transformed data analysis and collaboration across various scientific disciplines.
+- **Project Jupyter**: Co-developed by Berkeley Lab scientists, this project offers tools like Jupyter Notebooks, which have transformed data analysis and collaboration across various scientific disciplines.
 
 - **Singularity**: Initiated at Berkeley Lab, Singularity is a containerization solution designed for high-performance computing environments, facilitating reproducible and secure workflows.
 

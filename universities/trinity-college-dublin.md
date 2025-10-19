@@ -2,7 +2,7 @@
 
 - *OSPO*: Yes
 - *Personnel*: John Whelan, Aoife Tierney
-- *Member of*: [CURIOSS](https://curioss.org/), [LERO](./lero.md)
+- *Member of*: [CURIOSS](https://curioss.org/), [LERO](../research-institutions/lero.md)
 
 ## General Description
 
