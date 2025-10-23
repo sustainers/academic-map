@@ -213,6 +213,8 @@ chapters:
   sections:
   - file: funders/cisco.md
   - file: funders/czi.md
+  - file: funders/diif.md
+    title: DIIF
   - file: funders/national-science-foundation.md
     title: NSF
   - file: funders/navigation.md

@@ -38,5 +38,6 @@ The following funding opportunities have been taken from the [open-funding](http
 
 - [Chan Zuckerberg Initiative](./czi.md)
 - [Cisco Research Grants (web3 related)](./cisco.md)
+- [Digital Infrastructure Insights Fund](./diif.md)
 - [Protocol Labs Research (web3 related)](./protocollabs.md)
 - [Top10vpn Research Grant](./top10vpn.md)
