@@ -2,7 +2,7 @@
 
 - *OSPO*: Yes, in the Library Data Science Center
 - *Personnel*: Tim Dennis, Todd Grappone
-- *Link*:
+- *Link*: [https://ucospo.net/los-angeles/](https://ucospo.net/los-angeles/)
 - *Member of*: [CURIOSS](https://curioss.org/)
 
 ## General Description
