@@ -8,4 +8,4 @@ The following research institutions have an office which has the standing of an 
 
 - [CERN](./cern.md) - Research instution
 - [Lero](./lero.md) - Research Center for a collection of universities
-- [Mass General Brigham](https://www.massgeneralbrigham.org/en/research-and-innovation) - Research Medical Center
+- [Mass General Brigham](./mass-general-brigham.md) - Research Medical Center
