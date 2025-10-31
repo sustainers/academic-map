@@ -2,7 +2,7 @@
 
 - *OSPO*: UGA OSPO activities are resourced across a number of departments. The team includes librarians, technical staff and legal experts.
 - *Personnel*: Violaine Louvet
-- *Link*: None.
+- *Link*: [https://scienceouverte.univ-grenoble-alpes.fr/codes-et-logiciels/accompagner/](https://scienceouverte.univ-grenoble-alpes.fr/codes-et-logiciels/accompagner/)
 - *Member of*: [CURIOSS](https://curioss.org/)
 
 ## General Description
