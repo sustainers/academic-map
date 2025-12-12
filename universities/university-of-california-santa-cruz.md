@@ -1,6 +1,6 @@
 # University of California Santa Cruz
 
-- *OSPO*: Yes, in the Center.
+- *OSPO*: Yes, in the CROSS Center.
 - *Personnel*: James David (Director), Stephanie Lieggi (Executive Director)
 - *Link*: [https://ucsc-ospo.github.io/](https://ucsc-ospo.github.io/)
 - *Member of*: [CURIOSS](https://curioss.org/), [HELIOS](https://www.heliosopen.org/members) (University of California Office of the President (UCOP), and UCSC will become one)
