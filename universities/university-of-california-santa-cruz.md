@@ -41,7 +41,7 @@ UC Santa Cruz gets to:
 
 ## Other context
 
-CROSS is one of the few centres at a university that have figured out how to successfully use open source software to bridge industry and academia, by enabling institutions that want PhDs to work on specific projects to work closely with the students as they work on their project in the open. They are one of the earlier university OSPOs. The OSPO will split out from CROSS, but for now, they are basically similar entities.
+CROSS is one of the few centers at a university that have figured out how to successfully use open source software to bridge industry and academia, by enabling institutions that want PhDs to work on specific projects to work closely with the students as they work on their project in the open. They are one of the earlier university OSPOs. The OSPO will split out from CROSS, but for now, they are basically similar entities.
 
 Carlos Maltzahn ran the OSPO for years, before he stepped down in early 2024 to retire.
 
