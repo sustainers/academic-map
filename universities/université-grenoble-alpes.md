@@ -23,4 +23,5 @@ UGA's OSPO was formally launched in September 2025.
 [Violaine Louvet, *Research Engineer*](https://www.insmi.cnrs.fr/fr/personne/violaine-louvet)
 
 ## Other Context
+
 [Retour sur l’inauguration de l’OSPO de l’UGA : une première nationale pour le logiciel libre académique](https://www.univ-grenoble-alpes.fr/actualites/a-la-une/actualites-universite/retour-sur-l-inauguration-de-l-ospo-de-l-uga-une-premiere-nationale-pour-le-logiciel-libre-academique-1664274.kjsp?RH=1573725981688)

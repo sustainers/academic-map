@@ -7,9 +7,9 @@
 
 ## General Description
 
-The MGB OSPO was formed to support open science activity around the system, which was at the time silo'd and unsupported.  
+The MGB OSPO was formed to support open science activity around the system, which was at the time silo'd and unsupported.
 
-This support spans Open Access Publication, Open Source Distribution and Open Data. 
+This support spans Open Access Publication, Open Source Distribution and Open Data.
 
 ## Core Objectives
 

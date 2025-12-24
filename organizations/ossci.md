@@ -6,7 +6,7 @@
 
 ## Overview
 
-The Open Source Science Initiative (OSSci) is a program run by [NumFOCUS](https://sustainoss.org/academic-map/organizations/numfocus.html) that facilitates dialogue between open source research software communities and researchers. Engaging with over 120 organizations, institutions, and open source projects, OSSci develops effective shared solutions to challenges faced by the scientific community and supports the emerging generation of scientists relying on open source tools, data, and code.
+The Open Source Science Initiative (OSSci) is a program run by [NumFOCUS](./numfocus.md) that facilitates dialogue between open source research software communities and researchers. Engaging with over 120 organizations, institutions, and open source projects, OSSci develops effective shared solutions to challenges faced by the scientific community and supports the emerging generation of scientists relying on open source tools, data, and code.
 
 ## Interest Groups
 
@@ -27,7 +27,7 @@ For collaboration inquiries, please contact [info@numfocus.org](mailto:info@numf
 
 ## Funders
 
-OSSci is co-founded by [NumFOCUS](https://sustainoss.org/academic-map/organizations/numfocus.html) and IBM. While additional funders specific to OSSci have not been explicitly detailed, organizations such as NASA, the Chan Zuckerberg Initiative, and the National Science Foundation have supported open source science initiatives more broadly. ([Source](https://new.nsf.gov/tip/updates/nsf-invests-over-26m-open-source-projects))
+OSSci is co-founded by [NumFOCUS](./numfocus.md) and IBM. While additional funders specific to OSSci have not been explicitly detailed, organizations such as NASA, the Chan Zuckerberg Initiative, and the National Science Foundation have supported open source science initiatives more broadly. ([Source](https://new.nsf.gov/tip/updates/nsf-invests-over-26m-open-source-projects))
 
 ## Members and Collaborators
 

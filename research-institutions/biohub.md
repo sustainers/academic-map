@@ -1,8 +1,8 @@
-# Biobhub
+# Biohub
 
 - *OSPO*: Yes
 - *Personnel*: Kate Hertweck
-- *Link*: https://biohub.org/
+- *Link*: [https://biohub.org/](https://biohub.org/)
 - *Member* of: [CURIOSS](https://curioss.org/)
 
 ## General Description
@@ -13,7 +13,7 @@ The OSPO is situated in Insights, Analytics, and Open Research (a cross-function
 
 ## Core Objectives
 
-The primary goal of the OSPO is to support both software/product developers and biomedical researchers in CZI and the Biohub network (three locations in Bay Area, Chicago, and New York) in implementing open science practices. 
+The primary goal of the OSPO is to support both software/product developers and biomedical researchers in CZI and the Biohub network (three locations in Bay Area, Chicago, and New York) in implementing open science practices.
 
 This includes work related to internal policy (data, AI, and software), best practices in open source development, partnerships/governance and maintaining relationships with external open science communities.
 

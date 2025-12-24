@@ -1,6 +1,6 @@
 # Digital Infrastructure Insights Fund
 
-- **Website**: https://infrastructureinsights.fund/
+- **Website**: [https://infrastructureinsights.fund/](https://infrastructureinsights.fund/)
 
 ## Overview
 

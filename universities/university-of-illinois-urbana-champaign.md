@@ -13,7 +13,7 @@ The university also offers resources like the Scholarly Commons, which compiles 
 
 ## Primary Contacts
 
-- [UIUC Office of Technology Management](https://otm.illinois.edu/disclose-protect/open-source-licensing)
+- [UIUC Office of Technology Management](https://otm.illinois.edu/)
 - [Open Source @ Illinois Student Discord](https://opensourceatillinois.com/)
 
 ## Featured on the Sustain Podcast
