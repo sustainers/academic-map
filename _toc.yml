@@ -224,7 +224,7 @@ chapters:
   - file: funders/protocollabs.md
   - file: funders/top10vpn.md
 - file: individuals.md
-- file: blog
+- file: blog.md
   sections:
   - file: blog/2025-07-report.md
     title: 2025 July Report
