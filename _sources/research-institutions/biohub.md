@@ -20,5 +20,3 @@ This includes work related to internal policy (data, AI, and software), best pra
 ## Primary Contacts
 
 - Kate Hertweck, OSPO Program Manager
-
-## Other context

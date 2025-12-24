@@ -1,6 +1,6 @@
 # Research Institutions
 
-Not all academic research that is open source occurs in a university-setting.
+Not all academic research that is open source occurs in a university setting.
 
 ## OSPOs
 
