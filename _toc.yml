@@ -200,9 +200,12 @@ chapters:
     title: OSSci
 - file: research-institutions/index.md
   sections:
+  - file: research-institutions/biohub.md
   - file: research-institutions/cern.md
     title: CERN
   - file: research-institutions/lero.md
+  - file: research-institutions/mass-general-brigham.md
+    title: Mass General Brigham
 - file: service-providers/index.md
   sections:
   - file: service-providers/globus.md
