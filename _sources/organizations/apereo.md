@@ -5,7 +5,7 @@
 
 ## Overview
 
-The Apereo Foundation is a non-profit organization dedicated to supporting open-source software projects within the field of education. Apereo acts as an incubator for new projects, offering governance, financial, and legal support to foster sustainable development. The foundation encourages collaboration and interoperability among projects to create integrated solutions for educational institutions. Apereo’s focus is on providing resources and community-building frameworks for both educational users and developers.
+The Apereo Foundation is a non-profit organization dedicated to supporting open source software projects within the field of education. Apereo acts as an incubator for new projects, offering governance, financial, and legal support to foster sustainable development. The foundation encourages collaboration and interoperability among projects to create integrated solutions for educational institutions. Apereo’s focus is on providing resources and community-building frameworks for both educational users and developers.
 
 ## Contact
 
@@ -24,7 +24,7 @@ Apereo’s operations are supported by its community of institutional members an
 
 ## Academic Collaborations
 
-The Apereo Foundation has a long-standing commitment to collaborating with academic institutions worldwide. Their projects provide open-source software solutions tailored to the unique needs of the educational sector. By creating interoperable, scalable, and flexible systems, Apereo supports the development of teaching and learning technologies that empower institutions globally.
+The Apereo Foundation has a long-standing commitment to collaborating with academic institutions worldwide. Their projects provide open source software solutions tailored to the unique needs of the educational sector. By creating interoperable, scalable, and flexible systems, Apereo supports the development of teaching and learning technologies that empower institutions globally.
 
 Apereo’s work spans various projects, such as **Sakai**, **uPortal**, **Opencast**, **Xerte**, and **Bedework**, which are widely implemented in educational settings. Through these initiatives, Apereo collaborates with numerous universities and institutions, helping them enhance their educational platforms and technological infrastructure. Some notable universities and institutions Apereo has worked with include:
 
@@ -37,4 +37,4 @@ Apereo’s work spans various projects, such as **Sakai**, **uPortal**, **Openca
 
 For more information about Apereo’s software solutions and collaborations, visit [Apereo’s Software Programs](https://www.apereo.org/programs/software) and [Apereo’s 2023 Annual Report](https://www.apereo.org/news/2024/apereo-foundations-2023-annual-report).
 
-In addition, Apereo’s annual **[MicroConferences](https://www.apereo.org/events/micro-conferences)** provide an opportunity for leaders in open-source educational technology to meet, share insights, and discuss emerging topics, research, and community-building efforts in the field of open-source education.
+In addition, Apereo’s annual **[MicroConferences](https://www.apereo.org/events/micro-conferences)** provide an opportunity for leaders in open source educational technology to meet, share insights, and discuss emerging topics, research, and community-building efforts in the field of open source education.

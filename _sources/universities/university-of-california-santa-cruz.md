@@ -1,13 +1,13 @@
 # University of California Santa Cruz
 
-- *OSPO*: Yes, in the Center.
+- *OSPO*: Yes, in the CROSS Center.
 - *Personnel*: James David (Director), Stephanie Lieggi (Executive Director)
 - *Link*: [https://ucsc-ospo.github.io/](https://ucsc-ospo.github.io/)
 - *Member of*: [CURIOSS](https://curioss.org/), [HELIOS](https://www.heliosopen.org/members) (University of California Office of the President (UCOP), and UCSC will become one)
 
 ## General Description
 
-[CROSS](https://cross.ucsc.edu/index.html) is the research center that the [OSPO](https://ucsc-ospo.github.io/) is based in.  The OSPO at UC Santa Cruz is being established to provide a center of gravity that brings together everything needed to unlock that potential. The UCSC OSPO’s mission is to create partnerships with stakeholders within and outside the UC system to promote open source literacy and best practices, helping students learn from open source communities, letting scientists use open source to accelerate research efforts, and connecting students and scientists with sponsors from industry, government, and foundations.
+[CROSS](https://cross.ucsc.edu/) is the research center that the [OSPO](https://ucsc-ospo.github.io/) is based in.  The OSPO at UC Santa Cruz is being established to provide a center of gravity that brings together everything needed to unlock that potential. The UCSC OSPO’s mission is to create partnerships with stakeholders within and outside the UC system to promote open source literacy and best practices, helping students learn from open source communities, letting scientists use open source to accelerate research efforts, and connecting students and scientists with sponsors from industry, government, and foundations.
 
 CROSS, meanwhile, creates open source leaders by blending open source software strategies with graduate-level research in a concentrated environment of mentorship and interaction with world class industry, academia, and open source experts. CROSS transfers cutting-edge technology resulting from student research to industry via successful open source projects.
 
@@ -41,7 +41,7 @@ UC Santa Cruz gets to:
 
 ## Other context
 
-CROSS is one of the few centres at a university that have figured out how to successfully use open source software to bridge industry and academia, by enabling institutions that want PhDs to work on specific projects to work closely with the students as they work on their project in the open. They are one of the earlier university OSPOs. The OSPO will split out from CROSS, but for now, they are basically similar entities.
+CROSS is one of the few centers at a university that have figured out how to successfully use open source software to bridge industry and academia, by enabling institutions that want PhDs to work on specific projects to work closely with the students as they work on their project in the open. They are one of the earlier university OSPOs. The OSPO will split out from CROSS, but for now, they are basically similar entities.
 
 Carlos Maltzahn ran the OSPO for years, before he stepped down in early 2024 to retire.
 

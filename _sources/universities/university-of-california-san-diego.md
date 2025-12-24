@@ -1,7 +1,7 @@
 # University of California San Diego
 
 - *OSPO*: Yes, in the Library
-- *Personnel*: David Minor, Erik Mitchell
+- *Personnel*: David Minor, Erik Mitchell, Karla Padilla
 - *Link*: <https://datanexus.ucsd.edu/ospo/index.html>
 - *Member of*: [CURIOSS](https://curioss.org/)
 
@@ -9,14 +9,14 @@
 
 ## Core Objectives
 
-- To help build partnerships across UC San Diego focused on open-source landscape analysis and training
+- To help build partnerships across UC San Diego focused on open source landscape analysis and training
 - To build awareness and expertise with open source licenses
 - Development of training materials
 - Community building
 
 ## Primary Contacts
 
-- [David Minor](mailto:dminor@ucsd.edu)
+- [Karla Padilla](mailto:kapadilla@ucsd.edu)
 
 ## Other context
 

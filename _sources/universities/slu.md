@@ -18,9 +18,9 @@ Open Source with SLU was established to help SLU researchers with their custom s
 ## Primary Contacts
 
 - [General information email](mailto:oss@slu.edu)
-- [Daniel Shown, *Program Director*](https://oss-slu.github.io/docs/about)
-- [Kate Holdener, Ph.D.](https://oss-slu.github.io/docs/about)
+- [Daniel Shown, *Program Director*](https://oss-slu.github.io/people/leadership)
+- [Kate Holdener, Ph.D.](https://oss-slu.github.io/people/leadership)
 
 ## Other context
 
-The program is funded by a grant from the Alfred P. Sloan Foundation, and employs Computer Science graduate students to prototype, design, and deliver open-source software to help SLU researchers and their collaborators worldwide. It was set up in 2022, in the Computer Science department. There is an acting research software engineer service bureau, and one full-time CS faculty, one full-time director, with grad students as tech leads and student workers.
+The program is funded by a grant from the Alfred P. Sloan Foundation, and employs Computer Science graduate students to prototype, design, and deliver open source software to help SLU researchers and their collaborators worldwide. It was set up in 2022, in the Computer Science department. There is an acting research software engineer service bureau, and one full-time CS faculty, one full-time director, with grad students as tech leads and student workers.

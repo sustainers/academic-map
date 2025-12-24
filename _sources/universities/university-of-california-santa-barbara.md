@@ -1,13 +1,13 @@
 # University of California Santa Barbara
 
 - *OSPO*: Yes, in the Libraries and Academic Innovation
-- *Personnel*: Amber Budden, Jonathan Balkind, Greg Janée
+- *Personnel*: Virginia Scarlett, Amber Budden, Jonathan Balkind, Greg Janée
 - *Link*:
 - *Member of*: [CURIOSS](https://curioss.org/)
 
 ## General Description
 
-The UC Santa Barbara OSPO is part of the University of California's OSPO network. The UC OSPO network aims to strengthen collaboration and knowledge-sharing among the campuses, demonstrate the value of a networked approach to supporting open source, and identify a resource and governance structure to allow the network to grow and thrive. More information [here](https://www.library.ucsb.edu/news/ospo-grant).
+The UC Santa Barbara OSPO is part of the University of California's OSPO network. The UC OSPO network aims to strengthen collaboration and knowledge-sharing among the campuses, demonstrate the value of a networked approach to supporting open source, and identify a resource and governance structure to allow the network to grow and thrive. More information [here](https://ucospo.net/santa-barbara/).
 
 ## Core Objectives
 
@@ -17,4 +17,5 @@ The UC Santa Barbara OSPO is part of the University of California's OSPO network
 
 ## Primary Contacts
 
+- [Virginia Scarlett](mailto:virginiascarlett@ucsb.edu)
 - [Amber Budden](mailto:aebudden@ucsb.edu)

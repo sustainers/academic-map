@@ -1,0 +1,994 @@
+
+<!DOCTYPE html>
+
+
+<html lang="en" data-content_root="../" >
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>Mapping the Academic Open Source Ecosystem: Insights from a Community Survey &#8212; SustainOSS Academic Ecosystem Map</title>
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
+  </script>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="../_static/styles/theme.css?digest=3ee479438cf8b5e0d341" rel="stylesheet" />
+<link href="../_static/styles/bootstrap.css?digest=3ee479438cf8b5e0d341" rel="stylesheet" />
+<link href="../_static/styles/pydata-sphinx-theme.css?digest=3ee479438cf8b5e0d341" rel="stylesheet" />
+
+  
+  <link href="../_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=3ee479438cf8b5e0d341" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
+
+    <link rel="stylesheet" type="text/css" href="../_static/pygments.css?v=fa44fd50" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/sphinx-book-theme.css?v=384b581d" />
+    <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css?v=13237357" />
+    <link rel="stylesheet" type="text/css" href="../_static/copybutton.css?v=76b2166b" />
+    <link rel="stylesheet" type="text/css" href="../_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css?v=be8a1c11" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinx-thebe.css?v=4fa983c6" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinx-design.min.css?v=87e54e7c" />
+    <link rel="stylesheet" type="text/css" href="../_static/base.css?v=72217435" />
+  
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="../_static/scripts/bootstrap.js?digest=3ee479438cf8b5e0d341" />
+<link rel="preload" as="script" href="../_static/scripts/pydata-sphinx-theme.js?digest=3ee479438cf8b5e0d341" />
+  <script src="../_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=3ee479438cf8b5e0d341"></script>
+
+    <script src="../_static/documentation_options.js?v=9eb32ce0"></script>
+    <script src="../_static/doctools.js?v=9a2dae69"></script>
+    <script src="../_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script src="../_static/clipboard.min.js?v=a7894cd8"></script>
+    <script src="../_static/copybutton.js?v=f281be69"></script>
+    <script src="../_static/scripts/sphinx-book-theme.js?v=efea14e4"></script>
+    <script>let toggleHintShow = 'Click to show';</script>
+    <script>let toggleHintHide = 'Click to hide';</script>
+    <script>let toggleOpenOnPrint = 'true';</script>
+    <script src="../_static/togglebutton.js?v=4a39c7ea"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script src="../_static/design-tabs.js?v=f930bc37"></script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
+    <script async="async" src="../_static/sphinx-thebe.js?v=c100c467"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'blog/2025-07-report';</script>
+    <link rel="author" title="About these documents" href="../about.html" />
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+    <link rel="prev" title="Blog" href="../blog.html" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="en"/>
+  </head>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
+
+  
+  
+  <div id="pst-skip-link" class="skip-link d-print-none"><a href="#main-content">Skip to main content</a></div>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>Back to top</button>
+
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-primary-sidebar-checkbox"/>
+  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-secondary-sidebar-checkbox"/>
+  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
+<form class="bd-search d-flex align-items-center"
+      action="../search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         id="search-input"
+         placeholder="Search this book..."
+         aria-label="Search this book..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form></div>
+  </div>
+
+  <div class="pst-async-banner-revealer d-none">
+  <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
+</div>
+
+  
+    <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+    </header>
+  
+
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      
+      
+      <div class="bd-sidebar-primary bd-sidebar">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+    
+    
+  </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item">
+
+  
+
+<a class="navbar-brand logo" href="../intro.html">
+  
+  
+  
+  
+  
+    
+    
+      
+    
+    
+    <img src="../_static/logo.svg" class="logo__image only-light" alt="SustainOSS Academic Ecosystem Map - Home"/>
+    <script>document.write(`<img src="../_static/logo.svg" class="logo__image only-dark" alt="SustainOSS Academic Ecosystem Map - Home"/>`);</script>
+  
+  
+</a></div>
+        <div class="sidebar-primary-item">
+
+ <script>
+ document.write(`
+   <button class="btn navbar-btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass"></i>
+    <span class="search-button__default-text">Search</span>
+    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+   </button>
+ `);
+ </script></div>
+        <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item navbar-nav active">
+        
+        <ul class="nav bd-sidenav bd-sidenav__home-link">
+            <li class="toctree-l1">
+                <a class="reference internal" href="../intro.html">
+                    Open Source in Academia Map
+                </a>
+            </li>
+        </ul>
+        <ul class="current nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../about.html">About</a></li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../universities/index.html">Universities</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l2"><a class="reference internal" href="../universities/carnegie-mellon-university.html">Carnegie Mellon University</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../universities/eth-zurich.html">ETH Zurich</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../universities/george-washington.html">George Washington University</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../universities/georgia-institute-of-technology.html">Georgia Institute of Technology</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../universities/indiana.html">Indiana University</a></li>
+
+<li class="toctree-l2"><a class="reference internal" href="../universities/johns-hopkins-university.html">Johns Hopkins University</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../universities/mississippi-state-university.html">Mississippi State University</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../universities/notre-dame.html">Notre Dame</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../universities/oregon-state-university.html">Oregon State University</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../universities/penn-state.html">PennState</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../universities/purdue.html">Purdue University</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../universities/rey-juan-carlos-university.html">Rey Juan Carlos University</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../universities/rit.html">Rochester Institute of Technology</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../universities/slu.html">Saint Louis University</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../universities/snt-university-of-luxembourg.html">SnT, University of Luxembourg</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../universities/stanford-university.html">Stanford University</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../universities/stony-brook-university.html">Stony Brook University</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../universities/syracuse.html">Syracuse University</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../universities/trinity-college-dublin.html">Trinity College Dublin</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../universities/universit%C3%A9-grenoble-alpes.html">Université Grenoble Alpes</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../universities/university-of-california-berkeley.html">UC Berkeley</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../universities/university-of-california-davis.html">UC Davis</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../universities/university-college-london.html">UCL</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../universities/university-of-california-los-angeles.html">UCLA</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../universities/university-of-california-san-diego.html">UC San Diego</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../universities/university-of-california-santa-barbara.html">UC Santa Barbara</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../universities/university-of-california-santa-cruz.html">UC Santa Cruz</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../universities/university-at-buffalo.html">University at Buffalo</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../universities/university-of-illinois-urbana-champaign.html">UIUC</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../universities/university-of-michigan.html">University of Michigan</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../universities/university-of-victoria.html">University of Victoria</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../universities/university-of-pennsylvania.html">UPenn</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../universities/university-of-texas-austin.html">UT Austin</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../universities/university-of-vermont.html">UVM</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../universities/university-of-wisconsin-madison.html">University of Wisconsin–Madison</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../universities/university-of-zagreb.html">University of Zagreb</a></li>
+</ul>
+</details></li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../organizations/index.html">Communities and Organizations</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/apachefoundation.html">Apache</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/apereo.html">Apereo Foundation</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/academic-data-science-alliance.html">ADSA</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/alan-turing-institute.html">Alan Turing Institute</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/american-association-for-the-advancement-of-science.html">AAAS</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/american-astronomical-society.html">AAS</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/american-chemical-society.html">ACS</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/american-geophysical-union.html">AGU</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/american-physical-society.html">APS</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/american-psychological-association.html">APA</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/american-society-for-microbiology.html">ASM</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/apache-software-foundation.html">Apache</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/association-for-computing-machinery.html">ACM</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/astropy.html">Astropy</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/bioconductor.html">Bioconductor Overview</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/chaoss.html">CHAOSS</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/corsa.html">CORSA</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/creativecommons.html">Creative Commons</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/center-for-scientific-collaboration-and-community-engagement.html">CSCCE</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/curioss.html">CURIOSS</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/ecological-society-of-america.html">ESA</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/electronic-frontier-foundation.html">EFF</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/european-space-agency.html">European Space Agency (ESA) Overview</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/free-software-foundation.html">FSF</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/hpsf.html">HPSF</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/institute-of-electrical-and-electronics-engineers.html">IEEE</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/internet-society.html">Internet Society (ISOC) Overview</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/invest-in-open-infrastructure.html">Invest in Open Infrastructure</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/japan-aerospace-exploration-agency.html">Japan Aerospace Exploration Agency (JAXA) Overview</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/joss.html">JOSS</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/julia-language.html">Julia</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/lawrence-berkeley-lab.html">Lawrence Berkeley Lab</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/linux-foundation.html">Linux Foundation</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/matplotlib.html">Matplotlib Overview</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/molecular-sciences-software-institute.html">MSSI</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/mozilla-foundation.html">Mozilla</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/national-aeronautics-and-space-administration.html">NASA</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/numfocus.html">NumFOCUS</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/numpy.html">Numpy</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/oce.html">OCE</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/ocf.html">OCF</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/open-knowledge-foundation.html">OKF</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/open-life-science.html">OLS</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/openai.html">OpenAI</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/osc.html">OSC</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/open-science-hardware-foundation.html">OSHF</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/ospoplusplus.html">OSPO++</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/outreachy.html">Outreachy</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/project-jupyter.html">Project Jupyter</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/psf.html">PSF</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/pyopensci.html">PyOpenSci</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/pytorch.html">PyTorch</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/research-software-alliance.html">RSA</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/research-software-engineers.html">RSE</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/ropensci.html">rOpenSci</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/scicodes.html">SciCodes</a></li>
+
+<li class="toctree-l2"><a class="reference internal" href="../organizations/scipy.html">Scipy</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/opsci.html">OpSci</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/software-freedom-conservancy.html">SFC</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/science-gateways-community-institute.html">SGCI</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/ssi.html">SSI</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/space-telescope-science-insitute.html">STSI</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/stan.html">Stan</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/sustainoss.html">SustainOSS</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/the-carpentries.html">The Carpentries</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/the-turing-way.html">The Turing Way</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/uk-software-sustainability-institute.html">SSI</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/urssi.html">URSSI</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/university-corp-atmospheric-research.html">NSF NCAR</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/usrse.html">USRSE</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/2i2c.html">2i2c</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../organizations/ossci.html">OSSci</a></li>
+</ul>
+</details></li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../research-institutions/index.html">Research Institutions</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l2"><a class="reference internal" href="../research-institutions/cern.html">CERN</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../research-institutions/lero.html">Lero</a></li>
+</ul>
+</details></li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../service-providers/index.html">Service Providers</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l2"><a class="reference internal" href="../service-providers/globus.html">Globus Compute</a></li>
+
+<li class="toctree-l2"><a class="reference internal" href="../service-providers/open-collective.html">Open Collective Inc</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../service-providers/scios.html">SciOS: Advancing Open Science Infrastructure</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../service-providers/tidelift.html">Tidelift</a></li>
+</ul>
+</details></li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../funders/index.html">Funders</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l2"><a class="reference internal" href="../funders/cisco.html">Cisco Research Grants</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../funders/czi.html">Chan Zuckerberg Initiative (CZI)</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../funders/diif.html">DIIF</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../funders/national-science-foundation.html">NSF</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../funders/navigation.html">Navigation</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../funders/protocollabs.html">Protocol Labs Research</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../funders/top10vpn.html">Top10vpn Research Grant</a></li>
+</ul>
+</details></li>
+<li class="toctree-l1"><a class="reference internal" href="../individuals.html">Individuals</a></li>
+<li class="toctree-l1 current active has-children"><a class="reference internal" href="../blog.html">Blog</a><details open="open"><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul class="current">
+<li class="toctree-l2 current active"><a class="current reference internal" href="#">2025 July Report</a></li>
+</ul>
+</details></li>
+</ul>
+
+    </div>
+</nav></div>
+    </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+  </div>
+  
+  <div id="rtd-footer-container"></div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main" role="main">
+        
+        
+
+<div class="sbt-scroll-pixel-helper"></div>
+
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article d-print-none">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item"><label class="sidebar-toggle primary-toggle btn btn-sm" for="__primary" title="Toggle primary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <span class="fa-solid fa-bars"></span>
+</label></div>
+      
+    </div>
+  
+  
+    <div class="header-article-items__end">
+      
+        <div class="header-article-item">
+
+<div class="article-header-buttons">
+
+
+
+
+
+<div class="dropdown dropdown-source-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Source repositories">
+    <i class="fab fa-github"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="https://github.com/sustainers/academic-map" target="_blank"
+   class="btn btn-sm btn-source-repository-button dropdown-item"
+   title="Source repository"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fab fa-github"></i>
+  </span>
+<span class="btn__text-container">Repository</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li><a href="https://github.com/sustainers/academic-map/issues/new?title=Issue%20on%20page%20%2Fblog/2025-07-report.html&body=Your%20issue%20content%20here." target="_blank"
+   class="btn btn-sm btn-source-issues-button dropdown-item"
+   title="Open an issue"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-lightbulb"></i>
+  </span>
+<span class="btn__text-container">Open issue</span>
+</a>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+
+
+<div class="dropdown dropdown-download-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Download this page">
+    <i class="fas fa-download"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="../_sources/blog/2025-07-report.md" target="_blank"
+   class="btn btn-sm btn-download-source-button dropdown-item"
+   title="Download source file"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="btn__text-container">.md</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li>
+<button onclick="window.print()"
+  class="btn btn-sm btn-download-pdf-button dropdown-item"
+  title="Print to PDF"
+  data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="btn__text-container">.pdf</span>
+</button>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+<button onclick="toggleFullScreen()"
+  class="btn btn-sm btn-fullscreen-button"
+  title="Fullscreen mode"
+  data-bs-placement="bottom" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm navbar-btn theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="theme-switch nav-link" data-mode="light"><i class="fa-solid fa-sun fa-lg"></i></span>
+    <span class="theme-switch nav-link" data-mode="dark"><i class="fa-solid fa-moon fa-lg"></i></span>
+    <span class="theme-switch nav-link" data-mode="auto"><i class="fa-solid fa-circle-half-stroke fa-lg"></i></span>
+  </button>
+`);
+</script>
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm navbar-btn search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+  </button>
+`);
+</script>
+<label class="sidebar-toggle secondary-toggle btn btn-sm" for="__secondary"title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</label>
+</div></div>
+      
+    </div>
+  
+</div>
+</div>
+              
+              
+
+<div id="jb-print-docs-body" class="onlyprint">
+    <h1>Mapping the Academic Open Source Ecosystem: Insights from a Community Survey</h1>
+    <!-- Table of contents -->
+    <div id="print-main-content">
+        <div id="jb-print-toc">
+            
+            <div>
+                <h2> Contents </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#executive-summary">1. Executive Summary</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#introduction">2. Introduction</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#methodology">3. Methodology</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#survey-design-and-objectives">3.1 Survey Design and Objectives</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#data-collection-period-and-distribution">3.2 Data Collection Period and Distribution</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#respondent-profile">3.3 Respondent Profile</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#analytical-approach">3.4 Analytical Approach</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#who-is-building-academic-open-source-software">4. Who Is Building Academic Open Source Software?</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#preferred-information-formats-for-the-map">4.1 Preferred Information Formats for the Map</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#contribution-patterns">5. Contribution Patterns</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#discoverability-and-challenges">6. Discoverability and Challenges</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#collaboration-models">7. Collaboration Models</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#understanding-impact">8. Understanding Impact</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#discussion">9. Discussion</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#the-blurred-boundaries-of-academic-oss-labor">9.1 The Blurred Boundaries of Academic OSS Labor</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#challenges-in-discoverability-and-access">9.2 Challenges in Discoverability and Access</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#the-centrality-of-collaboration">9.3 The Centrality of Collaboration</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#rethinking-impact-metrics">9.4 Rethinking Impact Metrics</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#barriers-to-participation">9.5 Barriers to Participation</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#implications-for-the-academic-map">10. Implications for the Academic Map</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#limitations">11. Limitations</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#conclusion-and-next-steps">12. Conclusion and Next Steps</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#acknowledgments">Acknowledgments</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#references">References</a></li>
+</ul>
+            </nav>
+        </div>
+    </div>
+</div>
+
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article">
+                  
+  <section class="tex2jax_ignore mathjax_ignore" id="mapping-the-academic-open-source-ecosystem-insights-from-a-community-survey">
+<h1>Mapping the Academic Open Source Ecosystem: Insights from a Community Survey<a class="headerlink" href="#mapping-the-academic-open-source-ecosystem-insights-from-a-community-survey" title="Link to this heading">#</a></h1>
+<p>Written by <a class="reference external" href="https://www.linkedin.com/in/reginankenchor/">Regina Nkenchor</a>.</p>
+<section id="executive-summary">
+<h2>1. Executive Summary<a class="headerlink" href="#executive-summary" title="Link to this heading">#</a></h2>
+<p>The open source software (OSS) landscape within academia is dynamic but under-documented. While academic OSS powers critical research, infrastructure, and pedagogy across disciplines, it often operates in silos—under-recognized, inconsistently supported, and difficult to navigate. The Academic Open Source Ecosystem Map, developed by the SustainOSS community, aims to address this by building a shared resource that identifies and contextualizes key academic OSS projects, contributors, and governance models.</p>
+<p>To inform this initiative, the SustainOSS team launched a short survey in late 2024 titled “Mapping the Open Source Ecosystem in Academia.” The survey remained open from November 20, 2024 through March 20, 2025, allowing time for wide circulation and reflection.The survey received 22 responses from individuals active in or adjacent to academic OSS. Participants spanned a range of roles—including researchers, educators, software engineers, and community organizers—and offered detailed feedback on contribution patterns, project discovery, collaboration practices, impact assessment, and ecosystem challenges.</p>
+<p>Key findings include:</p>
+<ul class="simple">
+<li><p>Most contributors engage across multiple domains, highlighting the interdisciplinary and hybrid nature of academic OSS work.</p></li>
+<li><p>Discovery of academic OSS projects is fragmented. While platforms like GitHub are central to hosting and collaboration, respondents reported difficulty identifying academic-relevant projects due to the lack of structured, curated, or disciplinary discovery tools.</p></li>
+<li><p>Contributors face persistent uncertainties around licensing, institutional policy, and where or how to share academic software.</p></li>
+<li><p>Respondents expressed strong interest in non-code collaboration (e.g., documentation, mentorship, working groups), challenging narrow definitions of OSS contribution.</p></li>
+<li><p>Impact is measured through a combination of citations, reuse, collaboration, and teaching, but there is no consensus on which indicators are most meaningful or valid.</p></li>
+</ul>
+<p>These insights inform a set of practical directions for evolving the Academic Map, including a focus on role diversity, discoverability, alternative impact signals, and inclusive pathways for contribution.</p>
+</section>
+<section id="introduction">
+<h2>2. Introduction<a class="headerlink" href="#introduction" title="Link to this heading">#</a></h2>
+<p>Open source software has become an indispensable component of academic research and teaching. It enables reproducibility, accelerates innovation, and facilitates collaboration across disciplines and institutions. Research from Harvard Business School has quantified the broader economic significance of open source, estimating its global demand-side value at $8.8 trillion. This number includes academic open source. Yet, despite its growing importance, the academic open source software ecosystem remains difficult to visualize, access, or navigate. Projects are often isolated from one another, developed independently within research labs, departments, or consortia, and rarely mapped in a way that supports cross-pollination or strategic coordination.</p>
+<p>The Academic Open Source Ecosystem Map, developed through the SustainOSS community, seeks to address this gap. It aims to create a public, openly licensed resource that brings visibility to academic OSS projects, contributors, and governance structures. Unlike most directories focused on code repositories, this map is intended to foreground the human, organizational, and epistemic infrastructures that support OSS in academic contexts.</p>
+<p>To inform this initiative, the SustainOSS team launched a short survey in late 2024 titled “Mapping the Open Source Ecosystem in Academia.” The goal of the survey was to better understand the current practices, needs, and constraints of those involved in academic OSS. Who contributes? How do they find and assess relevant projects? What roles do they play? What makes academic OSS discoverable, impactful, or sustainable?</p>
+<p>This report presents a detailed account of the survey’s findings. Although the respondent pool was modest in size, the responses offer rich insight into how academic OSS is experienced and sustained in practice. Through this report, we hope to articulate both the opportunities and frictions shaping the academic OSS ecosystem—and to guide future iterations of the Academic Map in ways that reflect and support the community it aims to serve.</p>
+</section>
+<section id="methodology">
+<h2>3. Methodology<a class="headerlink" href="#methodology" title="Link to this heading">#</a></h2>
+<section id="survey-design-and-objectives">
+<h3>3.1 Survey Design and Objectives<a class="headerlink" href="#survey-design-and-objectives" title="Link to this heading">#</a></h3>
+<p>The survey titled <em>“Mapping the Open Source Ecosystem in Academia”</em> was designed to collect baseline information from individuals involved in academic open source software (OSS). The objective was to better understand the current practices, challenges, and expectations of contributors in academic contexts in order to inform the design and development of the SustainOSS Academic Map.</p>
+<p>The survey included a combination of multiple-choice, multi-select, Likert-scale, and open-ended questions. Topics covered included:</p>
+<ul class="simple">
+<li><p>Primary roles in OSS</p></li>
+<li><p>Project discovery methods</p></li>
+<li><p>Contribution patterns</p></li>
+<li><p>Collaboration preferences</p></li>
+<li><p>Impact assessment</p></li>
+<li><p>Institutional support</p></li>
+<li><p>Challenges and barriers</p></li>
+<li><p>Project visibility and recognition</p></li>
+</ul>
+<p>Respondents were also given the opportunity to name specific projects, organizations, or initiatives they believed should be featured on the Academic Map.</p>
+<p>All responses, unless explicitly marked sensitive, were gathered under the understanding that they would be shared openly under a permissive license via the project’s public GitHub repository.</p>
+</section>
+<section id="data-collection-period-and-distribution">
+<h3>3.2 Data Collection Period and Distribution<a class="headerlink" href="#data-collection-period-and-distribution" title="Link to this heading">#</a></h3>
+<p>The survey was open for responses from <strong>November 20, 2024 to March 20, 2025</strong>, allowing for four months of participation. It was distributed through a combination of channels, including:</p>
+<ul class="simple">
+<li><p>Academic and research software mailing lists</p></li>
+<li><p>SustainOSS community newsletters and events</p></li>
+<li><p>LinkedIn, Twitter/X and Mastodon posts from SustainOSS contributors</p></li>
+<li><p>Targeted outreach to known academic OSS contributors and networks</p></li>
+</ul>
+<p>The survey was implemented using Google Forms, and responses were collected anonymously unless respondents opted to provide contact details.</p>
+</section>
+<section id="respondent-profile">
+<h3>3.3 Respondent Profile<a class="headerlink" href="#respondent-profile" title="Link to this heading">#</a></h3>
+<p>A total of <strong>22 individuals</strong> completed the survey. While not intended to be a statistically representative sample of the entire academic OSS ecosystem, the responses reflect a wide range of professional roles and affiliations. Participants included individuals identifying as:</p>
+<ul class="simple">
+<li><p>Researchers</p></li>
+<li><p>Educators</p></li>
+<li><p>Research Software Engineers</p></li>
+<li><p>Community Managers</p></li>
+<li><p>Policy Advisors</p></li>
+<li><p>Outreach and Advocacy Specialists</p></li>
+<li><p>Developers</p></li>
+<li><p>Legal and licensing experts</p></li>
+</ul>
+<p>Several respondents reported holding multiple roles, underscoring the hybrid nature of academic OSS labor.</p>
+</section>
+<section id="analytical-approach">
+<h3>3.4 Analytical Approach<a class="headerlink" href="#analytical-approach" title="Link to this heading">#</a></h3>
+<p>The data analysis followed a mixed-methods approach:</p>
+<ul class="simple">
+<li><p>Quantitative questions (e.g., multi-select checkboxes, yes/no, Likert-scale) were analyzed using basic descriptive statistics and visualized through bar charts.</p></li>
+<li><p>Open-ended responses were reviewed manually and coded for emergent themes. Keyword frequency analysis was used to surface common concerns in free-text fields, and selected quotations were retained for qualitative interpretation.</p></li>
+</ul>
+<p>No advanced statistical modeling was applied, given the modest sample size. However, results were treated as indicative of broader patterns that warrant further exploration through future surveys, interviews, or workshops.</p>
+</section>
+</section>
+<section id="who-is-building-academic-open-source-software">
+<h2>4. Who Is Building Academic Open Source Software?<a class="headerlink" href="#who-is-building-academic-open-source-software" title="Link to this heading">#</a></h2>
+<p>Survey respondents were asked to identify their primary roles in relation to open source, with the option to select multiple. The results suggest that academic OSS is sustained by individuals occupying diverse and often overlapping roles. The most frequently cited roles were:</p>
+<ul class="simple">
+<li><p>Researcher</p></li>
+<li><p>Educator</p></li>
+<li><p>Research Software Engineer</p></li>
+<li><p>Community Manager</p></li>
+<li><p>Outreach and Advocacy</p></li>
+<li><p>Developer</p></li>
+<li><p>Legal and Policy Advisor</p></li>
+</ul>
+<p>Many respondents selected more than one role, indicating the hybrid and interdisciplinary nature of OSS work within academic settings.</p>
+<p><img alt="Figure 1: Primary Roles in Academic Open Source Software (n=22)" src="../_images/image1.png" /></p>
+<!-- markdownlint-disable-next-line MD033 -->
+<p><em>Figure 1: Primary Roles in Academic Open Source Software (n=22)</em></p>
+<p>This role distribution reinforces the notion that academic OSS does not reside solely within the domain of technical software development. Instead, it is shaped by educators who integrate tools into curricula, researchers who develop and rely on OSS in their work, and community managers who support adoption and collaboration.</p>
+<p>One respondent reflected on this interplay of responsibilities:</p>
+<blockquote>
+<div><p><em>“In academic OSS, you often end up doing everything—writing the code, managing the team, applying for funding, and teaching with the tools you built.”</em></p>
+</div></blockquote>
+<p>Another noted:</p>
+<blockquote>
+<div><p><em>“My role doesn’t fall into a single category. I’m a researcher, but I also mentor contributors, write docs, and maintain governance policies.”</em></p>
+</div></blockquote>
+<p>These findings underscore that academic OSS labor often spans roles typically separated by institutional structures or disciplinary silos. The Academic Map, in capturing this ecosystem, must account for the multiplicity of contributions that sustain these projects—not just lines of code or citations.</p>
+<section id="preferred-information-formats-for-the-map">
+<h3>4.1 Preferred Information Formats for the Map<a class="headerlink" href="#preferred-information-formats-for-the-map" title="Link to this heading">#</a></h3>
+<p>In addition to exploring roles and project engagement, the survey asked respondents to identify which formats of information they would find most useful in an academic open source ecosystem map. The responses reflected a strong preference for multi-format, interactive, and narrative-driven content.</p>
+<p>The most frequently requested formats were:</p>
+<ul class="simple">
+<li><p>Written descriptions and documentation</p></li>
+<li><p>Visuals such as infographics or organizational charts</p></li>
+<li><p>Interactive tools (e.g., searchable project maps, role filters)</p></li>
+<li><p>Data dashboards tracking project activity or contributions</p></li>
+<li><p>Case studies or impact stories</p></li>
+<li><p>Academic case studies or research papers</p></li>
+</ul>
+<p><img alt="Figure 2: Preferred Formats of Information in an Academic OSS Ecosystem Map" src="../_images/image2.png" /></p>
+<!-- markdownlint-disable-next-line MD033 -->
+<p><em>Figure 2: Preferred Formats of Information in an Academic OSS Ecosystem Map</em></p>
+<p>A few respondents selected only one format, while many chose combinations. One respondent specifically requested Git history visualization tools, indicating an interest in technical transparency and longitudinal insight.</p>
+<p>This diversity of preferences suggests that a successful ecosystem map must cater to a wide range of users—from those seeking narrative or institutional context to those pursuing deeper technical metrics or collaboration pathways. The emphasis on interactivity and layered information further supports the need for a flexible, user-driven interface that can serve different discovery styles and information needs.</p>
+</section>
+</section>
+<section id="contribution-patterns">
+<h2>5. Contribution Patterns<a class="headerlink" href="#contribution-patterns" title="Link to this heading">#</a></h2>
+<p>To understand the degree of collaborative engagement within the academic open source (OSS) community, the survey asked respondents whether they had contributed to open source projects they did not originate or maintain themselves. The goal was to distinguish between contributors who work primarily on self-initiated or institution-specific tools, and those who actively engage with broader, community-led OSS ecosystems.</p>
+<p>The majority of respondents (15 out of 22) indicated that they had not contributed to external OSS projects, while 7 respondents reported that they had. This distribution may reflect multiple factors, including limited exposure to relevant projects, lack of institutional support for external engagement, and time or skill constraints.</p>
+<p><img alt="Figure 3: Contribution to External OSS Projects" src="../_images/image3.png" /></p>
+<!-- markdownlint-disable-next-line MD033 -->
+<p><em>Figure 3: Contribution to External OSS Projects</em></p>
+<p>Several open-ended responses provided insight into these barriers:</p>
+<blockquote>
+<div><ul class="simple">
+<li><p><em>“I don’t know where to look.”</em></p></li>
+<li><p><em>“Time.”</em></p></li>
+<li><p><em>“Not understanding some of the terminologies like git.”</em></p></li>
+</ul>
+</div></blockquote>
+<p>These comments point to a landscape in which many potential contributors face structural or informational challenges that inhibit broader participation. The distinction between those developing OSS for their own academic needs and those contributing to shared, public infrastructure appears to be a key axis within the academic OSS community. Recognizing and addressing this difference may be essential for understanding participation patterns and supporting more inclusive engagement</p>
+</section>
+<section id="discoverability-and-challenges">
+<h2>6. Discoverability and Challenges<a class="headerlink" href="#discoverability-and-challenges" title="Link to this heading">#</a></h2>
+<p>Academic open source software (OSS) plays a critical role in research and teaching, but for many contributors, finding the right projects—whether to adopt or to contribute to—remains a persistent challenge.</p>
+<p>Respondents were asked how they typically discover OSS projects relevant to their academic work. The most frequently selected methods were:</p>
+<ul class="simple">
+<li><p>Open source directories or platforms (e.g., GitHub, GitLab)</p></li>
+<li><p>Recommendations from colleagues or collaborators</p></li>
+<li><p>Conferences or workshops</p></li>
+<li><p>Social media or newsletters</p></li>
+<li><p>Academic publications (selected least often)</p></li>
+</ul>
+<p><img alt="Figure 4: Project Discovery Channels" src="../_images/image4.png" /></p>
+<!-- markdownlint-disable-next-line MD033 -->
+<p><em>Figure 4: Project Discovery Channels</em></p>
+<p>These results suggest that discoverability in academic OSS is largely informal, driven by personal networks and general-purpose technical platforms. Traditional academic channels, including peer-reviewed publications or institutional repositories, appear to play a minimal role.</p>
+<p>This reliance on social or ad hoc channels introduces a degree of randomness—and, for some, exclusion—into the discovery process. The lack of centralized or discipline-specific directories may especially hinder newcomers or those outside well-networked institutions.</p>
+<p>In open-ended responses, several participants expressed this challenge directly:</p>
+<blockquote>
+<div><ul class="simple">
+<li><p><em>“I don’t know where to look.”</em></p></li>
+<li><p><em>“I do not actively search for open source projects.”</em></p></li>
+<li><p><em>“No clear description, no platform for academic open source projects.”</em></p></li>
+<li><p><em>“Key words in Google.”</em></p></li>
+</ul>
+</div></blockquote>
+<p>These remarks reflect a consistent theme: the absence of dedicated infrastructure or interfaces for navigating academic OSS. Instead, discovery often depends on prior knowledge, informal mentoring, or algorithmic chance.</p>
+<p>If included, the keyword analysis below further visualizes the language most commonly used by respondents when describing barriers to discovery.</p>
+</section>
+<section id="collaboration-models">
+<h2>7. Collaboration Models<a class="headerlink" href="#collaboration-models" title="Link to this heading">#</a></h2>
+<p>While open source software development is often framed as a technical activity, the survey results reveal that academic OSS contributors are interested in a broad range of collaborative roles, many of which extend beyond code. Respondents were asked to select the types of collaboration opportunities they find most valuable when engaging with open source projects.</p>
+<p>The most commonly selected forms of collaboration were:</p>
+<ul class="simple">
+<li><p>Joining a working group</p></li>
+<li><p>Contributing documentation</p></li>
+<li><p>Networking and mentorship</p></li>
+<li><p>Event participation (e.g., hackathons, conferences)</p></li>
+<li><p>Contributing code</p></li>
+</ul>
+<p><img alt="Figure 5: Preferred Forms of Collaboration in OSS Projects" src="../_images/image5.png" /></p>
+<!-- markdownlint-disable-next-line MD033 -->
+<p><em>Figure 5: Preferred Forms of Collaboration in OSS Projects</em></p>
+<p>The prominence of non-code options—such as documentation, events, and working groups—suggests that academic contributors view OSS as a space for shared inquiry, coordination, and knowledge exchange. This contrasts with traditional narratives that prioritize code commits as the primary measure of involvement.</p>
+<p>Several respondents emphasized this diversity in their open-ended feedback. While the survey did not ask a dedicated question about motivations, their selections and additional comments indicate a preference for collaborative structures that support learning, peer support, and long-term community formation.</p>
+<p>This finding aligns with recent research on sustainability in open source communities, which highlights the importance of inclusive, role-diverse participation models. In academic contexts, where contributors often work under time constraints and within teaching or research mandates, offering a range of participation pathways may be especially critical.</p>
+<p>In a follow-up question, respondents were also asked how important collaboration is in their academic OSS work overall. Responses strongly reinforced the earlier pattern:</p>
+<ul class="simple">
+<li><p>12 respondents described collaboration as “Very important”</p></li>
+<li><p>3 selected “Essential”</p></li>
+<li><p>Only 4 rated it Moderately, Slightly, or Not important</p></li>
+</ul>
+<p><img alt="Figure 6: Importance of Collaboration in Academic OSS" src="../_images/image6.png" /></p>
+<!-- markdownlint-disable-next-line MD033 -->
+<p><em>Figure 6: Importance of Collaboration in Academic OSS</em></p>
+<p>These results affirm that collaboration is not simply valued — it is often integral to how academic contributors understand participation in open source. Whether through shared infrastructure, co-development, or community support, collaboration appears to be a defining feature of academic OSS culture.</p>
+</section>
+<section id="understanding-impact">
+<h2>8. Understanding Impact<a class="headerlink" href="#understanding-impact" title="Link to this heading">#</a></h2>
+<p>Assessing the impact of open source software in academic contexts presents unique challenges. Unlike traditional scholarly outputs, OSS often lacks standardized metrics of success or visibility within institutional evaluation frameworks. To understand how contributors themselves assess impact, the survey asked participants to select indicators they consider meaningful when evaluating an academic OSS project.</p>
+<p>The most frequently selected metrics were:</p>
+<ul class="simple">
+<li><p>Citations in academic publications</p></li>
+<li><p>Contributions from outside the original team</p></li>
+<li><p>Collaborations formed through the project</p></li>
+<li><p>Mentions in non-academic media or platforms</p></li>
+<li><p>Use in teaching or curricula</p></li>
+</ul>
+<p><img alt="Figure 7: Indicators of OSS Project Impact" src="../_images/image7.png" /></p>
+<!-- markdownlint-disable-next-line MD033 -->
+<p><em>Figure 7: Indicators of OSS Project Impact</em></p>
+<p>While citations remain the most commonly selected metric—reflecting their institutional weight within academia—respondents also placed substantial value on networked and community-based indicators. The presence of contributors beyond the original development team, for example, was seen as a sign of reach, relevance, and sustainability.</p>
+<p>Several respondents also highlighted the educational value of OSS:</p>
+<blockquote>
+<div><ul class="simple">
+<li><p><em>“Impact to me means the tool is cited, reused, and ideally picked up in a classroom or another lab.”</em></p></li>
+<li><p><em>“Teaching use is often overlooked, but it’s where our software has the most real-world impact.”</em></p></li>
+</ul>
+</div></blockquote>
+<p>Notably, few respondents relied solely on academic metrics. Instead, most adopted a hybrid model, recognizing both scholarly outputs and broader forms of influence. This aligns with ongoing discussions in the open science and research software communities, where impact is increasingly understood as multidimensional—encompassing citations, community growth, educational adoption, and collaborative expansion.</p>
+<p>The variety of responses also points to an underlying challenge: the lack of consensus around what impact means in academic OSS. This ambiguity may affect how projects are valued, maintained, and supported across institutions and disciplines.</p>
+</section>
+<section id="discussion">
+<h2>9. Discussion<a class="headerlink" href="#discussion" title="Link to this heading">#</a></h2>
+<p>The responses gathered through this survey offer a valuable, if modest, lens into the academic open source software (OSS) ecosystem. Rather than recapitulate the findings, this section reflects on the underlying dynamics, tensions, and systemic gaps they reveal. These observations point not only to the state of academic OSS participation but also to the institutional and infrastructural contexts in which it is embedded.</p>
+<section id="the-blurred-boundaries-of-academic-oss-labor">
+<h3>9.1 The Blurred Boundaries of Academic OSS Labor<a class="headerlink" href="#the-blurred-boundaries-of-academic-oss-labor" title="Link to this heading">#</a></h3>
+<p>Respondents frequently described occupying multiple roles—researcher, educator, developer, community facilitator—often simultaneously. This hybridity suggests that academic OSS work resists tidy categorization. Unlike conventional academic outputs, OSS requires a blend of technical, pedagogical, and organizational labor. However, this multiplicity is rarely acknowledged or rewarded within academic evaluation frameworks, which continue to privilege single-author publications and narrow conceptions of “impact.”</p>
+<p>This is not a new observation. Institutional job structures often fail to reflect the complexity of roles involved in sustaining digital academic infrastructure. The result is a persistent “professional invisibility,” where essential contributors to research outputs are excluded from career progression pathways, authorship credits, or institutional investment.</p>
+<p>Similarly, Micah Altman and Mercè Crosas (2012), through their work on the Dataverse Project, have highlighted the critical importance of infrastructure stewardship in scholarly communication. Yet this type of work continues to be undervalued in metrics-driven academic cultures. Together, these studies affirm that the challenges uncovered in this survey reflect systemic patterns rather than isolated frustrations.</p>
+</section>
+<section id="challenges-in-discoverability-and-access">
+<h3>9.2 Challenges in Discoverability and Access<a class="headerlink" href="#challenges-in-discoverability-and-access" title="Link to this heading">#</a></h3>
+<p>A recurring theme is the difficulty in discovering relevant OSS projects. Many respondents rely on informal networks or general platforms like GitHub, indicating a lack of centralized, academic-specific repositories. This fragmentation can hinder collaboration and the reuse of existing tools, particularly for newcomers or those outside well-connected institutions.</p>
+<p>The need for better infrastructure is echoed in the Census III report by the Linux Foundation and Harvard’s Laboratory for Innovation Science, which highlights the widespread use of OSS and the necessity for improved security and maintenance practices (Nagle et al., 2024).</p>
+</section>
+<section id="the-centrality-of-collaboration">
+<h3>9.3 The Centrality of Collaboration<a class="headerlink" href="#the-centrality-of-collaboration" title="Link to this heading">#</a></h3>
+<p>Collaboration emerges as a cornerstone of academic OSS engagement. Respondents value diverse forms of collaboration, including working groups, mentorship, and event participation. This preference underscores the social dimension of OSS, where knowledge exchange and collective problem-solving are paramount.</p>
+<p>However, institutional structures often fail to accommodate or reward these collaborative efforts. This disconnect can impede the sustainability and growth of OSS initiatives within academia.</p>
+</section>
+<section id="rethinking-impact-metrics">
+<h3>9.4 Rethinking Impact Metrics<a class="headerlink" href="#rethinking-impact-metrics" title="Link to this heading">#</a></h3>
+<p>Traditional metrics like citation counts are insufficient to capture the full impact of OSS projects. Respondents also consider factors such as software reuse, integration into curricula, and community engagement as indicators of success.</p>
+<p>This broader perspective on impact is supported by research from Harvard Business School, which estimates the demand-side value of OSS at $8.8 trillion, highlighting its extensive economic significance (Nagle, 2024). Such findings advocate for a more inclusive approach to evaluating OSS contributions in academia.</p>
+</section>
+<section id="barriers-to-participation">
+<h3>9.5 Barriers to Participation<a class="headerlink" href="#barriers-to-participation" title="Link to this heading">#</a></h3>
+<p>Despite the recognized importance of OSS, barriers to participation persist. Challenges include limited time, lack of institutional support, and unfamiliarity with tools and processes. These obstacles can deter potential contributors and limit the diversity of the OSS community.</p>
+<p>Addressing these barriers requires concerted efforts to provide training, resources, and institutional recognition for OSS activities.</p>
+</section>
+</section>
+<section id="implications-for-the-academic-map">
+<h2>10. Implications for the Academic Map<a class="headerlink" href="#implications-for-the-academic-map" title="Link to this heading">#</a></h2>
+<p>The insights gathered through this survey underscore the need for an academic open source ecosystem map that does more than catalog repositories. The findings point toward a broader rethinking of how infrastructure can support discovery, recognition, and connection within a fragmented and often under-resourced academic OSS landscape.</p>
+<p>First, the map must account for the diverse roles that contributors play. Many participants identified as occupying multiple positions—researcher, developer, educator, and organizer—often at once. This hybridity reflects the nature of academic OSS itself, where boundaries between technical, pedagogical, and administrative work are blurred. A useful map should enable users to explore projects not just by topic or language, but by the types of roles involved. Making visible the full range of contributions—including documentation, mentorship, governance, and community support—would help shift attention away from narrow metrics of code commits or citations.</p>
+<p>In addition, the survey revealed persistent frustration with discoverability. Contributors often rely on GitHub searches, peer recommendations, or chance encounters at conferences. Very few cited formal academic repositories or scholarly databases. The Academic Map should therefore function as an intermediary layer, connecting informal discovery channels with structured academic contexts. Rich metadata—covering disciplinary scope, licensing, institutional affiliation, and project maturity—will be essential. Moreover, respondents indicated a strong preference for varied information formats, from written descriptions to interactive dashboards and case studies. The map should reflect this by offering layered, navigable views that cater to both technical users and those seeking narrative or institutional context.</p>
+<p>Collaboration emerged as both a value and a need. Most respondents described it as central to their work, and expressed interest in contributing in multiple ways, including through working groups, non-code tasks, and mentorship. Yet collaboration opportunities are often invisible. The map can address this by allowing projects to declare what kinds of participation they are seeking and providing mechanisms for individuals to filter or match based on those preferences. Equally important is surfacing information about governance—who maintains a project, how decisions are made, and how new contributors can join.</p>
+<p>The discussion around impact also invites careful attention. Respondents adopted a hybrid model of assessing success, valuing both traditional metrics like citations and more community-oriented indicators like reuse, teaching integration, and external collaboration. Rather than imposing a single evaluative framework, the map should support plural metrics, allowing users to see multiple forms of influence side by side. Projects should be able to self-describe their intended goals and reflect their own communities’ values around success.</p>
+<p>Finally, the survey pointed to barriers that are infrastructural as much as they are cultural—uncertainty around licensing, unclear institutional policies, and the lack of time or recognition. While the map cannot solve these challenges alone, it can make them visible. Showing which projects are institutionally supported, funded, or sustained can help identify gaps in the ecosystem and opportunities for targeted investment or advocacy.</p>
+<p>Taken together, these findings suggest that the Academic Map must do more than display OSS projects. It should function as a connective layer—linking contributors, surfacing roles, signaling collaboration needs, and contextualizing impact. If successful, it can help transform how academic OSS is discovered, valued, and sustained.</p>
+</section>
+<section id="limitations">
+<h2>11. Limitations<a class="headerlink" href="#limitations" title="Link to this heading">#</a></h2>
+<p>While this survey offers valuable insight into the academic open source software (OSS) ecosystem, it is important to acknowledge its limitations. First and foremost is the sample size. With 22 respondents, the data cannot be considered representative of the full range of perspectives, disciplines, or institutions involved in academic OSS. Rather than claiming generalizability, the findings should be understood as indicative—surfacing themes and tensions that merit further exploration.</p>
+<p>Second, the survey distribution relied on channels already connected to the SustainOSS network, such as mailing lists, social media posts, and internal community outreach. This likely skewed the sample toward individuals who are already somewhat engaged in open source conversations and communities. Voices from institutions with less exposure to open source practices, or from contributors in under-resourced settings, may be underrepresented.</p>
+<p>Third, while the survey included both structured and open-ended questions, it necessarily captured only surface-level reflections on complex topics such as governance, sustainability, and collaboration. Deeper qualitative insights—particularly those related to institutional barriers, contributor motivations, and impact practices—would benefit from follow-up through interviews, case studies, or co-design workshops.</p>
+<p>Finally, the survey was conducted in English and distributed online, which may have limited participation from non-English-speaking communities or those with restricted digital access. Future efforts should aim for greater linguistic, geographic, and disciplinary diversity to better reflect the global nature of academic open source work.</p>
+<p>Despite these constraints, the responses collected provide a meaningful foundation for further research, tool design, and community dialogue. They point to a set of recurring needs and structural gaps that can inform not only the Academic Map, but broader strategies for sustaining open source within scholarly environments.</p>
+</section>
+<section id="conclusion-and-next-steps">
+<h2>12. Conclusion and Next Steps<a class="headerlink" href="#conclusion-and-next-steps" title="Link to this heading">#</a></h2>
+<p>This report has explored the practices, needs, and challenges shaping the academic open source software (OSS) ecosystem, as articulated by contributors across a range of roles and institutions. While the number of survey responses was modest, the perspectives offered are rich with insight. Together, they reveal an ecosystem that is active but fragmented, creative but structurally under-supported.</p>
+<p>Contributors to academic OSS wear many hats: they teach, code, mentor, advocate, and organize. Yet this labor often goes unrecognized in conventional academic reward structures. At the same time, finding relevant OSS projects remains difficult due to a lack of centralized discovery tools and shared standards. Respondents expressed strong interest in collaboration—especially in non-code forms such as documentation, events, and working groups—and showed a clear preference for hybrid impact models that value both citations and broader community engagement.</p>
+<p>The findings presented here are not a final statement, but a foundation. They point to patterns worth investigating further, and to opportunities for community dialogue, resource-building, and shared strategy. As the SustainOSS community continues to shape this initiative, the voices and experiences captured in this survey can serve as a compass—helping to align tools with lived realities, and infrastructure with imagination.</p>
+</section>
+<section id="acknowledgments">
+<h2>Acknowledgments<a class="headerlink" href="#acknowledgments" title="Link to this heading">#</a></h2>
+<p>This work was made possible through the ongoing support and collaboration of the SustainOSS community. Special thanks are due to all the individuals who took the time to complete the survey and share their experiences with academic open source software. Your insights and reflections form the foundation of this report and will help shape the future direction of the Academic Open Source Ecosystem Map.</p>
+<p>We also acknowledge the broader network of open source practitioners, educators, researchers, and community organizers whose work continues to inspire and sustain efforts at the intersection of scholarship and open infrastructure. The challenges you navigate and the contributions you make are central to this evolving ecosystem.</p>
+<p>Gratitude is extended to the organizers, facilitators, and contributors to the Open Source Academic Map initiative, as well as to the wider SustainOSS network, for providing the space and resources for this project to take root.</p>
+</section>
+<section id="references">
+<h2>References<a class="headerlink" href="#references" title="Link to this heading">#</a></h2>
+<ul class="simple">
+<li><p>Altman, M., &amp; Crosas, M. (2012). <em>Data Citation in the Dataverse Network</em>. In: For Attribution: Developing Data Attribution and Citation Practices and Standards. National Academies Press, pp. 99–106.</p></li>
+<li><p>Nagle, F., Powell, K., Zitomer, R., &amp; Wheeler, D. A. (2024). <em>Census III of Free and Open Source Software – Application Libraries</em>. The Linux Foundation &amp; Laboratory for Innovation Science at Harvard.</p></li>
+<li><p>Nagle, F. (2024). <em>The Economic Impact of Open Source Software</em>. Harvard Business School Working Paper No. 24-036.</p></li>
+</ul>
+</section>
+</section>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            name: "python3",
+            path: "./blog"
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+                </article>
+              
+
+              
+              
+              
+              
+                <footer class="prev-next-footer d-print-none">
+                  
+<div class="prev-next-area">
+    <a class="left-prev"
+       href="../blog.html"
+       title="previous page">
+      <i class="fa-solid fa-angle-left"></i>
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">previous</p>
+        <p class="prev-next-title">Blog</p>
+      </div>
+    </a>
+</div>
+                </footer>
+              
+            </div>
+            
+            
+              
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#executive-summary">1. Executive Summary</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#introduction">2. Introduction</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#methodology">3. Methodology</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#survey-design-and-objectives">3.1 Survey Design and Objectives</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#data-collection-period-and-distribution">3.2 Data Collection Period and Distribution</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#respondent-profile">3.3 Respondent Profile</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#analytical-approach">3.4 Analytical Approach</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#who-is-building-academic-open-source-software">4. Who Is Building Academic Open Source Software?</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#preferred-information-formats-for-the-map">4.1 Preferred Information Formats for the Map</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#contribution-patterns">5. Contribution Patterns</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#discoverability-and-challenges">6. Discoverability and Challenges</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#collaboration-models">7. Collaboration Models</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#understanding-impact">8. Understanding Impact</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#discussion">9. Discussion</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#the-blurred-boundaries-of-academic-oss-labor">9.1 The Blurred Boundaries of Academic OSS Labor</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#challenges-in-discoverability-and-access">9.2 Challenges in Discoverability and Access</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#the-centrality-of-collaboration">9.3 The Centrality of Collaboration</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#rethinking-impact-metrics">9.4 Rethinking Impact Metrics</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#barriers-to-participation">9.5 Barriers to Participation</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#implications-for-the-academic-map">10. Implications for the Academic Map</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#limitations">11. Limitations</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#conclusion-and-next-steps">12. Conclusion and Next Steps</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#acknowledgments">Acknowledgments</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#references">References</a></li>
+</ul>
+  </nav></div>
+
+</div></div>
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+<div class="bd-footer-content__inner container">
+  
+  <div class="footer-item">
+    
+<p class="component-author">
+By SustainOSS Academic Working Group
+</p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+
+  <p class="copyright">
+    
+      © Copyright 2023.
+      <br/>
+    
+  </p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+</div>
+          </footer>
+        
+
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="../_static/scripts/bootstrap.js?digest=3ee479438cf8b5e0d341"></script>
+<script src="../_static/scripts/pydata-sphinx-theme.js?digest=3ee479438cf8b5e0d341"></script>
+
+  <footer class="bd-footer">
+  </footer>
+  </body>
+</html>
