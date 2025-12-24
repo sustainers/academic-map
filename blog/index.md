@@ -4,4 +4,4 @@ Occasionally, we put out reports based on work done here. You can read about the
 
 ## Reports
 
-- [2025 July Report](blog/2025-07-report.md)
+- [2025 July Report](./2025-07-report.md)
