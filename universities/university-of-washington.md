@@ -19,9 +19,9 @@ Current work being undertaken includes:
 
 ## Core Objectives
 
-1. To make existing open source software contributions by UW staff, researcher, etc. more valued and visible to the campus community.
+1. To make existing open source software contributions by UW staff, researchers and students more valued and visible to the campus community.
 2. To support the campus community in learning about and utilizing the best practices of open scholarship and open source software in their work.
-3. To build on existing collaborations and create new partnerships across and beyond the campus that support students, researchers, staff and faculty to navigate the rapidly changing landscape of tools and software development in the age of AI.
+3. To build on existing collaborations and to create new partnerships across and beyond the campus that support students, researchers, staff and faculty to navigate the rapidly changing landscape of tools and software development in the age of AI.
 
 ## Primary Contacts
 
