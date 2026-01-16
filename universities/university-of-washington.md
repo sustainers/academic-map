@@ -25,7 +25,7 @@ Current work being undertaken includes:
 
 ## Primary Contacts
 
-[Sarah Stone, *eScience Executive Director*]([https://www.insmi.cnrs.fr/fr/personne/violaine-louvet](https://escience.washington.edu/member/sarah-stone/)
+[Sarah Stone, *eScience Executive Director*](https://escience.washington.edu/member/sarah-stone/)
 
 ## Other Context
 
