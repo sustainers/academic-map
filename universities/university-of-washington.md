@@ -1,7 +1,7 @@
 # University of Washington
 
-- *OSPO*: UW's eScience Institute (UW's data science, AI, software engineering center) currently has overall responsiblity for all OSPO activities. The eScience Institute also works in partnership with UW Libraries and UW's tech transfer organization to advance open source in the university.
-- *Personnel*: Saraqh Stone
+- *OSPO*: UW's eScience Institute (UW's data science, AI, software engineering center) currently has overall responsiblity for OSPO activities. The eScience Institute also works in partnership with UW Libraries and UW's tech transfer organization to advance open source in the university.
+- *Personnel*: Sarah Stone
 - *Link*: [eScience Institute](https://escience.washington.edu/)
 - *Member of*: [CURIOSS](https://curioss.org/)
 
@@ -21,7 +21,7 @@ Current work being undertaken includes:
 
 1. To make existing open source software contributions by UW staff, researcher, etc. more valued and visible to the campus community.
 2. To support the campus community in learning about and utilizing the best practices of open scholarship and open source software in their work.
-3. To build on existing collaborations and create new partnerships across and beyond the campus that support students, researchers, staff and faculty, to navigate the rapidly changing landscape of tools and software development in the age of AI.
+3. To build on existing collaborations and create new partnerships across and beyond the campus that support students, researchers, staff and faculty to navigate the rapidly changing landscape of tools and software development in the age of AI.
 
 ## Primary Contacts
 
