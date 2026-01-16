@@ -39,7 +39,7 @@ There are a host of universities which don't have open source program offices, b
 
 ## Universities without OSPOs
 
-There are also universities that develop open source software, but don't have policies publicly set for staff or researchers.
+There are also universities that develop and support the advancement open source software, but don't have an official OSPO or official policies publicly set for staff or researchers.
 
 - [ETH Zurich](./eth-zurich.md)
 - [Indiana University](./indiana.md)
@@ -55,4 +55,5 @@ There are also universities that develop open source software, but don't have po
 - [University of Notre Dame](./notre-dame.md)
 - [University of Pennsylvania](./university-of-pennsylvania.md)
 - [University of Victoria](./university-of-victoria.md)
+- [University of Washington](https://github.com/sustainers/academic-map/blob/main/universities/university-of-washington.md)
 - [University of Zagreb](./university-of-zagreb.md)
