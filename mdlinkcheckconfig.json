@@ -1,5 +1,5 @@
 {
-  "aliveStatusCodes": [0,200,403],
+  "aliveStatusCodes": [0,200,403,415],
   "ignorePatterns": [
     {
       "pattern": "linkedin"
