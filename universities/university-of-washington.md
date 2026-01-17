@@ -11,7 +11,7 @@ Current work being undertaken includes:
 
 - Sharing technical expertise
 - Developing and sharing best practices
-- Educational efforts                                                                        
+- Educational efforts
 - Working with tech transfer and external partners
 - Sharing tools and infrastructure to support OSS
 - Community building

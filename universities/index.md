@@ -26,6 +26,7 @@ The following universities have an office which has the standing of an Open Sour
 - [University of California Santa Cruz](./university-of-california-santa-cruz.md)
 - [University of Texas Austin](./university-of-texas-austin.md)
 - [University of Vermont](./university-of-vermont.md)
+- [University of Washington](./university-of-washington.md)
 - [University of Wisconsin-Madison](./university-of-wisconsin-madison.md)
 
 ## Labs
