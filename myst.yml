@@ -1,0 +1,29 @@
+# MyST configuration for Jupyter Book
+# This helps myst-cli understand the project structure
+
+version: 1
+
+project:
+  title: SustainOSS Academic Ecosystem Map
+  authors:
+    - name: SustainOSS Academic Working Group
+  
+  # Point to the main Jupyter Book config
+  jupyter-book: true
+  
+  # Exclude patterns
+  exclude:
+    - README.md
+    - CODE_OF_CONDUCT.md
+    - contributing.md
+    - node_modules
+    - _build
+    - .git
+    - .github
+    - scripts
+    - static
+    - organizations/example.md
+
+site:
+  template: book-theme
+  title: SustainOSS Academic Ecosystem Map
