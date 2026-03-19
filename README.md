@@ -43,6 +43,9 @@ npm run lint
 # Check links
 npm run links
 
+# Check TOC completeness (ensures all files are in _toc.yml)
+npm run check-toc
+
 # Build the book locally
 npm run build
 

@@ -38,6 +38,10 @@ jobs:
     - name: Check markdown links
       run: npm run links-ci
 
+    # Check TOC completeness
+    - name: Check TOC completeness
+      run: npm run check-toc
+
     # Install Python dependencies
     - name: Set up Python 3.11
       uses: actions/setup-python@v4

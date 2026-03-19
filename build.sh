@@ -16,6 +16,9 @@ npm run lint
 echo "Running link checks..."
 npm run links-ci
 
+echo "Checking TOC completeness..."
+npm run check-toc
+
 echo "Building Jupyter book..."
 jupyter-book build --all .
 
