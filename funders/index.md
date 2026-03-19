@@ -8,10 +8,6 @@ This list is incomplete. Please add to it!
 
 ## National Governments
 
-### UK
-
-- [Alan Turing Institute](https://www.turing.ac.uk/)
-
 ### USA
 
 - [National Science Foundation](./national-science-foundation.md)

@@ -68,8 +68,6 @@ chapters:
   - file: organizations/apereo.md
   - file: organizations/academic-data-science-alliance.md
     title: ADSA
-  - file: organizations/alan-turing-institute.md
-    title: Alan Turing Institute
   - file: organizations/american-association-for-the-advancement-of-science.md
     title: AAAS
   - file: organizations/american-astronomical-society.md
@@ -201,6 +199,8 @@ chapters:
     title: OSSci
 - file: research-institutions/index.md
   sections:
+  - file: research-institutions/the-alan-turing-institute.md
+    title: Alan Turing Institute
   - file: research-institutions/biohub.md
   - file: research-institutions/cern.md
     title: CERN
