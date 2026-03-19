@@ -17,13 +17,34 @@ jobs:
     steps:
     - uses: actions/checkout@v3
 
-    # Install dependencies
+    # Install Node.js for linting and link checking
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '18'
+
+    # Install npm dependencies
+    - name: Install npm dependencies
+      run: |
+        npm install
+        npm install -g markdownlint-cli
+        npm install -g markdown-link-check
+
+    # Run lint checks
+    - name: Lint markdown files
+      run: npm run lint
+
+    # Run link checks
+    - name: Check markdown links
+      run: npm run links-ci
+
+    # Install Python dependencies
     - name: Set up Python 3.11
       uses: actions/setup-python@v4
       with:
         python-version: 3.11
 
-    - name: Install dependencies
+    - name: Install Python dependencies
       run: |
         pip install -r requirements.txt
 
