@@ -34,3 +34,9 @@ repository:
 html:
   use_issues_button: true
   use_repository_button: true
+
+# Configure Sphinx directly to include custom CSS and specify static paths
+sphinx:
+  config:
+    html_static_path: ['static']
+    html_css_files: ['base.css']

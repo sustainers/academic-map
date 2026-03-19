@@ -1,2 +1,5 @@
 node_modules
 _build/
+_sources/
+_static/
+.DS_Store
