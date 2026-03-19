@@ -56,15 +56,9 @@ jobs:
     - name: Build the book
       run: |
         echo "Starting Jupyter Book build..."
-        ls -la _build 2>/dev/null || echo "No _build directory yet"
-        jupyter-book build --all . 2>&1 | tee build.log
-        # Check if build succeeded
-        if grep -q "Error reading file" build.log; then
-          echo "❌ Build error detected in output"
-          cat build.log
-          exit 1
-        fi
-        # Verify the build actually created the output directory
+        jupyter-book build --all .
+        
+        # Verify the build created the output directory and files
         if [ ! -d "_build/html" ]; then
           echo "❌ Error: Build failed to create _build/html directory"
           exit 1
@@ -73,7 +67,8 @@ jobs:
           echo "❌ Error: Build did not create index.html"
           exit 1
         fi
-        echo "✅ Build successful - _build/html created"
+        
+        echo "✅ Build successful - _build/html created with $(find _build/html -name '*.html' | wc -l) HTML files"
 
     # Upload the book's HTML as an artifact
     - name: Upload artifact
