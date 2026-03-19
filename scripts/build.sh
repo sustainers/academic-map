@@ -4,7 +4,7 @@
 # Note: For production deploys, the GitHub Action in .github/workflows/deploy-book.yml is used
 # This script is for manual local deployments only
 
-# Make sure you run `chmod +x build.sh` before attempting to run it.
+# Make sure you run `chmod +x scripts/build.sh` before attempting to run it.
 
 set -e  # Exit on any error
 

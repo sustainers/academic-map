@@ -6,7 +6,7 @@
   "scripts": {
     "build": "jupyter-book build --all .",
     "prebuild": "npm run check-toc",
-    "publish": "./build.sh",
+    "publish": "./scripts/build.sh",
     "lint": "markdownlint . -i _build/ -i node_modules --rules markdownlint-custom-rules.js",
     "lint-fix": "markdownlint --fix . -i _build/ -i node_modules",
     "links": "markdown-link-check ./*.md -c mdlinkcheckconfig.json && markdown-link-check ./**/*.md -c mdlinkcheckconfig.json",
