@@ -15,6 +15,51 @@ This is a Jupyter notebook, and depends on the tooling system of Jupyter Noteboo
 - Add any pages that you want to be in the Table of Contents to `_toc.yml`.
 - Run `build.sh` in order to automatically build the changes. You may need to run `chmod +x build.sh` to make this executable, first.
 
+## Development
+
+### Automatic Deployment
+
+The site automatically builds and deploys when you push to the `main` branch. The GitHub Action (`.github/workflows/deploy-book.yml`) will:
+
+1. Lint all markdown files (`npm run lint`)
+2. Check all links (`npm run links-ci`)
+3. Build the Jupyter book (`jupyter-book build --all .`)
+4. Deploy to GitHub Pages
+
+If any step fails, the deployment will stop and you'll receive a notification (if enabled in your GitHub notification settings).
+
+### Local Development
+
+To work on the site locally:
+
+```bash
+# Install dependencies
+npm install
+pip install -r requirements.txt
+
+# Lint markdown
+npm run lint
+
+# Check links
+npm run links
+
+# Build the book locally
+npm run build
+
+# View the built site
+open _build/html/index.html
+```
+
+### Manual Deployment
+
+If you need to manually deploy (rare), you can use:
+
+```bash
+./build.sh
+```
+
+This runs all checks, builds the book, and pushes to the `gh-pages` branch using `ghp-import`.
+
 ## Contribute
 
 Please! All contributions are welcome. As is written in the intro page currently:

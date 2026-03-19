@@ -1,36 +1,25 @@
 #!/bin/bash
 
-# Note: Make sure you run `chmod a+x` on this script before attempting to run it.
+# Local build and deploy script
+# Note: For production deploys, the GitHub Action in .github/workflows/deploy-book.yml is used
+# This script is for manual local deployments only
 
-# Set the directory where the Jupyter book is built
+# Make sure you run `chmod +x build.sh` before attempting to run it.
+
+set -e  # Exit on any error
+
 BUILD_DIR="./_build/html"
 
-# Function to display an error message and exit
-error_exit() {
-    echo "$1" >&2  # Display error message to stderr
-    exit "${2:-1}" # Exit with passed in status or default to 1
-}
+echo "Running lint checks..."
+npm run lint
 
-# Ensure we're in a git repository
-if ! git rev-parse --is-inside-work-tree > /dev/null 2>&1; then
-    error_exit "Not inside a Git repository."
-fi
+echo "Running link checks..."
+npm run links-ci
 
-# Switch to the main branch
-git checkout main || error_exit "Failed to switch to main branch."
+echo "Building Jupyter book..."
+jupyter-book build --all .
 
-# Run lint and link checks
-npm run run-all || error_exit "Failed lint and link checks."
+echo "Deploying to gh-pages branch..."
+ghp-import -n -p -f "$BUILD_DIR"
 
-# Build the Jupyter book
-jupyter-book build --all . || error_exit "Failed to build Jupyter book."
-
-# Ensure the build directory exists
-if [[ ! -d "$BUILD_DIR" ]]; then
-    error_exit "Build directory does not exist: $BUILD_DIR"
-fi
-
-# Import the book and push to the gh-pages branch
-ghp-import -n -p -f "$BUILD_DIR" || error_exit "Failed to import and push to gh-pages."
-
-echo "Build script completed successfully!"
+echo "Build and deploy completed successfully!"
