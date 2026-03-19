@@ -10,3 +10,4 @@ The following research institutions have an office which has the standing of an 
 - [CERN](./cern.md) - Research institution
 - [Lero](./lero.md) - Research Center for a collection of universities
 - [Mass General Brigham](./mass-general-brigham.md) - Research Medical Center
+- [The Alan Turing Institute](./the-alan-turing-institute.md) - Research Institution
