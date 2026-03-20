@@ -1,5 +1,7 @@
 # Academic Map
 
+[![Build Status](https://github.com/sustainers/academic-map/actions/workflows/deploy-book.yml/badge.svg)](https://github.com/sustainers/academic-map/actions/workflows/deploy-book.yml)
+
 > A Jupyter Book of resources for open source in academia
 
 ## Usage
