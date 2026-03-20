@@ -1,5 +1,7 @@
 # Contributing
 
+Anyone is welcome to contribute. Here is a small guide for adding your organization.
+
 ## How to add your organization or university
 
 In order to add your university, you need to edit the code that this website is stored on. You can do this by cloning the repository locally, or by using the GitHub online GUI.
@@ -21,7 +23,7 @@ In order to add your university, you need to edit the code that this website is 
       sections:
       ...
       - file: universities/saint-louis-university.md
-      # Ingore this comment - just pointing out the new file in the line below
+      # Ignore this comment - just pointing out the new file in the line below
       - file: universities/the-unseen-university.md
       - file: universities/university-of-california-santa-cruz.md
       - file: universities/university-of-vermont.md
