@@ -224,7 +224,6 @@ chapters:
   - file: funders/navigation.md
   - file: funders/protocollabs.md
   - file: funders/top10vpn.md
-- file: individuals.md
 - file: blog/index.md
   sections:
   - file: blog/2025-07-report.md
