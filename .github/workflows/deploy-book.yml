@@ -17,32 +17,7 @@ jobs:
     steps:
     - uses: actions/checkout@v3
 
-    # Install Node.js for linting and link checking
-    - name: Set up Node.js
-      uses: actions/setup-node@v3
-      with:
-        node-version: '18'
-
-    # Install npm dependencies
-    - name: Install npm dependencies
-      run: |
-        npm install
-        npm install -g markdownlint-cli
-        npm install -g markdown-link-check
-
-    # Run lint checks
-    - name: Lint markdown files
-      run: npm run lint
-
-    # Run link checks
-    - name: Check markdown links
-      run: npm run links-ci
-
-    # Check TOC completeness
-    - name: Check TOC completeness
-      run: npm run check-toc
-
-    # Install Python dependencies
+    # BUILD FIRST - Fail fast if there are build issues
     - name: Set up Python 3.11
       uses: actions/setup-python@v4
       with:
@@ -52,7 +27,6 @@ jobs:
       run: |
         pip install -r requirements.txt
 
-    # Build the book
     - name: Build the book
       run: |
         echo "Starting Jupyter Book build..."
@@ -69,6 +43,27 @@ jobs:
         fi
         
         echo "✅ Build successful - _build/html created with $(find _build/html -name '*.html' | wc -l) HTML files"
+
+    # THEN run slower checks (lint, links, TOC)
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '18'
+
+    - name: Install npm dependencies
+      run: |
+        npm install
+        npm install -g markdownlint-cli
+        npm install -g markdown-link-check
+
+    - name: Lint markdown files
+      run: npm run lint
+
+    - name: Check markdown links
+      run: npm run links-ci
+
+    - name: Check TOC completeness
+      run: npm run check-toc
 
     # Upload the book's HTML as an artifact
     - name: Upload artifact
