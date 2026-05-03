@@ -217,6 +217,7 @@ chapters:
   - file: service-providers/tidelift.md
 - file: funders/index.md
   sections:
+  - file: funders/arcadia.md
   - file: funders/cisco.md
   - file: funders/czi.md
   - file: funders/diif.md
