@@ -25,4 +25,4 @@ The OSPO’s primary function is the empowerment of researchers to execute on th
 
 ## Other Context
 
-Examples of open source spinouts from TCD include Software Radio Systems (SRS) and [TerminusDB](https://github.com/terminusdb). SRS is an open software radio company. Their mission is to develop high-performance software radio solutions for 4G and 5G, with complete UE and RAN solutions, supporting the creation of new mobile services. They work with commercial partners to develop custom solutions for bespoke production networks across challenging terrestrial, air-to-ground and satellite deployments.
+Examples of open source spinouts from TCD include Software Radio Systems (SRS). SRS is an open software radio company. Their mission is to develop high-performance software radio solutions for 4G and 5G, with complete UE and RAN solutions, supporting the creation of new mobile services. They work with commercial partners to develop custom solutions for bespoke production networks across challenging terrestrial, air-to-ground and satellite deployments.
