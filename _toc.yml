@@ -113,8 +113,6 @@ chapters:
   - file: organizations/internet-society.md
   - file: organizations/invest-in-open-infrastructure.md
     title: Invest in Open Infrastructure
-  - file: organizations/isglobal-barcelona-institute-for-global-health.md
-    title: ISGlobal
   - file: organizations/japan-aerospace-exploration-agency.md
   - file: organizations/joss.md
     title: JOSS
@@ -206,6 +204,8 @@ chapters:
   - file: research-institutions/biohub.md
   - file: research-institutions/cern.md
     title: CERN
+  - file: research-institutions/isglobal-barcelona-institute-for-global-health.md
+    title: ISGlobal
   - file: research-institutions/lero.md
   - file: research-institutions/mass-general-brigham.md
     title: Mass General Brigham
