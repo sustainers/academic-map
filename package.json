@@ -12,7 +12,7 @@
     "links": "markdown-link-check ./*.md -c mdlinkcheckconfig.json && markdown-link-check ./**/*.md -c mdlinkcheckconfig.json",
     "links-ci": "markdown-link-check -q ./*.md -c mdlinkcheckconfig.json && markdown-link-check ./**/*.md -q -c mdlinkcheckconfig.json",
     "check-toc": "./scripts/check-toc-completeness.sh",
-    "run-all": "npm run lint && npm run links-ci && npm run check-toc",
+    "checks": "npm run lint && npm run links-ci && npm run check-toc",
     "pretest": "npm run lint-fix"
   },
   "devDependencies": {
