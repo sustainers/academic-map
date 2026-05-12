@@ -17,7 +17,7 @@ Core activities will focus on the provision of training and resources on develop
 
 ## Primary Contacts
 
-[opensource@utdallas.edu](opensource@utdallas.edu)
+[opensource@utdallas.edu](mailto:opensource@utdallas.edu)
 
 ## Other Context
 
