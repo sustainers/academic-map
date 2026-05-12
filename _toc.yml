@@ -54,6 +54,8 @@ chapters:
     title: UPenn
   - file: universities/university-of-texas-austin.md
     title: UT Austin
+  - file: universities/university-of-texas-dallas.md
+    title: UT Dallas
   - file: universities/university-of-vermont.md
     title: UVM
   - file: universities/university-of-washington.md
