@@ -24,6 +24,8 @@ jobs:
           npm install -g markdown-link-check
       - name: Lint markdown
         run: npm run lint
+      - name: Check Table of Contents
+        run: npm run check-toc
       - name: Link check
         uses: nick-fields/retry@v3
         with:
