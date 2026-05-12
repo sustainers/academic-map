@@ -1,7 +1,7 @@
 # University of Wisconsin-Madison
 
 - *OSPO*: Yes, in the Data Science Institute.
-- *Personnel*: Allison Kittinger, Kyle Cranmer, Bethany Philbrick
+- *Personnel*: Kyle Cranmer, David LeBeause (Program Manager), Bethany Philbrick (OSPO Outreach Specialist)
 - *Link*: [http://ospo.wisc.edu/](http://ospo.wisc.edu/)
 - *Member of*: [CURIOSS](https://curioss.org/)
 
@@ -19,7 +19,7 @@ Thanks to a grant from the Alfred P. Sloan Foundation, The University of Wiscons
 
 ## Primary Contacts
 
-- [Allison Kittinger](mailto:allison.kittinger@wisc.edu) – Program manager
+- [David LeBeause](mailto:labeause@wisc.edu) – Program manager
 
 Kyle Cranmer is the director of the Data Science Institute. Bethany Philbrick is the OSPO Outreach Specialist, who started in February 2024.
 
