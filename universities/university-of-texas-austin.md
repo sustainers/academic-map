@@ -7,13 +7,13 @@
 
 ## General Description
 
-The UT Austin-OSPO engages with researchers in experiencing and expanding their knowledge and use of open source software through events and talks, a Case Study series, immersive training, one-to-one consultations, Hackathons, and more. 
+The UT Austin-OSPO engages with researchers in experiencing and expanding their knowledge and use of open source software through events and talks, a Case Study series, immersive training, one-to-one consultations, Hackathons, and more.
 
-The OSPO hostS a research matching program, connecting researchers with student talent and students with research software engineering experience. 
+The OSPO hostS a research matching program, connecting researchers with student talent and students with research software engineering experience.
 
 It also partners with Discovery to Impact to help researchers understand licensing, sharing, and commercialization potential of their software.
 
-UT Austin-OSPO is one of the few OSPOs that works with a super computing center. 
+UT Austin-OSPO is one of the few OSPOs that works with a super computing center.
 
 ## Core Objectives and Activities
 

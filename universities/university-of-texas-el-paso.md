@@ -9,13 +9,14 @@
 
 The UTD-OSPO is committed to accelerating innovation and ensuring reproducibility in scientific studies.
 
-Through initiatives like the Artificial Intelligence Integration (AAII) Institute and the Computer Science Students FOSS group, the UTEP OSPO will empower researchers and students to contribute to global open-source communities while advancing local projects.
+Through initiatives like the Artificial Intelligence Integration (AAII) Institute and the Computer Science Students FOSS group, the UTEP OSPO will empower researchers and students to contribute to global open source communities while advancing local projects.
 
 ## Core Objectives
 
 Core objectives include:
+
 - Advancing researchers' abilities to develop and utilize open source software to advance research.
-- Enhancing awareness of the open source software ecosystem particularly among students 
+- Enhancing awareness of the open source software ecosystem particularly among students
 
 ## Primary Contacts
 

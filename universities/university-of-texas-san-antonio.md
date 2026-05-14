@@ -7,11 +7,11 @@
 
 ## General Description
 
-The UTSA OSPO will explore how to leverage best practices for open-source software to simplify reproducible research; contribute in areas of teaching and learning; and to prepare students to navigate open-source culture and community resources. 
+The UTSA OSPO will explore how to leverage best practices for open source software to simplify reproducible research; contribute in areas of teaching and learning; and to prepare students to navigate open source culture and community resources.
 
 ## Core Objectives
 
-Current priorities include creating a user advisory group to meet quarterly, and creating and maintaining an active software projects catalog. 
+Current priorities include creating a user advisory group to meet quarterly, and creating and maintaining an active software projects catalog.
 
 ## Primary Contacts
 
