@@ -56,6 +56,10 @@ chapters:
     title: UT Austin
   - file: universities/university-of-texas-dallas.md
     title: UT Dallas
+  - file: universities/university-of-texas-el-paso.md
+    title: UT El Paso
+  - file: universities/university-of-texas-san-antonio.md
+    title: UT San Antonio
   - file: universities/university-of-vermont.md
     title: UVM
   - file: universities/university-of-washington.md
