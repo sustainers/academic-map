@@ -27,6 +27,7 @@ The following universities have an office which has the standing of an Open Sour
 - [University of Texas at Austin](./university-of-texas-austin.md)
 - [University of Texas at Dallas](./university-of-texas-dallas.md)
 - [University of Texas at El Paso](./university-of-texas-el-paso.md)
+- [University of Texas at San Antonio](./university-of-texas-san-antonio.md)
 - [University of Vermont](./university-of-vermont.md)
 - [University of Washington](./university-of-washington.md)
 - [University of Wisconsin-Madison](./university-of-wisconsin-madison.md)
