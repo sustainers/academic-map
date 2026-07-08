@@ -152,6 +152,8 @@ chapters:
     title: OSC
   - file: organizations/open-science-hardware-foundation.md
     title: OSHF
+  - file: organizations/open-research-community-accelerator.md
+    title: ORCA
   - file: organizations/ospoplusplus.md
     title: OSPO++
   - file: organizations/outreachy.md
