@@ -38,7 +38,8 @@ Sorted alphabetically.
 - **[URSSI](./urssi.md)**
 - **[USRSE](./usrse.md)**
 - [InnerSource Commons](https://innersourcecommons.org/)
-- [OSPO++](./ospoplusplus.md)
+- **[ORCA](./open-research-community-accelerator.md)**
+- **[OSPO++](./ospoplusplus.md)**
 - [ReSA](https://www.researchsoft.org/about-resa/)
 - [The Carpentries](https://carpentries.org)
   - [Software Carpentry](https://software-carpentry.org)
