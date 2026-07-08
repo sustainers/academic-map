@@ -1,7 +1,7 @@
 # European Organization for Nuclear Research (CERN)
 
 - **Website:** [CERN](https://home.cern/)
-- **Open Source Program Office (OSPO):** [CERN OSPO Announcement](https://home.cern/news/news/computing/cerns-new-open-source-program-office)
+- **Open Source Program Office (OSPO):** [Website](https://opensource.web.cern.ch/)
 
 ## Overview
 
@@ -13,10 +13,10 @@ CERN, the European Organization for Nuclear Research, is one of the world’s le
   [Learn more](https://home.cern/science/computing/)
 - **CERN Open Hardware Licence (OHL):** A licensing model created to promote the collaborative development and distribution of hardware designs under open terms.
 - **Zenodo:** Developed by CERN in partnership with the European Commission, Zenodo is a research data repository enabling scientists to share datasets, software, publications, and more.
-  [Explore Zenodo](https://home.cern/news/news/computing/cern-software-become-central-hub-eu-research)
+  [Explore Zenodo](https://home.cern/cern-software-become-central-hub-eu-research/)
 - **Invenio:** An open source framework for building digital repositories, used by institutions around the world to manage research outputs and digital assets.
   [Learn about Invenio](https://en.wikipedia.org/wiki/Invenio)
 
 ## Contact
 
-For more information on CERN’s open source initiatives, visit the [CERN OSPO page](https://home.cern/cerns-new-open-source-program-office/) or contact [Open.Source@cern.ch](mailto:Open.Source@cern.ch).
+For more information on CERN’s open source initiatives, visit the [CERN OSPO page](https://opensource.web.cern.ch/) or contact [Open.Source@cern.ch](mailto:Open.Source@cern.ch).
