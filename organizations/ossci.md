@@ -31,4 +31,4 @@ OSSci is co-founded by [NumFOCUS](./numfocus.md) and IBM. While additional funde
 
 ## Members and Collaborators
 
-- **[University of Wisconsin-Madison](https://sustainoss.org/academic-map/universities/university-of-wisconsin-madison.html)**: The Data Science Institute at the University of Wisconsin-Madison emphasizes the importance of open source software in data-intensive science and is a launch partner of OSSci.
+- **[University of Wisconsin-Madison](../universities/university-of-wisconsin-madison.md)**: The Data Science Institute at the University of Wisconsin-Madison emphasizes the importance of open source software in data-intensive science and is a launch partner of OSSci.

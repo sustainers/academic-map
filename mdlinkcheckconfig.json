@@ -46,6 +46,18 @@
     {
       "pattern": "https://www.ieee.org/",
       "reason": "418"
+    },
+    {
+      "pattern": "https://home.cern/science/computing/",
+      "reason": "500"
+    },
+    {
+      "pattern": "https://transfer.ethz.ch/about/staff.html",
+      "reason": "504"
+    },
+    {
+      "pattern": "https://www.opensource.science/",
+      "reason": "404"
     }
   ]
 }
