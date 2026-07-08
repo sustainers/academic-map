@@ -52,7 +52,7 @@
       "reason": "500"
     },
     {
-      "pattern": "https://transfer.ethz.ch/about/staff.html",
+      "pattern": "https://transfer.ethz.ch*",
       "reason": "504"
     },
     {
