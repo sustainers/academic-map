@@ -52,10 +52,6 @@
       "reason": "500"
     },
     {
-      "pattern": "https://transfer.ethz.ch*",
-      "reason": "504"
-    },
-    {
       "pattern": "https://www.opensource.science/",
       "reason": "404"
     }
