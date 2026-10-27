@@ -203,8 +203,6 @@ chapters:
     title: USRSE
   - file: organizations/2i2c.md
     title: 2i2c
-  - file: organizations/ossci.md
-    title: OSSci
 - file: research-institutions/index.md
   sections:
   - file: research-institutions/the-alan-turing-institute.md
