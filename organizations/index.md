@@ -34,7 +34,6 @@ Sorted alphabetically.
 
 - **[CHAOSS](./chaoss.md)**
 - **[CURIOSS](./curioss.md)**
-- **[OSSci](./ossci.md)**
 - **[URSSI](./urssi.md)**
 - **[USRSE](./usrse.md)**
 - [InnerSource Commons](https://innersourcecommons.org/)
