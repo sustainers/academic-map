@@ -21,7 +21,7 @@ echo "Checking TOC completeness..."
 echo ""
 
 # Directories to check
-DIRS=("universities" "organizations" "research-institutions" "service-providers")
+DIRS=("universities" "organizations" "networking-groups" "research-institutions" "service-providers")
 
 for DIR in "${DIRS[@]}"; do
     echo "=== Checking $DIR ==="

@@ -205,6 +205,10 @@ chapters:
     title: 2i2c
   - file: organizations/ossci.md
     title: OSSci
+- file: networking-groups/index.md
+  sections:
+  - file: networking-groups/us-rse-institutional-rse-networking.md
+    title: Institutional RSE Networking
 - file: research-institutions/index.md
   sections:
   - file: research-institutions/the-alan-turing-institute.md
