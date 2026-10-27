@@ -2,7 +2,7 @@
 
 - *OSPO*: Yes, in the Library.
 - *Personnel*: Kendall Fortney (Program Director), Jonathan St-Onge (Research Software Engineer)
-- *Link*: [https://verso.w3.uvm.edu/](https://verso.w3.uvm.edu/)
+- *Link*: [https://www.uvm.edu/verso](https://www.uvm.edu/verso)
 - *Member of*: [CURIOSS](https://curioss.org/), [HELIOS](https://www.heliosopen.org/members)
 
 ## General Description
@@ -25,9 +25,9 @@ VERSO also serves to support and create research into the how and why of open wo
 
 ## Other context
 
-The Vermont Open Source Progam Office (VERSO) was founded in 2022 and jointly run by the UVM Library and the College of Engineering and Mathematical Sciences (CEMS). Additionaly we sponsor a Post-Doc position currently help by [John Meluso](https://www.johnmeluso.com/) with a focus on research open source work including [Thriving in Open Source Communities in Africa](https://verso.w3.uvm.edu/thriving-in-open-source-communities-in-africa/).
+The Vermont Open Source Progam Office (VERSO) was founded in 2022 and jointly run by the UVM Library and the College of Engineering and Mathematical Sciences (CEMS). Additionaly we sponsor a Post-Doc position currently help by [John Meluso](https://www.johnmeluso.com/) with a focus on research open source work including [Thriving in Open Source Communities in Africa](https://web.archive.org/web/20260606193126/https://verso.w3.uvm.edu/thriving-in-open-source-communities-in-africa/).
 
-We fascilitate a variety of events (see [here](https://verso.w3.uvm.edu/events/) and recieved funding from the NSF for the  [Interdisciplinary Open Practices Workshop](https://verso.w3.uvm.edu/interdisciplinary-open-practices-workshop/) on Oct 27-28, 2023 exploring the research questions on what practices make communities and workplaces open and how well do those practices (activities, policies, etc.) advance innovation, transparency, and other goals.
+We fascilitate a variety of events (see [here](https://www.uvm.edu/verso/events) and recieved funding from the NSF for the  [Interdisciplinary Open Practices Workshop](https://web.archive.org/web/20260509042858/https://verso.w3.uvm.edu/interdisciplinary-open-practices-workshop/) on Oct 27-28, 2023 exploring the research questions on what practices make communities and workplaces open and how well do those practices (activities, policies, etc.) advance innovation, transparency, and other goals.
 
 We have created a community event in partnership with Champlain College called Open Source Connector [https://opensourceconnector.com/](https://opensourceconnector.com/) The Open Source Connector aims to create a new forum for collaboration and knowledge sharing around open source software development in Vermont and the surrounding region. Our goal is to support engagement between academia, industry, and government while driving real impact in the local community.
 
