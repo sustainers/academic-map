@@ -9,8 +9,8 @@
     "publish": "./scripts/build.sh",
     "lint": "markdownlint . -i _build/ -i node_modules --rules markdownlint-custom-rules.js",
     "lint-fix": "markdownlint --fix . -i _build/ -i node_modules",
-    "links": "markdown-link-check ./*.md -c mdlinkcheckconfig.json && markdown-link-check ./**/*.md -c mdlinkcheckconfig.json",
-    "links-ci": "markdown-link-check -q ./*.md -c mdlinkcheckconfig.json && markdown-link-check ./**/*.md -q -c mdlinkcheckconfig.json",
+    "links": "find . -name '*.md' -not -path './node_modules/*' -not -path './_build/*' -not -path './.git/*' -print0 | xargs -0 markdown-link-check -c mdlinkcheckconfig.json",
+    "links-ci": "find . -name '*.md' -not -path './node_modules/*' -not -path './_build/*' -not -path './.git/*' -print0 | xargs -0 markdown-link-check -q -c mdlinkcheckconfig.json",
     "check-toc": "./scripts/check-toc-completeness.sh",
     "checks": "npm run lint && npm run links-ci && npm run check-toc",
     "pretest": "npm run lint-fix"
