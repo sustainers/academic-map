@@ -34,6 +34,7 @@ CURIOSS includes representatives from institutions such as:
 - [University of California, Berkeley](../universities/university-of-california-berkeley.md)
 - [University of California, Davis](../universities/university-of-california-davis.md)
 - [University of California, San Diego](../universities/university-of-california-san-diego.md)
+- [University of California, San Francisco](../universities/university-of-california-san-francisco.md)
 - [University of California, Santa Barbara](../universities/university-of-california-santa-barbara.md)
 - [University of California, Los Angeles](../universities/university-of-california-los-angeles.md)
 - [University of California, Santa Cruz](../universities/university-of-california-santa-cruz.md)
