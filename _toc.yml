@@ -39,6 +39,8 @@ chapters:
     title: UCLA
   - file: universities/university-of-california-san-diego.md
     title: UC San Diego
+  - file: universities/university-of-california-san-francisco.md
+    title: UC San Francisco
   - file: universities/university-of-california-santa-barbara.md
     title: UC Santa Barbara
   - file: universities/university-of-california-santa-cruz.md
