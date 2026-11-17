@@ -22,6 +22,7 @@ The following universities have an office which has the standing of an Open Sour
 - [University of California Davis](./university-of-california-davis.md)
 - [University of California Los Angeles](./university-of-california-los-angeles.md)
 - [University of California San Diego](./university-of-california-san-diego.md)
+- [University of California San Francisco](./university-of-california-san-francisco.md)
 - [University of California Santa Barbara](./university-of-california-santa-barbara.md)
 - [University of California Santa Cruz](./university-of-california-santa-cruz.md)
 - [University of Texas at Austin](./university-of-texas-austin.md)
