@@ -1,12 +1,27 @@
-# University of Victoria
+# University of Victoria Overview
 
-- *OSPO*: No
+- **Website:** [University of Victoria](https://www.uvic.ca/)
+- **Centre for Advanced Materials and Related Technology (CAMTEC):** [CAMTEC at UVic](https://www.uvic.ca/research/centres/camtec/)
+- **Open Science & Innovation:** [UVic Research](https://www.uvic.ca/research/)
 
-## General Description
+## Overview  
 
-The University of Victoria (UVic) does not have an Open Source Program Office. Open source work happens in individual labs and projects, including:
+The University of Victoria (UVic) is a research-intensive institution known for its advancements in materials science, technology, and open source innovation. **CAMTEC (Centre for Advanced Materials and Related Technology)** leads UVic’s open science efforts, promoting interdisciplinary collaboration in material sciences. While UVic actively participates in open source research and collaboration, it does not currently have a formal Open Source Program Office (OSPO).
 
-- **Propagation Lab:** [open source projects](https://www.propagationlab.ca/opensource/) such as the Modular CubeSat Radio, a software-defined radio built for the Skya'anaSat project.
-- **Humanities Computing and Media Centre (HCMC):** [builds projects](https://www.uvic.ca/humanities/hcmc/aboutus/index.php) on open source technologies and open standards.
-- **Map of Early Modern London (MoEML):** an open access project whose content is [licensed under Creative Commons](https://mapoflondon.uvic.ca/contributor_rights.htm).
-- **Open Insights:** a collaboration developing [open source climate policy models](https://www.uvic.ca/news/topics/2024%2Bclean-prosperity-foundation-open-insights%2Bnews).
+## Notable Open Source Contributions  
+
+- **Propagation Lab Initiatives:** UVic’s Propagation Laboratory contributes to open source projects like the Modular CubeSat Radio, an open source software-defined radio (SDR) designed for the Skya’anaSat project.  
+  [Learn more](https://www.propagationlab.ca/opensource/)
+
+- **Humanities Computing and Media Centre (HCMC):** The HCMC collaborates on projects using open source technologies and internationally recognized standards to ensure reusability and accessibility.  
+  [Visit HCMC](https://www.uvic.ca/humanities/hcmc/aboutus/index.php)
+
+- **MoEML Project:** The Map of Early Modern London (MoEML) is an open source and open-access project that provides freely available content licensed under Creative Commons.  
+  [View MoEML](https://mapoflondon.uvic.ca/contributor_rights.htm)
+
+- **Open Insights Project:** UVic collaborates on the Open Insights project, which develops open source models for climate policy modeling, fostering transparency and continuous improvement.  
+  [Explore Open Insights](https://www.uvic.ca/news/topics/2024%2Bclean-prosperity-foundation-open-insights%2Bnews)
+
+## Contact  
+
+For more information on UVic’s open science work, visit [CAMTEC](https://www.uvic.ca/research/centres/camtec/) or contact [camtec@uvic.ca](mailto:camtec@uvic.ca).
