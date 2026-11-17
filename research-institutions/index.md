@@ -7,7 +7,7 @@ Not all academic research that is open source occurs in a university setting.
 The following research institutions have an office which has the standing of an Open Source Program Office:
 
 - [The Alan Turing Institute](./the-alan-turing-institute.md) - Research Institution
-- [Biohub](./biohub.md) - Resarch institution
+- [Biohub](./biohub.md) - Research institution
 - [CERN](./cern.md) - Research institution
 - [ISGlobal - Barcelona Institute for Global Health](./isglobal-barcelona-institute-for-global-health.md)
 - [Lero](./lero.md) - Research Center for a collection of universities
