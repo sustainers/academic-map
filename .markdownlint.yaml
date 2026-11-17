@@ -12,3 +12,6 @@ MD013: false
 # This stops more than one header being flagged - the front-matter and the top header for pages seems to clash, here
 # I don't know why they clash; it seems arbitrary. I don't understand what the front-matter title is doing.
 MD025: false
+# Descriptive link text, e.g. no "[here]" links. Added in newer markdownlint versions;
+# disabled until the existing "[here]" links are rewritten.
+MD059: false
