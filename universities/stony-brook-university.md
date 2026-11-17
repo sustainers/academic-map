@@ -1,7 +1,7 @@
 # Stony Brook University Overview
 
 - **Website:** [Stony Brook University](https://www.stonybrook.edu/)
-- **Research Initiatives:** [SBU Research](https://www.stonybrook.edu/commcms/research/)
+- **Research Initiatives:** [SBU Research](https://www.stonybrook.edu/research/)
 - **Sustainability & Climate Research:** [SBU Sustainability](https://www.stonybrook.edu/commcms/sustainability/)
 
 ## Overview  
@@ -21,4 +21,4 @@ Stony Brook University (SBU) is a major research institution recognized for its 
 
 ## Contact  
 
-For more information on Stony Brook’s open science initiatives, visit [SBU Research](https://www.stonybrook.edu/commcms/research/) or contact [research@stonybrook.edu](mailto:research@stonybrook.edu).
+For more information on Stony Brook’s open science initiatives, visit [SBU Research](https://www.stonybrook.edu/research/) or contact [research@stonybrook.edu](mailto:research@stonybrook.edu).
