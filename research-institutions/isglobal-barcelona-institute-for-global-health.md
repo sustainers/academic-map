@@ -3,7 +3,7 @@
 - *OSPO*: Not a formal OSPO but carries out a range of OSPO-like activities.
 - *Personnel*: Clara Morella Teixidor
 - *Link*: [https://www.isglobal.org/en/](https://www.isglobal.org/en/)
-- *Member* of: [CURIOSS](https://curioss.org/)
+- *Member of*: [CURIOSS](https://curioss.org/)
 
 ## General Description
 

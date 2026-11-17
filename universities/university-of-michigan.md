@@ -2,7 +2,7 @@
 
 - *OSPO*: Michigan Open Source Software (MOSS) is based in the Innovation Partnerships, Technology Transfer Office
 - *Personnel*: Ashwati Iyer
-- *Link*: [https://innovationpartnerships.umich.edu/resource/moss/](https://innovationpartnerships.umich.edu/moss/)
+- *Link*: [https://innovationpartnerships.umich.edu/moss/](https://innovationpartnerships.umich.edu/moss/)
 - *Member of*: [CURIOSS](https://curioss.org/)
 
 ## General Description

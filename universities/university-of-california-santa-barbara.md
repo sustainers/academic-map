@@ -2,7 +2,7 @@
 
 - *OSPO*: Yes, in the Libraries and Academic Innovation
 - *Personnel*: Virginia Scarlett, Amber Budden, Jonathan Balkind, Greg Janée
-- *Link*:
+- *Link*: [https://ucospo.net/santa-barbara/](https://ucospo.net/santa-barbara/)
 - *Member of*: [CURIOSS](https://curioss.org/)
 
 ## General Description

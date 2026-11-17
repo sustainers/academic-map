@@ -2,7 +2,7 @@
 
 Open source in academia is often driven by communities and non-profit organizations that work across institutions, fields, and boundaries.
 
-Right now, these do not have their own pages yet. If you would like to add context about a group, take a look at the [Contributing Guide](https://github.com/sustainers/academic-map/blob/main/contributing.md), which has notes on how to add a page. Any link in **bold** has a page with more context.
+If you would like to add context about a group, take a look at the [Contributing Guide](https://github.com/sustainers/academic-map/blob/main/contributing.md), which has notes on how to add a page. Any link in **bold** has a page with more context.
 
 ## Foundations and Fiscal Hosts
 
@@ -30,7 +30,7 @@ Sorted alphabetically.
 - **[OpSci](./opsci.md)**
 - **[Open Science Hardware Foundation](./open-science-hardware-foundation.md)**
 - [NumFOCUS](https://numfocus.org)
-- **[Python Software Foundtion (PSF)](./psf.md)**
+- **[Python Software Foundation (PSF)](./psf.md)**
 - RDA
 - **[Software Freedom Conservancy](./software-freedom-conservancy.md)**
 - **[Software Sustainability Institute](./ssi.md)**

@@ -6,7 +6,7 @@ Open source software is everywhere. In an academic context, it can be used eithe
 
 The many areas where open source can apply means that navigating the landscape of open source software can be difficult to practitioners looking to specialize in open source as a whole.
 
-[SustainOSS](https://sustainoss.org) is a community of people who hold space for conversations around the long term sustainability of both open source code and the communities that build and use it. As part of this work, the Academic working group meets in order to discuss sustainability issues within open source. This website is meant to function as a starting point for discussions and links to other communities, universities, and researchers working on open source, and as a list of resources for practictioners.
+[SustainOSS](https://sustainoss.org) is a community of people who hold space for conversations around the long term sustainability of both open source code and the communities that build and use it. As part of this work, the Academic working group meets in order to discuss sustainability issues within open source. This website is meant to function as a starting point for discussions and links to other communities, universities, and researchers working on open source, and as a list of resources for practitioners.
 
 ## How to use this website
 
@@ -16,10 +16,12 @@ At its heart, this is a simple Jupyter notebook that can display information in 
 
 At the moment, we have these sections:
 
-- [Universities](./universities/index.md). This is meant to cover universities which have a formal relationship with open source. While many universities have an open access or open research policy, sometimes publicly available, and while many universities have researchers who use or work on open source, only a few universities have allocated funding for a lab, department, library resources, or staff to work on open source issues. Sometimes, this takes the form of an Open Source Program Office (OSPO), but not always, and this appelation covers a variety of tasks that the university may already be doing in a formal manner.
+- [Universities](./universities/index.md). This is meant to cover universities which have a formal relationship with open source. While many universities have an open access or open research policy, sometimes publicly available, and while many universities have researchers who use or work on open source, only a few universities have allocated funding for a lab, department, library resources, or staff to work on open source issues. Sometimes, this takes the form of an Open Source Program Office (OSPO), but not always, and this appellation covers a variety of tasks that the university may already be doing in a formal manner.
+- [Research Institutions](./research-institutions/index.md). Not all academic research that is open source happens at a university. This covers research institutes, labs, and hospitals that have an OSPO or similar open source work.
 - [Organizations](./organizations/index.md). There are many groups which work on open source within an academic or research context. Sometimes, these are foundations which do work academically - or, they could just be user groups or special interest groups that meet to discuss in a less formal manner.
 - [Service Providers](./service-providers/index.md). Some projects are academically-adjacent, in that they provide resources to OSS projects in academia. This is for organizations like this.
 - [Funders](./funders/index.md). Understanding the funding landscape is crucially important to OSS projects and academic, and differs based on location and field.
+- [Blog](./blog/index.md). Reports based on work done for this map, such as the results of our community survey.
 
 ## Contribute
 

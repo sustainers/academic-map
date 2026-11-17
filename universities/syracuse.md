@@ -3,7 +3,7 @@
 - *OSPO*: Yes, in the Office of Research
 - *Personnel*: Collin Capano (director), William Gearty (postdoc)
 - *Link*: [https://opensource.syracuse.edu](https://opensource.syracuse.edu)
-- *Member* of: [CURIOSS](https://curioss.org/)
+- *Member of*: [CURIOSS](https://curioss.org/)
 
 ## General Description
 
