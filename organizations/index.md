@@ -18,6 +18,7 @@ Sorted alphabetically.
 - **[Free Software Foundation (FSF)](./free-software-foundation.md)**
 - HELIOS
 - **[HPSF](./hpsf.md)**
+- **[Institute for Research Software (formerly SSI)](./ssi.md)**
 - **[Invest in Open Infrastructure](./invest-in-open-infrastructure.md)**
 - **[Linux Foundation](./linux-foundation.md)**
 - **[Mozilla Foundation](./mozilla-foundation.md)**
@@ -33,7 +34,6 @@ Sorted alphabetically.
 - **[Python Software Foundation (PSF)](./psf.md)**
 - RDA
 - **[Software Freedom Conservancy](./software-freedom-conservancy.md)**
-- **[Software Sustainability Institute](./ssi.md)**
 
 ## Communities of practice
 
@@ -79,7 +79,6 @@ Sorted alphabetically.
 - **[Academic Data Science Alliance](./academic-data-science-alliance.md)**
 - **[Outreachy](./outreachy.md)**
 - **[Research Software Engineers (RSE)](./research-software-engineers.md)**
-- **[UK Software Sustainability Institute](./uk-software-sustainability-institute.md)**
 
 ### Software Education
 
