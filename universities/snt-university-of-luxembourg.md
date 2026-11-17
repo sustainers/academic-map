@@ -16,7 +16,7 @@ SnT **supports a proper use and deployment of free and open source software (FOS
 - To design and manage the SnT FOSS policy, underlying processes, and guidelines, as well as necessary tools (knowledge base, repository, etc.)
 - To advise researchers to choose adequate inbound and outbound software licences in their work,
 - To safeguard necessary legal compliance of third-party components, respecting strategic objectives of the projects (i.e. partnership, spin-off, publications, etc.)
-- To provide tailored trainings and learning materials to SnT staff, to develop essential open-source-oriented skills,
+- To provide tailored trainings and learning materials to SnT staff, to develop essential open source-oriented skills,
 - To serve as a single point of contact for any internal and external enquiries related to SnT software and licensing,
 - To moderate the community of FOSS users across SnT staff to foster collaborative work and knowledge sharing.
 
