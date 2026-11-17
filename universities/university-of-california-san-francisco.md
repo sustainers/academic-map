@@ -7,7 +7,7 @@
 
 ## General Description
 
-The UC San Francisco OSPO is part of the University of California's OSPO network. The UC OSPO network aims to strengthen collaboration and knowledge-sharing among the campuses, demonstrate the value of a networked approach to supporting open source, and identify a resource and governance structure to allow the network to grow and thrive. More information [here](https://ucospo.net/santa-barbara/).
+The UC San Francisco OSPO is part of the University of California's OSPO network. The UC OSPO network aims to strengthen collaboration and knowledge-sharing among the campuses, demonstrate the value of a networked approach to supporting open source, and identify a resource and governance structure to allow the network to grow and thrive. More information [here](https://ucospo.net/).
 
 ## Primary Activities
 
