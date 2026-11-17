@@ -75,14 +75,16 @@ for DIR in "${DIRS[@]}"; do
         echo "Checking $DIR/index.md references:"
         FOUND_MISSING=false
         for file in "${FILE_PATHS[@]}"; do
-            filename=$(basename "$file")
+            # Path relative to the folder, e.g. "apereo" or "nsf-grants/pose"
+            relpath="${file#$DIR/}"
             # Skip ignored files
             if [[ " ${IGNORE_FILES[@]} " =~ " ${file}.md " ]]; then
                 continue
             fi
-            # Check if the file is referenced in index.md
-            if ! grep -q "$filename" "$DIR/index.md"; then
-                echo -e "  ${RED}✗${NC} $filename.md not mentioned in index.md"
+            # Check that index.md links the file itself, not just mentions its name
+            # (e.g. "apereo" also appears in the URL www.apereo.org)
+            if ! grep -qF "(./$relpath.md)" "$DIR/index.md" && ! grep -qF "($relpath.md)" "$DIR/index.md"; then
+                echo -e "  ${RED}✗${NC} $relpath.md not linked from $DIR/index.md"
                 FOUND_MISSING=true
                 ERRORS=$((ERRORS + 1))
             fi
