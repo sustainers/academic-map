@@ -6,6 +6,10 @@ on:
   push:
     branches:
       - main
+  # Weekly, to catch links that die between PRs
+  schedule:
+    - cron: '0 9 * * 1'
+  workflow_dispatch:
 
 jobs:
   check-links:
@@ -18,13 +22,11 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '18'
+          node-version: '22'
 
       - name: Install Dependencies
         run: |
-          npm install
-          npm install -g markdownlint-cli
-          npm install -g markdown-link-check
+          npm ci
       - name: Lint markdown
         run: npm run lint
       - name: Check Table of Contents

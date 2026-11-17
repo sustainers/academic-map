@@ -222,6 +222,13 @@ chapters:
     title: DIIF
   - file: funders/national-science-foundation.md
     title: NSF
+    sections:
+    - file: funders/nsf-grants/pose.md
+      title: POSE
+    - file: funders/nsf-grants/safe-ose.md
+      title: Safe-OSE
+    - file: funders/nsf-grants/geo-ose.md
+      title: GEO OSE
   - file: funders/navigation.md
   - file: funders/protocollabs.md
   - file: funders/top10vpn.md

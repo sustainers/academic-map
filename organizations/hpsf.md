@@ -5,7 +5,7 @@
 
 ## Overview
 
-The High Performance Software Foundation (HPSF) is an open-source, vendor-neutral initiative under the Linux Foundation, dedicated to advancing high-performance computing (HPC) software. It supports projects that promote portable, performance-optimized software across diverse hardware platforms by fostering community growth, increasing adoption, and providing development resources.
+The High Performance Software Foundation (HPSF) is an open source, vendor-neutral initiative under the Linux Foundation, dedicated to advancing high-performance computing (HPC) software. It supports projects that promote portable, performance-optimized software across diverse hardware platforms by fostering community growth, increasing adoption, and providing development resources.
 
 They aim to lower barriers to the productive use of current and future HPC systems, ensuring that software remains fast, portable, and ready for production in various environments. This is particularly relevant to universities and academic research labs which often rely on HPC systems but also private sector corporations as well.
 

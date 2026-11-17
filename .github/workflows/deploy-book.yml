@@ -44,23 +44,19 @@ jobs:
         
         echo "✅ Build successful - _build/html created with $(find _build/html -name '*.html' | wc -l) HTML files"
 
-    # THEN run slower checks (lint, links, TOC)
+    # THEN run checks (lint, TOC). External links are checked on PRs and weekly
+    # in link-check.yml, so a third-party outage can't block a deploy.
     - name: Set up Node.js
       uses: actions/setup-node@v4
       with:
-        node-version: '18'
+        node-version: '22'
 
     - name: Install npm dependencies
       run: |
-        npm install
-        npm install -g markdownlint-cli
-        npm install -g markdown-link-check
+        npm ci
 
     - name: Lint markdown files
       run: npm run lint
-
-    - name: Check markdown links
-      run: npm run links-ci
 
     - name: Check TOC completeness
       run: npm run check-toc
