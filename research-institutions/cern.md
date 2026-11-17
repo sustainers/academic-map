@@ -1,19 +1,22 @@
 # European Organization for Nuclear Research (CERN)
 
-- *OSPO*: Yes, established in November 2023
-- *Link*: [https://opensource.web.cern.ch/](https://opensource.web.cern.ch/)
+- **Website:** [CERN](https://home.cern/)
+- **Open Source Program Office (OSPO):** [Website](https://opensource.web.cern.ch/)
 
-## General Description
+## Overview
 
-CERN is one of the world's leading centres for particle physics research, with a long tradition of developing and sharing open source technology. Its Open Source Program Office supports the release and collaborative development of open source software and hardware designs.
+CERN, the European Organization for Nuclear Research, is one of the world’s leading centers for scientific research in particle physics. It is also a pioneering force in open science, with a long-standing tradition of developing and sharing open source technologies. In November 2023, CERN established its Open Source Program Office (OSPO) to support the transparent release and collaborative development of open source software and hardware designs.
 
-Notable open source work from CERN includes:
+## Notable Open Source Contributions
 
-- **World Wide Web:** [invented at CERN](https://home.cern/science/computing/) to support global scientific collaboration.
-- **CERN Open Hardware Licence (OHL):** a licence for sharing and collaboratively developing hardware designs.
-- **Zenodo:** a research repository for datasets, software, and publications, [developed with the European Commission](https://home.cern/cern-software-become-central-hub-eu-research/).
-- **Invenio:** an open source framework for building digital repositories, which [Zenodo runs on](https://en.wikipedia.org/wiki/Invenio).
+- **World Wide Web:** CERN is the birthplace of the World Wide Web, originally developed to facilitate global scientific collaboration.
+  [Learn more](https://home.cern/science/computing/)
+- **CERN Open Hardware Licence (OHL):** A licensing model created to promote the collaborative development and distribution of hardware designs under open terms.
+- **Zenodo:** Developed by CERN in partnership with the European Commission, Zenodo is a research data repository enabling scientists to share datasets, software, publications, and more.
+  [Explore Zenodo](https://home.cern/cern-software-become-central-hub-eu-research/)
+- **Invenio:** An open source framework for building digital repositories, used by institutions around the world to manage research outputs and digital assets.
+  [Learn about Invenio](https://en.wikipedia.org/wiki/Invenio)
 
-## Primary Contacts
+## Contact
 
-- [Open.Source@cern.ch](mailto:Open.Source@cern.ch)
+For more information on CERN’s open source initiatives, visit the [CERN OSPO page](https://opensource.web.cern.ch/) or contact [Open.Source@cern.ch](mailto:Open.Source@cern.ch).
