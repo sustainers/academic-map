@@ -28,6 +28,7 @@ jobs:
       - name: Lint markdown
         run: npm run lint
       - name: Check Table of Contents
+        if: success() || failure()
         run: npm run check-toc
       - name: Link check
         uses: nick-fields/retry@v3
