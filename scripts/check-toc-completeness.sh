@@ -82,8 +82,9 @@ for DIR in "${DIRS[@]}"; do
             fi
             # Check if the file is referenced in index.md
             if ! grep -q "$filename" "$DIR/index.md"; then
-                echo -e "  ${YELLOW}⚠${NC} $filename.md not mentioned in index.md"
+                echo -e "  ${RED}✗${NC} $filename.md not mentioned in index.md"
                 FOUND_MISSING=true
+                ERRORS=$((ERRORS + 1))
             fi
         done
         if [ "$FOUND_MISSING" = false ]; then
