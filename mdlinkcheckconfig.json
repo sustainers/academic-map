@@ -1,5 +1,8 @@
 {
   "aliveStatusCodes": [0,200,202,403,415],
+  "retryOn429": true,
+  "retryCount": 3,
+  "fallbackRetryDelay": "10s",
   "ignorePatterns": [
     {
       "pattern": "linkedin"
