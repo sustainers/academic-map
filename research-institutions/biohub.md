@@ -3,7 +3,7 @@
 - *OSPO*: Yes
 - *Personnel*: Kate Hertweck
 - *Link*: [https://biohub.org/](https://biohub.org/)
-- *Member* of: [CURIOSS](https://curioss.org/)
+- *Member of*: [CURIOSS](https://curioss.org/)
 
 ## General Description
 

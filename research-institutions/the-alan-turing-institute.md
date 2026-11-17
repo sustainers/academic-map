@@ -3,7 +3,7 @@
 - *OSPO*: The Open Source Service Area (OSSA) is not a formal OSPO but carries out a range of OSPO-like activities.
 - *Personnel*: Rosie Wood
 - *Link*: [https://github.com/alan-turing-institute/hut23-open-source-sa](https://github.com/alan-turing-institute/hut23-open-source-sa)
-- *Member* of: [CURIOSS](https://curioss.org/)
+- *Member of*: [CURIOSS](https://curioss.org/)
 
 ## General Description
 

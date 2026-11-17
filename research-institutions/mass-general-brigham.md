@@ -3,7 +3,7 @@
 - *OSPO*: Open Science Program Office based in Innovation (Technology Transfer) and sitting across the Office of General Counsel, MGB Digital and MGB Research.
 - *Personnel*: Marvin Barksdale
 - *Link*: [https://www.massgeneralbrigham.org/en/research-and-innovation](https://www.massgeneralbrigham.org/en/research-and-innovation)
-- *Member* of: [CURIOSS](https://curioss.org/)
+- *Member of*: [CURIOSS](https://curioss.org/)
 
 ## General Description
 
