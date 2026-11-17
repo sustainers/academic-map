@@ -1,10 +1,11 @@
-# University of Pennsylvania Overview
+# University of Pennsylvania
 
+- *OSPO*: No
 - **Website:** [University of Pennsylvania](https://www.upenn.edu/)
 - **Linguistic Data Consortium:** [LDC at UPenn](https://www.ldc.upenn.edu/)
 - **Research Initiatives:** [Penn Research](https://research.upenn.edu/)
 
-## Overview
+## General Description
 
 The University of Pennsylvania (UPenn) is a leader in computational linguistics, artificial intelligence, and open source research. Through the **Linguistic Data Consortium (LDC)**, UPenn has significantly contributed to open source human language technology, supporting researchers worldwide in their efforts to develop machine learning models and natural language processing tools. While UPenn actively participates in open source initiatives, it does not currently have a formal Open Source Program Office (OSPO).
 

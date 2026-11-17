@@ -1,10 +1,11 @@
-# University at Buffalo Overview
+# University at Buffalo
 
+- *OSPO*: No
 - **Website:** [University at Buffalo](https://www.buffalo.edu/)
 - **Department of Materials Design and Innovation (MDI):** [MDI at UB](https://engineering.buffalo.edu/materials-design-innovation.html)
 - **Open Science & Research:** [UB Research](https://www.buffalo.edu/research.html)
 
-## Overview
+## General Description
 
 The University at Buffalo (UB) is a leading research university with a strong focus on materials science, computational modeling, and open source innovation. The **Department of Materials Design and Innovation (MDI)** integrates data science and materials research, promoting an open science approach.
 
