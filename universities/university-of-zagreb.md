@@ -1,8 +1,9 @@
 # University of Zagreb
 
+- *OSPO*: No
 - **Website:** [University of Zagreb](https://www.unizg.hr)
 
-## Overview
+## General Description
 
 The University of Zagreb (UNIZG) is Croatia’s largest and oldest university, recognized for its research initiatives in technology, informatics, and interdisciplinary sciences. While UNIZG actively promotes open science and open source collaboration, it **does not currently have a formal Open Source Program Office (OSPO).** However, it has taken steps to integrate open source principles into its research and development ecosystem.
 

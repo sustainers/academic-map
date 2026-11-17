@@ -1,10 +1,11 @@
-# Stony Brook University Overview
+# Stony Brook University
 
+- *OSPO*: No
 - **Website:** [Stony Brook University](https://www.stonybrook.edu/)
 - **Research Initiatives:** [SBU Research](https://www.stonybrook.edu/research/)
 - **Sustainability & Climate Research:** [SBU Sustainability](https://www.stonybrook.edu/commcms/sustainability/)
 
-## Overview  
+## General Description
 
 Stony Brook University (SBU) is a major research institution recognized for its work in sustainability, environmental science, and open source technology. The university fosters interdisciplinary research on climate change, data science, and computational modeling. While SBU actively engages in open source research and collaboration, it does not currently have a formal Open Source Program Office (OSPO).  
 
