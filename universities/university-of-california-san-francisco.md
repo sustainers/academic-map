@@ -15,8 +15,8 @@ The OSPO supports students, researchers and faculty to:
 
 - Understand the benefits and importance of open source software for science
 - Prepare a codebase for public release
-- Choose and apply an appropriate open-source license
-- Engage with open-source communities
+- Choose and apply an appropriate open source license
+- Engage with open source communities
 - Meet funder requirements for open, reproducible software
 
 ## Primary Contacts
