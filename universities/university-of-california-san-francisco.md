@@ -11,7 +11,7 @@ The UC San Francisco OSPO is part of the University of California's OSPO network
 
 ## Primary Activities
 
-The OSPO supports students, researchers and faculty to: 
+The OSPO supports students, researchers and faculty to:
 
 - Understand the benefits and importance of open source software for science
 - Prepare a codebase for public release
