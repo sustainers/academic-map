@@ -23,12 +23,14 @@ This is a Jupyter notebook, and depends on the tooling system of Jupyter Noteboo
 
 The site automatically builds and deploys when you push to the `main` branch. The GitHub Action (`.github/workflows/deploy-book.yml`) will:
 
-1. Lint all markdown files (`npm run lint`)
-2. Check all links (`npm run links-ci`)
-3. Build the Jupyter book (`jupyter-book build --all .`)
+1. Build the Jupyter book (`jupyter-book build --all .`)
+2. Lint all markdown files (`npm run lint`)
+3. Check that every page is in `_toc.yml`, its folder's `index.md`, and any member lists it belongs on (`npm run check-toc`)
 4. Deploy to GitHub Pages
 
 If any step fails, the deployment will stop and you'll receive a notification (if enabled in your GitHub notification settings).
+
+External links are not checked during deploys, so a third-party outage can't block the site. Instead, `.github/workflows/link-check.yml` checks them on every pull request and once a week.
 
 ### Local Development
 
@@ -45,7 +47,7 @@ npm run lint
 # Check links
 npm run links
 
-# Check TOC completeness (ensures all files are in _toc.yml)
+# Check TOC completeness (ensures all files are in _toc.yml, index pages, and member lists)
 npm run check-toc
 
 # Build the book locally
