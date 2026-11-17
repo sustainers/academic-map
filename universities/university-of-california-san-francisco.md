@@ -2,7 +2,7 @@
 
 - *OSPO*: Yes, in the [Scientific Software Core](https://ssc.ucsf.edu/)
 - *Personnel*: Henrik Bengtsson, Stathis Gennatas
-- *Link*: [UC San Francisco Open Source Program Office#(https://ssc.ucsf.edu/ospo.html)
+- *Link*: [UC San Francisco Open Source Program Office](https://ssc.ucsf.edu/ospo.html)
 - *Member of*: [CURIOSS](https://curioss.org/)
 
 ## General Description
