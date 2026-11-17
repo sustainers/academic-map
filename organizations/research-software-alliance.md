@@ -1,4 +1,4 @@
-# Research Software Alliance (ReSA) Overview
+# Research Software Alliance (ReSA)
 
 - **Website:** [Research Software Alliance (ReSA)](https://www.researchsoft.org/)
 

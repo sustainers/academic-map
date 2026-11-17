@@ -1,4 +1,4 @@
-# American Psychological Association (APA) Overview
+# American Psychological Association (APA)
 
 - **Website:** [American Psychological Association (APA)](https://www.apa.org/)
 

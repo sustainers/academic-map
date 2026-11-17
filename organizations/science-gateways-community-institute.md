@@ -1,4 +1,4 @@
-# Science Gateways Community Institute (SGCI) Overview
+# Science Gateways Community Institute (SGCI)
 
 - **Website:** [Science Gateways Community Institute (SGCI)](https://sciencegateways.org/)
 
