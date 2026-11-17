@@ -95,6 +95,38 @@ for DIR in "${DIRS[@]}"; do
     echo ""
 done
 
+# Organizations whose page keeps a member list, as "Link text:page".
+# Any entry whose "Member of" line links [Link text] must be linked from that page.
+MEMBERSHIP_LISTS=(
+    "CURIOSS:organizations/curioss.md"
+)
+
+for PAIR in "${MEMBERSHIP_LISTS[@]}"; do
+    ORG="${PAIR%%:*}"
+    ORG_PAGE="${PAIR#*:}"
+    echo "=== Checking $ORG members in $ORG_PAGE ==="
+    FOUND_MISSING=false
+    for DIR in "${DIRS[@]}"; do
+        for file in $(find "$DIR" -maxdepth 1 -name "*.md" ! -name "index.md" -type f | sort); do
+            if [[ " ${IGNORE_FILES[@]} " =~ " ${file} " ]]; then
+                continue
+            fi
+            # Matches both "*Member of*:" and "*Member* of:"
+            if grep -qiE "^- \*member(\*)? of(\*)?:.*\[$ORG\]" "$file"; then
+                if ! grep -qF "$(basename "$file")" "$ORG_PAGE"; then
+                    echo -e "  ${RED}✗${NC} $file says it is a member of $ORG but is not listed in $ORG_PAGE"
+                    FOUND_MISSING=true
+                    ERRORS=$((ERRORS + 1))
+                fi
+            fi
+        done
+    done
+    if [ "$FOUND_MISSING" = false ]; then
+        echo -e "  ${GREEN}✓${NC} All $ORG members are listed"
+    fi
+    echo ""
+done
+
 if [ $ERRORS -eq 0 ]; then
     echo -e "${GREEN}✓ All checks passed!${NC}"
     exit 0
