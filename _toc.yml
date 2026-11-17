@@ -88,8 +88,6 @@ chapters:
     title: APA
   - file: organizations/american-society-for-microbiology.md
     title: ASM
-  - file: organizations/apache-software-foundation.md
-    title: Apache
   - file: organizations/association-for-computing-machinery.md
     title: ACM
   - file: organizations/astropy.md
@@ -116,10 +114,8 @@ chapters:
     title: HPSF
   - file: organizations/institute-of-electrical-and-electronics-engineers.md
     title: IEEE
-  - file: organizations/internet-society.md
   - file: organizations/invest-in-open-infrastructure.md
     title: Invest in Open Infrastructure
-  - file: organizations/japan-aerospace-exploration-agency.md
   - file: organizations/joss.md
     title: JOSS
   - file: organizations/julia-language.md
@@ -146,8 +142,6 @@ chapters:
     title: OKF
   - file: organizations/open-life-science.md
     title: OLS
-  - file: organizations/openai.md
-    title: OpenAI
   - file: organizations/osc.md
     title: OSC
   - file: organizations/open-science-hardware-foundation.md
@@ -173,8 +167,6 @@ chapters:
     title: rOpenSci
   - file: organizations/scicodes.md
     title: SciCodes
-  - file: organizations/scipy.md
-    title: Scipy
   - file: organizations/opsci.md
     title: OpSci
   - file: organizations/software-freedom-conservancy.md
@@ -185,8 +177,6 @@ chapters:
     title: SSI
   - file: organizations/space-telescope-science-insitute.md
     title: STSI
-  - file: organizations/stan.md
-    title: Stan
   - file: organizations/sustainoss.md
     title: SustainOSS
   - file: organizations/the-carpentries.md

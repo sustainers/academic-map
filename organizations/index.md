@@ -9,7 +9,6 @@ Right now, these do not have their own pages yet. If you would like to add conte
 Sorted alphabetically.
 
 - **[Apache Foundation](./apachefoundation.md)**
-- **[Apache Software Foundation](./apache-software-foundation.md)**
 - [Apereo](https://www.apereo.org/)
 - [Code for Science and Society](https://www.codeforsociety.org/)
 - [Community Initiatives](https://communityinitiatives.org/)
@@ -19,7 +18,6 @@ Sorted alphabetically.
 - **[Free Software Foundation (FSF)](./free-software-foundation.md)**
 - HELIOS
 - **[HPSF](./hpsf.md)**
-- **[Internet Society (ISOC)](./internet-society.md)**
 - **[Invest in Open Infrastructure](./invest-in-open-infrastructure.md)**
 - **[Linux Foundation](./linux-foundation.md)**
 - **[Mozilla Foundation](./mozilla-foundation.md)**
@@ -77,8 +75,7 @@ Sorted alphabetically.
 - **[Julia Language](./julia-language.md)**
 - **[Matplotlib](./matplotlib.md)**
 - **[Python Software Foundation](./psf.md)**
-- **[SciPy](./scipy.md)**
-- **[Stan](./stan.md)**
+- [SciPy](https://scipy.org/)
 
 ### Leadership Education
 
@@ -97,7 +94,6 @@ Sorted alphabetically.
 
 - **[NumPy](./numpy.md)**
 - **[NumFOCUS](./numfocus.md)**
-- **[OpenAI](./openai.md)**
 - **[pyOpenSci](./pyopensci.md)**
 - **[PyTorch](./pytorch.md)**
 - **[Project Jupyter](./project-jupyter.md)**
@@ -112,7 +108,6 @@ Sorted alphabetically.
 
 ### Science
 
-- **[Japan Aerospace Exploration Agency (JAXA)](./japan-aerospace-exploration-agency.md)**
 - **[Lawrence Berkeley Lab](./lawrence-berkeley-lab.md)**
 - **[NASA](./national-aeronautics-and-space-administration.md)**
 - **[NCAR](./university-corp-atmospheric-research.md)**
