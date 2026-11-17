@@ -21,13 +21,13 @@ echo "Checking TOC completeness..."
 echo ""
 
 # Directories to check
-DIRS=("universities" "organizations" "research-institutions" "service-providers")
+DIRS=("universities" "organizations" "research-institutions" "service-providers" "funders")
 
 for DIR in "${DIRS[@]}"; do
     echo "=== Checking $DIR ==="
     
     # Get all markdown files except index.md
-    FILES=($(find "$DIR" -maxdepth 1 -name "*.md" ! -name "index.md" -type f | sort))
+    FILES=($(find "$DIR" -name "*.md" ! -name "index.md" -type f | sort))
     
     # Extract entries from _toc.yml for this directory
     TOC_ENTRIES=($(grep -A 1000 "file: $DIR/index.md" _toc.yml | grep "  - file: $DIR/" | sed "s/.*file: //" | sed "s/\.md//" | sort))
