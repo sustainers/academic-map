@@ -9,31 +9,40 @@ Right now, these do not have their own pages yet. If you would like to add conte
 Sorted alphabetically.
 
 - **[Apache Foundation](./apachefoundation.md)**
+- **[Apache Software Foundation](./apache-software-foundation.md)**
 - [Apereo](https://www.apereo.org/)
 - [Code for Science and Society](https://www.codeforsociety.org/)
 - [Community Initiatives](https://communityinitiatives.org/)
 - **[Creative Commons](./creativecommons.md)**
 - [Eclipse Foundation](https://www.eclipse.org/)
+- **[Electronic Frontier Foundation (EFF)](./electronic-frontier-foundation.md)**
+- **[Free Software Foundation (FSF)](./free-software-foundation.md)**
 - HELIOS
 - **[HPSF](./hpsf.md)**
+- **[Internet Society (ISOC)](./internet-society.md)**
 - **[Invest in Open Infrastructure](./invest-in-open-infrastructure.md)**
 - [Linux Foundation](https://www.linuxfoundation.org/)
+- **[Mozilla Foundation](./mozilla-foundation.md)**
 - [Open Collective](../service-providers/open-collective.md)
   - **[Open Source Collective](./osc.md)**
   - **[Open Collective Foundation](./ocf.md)**
   - **[Open Collective Europe](./oce.md)**
+- **[Open Knowledge Foundation](./open-knowledge-foundation.md)**
 - [Open Molecular Software Foundation](https://omsf.io/)
 - **[OpSci](./opsci.md)**
 - **[Open Science Hardware Foundation](./open-science-hardware-foundation.md)**
 - [NumFOCUS](https://numfocus.org)
 - **[Python Software Foundtion (PSF)](./psf.md)**
 - RDA
+- **[Software Freedom Conservancy](./software-freedom-conservancy.md)**
 - **[Software Sustainability Institute](./ssi.md)**
 
 ## Communities of practice
 
+- **[Center for Scientific Collaboration and Community Engagement (CSCCE)](./center-for-scientific-collaboration-and-community-engagement.md)**
 - **[CHAOSS](./chaoss.md)**
 - **[CURIOSS](./curioss.md)**
+- **[SciCodes](./scicodes.md)**
 - **[URSSI](./urssi.md)**
 - **[USRSE](./usrse.md)**
 - [InnerSource Commons](https://innersourcecommons.org/)
@@ -47,6 +56,7 @@ Sorted alphabetically.
 ### Science Policy
 
 - **[American Association for the Advancement of Science (AAAS)](./american-association-for-the-advancement-of-science.md)**
+- **[American Astronomical Society (AAS)](./american-astronomical-society.md)**
 - **[American Chemical Society (ACS)](./american-chemical-society.md)**
 - **[American Geophysical Union (AGU)](./american-geophysical-union.md)**
 - **[American Physical Society (APS)](./american-physical-society.md)**
@@ -63,10 +73,12 @@ Sorted alphabetically.
 - **[2i2c](./2i2c.md)**
 - **[Astropy](./astropy.md)**
 - **[Bioconductor](./bioconductor.md)**
+- **[Journal of Open Source Software (JOSS)](./joss.md)**
 - **[Julia Language](./julia-language.md)**
 - **[Matplotlib](./matplotlib.md)**
 - **[Python Software Foundation](./psf.md)**
 - **[SciPy](./numfocus.md)**
+- **[Stan](./stan.md)**
 
 ### Leadership Education
 
@@ -85,6 +97,7 @@ Sorted alphabetically.
 
 - **[NumPy](./numpy.md)**
 - **[NumFOCUS](./numfocus.md)**
+- **[OpenAI](./openai.md)**
 - **[pyOpenSci](./pyopensci.md)**
 - **[PyTorch](./pytorch.md)**
 - **[Project Jupyter](./project-jupyter.md)**
@@ -99,6 +112,8 @@ Sorted alphabetically.
 
 ### Science
 
+- **[Japan Aerospace Exploration Agency (JAXA)](./japan-aerospace-exploration-agency.md)**
+- **[Lawrence Berkeley Lab](./lawrence-berkeley-lab.md)**
 - **[NASA](./national-aeronautics-and-space-administration.md)**
 - **[NCAR](./university-corp-atmospheric-research.md)**
 - **[Science Gateways Community Institute (SGCI)](./science-gateways-community-institute.md)**
