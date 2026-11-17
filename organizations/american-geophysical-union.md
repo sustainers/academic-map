@@ -1,4 +1,4 @@
-# American Geophysical Union (AGU) Overview
+# American Geophysical Union (AGU)
 
 - **Website:** [American Geophysical Union (AGU)](https://www.agu.org/)
 

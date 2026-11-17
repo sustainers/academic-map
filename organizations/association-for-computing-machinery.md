@@ -1,4 +1,4 @@
-# Association for Computing Machinery (ACM) Overview
+# Association for Computing Machinery (ACM)
 
 - **Website:** [Association for Computing Machinery (ACM)](https://www.acm.org/)
 

@@ -18,6 +18,7 @@ Sorted alphabetically.
 - **[Free Software Foundation (FSF)](./free-software-foundation.md)**
 - HELIOS
 - **[HPSF](./hpsf.md)**
+- **[Institute for Research Software (formerly SSI)](./ssi.md)**
 - **[Invest in Open Infrastructure](./invest-in-open-infrastructure.md)**
 - **[Linux Foundation](./linux-foundation.md)**
 - **[Mozilla Foundation](./mozilla-foundation.md)**
@@ -29,11 +30,10 @@ Sorted alphabetically.
 - [Open Molecular Software Foundation](https://omsf.io/)
 - **[OpSci](./opsci.md)**
 - **[Open Science Hardware Foundation](./open-science-hardware-foundation.md)**
-- [NumFOCUS](https://numfocus.org)
+- **[NumFOCUS](./numfocus.md)**
 - **[Python Software Foundation (PSF)](./psf.md)**
 - RDA
 - **[Software Freedom Conservancy](./software-freedom-conservancy.md)**
-- **[Software Sustainability Institute](./ssi.md)**
 
 ## Communities of practice
 
@@ -47,8 +47,6 @@ Sorted alphabetically.
 - **[ORCA](./open-research-community-accelerator.md)**
 - **[OSPO++](./ospoplusplus.md)**
 - **[Research Software Alliance (ReSA)](./research-software-alliance.md)**
-- [The Carpentries](https://carpentries.org)
-  - [Software Carpentry](https://software-carpentry.org)
 - [TODO Group](https://todogroup.org/)
 
 ### Science Policy
@@ -74,7 +72,6 @@ Sorted alphabetically.
 - **[Journal of Open Source Software (JOSS)](./joss.md)**
 - **[Julia Language](./julia-language.md)**
 - **[Matplotlib](./matplotlib.md)**
-- **[Python Software Foundation](./psf.md)**
 - [SciPy](https://scipy.org/)
 
 ### Leadership Education
@@ -82,18 +79,17 @@ Sorted alphabetically.
 - **[Academic Data Science Alliance](./academic-data-science-alliance.md)**
 - **[Outreachy](./outreachy.md)**
 - **[Research Software Engineers (RSE)](./research-software-engineers.md)**
-- **[UK Software Sustainability Institute](./uk-software-sustainability-institute.md)**
 
 ### Software Education
 
 - **[Open Life Science](./open-life-science.md)**
 - **[The Carpentries](./the-carpentries.md)**
+  - [Software Carpentry](https://software-carpentry.org)
 - **[The Turing Way](./the-turing-way.md)**
 
 ### Software
 
 - **[NumPy](./numpy.md)**
-- **[NumFOCUS](./numfocus.md)**
 - **[pyOpenSci](./pyopensci.md)**
 - **[PyTorch](./pytorch.md)**
 - **[Project Jupyter](./project-jupyter.md)**
@@ -102,8 +98,6 @@ Sorted alphabetically.
 ### Leadership
 
 - **[CORSA (Center for Open-Source Research Software Advancement)](./corsa.md)**
-- **[OSPO++](./ospoplusplus.md)**
-- **[URSSI](./urssi.md)**
 - **[SustainOSS](./sustainoss.md)**
 
 ### Science

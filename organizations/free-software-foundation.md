@@ -1,4 +1,4 @@
-# Free Software Foundation (FSF) Overview
+# Free Software Foundation (FSF)
 
 - **Website:** [Free Software Foundation (FSF)](https://www.fsf.org/)
 

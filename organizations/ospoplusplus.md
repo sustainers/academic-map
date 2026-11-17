@@ -1,4 +1,4 @@
-# OSPO++ Overview
+# OSPO++
 
 ## Overview
 

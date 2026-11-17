@@ -1,4 +1,4 @@
-# Space Telescope Science Institute (STScI) Overview
+# Space Telescope Science Institute (STScI)
 
 - **Website:** [Space Telescope Science Institute (STScI)](https://www.stsci.edu/)
 
