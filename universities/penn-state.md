@@ -3,7 +3,6 @@
 - *OSPO*: Yes
 - *Personnel*: Carl Cotner, Mathias Fonkam, Jeff Schulman
 - *Link*: [https://opensource.psu.edu/](https://opensource.psu.edu/)
-- *Member of*:
 
 ## General Description
 
