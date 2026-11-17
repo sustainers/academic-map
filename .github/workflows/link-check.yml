@@ -6,6 +6,10 @@ on:
   push:
     branches:
       - main
+  # Weekly, to catch links that die between PRs
+  schedule:
+    - cron: '0 9 * * 1'
+  workflow_dispatch:
 
 jobs:
   check-links:
