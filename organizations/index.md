@@ -9,7 +9,7 @@ Right now, these do not have their own pages yet. If you would like to add conte
 Sorted alphabetically.
 
 - **[Apache Foundation](./apachefoundation.md)**
-- [Apereo](https://www.apereo.org/)
+- **[Apereo](./apereo.md)**
 - [Code for Science and Society](https://www.codeforsociety.org/)
 - [Community Initiatives](https://communityinitiatives.org/)
 - **[Creative Commons](./creativecommons.md)**
