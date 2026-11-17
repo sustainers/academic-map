@@ -22,4 +22,4 @@ The OSPO supports students, researchers and faculty to:
 ## Primary Contacts
 
 - [Henrik Bengtsson](mailto:henrik.bengtsson@ucsf.edu)
-- [Stathis Gennatas](mailto:Stathis.Gennatas@ucsf.edu)
+- [Stathis Gennatas](mailto:stathis.gennatas@ucsf.edu)
