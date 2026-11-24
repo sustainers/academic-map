@@ -44,7 +44,7 @@ In order to add your university, you need to edit the code that this website is 
 
 5. Build.
 
-    You need to run a build. Running `$ ./scripts/build.sh` should work, locally. If it doesn't, [open an issue](https://github.com/sustainers/academic-map/issues/new) and log that. If you're adding your text online, don't worry about running a build - the merger will be responsible for that.
+    You need to run a build. Running `$ ./scripts/build.sh` should work, locally. If it doesn't, [open an issue](https://github.com/CURIOSSorg/academic-map/issues/new) and log that. If you're adding your text online, don't worry about running a build - the merger will be responsible for that.
 
 6. Run the checks.
 

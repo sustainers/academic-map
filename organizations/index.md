@@ -2,7 +2,7 @@
 
 Open source in academia is often driven by communities and non-profit organizations that work across institutions, fields, and boundaries.
 
-If you would like to add context about a group, take a look at the [Contributing Guide](https://github.com/sustainers/academic-map/blob/main/contributing.md), which has notes on how to add a page. Any link in **bold** has a page with more context.
+If you would like to add context about a group, take a look at the [Contributing Guide](https://github.com/CURIOSSorg/academic-map/blob/main/contributing.md), which has notes on how to add a page. Any link in **bold** has a page with more context.
 
 ## Foundations and Fiscal Hosts
 

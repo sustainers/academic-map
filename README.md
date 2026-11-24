@@ -1,12 +1,12 @@
 # Academic Map
 
-[![Build Status](https://github.com/sustainers/academic-map/actions/workflows/deploy-book.yml/badge.svg)](https://github.com/sustainers/academic-map/actions/workflows/deploy-book.yml)
+[![Build Status](https://github.com/CURIOSSorg/academic-map/actions/workflows/deploy-book.yml/badge.svg)](https://github.com/CURIOSSorg/academic-map/actions/workflows/deploy-book.yml)
 
 > A Jupyter Book of resources for open source in academia
 
 ## Usage
 
-Go to the website where this is rendered. Currently, that is [here](https://sustainers.github.io/academic-map/intro.html). You can also build this locally - see below.
+Go to the website where this is rendered. Currently, that is [here](https://curioss.org/academic-map/intro.html). You can also build this locally - see below.
 
 ## Install
 
@@ -26,7 +26,7 @@ The site automatically builds and deploys when you push to the `main` branch. Th
 1. Build the Jupyter book (`jupyter-book build --all .`)
 2. Lint all markdown files (`npm run lint`)
 3. Check that every page is in `_toc.yml`, its folder's `index.md`, and any member lists it belongs on (`npm run check-toc`)
-4. Deploy to GitHub Pages
+4. Publish the site at [curioss.org/academic-map](https://curioss.org/academic-map/intro.html), by pushing the built HTML into the `static/academic-map` folder of the [curioss.org repository](https://github.com/CURIOSSorg/curioss.org). That push triggers the curioss.org site's own deploy.
 
 If any step fails, the deployment will stop and you'll receive a notification (if enabled in your GitHub notification settings).
 
@@ -59,7 +59,9 @@ open _build/html/index.html
 
 ### Manual Deployment
 
-If you need to manually deploy, you can use:
+To deploy without pushing to `main`, run the `deploy-book` workflow by hand from the repository's Actions tab.
+
+To run every check and build the site locally, without deploying, use:
 
 ```bash
 ./scripts/build.sh
@@ -69,11 +71,10 @@ If you need to manually deploy, you can use:
 
 Please! All contributions are welcome. As is written in the intro page currently:
 
-- [**Open an issue**](https://github.com/sustainers/academic-map/issues/new) to add data. If you are unsure how to use Git easily or you are unsure where something goes, just open an issue with your suggestions or comments.
-- Add a page directly to the Git repository using a **Pull Request**. The GitHub repo is [here](https://github.com/sustainers/academic-map/). If you have a university, community, or so on, and you know how to use Git and GitHub, please open a PR with the resource!
+- [**Open an issue**](https://github.com/CURIOSSorg/academic-map/issues/new) to add data. If you are unsure how to use Git easily or you are unsure where something goes, just open an issue with your suggestions or comments.
+- Add a page directly to the Git repository using a **Pull Request**. The GitHub repo is [here](https://github.com/CURIOSSorg/academic-map/). If you have a university, community, or so on, and you know how to use Git and GitHub, please open a PR with the resource!
 - **Complain**. If this isn't working for you, tell us why, and we'd be more than happy to work to make it better.
-- **Ask in our community** Head to the [the Sustain Discourse](https://discourse.sustainoss.org/).
-- **Send an email.** Richard Littauer is the main editor for this repository, at the moment, and he's happy to incorporate any changes or to build a more welcoming and inclusive structure for collaboration here if any of the above options is less than ideal. Email [richard@sustainoss.org](mailto:richard@sustainoss.org).
+- **Send an email.** Richard Littauer is the main editor for this repository, at the moment, and he's happy to incorporate any changes or to build a more welcoming and inclusive structure for collaboration here if any of the above options is less than ideal. Email [info@curioss.org](mailto:info@curioss.org).
 
 ## Code of Conduct
 

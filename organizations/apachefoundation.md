@@ -38,9 +38,9 @@ Apache Software Foundation members are individuals who have demonstrated ongoing
 
 The Apache Foundation collaborates with various academic institutions worldwide to promote the use and development of open source software. Notable collaborations include partnerships with:
 
-- **[University of California, Berkeley](https://github.com/sustainers/academic-map/blob/main/universities/university-of-california-berkeley.md)**, known for contributions to projects like Apache Spark.
+- **[University of California, Berkeley](../universities/university-of-california-berkeley.md)**, known for contributions to projects like Apache Spark.
 - **University of Cambridge**, which has engaged in collaborative projects and research related to Apache Cassandra.
-- **[Carnegie Mellon University](https://github.com/sustainers/academic-map/blob/main/universities/carnegie-mellon-university.md)**, collaborating through research on distributed computing systems, contributing to Apache's projects.
+- **[Carnegie Mellon University](../universities/carnegie-mellon-university.md)**, collaborating through research on distributed computing systems, contributing to Apache's projects.
 - **Massachusetts Institute of Technology (MIT)**, supporting the development and integration of open source tools in academia and research.
 
 Additionally, ASF promotes student involvement through initiatives like the **Google Summer of Code**, providing stipends for university students globally to contribute to open source projects during the summer.

@@ -1,8 +1,12 @@
 # About
 
-This document was built by contributors from the SustainOSS Academic Working Group.
+This map is hosted by [CURIOSS](https://curioss.org/), the Community for University and Research Institution OSPOs. It was built by contributors from the SustainOSS Academic Working Group, and started as the SustainOSS Academic Map. In 2026, it moved to CURIOSS as a more sustainable, permanent home.
 
-## Governance
+## Contact
+
+For questions about the map, email [info@curioss.org](mailto:info@curioss.org). Richard Littauer maintains it.
+
+## History: SustainOSS and the Academic Working Group
 
 **SustainOSS** is a loose organization of people interested in holding space for discussions around the sustainability of open source. You can read more about this on [the Sustain website](https://sustainoss.org/). SustainOSS is funded through donations on Open Collective.
 
@@ -20,11 +24,11 @@ Anyone is welcome to get involved with organizing either the Academic WG, or any
 
 ## This website
 
-This website is run by [Jupyter Book](https://jupyterbook.org/en/stable/) on [GitHub Pages](https://pages.github.com/).
+This website is built with [Jupyter Book](https://jupyterbook.org/en/stable/) and published on [curioss.org](https://curioss.org/), which is hosted on [GitHub Pages](https://pages.github.com/).
 
 ## Code of Conduct
 
-All of the work here is done under the SustainOSS [Code of Conduct](https://sustainoss.org/code-of-conduct/). Please read it and abide by it, and report any issues as soon as they come up.
+All of the work here is done under the CURIOSS [Code of Conduct](https://curioss.org/about/codeofconduct/). Please read it and abide by it, and report any issues as soon as they come up.
 
 ## License
 

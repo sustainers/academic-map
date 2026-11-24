@@ -68,7 +68,7 @@ State which URLs you checked and their status. Don't call the PR ready if anythi
 
 The user's preferred workflow for contributor PRs:
 
-- Make the fixes on the PR's own branch. Check `headRepositoryOwner`: if it's `sustainers`, push directly. If it's a fork, it needs `maintainerCanModify: true`; otherwise ask whether to leave a review instead.
+- Make the fixes on the PR's own branch. Check `headRepositoryOwner`: if it's `CURIOSSorg`, push directly. If it's a fork, it needs `maintainerCanModify: true`; otherwise ask whether to leave a review instead.
 - Make **one granular commit per fix**, and show the diff and ask for confirmation before each commit.
 - If a fix exposes a wider problem (e.g. a member list that is out of order or missing other entries), ask before widening the scope.
 - Run `npm run lint` and `npm run check-toc` before asking to push, and ask before pushing.
