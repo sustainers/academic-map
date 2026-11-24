@@ -8,7 +8,7 @@ In order to add your university, you need to edit the code that this website is 
 
 1. Create a file named after your institution.
 
-    For instance, `touch universities/the-unseen-university.md` will create a file in `universities/` for your university. Then, you can add in the text that you want in that file. Look at the other files to see the expected Markdown formatting.
+    For instance, `touch universities/the-unseen-university.md` will create a file in `universities/` for your university. Then, you can add in the text that you want in that file. Look at the other files to see the expected Markdown formatting. For an organization, you can start from the template in `organizations/example.md`.
 
     Right now, you can create these in `universities/`, `organizations/`, `research-institutions/`, `service-providers/`, `events/`, or `funders/`.
 

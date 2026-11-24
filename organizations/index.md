@@ -17,7 +17,7 @@ Sorted alphabetically.
 - [Eclipse Foundation](https://www.eclipse.org/)
 - **[Electronic Frontier Foundation (EFF)](./electronic-frontier-foundation.md)**
 - **[Free Software Foundation (FSF)](./free-software-foundation.md)**
-- HELIOS
+- [HELIOS](https://www.heliosopen.org/)
 - **[HPSF](./hpsf.md)**
 - **[Institute for Research Software (formerly SSI)](./ssi.md)**
 - **[Invest in Open Infrastructure](./invest-in-open-infrastructure.md)**
@@ -33,7 +33,7 @@ Sorted alphabetically.
 - **[Open Science Hardware Foundation](./open-science-hardware-foundation.md)**
 - **[OpSci](./opsci.md)**
 - **[Python Software Foundation (PSF)](./psf.md)**
-- RDA
+- [RDA](https://www.rd-alliance.org/)
 - **[Software Freedom Conservancy](./software-freedom-conservancy.md)**
 
 ## Communities of practice
