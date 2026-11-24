@@ -1,6 +1,6 @@
 name: deploy-book
 
-# Runs on main branch changes, on manual dispatch, and daily, so that member
+# Runs on main branch changes, on manual dispatch, and weekly, so that member
 # logos and funding calls from curioss.org stay current
 on:
   workflow_dispatch:
@@ -8,7 +8,7 @@ on:
     branches:
     - main
   schedule:
-  - cron: '17 6 * * *'
+  - cron: '17 6 * * 1'  # Mondays, 06:17 UTC
 
 # This job installs dependencies, builds the book, checks it, and publishes it
 # to curioss.org/academic-map

@@ -21,7 +21,7 @@ This is a Jupyter Book, and depends on the Jupyter Book tooling to work. [Their 
 
 ### Automatic Deployment
 
-The site automatically builds and deploys when you push to the `main` branch, and once a day, to pick up changes to the CURIOSS data. The GitHub Action (`.github/workflows/deploy-book.yml`) will:
+The site automatically builds and deploys when you push to the `main` branch, and once a week, to pick up changes to the CURIOSS data. The GitHub Action (`.github/workflows/deploy-book.yml`) will:
 
 1. Fetch CURIOSS member logos and open funding calls from curioss.org (`python scripts/sync_curioss.py`)
 2. Build the Jupyter book (`jupyter-book build --all .`)
