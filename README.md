@@ -26,7 +26,7 @@ The site automatically builds and deploys when you push to the `main` branch. Th
 1. Build the Jupyter book (`jupyter-book build --all .`)
 2. Lint all markdown files (`npm run lint`)
 3. Check that every page is in `_toc.yml`, its folder's `index.md`, and any member lists it belongs on (`npm run check-toc`)
-4. Deploy to GitHub Pages
+4. Publish the site at [curioss.org/academic-map](https://curioss.org/academic-map/intro.html), by pushing the built HTML into the `static/academic-map` folder of the [curioss.org repository](https://github.com/CURIOSSorg/curioss.org). That push triggers the curioss.org site's own deploy.
 
 If any step fails, the deployment will stop and you'll receive a notification (if enabled in your GitHub notification settings).
 

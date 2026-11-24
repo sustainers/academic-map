@@ -7,13 +7,13 @@ on:
     branches:
     - main
 
-# This job installs dependencies, builds the book, and pushes it to `gh-pages`
+# This job installs dependencies, builds the book, checks it, and publishes it
+# to curioss.org/academic-map
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      pages: write
-      id-token: write
+      contents: read
     steps:
     - uses: actions/checkout@v7
 
@@ -61,25 +61,20 @@ jobs:
     - name: Check TOC completeness
       run: npm run check-toc
 
-    # Upload the book's HTML as an artifact
-    - name: Upload artifact
+    # Publish the book at curioss.org/academic-map. The curioss.org site is a
+    # Hugo site that serves anything under static/ as-is, so the built HTML is
+    # pushed into its static/academic-map folder, the same way curioss-patterns
+    # publishes to static/patterns. That push triggers curioss.org's own deploy.
+    # ACADEMIC_MAP_DEPLOY_KEY is the private half of a deploy key that has write
+    # access to CURIOSSorg/curioss.org.
+    - name: Deploy to curioss.org
       if: success()
-      uses: actions/upload-pages-artifact@v5
+      uses: peaceiris/actions-gh-pages@v4
       with:
-        path: "_build/html"
-
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    permissions:
-      pages: write
-      id-token: write
-    needs: build
-    steps:
-
-    # Deploy the book's HTML to GitHub Pages
-    - name: Deploy to GitHub Pages
-      id: deployment
-      uses: actions/deploy-pages@v5
+        deploy_key: ${{ secrets.ACADEMIC_MAP_DEPLOY_KEY }}
+        external_repository: CURIOSSorg/curioss.org
+        publish_branch: main
+        publish_dir: ./_build/html
+        destination_dir: static/academic-map
+        keep_files: false
+        commit_message: "Deploy the academic map"
