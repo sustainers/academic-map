@@ -56,6 +56,15 @@ In order to add your university, you need to edit the code that this website is 
 
     Thanks!
 
+## Logos and funding calls from CURIOSS
+
+Two things on this site come from [curioss.org](https://curioss.org/) each time it builds, so they aren't edited here:
+
+* **CURIOSS member logos.** Each member's logo appears at the top of its page. To add or change a logo, edit `data/members.yml` in the [curioss.org repository](https://github.com/CURIOSSorg/curioss.org), and set `mapPage` to the entry's path here (for instance, `universities/the-unseen-university`).
+* **Open funding calls.** Funder pages list the calls that are open now, from CURIOSS's [list of funding opportunities](https://curioss.org/resources/funding-opportunities/). To list a call on a funder page here, add that page to the call's `mapPages` in `data/funding-opportunities.yml` in the curioss.org repository.
+
+The build runs `scripts/sync_curioss.py` to fetch them, and the site rebuilds daily to pick up changes.
+
 ## Editorial notes
 
 * "open source" should always be spelled in full, instead of "open-source" with a hyphen.
