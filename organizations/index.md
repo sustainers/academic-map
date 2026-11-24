@@ -10,6 +10,7 @@ Sorted alphabetically.
 
 - **[Apache Foundation](./apachefoundation.md)**
 - **[Apereo](./apereo.md)**
+- **[Aspiration](./aspiration.md)**
 - [Code for Science and Society](https://www.codeforsociety.org/)
 - [Community Initiatives](https://communityinitiatives.org/)
 - **[Creative Commons](./creativecommons.md)**
