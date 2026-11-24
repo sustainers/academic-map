@@ -10,7 +10,7 @@ Go to the website where this is rendered. Currently, that is [here](https://sust
 
 ## Install
 
-This is a Jupyter notebook, and depends on the tooling system of Jupyter Notebooks to work. [Their documentation](https://jupyterbook.org/en/stable/intro.html) has an excellent intro to get started. For now:
+This is a Jupyter Book, and depends on the Jupyter Book tooling to work. [Their documentation](https://jupyterbook.org/en/stable/intro.html) has an excellent intro to get started. For now:
 
 - Clone this repository locally.
 - Edit any Markdown locally.
