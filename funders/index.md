@@ -10,10 +10,10 @@ This list is incomplete. Please add to it!
 
 ### USA
 
-- [National Science Foundation](./national-science-foundation.md)
-  - [NSF POSE grants](./nsf-grants/pose.md)
-  - [NSF Safe-OSE](./nsf-grants/safe-ose.md)
-  - [NSF GEO OSE](./nsf-grants/geo-ose.md)
+- **[National Science Foundation](./national-science-foundation.md)**
+  - **[NSF POSE grants](./nsf-grants/pose.md)**
+  - **[NSF Safe-OSE](./nsf-grants/safe-ose.md)**
+  - **[NSF GEO OSE](./nsf-grants/geo-ose.md)**
 
 ### Aotearoa New Zealand
 
@@ -34,7 +34,7 @@ A full list is [here](https://en.wikipedia.org/wiki/Crown_Research_Institute).
 
 The following funding opportunities have been taken from the [open-funding](https://github.com/ralphtheninja/open-funding) GitHub repository and are subset of funding specifically relevant to academia. Sorted alphabetically.
 
-- [Cisco Research Grants (web3 related)](./cisco.md)
-- [Digital Infrastructure Insights Fund](./diif.md)
-- [Protocol Labs Research (web3 related)](./protocollabs.md)
-- [Top10vpn Research Grant](./top10vpn.md)
+- **[Cisco Research Grants (web3 related)](./cisco.md)**
+- **[Digital Infrastructure Insights Fund](./diif.md)**
+- **[Protocol Labs Research (web3 related)](./protocollabs.md)**
+- **[Top10vpn Research Grant](./top10vpn.md)**

@@ -129,6 +129,24 @@ for PAIR in "${MEMBERSHIP_LISTS[@]}"; do
     echo ""
 done
 
+# Index entries that link to a page on this site must be bold, so readers can
+# tell them apart from links to outside websites (see contributing.md, step 3).
+echo "=== Checking that index entries linking to pages here are bold ==="
+FOUND_UNBOLDED=false
+for INDEX in "${DIRS[@]/%//index.md}" "blog/index.md"; do
+    [ -f "$INDEX" ] || continue
+    # A list item whose first link is to a local .md file, not wrapped in **
+    while IFS= read -r line; do
+        echo -e "  ${RED}✗${NC} $INDEX:$line"
+        FOUND_UNBOLDED=true
+        ERRORS=$((ERRORS + 1))
+    done < <(grep -nE '^[[:space:]]*- \[[^]]+\]\((\.{1,2}/)?[^):]+\.md\)' "$INDEX" || true)
+done
+if [ "$FOUND_UNBOLDED" = false ]; then
+    echo -e "  ${GREEN}✓${NC} All index entries linking to pages here are bold"
+fi
+echo ""
+
 if [ $ERRORS -eq 0 ]; then
     echo -e "${GREEN}✓ All checks passed!${NC}"
     exit 0
