@@ -237,6 +237,8 @@ chapters:
       title: POSE
     - file: funders/nsf-grants/safe-ose.md
       title: Safe-OSE
+  - file: funders/os4science.md
+    title: Open Source for Science Fund
   - file: funders/protocollabs.md
   - file: funders/top10vpn.md
 - file: blog/index.md
