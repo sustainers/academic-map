@@ -211,6 +211,12 @@ chapters:
   - file: service-providers/open-collective.md
   - file: service-providers/scios.md
   - file: service-providers/tidelift.md
+- file: events/index.md
+  sections:
+  - file: events/all-things-open.md
+  - file: events/fosdem.md
+  - file: events/sci-foo.md
+  - file: events/un-open-source-week.md
 - file: funders/index.md
   sections:
   - file: funders/arcadia.md

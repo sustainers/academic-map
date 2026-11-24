@@ -107,7 +107,3 @@ Sorted alphabetically.
 - **[NCAR](./university-corp-atmospheric-research.md)**
 - **[Science Gateways Community Institute (SGCI)](./science-gateways-community-institute.md)**
 - **[Space Telescope Science Institute (STScI)](./space-telescope-science-insitute.md)**
-
-### Events
-
-- [Sci Foo (Science Foo Camp)](https://www.digital-science.com/resource/scifoo/): an invitation-only annual unconference for scientists, run by Digital Science, Google, and O'Reilly Media since 2006
