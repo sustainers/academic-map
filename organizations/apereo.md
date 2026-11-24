@@ -28,7 +28,7 @@ The Apereo Foundation has a long-standing commitment to collaborating with acade
 
 Apereo’s work spans various projects, such as **Sakai**, **uPortal**, **Opencast**, **Xerte**, and **Bedework**, which are widely implemented in educational settings. Through these initiatives, Apereo collaborates with numerous universities and institutions, helping them enhance their educational platforms and technological infrastructure. Some notable universities and institutions Apereo has worked with include:
 
-- **[University of California, Berkeley](https://github.com/sustainers/academic-map/blob/main/universities/university-of-california-berkeley.md)** – Utilizes Sakai and uPortal for their learning management systems.
+- **[University of California, Berkeley](../universities/university-of-california-berkeley.md)** – Utilizes Sakai and uPortal for their learning management systems.
 - **University of Michigan** – Implements Sakai and Opencast for digital learning solutions.
 - **University of Cape Town** – Uses Opencast for managing and distributing educational videos.
 - **University of Barcelona** – Participates in the S2U consortium, improving Sakai’s usability.

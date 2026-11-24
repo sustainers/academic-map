@@ -1,12 +1,12 @@
 # Academic Map
 
-[![Build Status](https://github.com/sustainers/academic-map/actions/workflows/deploy-book.yml/badge.svg)](https://github.com/sustainers/academic-map/actions/workflows/deploy-book.yml)
+[![Build Status](https://github.com/CURIOSSorg/academic-map/actions/workflows/deploy-book.yml/badge.svg)](https://github.com/CURIOSSorg/academic-map/actions/workflows/deploy-book.yml)
 
 > A Jupyter Book of resources for open source in academia
 
 ## Usage
 
-Go to the website where this is rendered. Currently, that is [here](https://sustainers.github.io/academic-map/intro.html). You can also build this locally - see below.
+Go to the website where this is rendered. Currently, that is [here](https://curioss.org/academic-map/intro.html). You can also build this locally - see below.
 
 ## Install
 
@@ -69,8 +69,8 @@ If you need to manually deploy, you can use:
 
 Please! All contributions are welcome. As is written in the intro page currently:
 
-- [**Open an issue**](https://github.com/sustainers/academic-map/issues/new) to add data. If you are unsure how to use Git easily or you are unsure where something goes, just open an issue with your suggestions or comments.
-- Add a page directly to the Git repository using a **Pull Request**. The GitHub repo is [here](https://github.com/sustainers/academic-map/). If you have a university, community, or so on, and you know how to use Git and GitHub, please open a PR with the resource!
+- [**Open an issue**](https://github.com/CURIOSSorg/academic-map/issues/new) to add data. If you are unsure how to use Git easily or you are unsure where something goes, just open an issue with your suggestions or comments.
+- Add a page directly to the Git repository using a **Pull Request**. The GitHub repo is [here](https://github.com/CURIOSSorg/academic-map/). If you have a university, community, or so on, and you know how to use Git and GitHub, please open a PR with the resource!
 - **Complain**. If this isn't working for you, tell us why, and we'd be more than happy to work to make it better.
 - **Ask in our community** Head to the [the Sustain Discourse](https://discourse.sustainoss.org/).
 - **Send an email.** Richard Littauer is the main editor for this repository, at the moment, and he's happy to incorporate any changes or to build a more welcoming and inclusive structure for collaboration here if any of the above options is less than ideal. Email [richard@sustainoss.org](mailto:richard@sustainoss.org).

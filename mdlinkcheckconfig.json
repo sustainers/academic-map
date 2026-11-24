@@ -5,7 +5,7 @@
   "fallbackRetryDelay": "10s",
   "replacementPatterns": [
     {
-      "pattern": "^https://github\\.com/sustainers/academic-map/(blob|tree)/main/",
+      "pattern": "^https://github\\.com/CURIOSSorg/academic-map/(blob|tree)/main/",
       "replacement": "{{BASEURL}}/",
       "reason": "Check links to this repo's own files against the checkout instead of github.com, which 503s under load"
     }
