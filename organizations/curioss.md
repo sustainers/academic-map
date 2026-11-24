@@ -31,6 +31,7 @@ CURIOSS includes representatives from institutions such as:
 - [Lero](../research-institutions/lero.md)
 - [Mass General Brigham](../research-institutions/mass-general-brigham.md)
 - [Mississippi State University](../universities/mississippi-state-university.md)
+- [Oregon State University](../universities/oregon-state-university.md)
 - [Rochester Institute of Technology](../universities/rit.md)
 - [Saint Louis University](../universities/slu.md)
 - [SnT, University of Luxembourg](../universities/snt-university-of-luxembourg.md)

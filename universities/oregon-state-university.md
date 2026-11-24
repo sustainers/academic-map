@@ -3,7 +3,7 @@
 - *OSPO*: Lab
 - *Personnel*: Lance Albertson
 - *Link*: [https://osuosl.org/](https://osuosl.org/)
-- *Member of*: [HELIOS](https://www.heliosopen.org/members)
+- *Member of*: [CURIOSS](https://curioss.org/), [HELIOS](https://www.heliosopen.org/members)
 
 ## General Description
 
