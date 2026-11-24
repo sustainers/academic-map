@@ -74,6 +74,7 @@ chapters:
   - file: organizations/apachefoundation.md
     title: Apache
   - file: organizations/apereo.md
+  - file: organizations/aspiration.md
   - file: organizations/academic-data-science-alliance.md
     title: ADSA
   - file: organizations/american-association-for-the-advancement-of-science.md
@@ -97,6 +98,8 @@ chapters:
   - file: organizations/bioconductor.md
   - file: organizations/chaoss.md
     title: CHAOSS
+  - file: organizations/coalition-for-networked-information.md
+    title: CNI
   - file: organizations/corsa.md
     title: CORSA
   - file: organizations/creativecommons.md
@@ -211,6 +214,12 @@ chapters:
   - file: service-providers/open-collective.md
   - file: service-providers/scios.md
   - file: service-providers/tidelift.md
+- file: events/index.md
+  sections:
+  - file: events/all-things-open.md
+  - file: events/fosdem.md
+  - file: events/sci-foo.md
+  - file: events/un-open-source-week.md
 - file: funders/index.md
   sections:
   - file: funders/arcadia.md
