@@ -40,6 +40,7 @@ Sorted alphabetically.
 
 - **[Center for Scientific Collaboration and Community Engagement (CSCCE)](./center-for-scientific-collaboration-and-community-engagement.md)**
 - **[CHAOSS](./chaoss.md)**
+- **[Coalition for Networked Information (CNI)](./coalition-for-networked-information.md)**
 - **[CURIOSS](./curioss.md)**
 - **[SciCodes](./scicodes.md)**
 - **[URSSI](./urssi.md)**
