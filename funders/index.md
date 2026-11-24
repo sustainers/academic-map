@@ -24,7 +24,7 @@ A full list is [here](https://en.wikipedia.org/wiki/Crown_Research_Institute).
 ## Philanthropies
 
 - [The Alfred P. Sloan Foundation](https://sloan.org/)
-- [Arcadia Fund](./arcadia.md)
+- **[Arcadia Fund](./arcadia.md)**
 - **[Chan Zuckerberg Initiative](./czi.md)**
 - [Ford Foundation](https://www.fordfoundation.org/)
 - **[Navigation](./navigation.md)**
