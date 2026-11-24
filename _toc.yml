@@ -94,11 +94,14 @@ chapters:
     title: APS
   - file: organizations/american-society-for-microbiology.md
     title: ASM
+  - file: organizations/aspiration.md
   - file: organizations/astropy.md
     title: Astropy
   - file: organizations/bioconductor.md
   - file: organizations/chaoss.md
     title: CHAOSS
+  - file: organizations/coalition-for-networked-information.md
+    title: CNI
   - file: organizations/corsa.md
     title: CORSA
   - file: organizations/creativecommons.md
@@ -211,6 +214,12 @@ chapters:
   - file: service-providers/open-collective.md
   - file: service-providers/scios.md
   - file: service-providers/tidelift.md
+- file: events/index.md
+  sections:
+  - file: events/all-things-open.md
+  - file: events/fosdem.md
+  - file: events/sci-foo.md
+  - file: events/un-open-source-week.md
 - file: funders/index.md
   sections:
   - file: funders/arcadia.md
