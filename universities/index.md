@@ -6,43 +6,43 @@ University involvement in open source varies widely. For instance, a university 
 
 The following universities have an office which has the standing of an Open Source Program Office:
 
-- [Carnegie Mellon University](./carnegie-mellon-university.md)
-- [ETH Zurich](./eth-zurich.md)
-- [George Washington University](./george-washington.md)
-- [Georgia Institute of Technology](./georgia-institute-of-technology.md)
-- [Johns Hopkins University](./johns-hopkins-university.md)
-- [Mississippi State University](./mississippi-state-university.md)
-- [Penn State](./penn-state.md)
-- [Rey Juan Carlos University](./rey-juan-carlos-university.md)
-- [Rochester Institute of Technology](./rit.md)
-- [Saint Louis University](./slu.md)
-- [SnT, University of Luxembourg](./snt-university-of-luxembourg.md)
-- [Stanford University](./stanford-university.md)
-- [Syracuse University](./syracuse.md)
-- [Trinity College Dublin](./trinity-college-dublin.md)
-- [Université Grenoble Alpes](./université-grenoble-alpes.md)
-- [University College London](./university-college-london.md)
-- [University of California Berkeley](./university-of-california-berkeley.md)
-- [University of California Davis](./university-of-california-davis.md)
-- [University of California Los Angeles](./university-of-california-los-angeles.md)
-- [University of California San Diego](./university-of-california-san-diego.md)
-- [University of California San Francisco](./university-of-california-san-francisco.md)
-- [University of California Santa Barbara](./university-of-california-santa-barbara.md)
-- [University of California Santa Cruz](./university-of-california-santa-cruz.md)
-- [University of Michigan](./university-of-michigan.md)
-- [University of Texas at Austin](./university-of-texas-austin.md)
-- [University of Texas at Dallas](./university-of-texas-dallas.md)
-- [University of Texas at El Paso](./university-of-texas-el-paso.md)
-- [University of Texas at San Antonio](./university-of-texas-san-antonio.md)
-- [University of Vermont](./university-of-vermont.md)
-- [University of Washington](./university-of-washington.md)
-- [University of Wisconsin-Madison](./university-of-wisconsin-madison.md)
+- **[Carnegie Mellon University](./carnegie-mellon-university.md)**
+- **[ETH Zurich](./eth-zurich.md)**
+- **[George Washington University](./george-washington.md)**
+- **[Georgia Institute of Technology](./georgia-institute-of-technology.md)**
+- **[Johns Hopkins University](./johns-hopkins-university.md)**
+- **[Mississippi State University](./mississippi-state-university.md)**
+- **[Penn State](./penn-state.md)**
+- **[Rey Juan Carlos University](./rey-juan-carlos-university.md)**
+- **[Rochester Institute of Technology](./rit.md)**
+- **[Saint Louis University](./slu.md)**
+- **[SnT, University of Luxembourg](./snt-university-of-luxembourg.md)**
+- **[Stanford University](./stanford-university.md)**
+- **[Syracuse University](./syracuse.md)**
+- **[Trinity College Dublin](./trinity-college-dublin.md)**
+- **[Université Grenoble Alpes](./université-grenoble-alpes.md)**
+- **[University College London](./university-college-london.md)**
+- **[University of California Berkeley](./university-of-california-berkeley.md)**
+- **[University of California Davis](./university-of-california-davis.md)**
+- **[University of California Los Angeles](./university-of-california-los-angeles.md)**
+- **[University of California San Diego](./university-of-california-san-diego.md)**
+- **[University of California San Francisco](./university-of-california-san-francisco.md)**
+- **[University of California Santa Barbara](./university-of-california-santa-barbara.md)**
+- **[University of California Santa Cruz](./university-of-california-santa-cruz.md)**
+- **[University of Michigan](./university-of-michigan.md)**
+- **[University of Texas at Austin](./university-of-texas-austin.md)**
+- **[University of Texas at Dallas](./university-of-texas-dallas.md)**
+- **[University of Texas at El Paso](./university-of-texas-el-paso.md)**
+- **[University of Texas at San Antonio](./university-of-texas-san-antonio.md)**
+- **[University of Vermont](./university-of-vermont.md)**
+- **[University of Washington](./university-of-washington.md)**
+- **[University of Wisconsin-Madison](./university-of-wisconsin-madison.md)**
 
 ## Labs
 
 There are a host of universities which don't have open source program offices, but which do have labs which do a considerable amount of open source work.
 
-- [Oregon State University](./oregon-state-university.md)
+- **[Oregon State University](./oregon-state-university.md)**
 - University of Nebraska Bridge Lab – This lab includes [Matt Germonprez](https://www.unomaha.edu/college-of-information-science-and-technology/about/faculty-staff/matt-germonprez.php), who works closely with [CHAOSS](../organizations/chaoss.md).
 - UMass Amherst [Open Source Computer Lab](https://www.umass.edu/opensource/content/mission.html)
 - University at Albany [OSI Lab](https://www.albany.edu/cehc/osi-lab)
@@ -51,13 +51,13 @@ There are a host of universities which don't have open source program offices, b
 
 There are also universities that develop and support the advancement of open source software, but don't have an official OSPO or official policies publicly set for staff or researchers.
 
-- [Indiana University](./indiana.md)
-- [Purdue University](./purdue.md)
-- [Stony Brook University](./stony-brook-university.md)
-- [University at Buffalo](./university-at-buffalo.md)
+- **[Indiana University](./indiana.md)**
+- **[Purdue University](./purdue.md)**
+- **[Stony Brook University](./stony-brook-university.md)**
+- **[University at Buffalo](./university-at-buffalo.md)**
 - [University of Cambridge](https://www.dns.cam.ac.uk/about/floss.html) – IT services has some code available.
-- [University of Illinois Urbana-Champaign](./university-of-illinois-urbana-champaign.md)
-- [University of Notre Dame](./notre-dame.md)
-- [University of Pennsylvania](./university-of-pennsylvania.md)
-- [University of Victoria](./university-of-victoria.md)
-- [University of Zagreb](./university-of-zagreb.md)
+- **[University of Illinois Urbana-Champaign](./university-of-illinois-urbana-champaign.md)**
+- **[University of Notre Dame](./notre-dame.md)**
+- **[University of Pennsylvania](./university-of-pennsylvania.md)**
+- **[University of Victoria](./university-of-victoria.md)**
+- **[University of Zagreb](./university-of-zagreb.md)**
