@@ -144,7 +144,7 @@ chapters:
   - file: organizations/numfocus.md
     title: NumFOCUS
   - file: organizations/numpy.md
-    title: Numpy
+    title: NumPy
   - file: organizations/oce.md
     title: OCE
   - file: organizations/ocf.md
@@ -185,7 +185,7 @@ chapters:
   - file: organizations/science-gateways-community-institute.md
     title: SGCI
   - file: organizations/space-telescope-science-insitute.md
-    title: STSI
+    title: STScI
   - file: organizations/sustainoss.md
     title: SustainOSS
   - file: organizations/the-carpentries.md
