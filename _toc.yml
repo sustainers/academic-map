@@ -28,15 +28,10 @@ chapters:
     title: Stony Brook University
   - file: universities/syracuse.md
   - file: universities/trinity-college-dublin.md
-  - file: universities/université-grenoble-alpes.md
   - file: universities/university-of-california-berkeley.md
     title: UC Berkeley
   - file: universities/university-of-california-davis.md
     title: UC Davis
-  - file: universities/university-college-london.md
-    title: UCL
-  - file: universities/university-of-california-los-angeles.md
-    title: UCLA
   - file: universities/university-of-california-san-diego.md
     title: UC San Diego
   - file: universities/university-of-california-san-francisco.md
@@ -45,13 +40,23 @@ chapters:
     title: UC Santa Barbara
   - file: universities/university-of-california-santa-cruz.md
     title: UC Santa Cruz
-  - file: universities/university-at-buffalo.md
-    title: University at Buffalo
+  - file: universities/university-college-london.md
+    title: UCL
+  - file: universities/university-of-california-los-angeles.md
+    title: UCLA
   - file: universities/university-of-illinois-urbana-champaign.md
     title: UIUC
+  - file: universities/université-grenoble-alpes.md
+  - file: universities/university-at-buffalo.md
+    title: University at Buffalo
   - file: universities/university-of-michigan.md
   - file: universities/university-of-victoria.md
     title: University of Victoria
+  - file: universities/university-of-washington.md
+  - file: universities/university-of-wisconsin-madison.md
+    title: University of Wisconsin–Madison
+  - file: universities/university-of-zagreb.md
+    title: University of Zagreb
   - file: universities/university-of-pennsylvania.md
     title: UPenn
   - file: universities/university-of-texas-austin.md
@@ -64,34 +69,31 @@ chapters:
     title: UT San Antonio
   - file: universities/university-of-vermont.md
     title: UVM
-  - file: universities/university-of-washington.md
-  - file: universities/university-of-wisconsin-madison.md
-    title: University of Wisconsin–Madison
-  - file: universities/university-of-zagreb.md
-    title: University of Zagreb
 - file: organizations/index.md
   sections:
-  - file: organizations/apachefoundation.md
-    title: Apache
-  - file: organizations/apereo.md
-  - file: organizations/academic-data-science-alliance.md
-    title: ADSA
+  - file: organizations/2i2c.md
+    title: 2i2c
   - file: organizations/american-association-for-the-advancement-of-science.md
     title: AAAS
   - file: organizations/american-astronomical-society.md
     title: AAS
-  - file: organizations/american-chemical-society.md
-    title: ACS
-  - file: organizations/american-geophysical-union.md
-    title: AGU
-  - file: organizations/american-physical-society.md
-    title: APS
-  - file: organizations/american-psychological-association.md
-    title: APA
-  - file: organizations/american-society-for-microbiology.md
-    title: ASM
   - file: organizations/association-for-computing-machinery.md
     title: ACM
+  - file: organizations/american-chemical-society.md
+    title: ACS
+  - file: organizations/academic-data-science-alliance.md
+    title: ADSA
+  - file: organizations/american-geophysical-union.md
+    title: AGU
+  - file: organizations/american-psychological-association.md
+    title: APA
+  - file: organizations/apachefoundation.md
+    title: Apache
+  - file: organizations/apereo.md
+  - file: organizations/american-physical-society.md
+    title: APS
+  - file: organizations/american-society-for-microbiology.md
+    title: ASM
   - file: organizations/astropy.md
     title: Astropy
   - file: organizations/bioconductor.md
@@ -105,10 +107,10 @@ chapters:
     title: CSCCE
   - file: organizations/curioss.md
     title: CURIOSS
-  - file: organizations/ecological-society-of-america.md
-    title: ESA
   - file: organizations/electronic-frontier-foundation.md
     title: EFF
+  - file: organizations/ecological-society-of-america.md
+    title: ESA
   - file: organizations/european-space-agency.md
   - file: organizations/free-software-foundation.md
     title: FSF
@@ -116,6 +118,8 @@ chapters:
     title: HPSF
   - file: organizations/institute-of-electrical-and-electronics-engineers.md
     title: IEEE
+  - file: organizations/ssi.md
+    title: Institute for Research Software
   - file: organizations/invest-in-open-infrastructure.md
     title: Invest in Open Infrastructure
   - file: organizations/joss.md
@@ -126,12 +130,14 @@ chapters:
   - file: organizations/linux-foundation.md
     title: Linux Foundation
   - file: organizations/matplotlib.md
-  - file: organizations/molecular-sciences-software-institute.md
-    title: MSSI
   - file: organizations/mozilla-foundation.md
     title: Mozilla
+  - file: organizations/molecular-sciences-software-institute.md
+    title: MSSI
   - file: organizations/national-aeronautics-and-space-administration.md
     title: NASA
+  - file: organizations/university-corp-atmospheric-research.md
+    title: NSF NCAR
   - file: organizations/numfocus.md
     title: NumFOCUS
   - file: organizations/numpy.md
@@ -144,12 +150,14 @@ chapters:
     title: OKF
   - file: organizations/open-life-science.md
     title: OLS
+  - file: organizations/opsci.md
+    title: OpSci
+  - file: organizations/open-research-community-accelerator.md
+    title: ORCA
   - file: organizations/osc.md
     title: OSC
   - file: organizations/open-science-hardware-foundation.md
     title: OSHF
-  - file: organizations/open-research-community-accelerator.md
-    title: ORCA
   - file: organizations/ospoplusplus.md
     title: OSPO++
   - file: organizations/outreachy.md
@@ -161,22 +169,18 @@ chapters:
     title: PyOpenSci
   - file: organizations/pytorch.md
     title: PyTorch
+  - file: organizations/ropensci.md
+    title: rOpenSci
   - file: organizations/research-software-alliance.md
     title: RSA
   - file: organizations/research-software-engineers.md
     title: RSE
-  - file: organizations/ropensci.md
-    title: rOpenSci
   - file: organizations/scicodes.md
     title: SciCodes
-  - file: organizations/opsci.md
-    title: OpSci
   - file: organizations/software-freedom-conservancy.md
     title: SFC
   - file: organizations/science-gateways-community-institute.md
     title: SGCI
-  - file: organizations/ssi.md
-    title: Institute for Research Software
   - file: organizations/space-telescope-science-insitute.md
     title: STSI
   - file: organizations/sustainoss.md
@@ -187,12 +191,8 @@ chapters:
     title: The Turing Way
   - file: organizations/urssi.md
     title: URSSI
-  - file: organizations/university-corp-atmospheric-research.md
-    title: NSF NCAR
   - file: organizations/usrse.md
     title: USRSE
-  - file: organizations/2i2c.md
-    title: 2i2c
 - file: research-institutions/index.md
   sections:
   - file: research-institutions/the-alan-turing-institute.md
@@ -214,20 +214,20 @@ chapters:
 - file: funders/index.md
   sections:
   - file: funders/arcadia.md
-  - file: funders/cisco.md
   - file: funders/czi.md
+  - file: funders/cisco.md
   - file: funders/diif.md
     title: DIIF
+  - file: funders/navigation.md
   - file: funders/national-science-foundation.md
     title: NSF
     sections:
+    - file: funders/nsf-grants/geo-ose.md
+      title: GEO OSE
     - file: funders/nsf-grants/pose.md
       title: POSE
     - file: funders/nsf-grants/safe-ose.md
       title: Safe-OSE
-    - file: funders/nsf-grants/geo-ose.md
-      title: GEO OSE
-  - file: funders/navigation.md
   - file: funders/protocollabs.md
   - file: funders/top10vpn.md
 - file: blog/index.md
