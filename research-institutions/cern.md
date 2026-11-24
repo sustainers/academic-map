@@ -1,9 +1,10 @@
 # European Organization for Nuclear Research (CERN)
 
+- *OSPO*: Yes
 - **Website:** [CERN](https://home.cern/)
 - **Open Source Program Office (OSPO):** [Website](https://opensource.web.cern.ch/)
 
-## Overview
+## General Description
 
 CERN, the European Organization for Nuclear Research, is one of the world’s leading centers for scientific research in particle physics. It is also a pioneering force in open science, with a long-standing tradition of developing and sharing open source technologies. In November 2023, CERN established its Open Source Program Office (OSPO) to support the transparent release and collaborative development of open source software and hardware designs.
 
