@@ -10,7 +10,7 @@ The University of Zagreb (UNIZG) is Croatia’s largest and oldest university, r
 
 UNIZG participates in and supports initiatives that promote open source and open science practices:
 
-- **Open Science Policy:** In 2024, UNIZG adopted an Open Science Policy aimed at improving accessibility and transparency in research. The policy encourages researchers to store original program code in open repositories like GitHub to foster reproducibility. [Read about the Open Science Policy](https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/news/open-source-service-open-science)
+- **Open Science Policy:** In 2024, UNIZG adopted an Open Science Policy aimed at improving accessibility and transparency in research. The policy encourages researchers to store original program code in open repositories like GitHub to foster reproducibility. [Read about the Open Science Policy](https://web.archive.org/web/20260308035238/https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/news/open-source-service-open-science)
 - **Centre for Software Development:** Housed at the Faculty of Organization and Informatics, this center actively monitors and participates in open source software projects. It provides resources and support for students and researchers engaged in open development. [Explore Software Development at UNIZG](https://www.foi.unizg.hr/en/about-us/departments/czrpp).
 
 ## Contact
