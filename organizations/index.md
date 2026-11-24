@@ -24,7 +24,7 @@ Sorted alphabetically.
 - **[Linux Foundation](./linux-foundation.md)**
 - **[Mozilla Foundation](./mozilla-foundation.md)**
 - **[NumFOCUS](./numfocus.md)**
-- [Open Collective](../service-providers/open-collective.md)
+- **[Open Collective](../service-providers/open-collective.md)**
   - **[Open Collective Europe](./oce.md)**
   - **[Open Collective Foundation](./ocf.md)**
   - **[Open Source Collective](./osc.md)**
