@@ -36,6 +36,8 @@ In order to add your university, you need to edit the code that this website is 
 
     Each folder has an `index.md` that lists every entry in it: for instance, `universities/index.md` or `organizations/index.md`. Add a link to your new file there, following the style of the others. Remember to alphabetize.
 
+    Make the link bold, like `- **[The Unseen University](./the-unseen-university.md)**`. On index pages, a bold link means the entry has its own page on this site. Links to outside websites aren't bold.
+
 4. Add your institution to the member lists of any groups it belongs to.
 
     If your entry says it is a *Member of* an organization that has its own page here, add your institution to that page's member list too. For instance, if your entry lists `[CURIOSS](https://curioss.org/)`, add a link to your file in the Members section of `organizations/curioss.md`, alphabetically.
