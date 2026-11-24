@@ -23,15 +23,15 @@ Sorted alphabetically.
 - **[Invest in Open Infrastructure](./invest-in-open-infrastructure.md)**
 - **[Linux Foundation](./linux-foundation.md)**
 - **[Mozilla Foundation](./mozilla-foundation.md)**
+- **[NumFOCUS](./numfocus.md)**
 - [Open Collective](../service-providers/open-collective.md)
-  - **[Open Source Collective](./osc.md)**
-  - **[Open Collective Foundation](./ocf.md)**
   - **[Open Collective Europe](./oce.md)**
+  - **[Open Collective Foundation](./ocf.md)**
+  - **[Open Source Collective](./osc.md)**
 - **[Open Knowledge Foundation](./open-knowledge-foundation.md)**
 - [Open Molecular Software Foundation](https://omsf.io/)
-- **[OpSci](./opsci.md)**
 - **[Open Science Hardware Foundation](./open-science-hardware-foundation.md)**
-- **[NumFOCUS](./numfocus.md)**
+- **[OpSci](./opsci.md)**
 - **[Python Software Foundation (PSF)](./psf.md)**
 - RDA
 - **[Software Freedom Conservancy](./software-freedom-conservancy.md)**
@@ -43,16 +43,16 @@ Sorted alphabetically.
 - **[Coalition for Networked Information (CNI)](./coalition-for-networked-information.md)**
 - **[CURIOSS](./curioss.md)**
 - [Data Umbrella](https://www.dataumbrella.org/)
-- **[SciCodes](./scicodes.md)**
-- **[URSSI](./urssi.md)**
-- **[USRSE](./usrse.md)**
 - [InnerSource Commons](https://innersourcecommons.org/)
-- **[ORCA](./open-research-community-accelerator.md)**
 - [Openscapes](https://openscapes.org/)
+- **[ORCA](./open-research-community-accelerator.md)**
 - **[OSPO++](./ospoplusplus.md)**
 - **[Research Software Alliance (ReSA)](./research-software-alliance.md)**
+- **[SciCodes](./scicodes.md)**
 - [TODO Group](https://todogroup.org/)
 - [Translate Science](https://translatescience.org/)
+- **[URSSI](./urssi.md)**
+- **[USRSE](./usrse.md)**
 
 ### Science Policy
 
@@ -97,9 +97,9 @@ Sorted alphabetically.
 ### Software
 
 - **[NumPy](./numpy.md)**
+- **[Project Jupyter](./project-jupyter.md)**
 - **[pyOpenSci](./pyopensci.md)**
 - **[PyTorch](./pytorch.md)**
-- **[Project Jupyter](./project-jupyter.md)**
 - **[rOpenSci](./ropensci.md)**
 
 ### Leadership

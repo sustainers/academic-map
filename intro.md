@@ -1,6 +1,6 @@
 # Open Source in Academia Map
 
-This notebook is an aid for navigating the ecosystem of open source within academia.
+This Jupyter Book is an aid for navigating the ecosystem of open source within academia.
 
 Open source software is everywhere. In an academic context, it can be used either for research software, within an ed tech context used by the administration, or as a topic of instruction to students. Open source also is built into all layers of software used by academics, as well of industry at large. It can also be an object of study for researchers seeking to learn more about code generation and usage, collaborative networks, and so on.
 
@@ -10,7 +10,7 @@ The many areas where open source can apply means that navigating the landscape o
 
 ## How to use this website
 
-At its heart, this is a simple Jupyter notebook that can display information in a structured format. Jupyter Notebooks have a long history of use in the sciences for documenting software and research methods - there are also other groups, like [The Turing Way](https://the-turing-way.netlify.app/index.html), that use these notebooks for providing resources on how to work collaboratively in the open.
+At its heart, this is a simple Jupyter Book that can display information in a structured format. Jupyter Notebooks have a long history of use in the sciences for documenting software and research methods - there are also other groups, like [The Turing Way](https://the-turing-way.netlify.app/index.html), that use Jupyter Book for providing resources on how to work collaboratively in the open.
 
 ### Current Sections
 

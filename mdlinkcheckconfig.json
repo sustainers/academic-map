@@ -12,6 +12,10 @@
   ],
   "ignorePatterns": [
     {
+      "pattern": "^https://www\\.nsf\\.gov/awardsearch/show-award/",
+      "reason": "NSF award pages return 200 for any ID, so checking them proves nothing, and the ~160 on the POSE page take most of the CI time limit. The IDs come from the NSF Award API."
+    },
+    {
       "pattern": "linkedin"
     },
     {

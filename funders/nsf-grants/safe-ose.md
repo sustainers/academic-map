@@ -3,6 +3,8 @@ orphan: true
 ---
 # [NSF Safety, Security, and Privacy of open source Ecosystems (Safe-OSE)](https://new.nsf.gov/funding/opportunities/safe-ose-safety-security-privacy-open-source-ecosystems/nsf24-608/solicitation)
 
+> **Note:** NSF has archived Safe-OSE. Its focus on safety, security, and privacy is now Track 3 of [PESOSE](./pose.md), the program that replaced POSE in 2026.
+
 ## About
 
 Safe-OSE aims to "address  safety, security, and/or privacy vulnerabilities

@@ -1,5 +1,7 @@
 # Chan Zuckerberg Initiative (CZI)
 
+> **Note:** CZI no longer gives open source grants. Its Essential Open Source Software for Science (EOSS) program ran six cycles, the last closing in October 2023, and in November 2025 CZI moved most of its resources to Biohub. The EOSS team now runs the [Open Source for Science Fund](./os4science.md), which continues the program.
+
 - **Website:** [Chan Zuckerberg Initiative](https://chanzuckerberg.com/)
 - **Open Science Programs:** [CZI Open Science](https://chanzuckerberg.com/science/programs-resources/open-science/)
 - **Funding Announcements:** [CZI Newsroom](https://chanzuckerberg.com/newsroom/)
@@ -48,7 +50,7 @@ CZI has made multiple investments in open source software projects that support 
 ## Application
 
 - **Funding Page:** [CZI Essential Open Source Software for Science](https://chanzuckerberg.com/rfa/essential-open-source-software-for-science/)
-- **Current Status:** _Applications are currently closed._
+- **Current Status:** _CZI no longer gives open source grants. See the [Open Source for Science Fund](./os4science.md)._
 - **Last Cycle:** _EOSS Cycle 6 closed in October 2023._
 
 ---

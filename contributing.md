@@ -10,7 +10,7 @@ In order to add your university, you need to edit the code that this website is 
 
     For instance, `touch universities/the-unseen-university.md` will create a file in `universities/` for your university. Then, you can add in the text that you want in that file. Look at the other files to see the expected Markdown formatting.
 
-    Right now, you can create these in `universities/`, `organizations/`, `research-institutions/`, or `service-providers/`.
+    Right now, you can create these in `universities/`, `organizations/`, `research-institutions/`, `service-providers/`, `events/`, or `funders/`.
 
 2. Add your institution to the Table of Contents.
 
@@ -35,6 +35,8 @@ In order to add your university, you need to edit the code that this website is 
 3. Add your institution to the index page for its folder.
 
     Each folder has an `index.md` that lists every entry in it: for instance, `universities/index.md` or `organizations/index.md`. Add a link to your new file there, following the style of the others. Remember to alphabetize.
+
+    Make the link bold, like `- **[The Unseen University](./the-unseen-university.md)**`. On index pages, a bold link means the entry has its own page on this site. Links to outside websites aren't bold.
 
 4. Add your institution to the member lists of any groups it belongs to.
 

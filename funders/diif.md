@@ -8,4 +8,4 @@ The D//F (Digital Infrastructure Insights Fund) is a multi-funder initiative by 
 
 ## Extra Context
 
-It is unclear if they are currently accepting funding.
+DIIF has just closed what it calls its [final, limited open call](https://infrastructureinsights.fund/): short exploratory reports of up to ten pages, funded at USD 5,000 each, with proposals due 7 September 2026.
