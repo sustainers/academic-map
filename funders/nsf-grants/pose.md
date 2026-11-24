@@ -1,7 +1,7 @@
 ---
 orphan: true
 ---
-# [NSF Pathways to Enable open source Ecosystems (POSE)](https://new.nsf.gov/funding/opportunities/pose-pathways-enable-open-source-ecosystems)
+# [NSF Pathways to Enable open source Ecosystems (POSE)](https://www.nsf.gov/funding/opportunities/pose-pathways-enable-open-source-ecosystems)
 
 ## About
 
@@ -11,52 +11,57 @@ POSE is aimed to develop Open Source Ecosystems (OSE) around existing open sourc
 
 POSE is **not** meant to fund the development of projects or existing well-resourced ecosystems. This is rather meant to supporting the development of **new OSEs**.
 
-There are two types of POSE proposals:
+In 2026, NSF archived POSE and replaced it with [Pathways to Enable Secure Open Source Ecosystems (PESOSE)](https://www.nsf.gov/funding/opportunities/pesose-pathways-enable-secure-open-source-ecosystems), solicitation [NSF 26-506](https://www.nsf.gov/funding/opportunities/pesose-pathways-enable-secure-open-source-ecosystems/nsf26-506/solicitation). PESOSE keeps POSE's two phases as Tracks 1 and 2, and adds a third track for safety, security, and privacy. That is the focus of the [Safe-OSE](./safe-ose.md) program, which NSF has also archived.
 
-### Phase I
+There are three types of PESOSE proposals:
 
-Phase I proposals should have the following qualities & objectives:
+### Track 1: Scoping and planning (formerly Phase I)
+
+Track 1 proposals should have the following qualities & objectives:
 
 - Small community of external users (but not necessarily contributors)
 - Seeking to develop a plan for community sustainability
 - Seeking to provide training & resources to maintainers and other stakeholders trying to build an OSE
 
-### Phase II
+### Track 2: Establishing and expanding (formerly Phase II)
 
-Phase II proposals should have the following qualities & objectives:
+Track 2 proposals should have the following qualities & objectives:
 
 - Existing small community of **both** contributors and users.
-- Seeking to execute and deliver upon a detailed project plan (similar to those funded in Phase I) to support the further development and sustainability of the OSE.
+- Seeking to execute and deliver upon a detailed project plan (similar to those funded in Track 1) to support the further development and sustainability of the OSE.
 
-Phase II proposals do not necessarily need to have completed or have been funded for Phase I.
+Track 1 and Track 2 awardees must take part in NSF's I-Corps for PESOSE training.
+
+### Track 3: Improving safety, security, and privacy
+
+Track 3 addresses vulnerabilities in existing OSEs and their products. These can be technical, such as code flaws, or socio-technical, such as supply chain weaknesses, insider threats, or poisoned machine learning models.
 
 ### Estimated number of awards
 
-#### 30 to 50 Total
+#### 40 to 60 Total
 
-Approximately 20 Phase I awards of up to $300,000 per award with durations up to 1 year and 10 Phase II awards of up to $1,500,000 per award with durations up to 2 years are anticipated, subject to the availability of funds and quality of proposals received.
+Approximately 30 Track 1 awards of up to $300,000 per award with durations up to 1 year, 10 Track 2 awards of up to $1,500,000 per award with durations up to 2 years, and 10 Track 3 awards of up to $1,500,000 per award with durations up to 2 years are anticipated, subject to the availability of funds. NSF anticipates $40,000,000 in total funding.
 
 ## Eligibility Criteria
 
-According to the [latest solicitation](https://new.nsf.gov/funding/opportunities/pose-pathways-enable-open-source-ecosystems/nsf24-606/solicitation#elig):
+According to the [latest solicitation](https://www.nsf.gov/funding/opportunities/pesose-pathways-enable-secure-open-source-ecosystems/nsf26-506/solicitation#elig), proposals may only be submitted by the following:
 
-    Proposals may only be submitted by the following:
+- Institutions of Higher Education (IHEs) - Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of sub-awards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the US campus.
+- Non-profit, non-academic organizations: Independent museums, observatories, research laboratories, professional societies and similar organizations located in the U.S. that are directly associated with educational or research activities.
+- For-profit organizations: U.S.-based commercial organizations, including small businesses, with strong capabilities in scientific or engineering research or education and a passion for innovation.
+- State and Local Governments
+- Tribal Nations: An American Indian or Alaska Native tribe, band, nation, pueblo, village, or community that the Secretary of the Interior acknowledges as a federally recognized tribe pursuant to the Federally Recognized Indian Tribe List Act of 1994, 25 U.S.C. §§ 5130-5131.
+- Other Federal Agencies and Federally Funded Research and Development Centers (FFRDCs), within the limits in the PAPPG.
 
-     - Institutions of Higher Education (IHEs) - Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of sub-awards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the US campus.
-     - Non-profit, non-academic organizations: Independent museums, observatories, research laboratories, professional societies and similar organizations located in the U.S. that are directly associated with educational or research activities.
-     - For-profit organizations: U.S.-based commercial organizations, including small businesses, with strong capabilities in scientific or engineering research or education and a passion for innovation.
-     - State and Local Governments
-     - Tribal Nations: An American Indian or Alaska Native tribe, band, nation, pueblo, village, or community that the Secretary of the Interior acknowledges as a federally recognized tribe pursuant to the Federally Recognized Indian Tribe List Act of 1994, 25 U.S.C. §§ 5130-5131.
+New in PESOSE: non-profit and for-profit proposers must be U.S.-based, and more than 50% U.S.-owned and controlled.
 
 ## Application
 
-Proposals must be submitted in accordance with the [NSF Proposal & Award Policies & Procedures Guide (PAPPG)](https://new.nsf.gov/policies/pappg).
+Proposals must be submitted in accordance with the [NSF Proposal & Award Policies & Procedures Guide (PAPPG)](https://www.nsf.gov/policies/pappg).
 
 ## Deadlines
 
-January 14 2025 - Phase I Proposals
-
-September 2 2025 - Phase I and II Proposals
+Full proposals are due by 5 p.m. local time on the first Tuesday in March and the first Tuesday in September, every year. The next deadline is March 2, 2027.
 
 ## Awards
 
