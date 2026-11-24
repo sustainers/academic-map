@@ -1,11 +1,14 @@
 name: deploy-book
 
-# Runs on main branch changes or manual dispatch
+# Runs on main branch changes, on manual dispatch, and daily, so that member
+# logos and funding calls from curioss.org stay current
 on:
   workflow_dispatch:
   push:
     branches:
     - main
+  schedule:
+  - cron: '17 6 * * *'
 
 # This job installs dependencies, builds the book, checks it, and publishes it
 # to curioss.org/academic-map
@@ -26,6 +29,9 @@ jobs:
     - name: Install Python dependencies
       run: |
         pip install -r requirements.txt
+
+    - name: Fetch CURIOSS member logos and funding calls
+      run: python scripts/sync_curioss.py
 
     - name: Build the book
       run: |

@@ -4,7 +4,8 @@
   "version": "1.0.0",
   "description": "An ecosystem map for academic OSS",
   "scripts": {
-    "build": "jupyter-book build --all .",
+    "sync": "python3 scripts/sync_curioss.py",
+    "build": "python3 scripts/sync_curioss.py && jupyter-book build --all .",
     "prebuild": "npm run check-toc",
     "publish": "./scripts/build.sh",
     "lint": "markdownlint . -i _build/ -i node_modules --rules markdownlint-custom-rules.js",
