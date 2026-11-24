@@ -1,6 +1,6 @@
 # Open Source in Academia Map
 
-This notebook is an aid for navigating the ecosystem of open source within academia.
+This Jupyter Book is an aid for navigating the ecosystem of open source within academia.
 
 Open source software is everywhere. In an academic context, it can be used either for research software, within an ed tech context used by the administration, or as a topic of instruction to students. Open source also is built into all layers of software used by academics, as well of industry at large. It can also be an object of study for researchers seeking to learn more about code generation and usage, collaborative networks, and so on.
 
@@ -10,7 +10,7 @@ The many areas where open source can apply means that navigating the landscape o
 
 ## How to use this website
 
-At its heart, this is a simple Jupyter notebook that can display information in a structured format. Jupyter Notebooks have a long history of use in the sciences for documenting software and research methods - there are also other groups, like [The Turing Way](https://the-turing-way.netlify.app/index.html), that use these notebooks for providing resources on how to work collaboratively in the open.
+At its heart, this is a simple Jupyter Book that can display information in a structured format. Jupyter Notebooks have a long history of use in the sciences for documenting software and research methods - there are also other groups, like [The Turing Way](https://the-turing-way.netlify.app/index.html), that use Jupyter Book for providing resources on how to work collaboratively in the open.
 
 ### Current Sections
 
@@ -20,6 +20,7 @@ At the moment, we have these sections:
 - [Research Institutions](./research-institutions/index.md). Not all academic research that is open source happens at a university. This covers research institutes, labs, and hospitals that have an OSPO or similar open source work.
 - [Organizations](./organizations/index.md). There are many groups which work on open source within an academic or research context. Sometimes, these are foundations which do work academically - or, they could just be user groups or special interest groups that meet to discuss in a less formal manner.
 - [Service Providers](./service-providers/index.md). Some projects are academically-adjacent, in that they provide resources to OSS projects in academia. This is for organizations like this.
+- [Events](./events/index.md). Conferences and gatherings where people working on open source in academia and research meet.
 - [Funders](./funders/index.md). Understanding the funding landscape is crucially important to OSS projects and academic, and differs based on location and field.
 - [Blog](./blog/index.md). Reports based on work done for this map, such as the results of our community survey.
 

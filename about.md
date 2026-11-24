@@ -20,7 +20,7 @@ Anyone is welcome to get involved with organizing either the Academic WG, or any
 
 ## This website
 
-This website is run by [Jupyter Notebooks](https://jupyterbook.org/en/stable/) on [GitHub Pages](https://pages.github.com/).
+This website is run by [Jupyter Book](https://jupyterbook.org/en/stable/) on [GitHub Pages](https://pages.github.com/).
 
 ## Code of Conduct
 
