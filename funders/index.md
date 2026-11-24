@@ -25,7 +25,7 @@ A full list is [here](https://en.wikipedia.org/wiki/Crown_Research_Institute).
 
 - [The Alfred P. Sloan Foundation](https://sloan.org/)
 - [Arcadia Fund](./arcadia.md)
-- [Chan Zuckerberg Initiative](https://chanzuckerberg.com/)
+- **[Chan Zuckerberg Initiative](./czi.md)**
 - [Ford Foundation](https://www.fordfoundation.org/)
 - **[Navigation](./navigation.md)**
 
@@ -33,7 +33,6 @@ A full list is [here](https://en.wikipedia.org/wiki/Crown_Research_Institute).
 
 The following funding opportunities have been taken from the [open-funding](https://github.com/ralphtheninja/open-funding) GitHub repository and are subset of funding specifically relevant to academia. Sorted alphabetically.
 
-- [Chan Zuckerberg Initiative](./czi.md)
 - [Cisco Research Grants (web3 related)](./cisco.md)
 - [Digital Infrastructure Insights Fund](./diif.md)
 - [Protocol Labs Research (web3 related)](./protocollabs.md)
