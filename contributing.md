@@ -10,7 +10,7 @@ In order to add your university, you need to edit the code that this website is 
 
     For instance, `touch universities/the-unseen-university.md` will create a file in `universities/` for your university. Then, you can add in the text that you want in that file. Look at the other files to see the expected Markdown formatting.
 
-    Right now, you can create these in `universities/`, `organizations/`, `research-institutions/`, or `service-providers/`.
+    Right now, you can create these in `universities/`, `organizations/`, `research-institutions/`, `service-providers/`, or `funders/`.
 
 2. Add your institution to the Table of Contents.
 
