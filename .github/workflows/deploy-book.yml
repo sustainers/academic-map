@@ -15,11 +15,11 @@ jobs:
       pages: write
       id-token: write
     steps:
-    - uses: actions/checkout@v4
+    - uses: actions/checkout@v7
 
     # BUILD FIRST - Fail fast if there are build issues
     - name: Set up Python 3.11
-      uses: actions/setup-python@v5
+      uses: actions/setup-python@v7
       with:
         python-version: 3.11
 
@@ -47,7 +47,7 @@ jobs:
     # THEN run checks (lint, TOC). External links are checked on PRs and weekly
     # in link-check.yml, so a third-party outage can't block a deploy.
     - name: Set up Node.js
-      uses: actions/setup-node@v4
+      uses: actions/setup-node@v7
       with:
         node-version: '22'
 
@@ -64,7 +64,7 @@ jobs:
     # Upload the book's HTML as an artifact
     - name: Upload artifact
       if: success()
-      uses: actions/upload-pages-artifact@v3
+      uses: actions/upload-pages-artifact@v5
       with:
         path: "_build/html"
 
@@ -82,4 +82,4 @@ jobs:
     # Deploy the book's HTML to GitHub Pages
     - name: Deploy to GitHub Pages
       id: deployment
-      uses: actions/deploy-pages@v4
+      uses: actions/deploy-pages@v5
