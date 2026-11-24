@@ -1,8 +1,9 @@
 #!/bin/bash
 
-# Local build and deploy script
-# Note: For production deploys, the GitHub Action in .github/workflows/deploy-book.yml is used
-# This script is for manual local deployments only
+# Local check and build script
+# Deploys only happen through the GitHub Action in .github/workflows/deploy-book.yml,
+# which publishes to curioss.org/academic-map. To deploy without pushing to main,
+# run that workflow by hand from the repository's Actions tab.
 
 # Make sure you run `chmod +x scripts/build.sh` before attempting to run it.
 
@@ -22,7 +23,4 @@ npm run check-toc
 echo "Building Jupyter book..."
 jupyter-book build --all .
 
-echo "Deploying to gh-pages branch..."
-ghp-import -n -p -f "$BUILD_DIR"
-
-echo "Build and deploy completed successfully!"
+echo "Build completed successfully! Open $BUILD_DIR/index.html to view it."

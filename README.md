@@ -59,7 +59,9 @@ open _build/html/index.html
 
 ### Manual Deployment
 
-If you need to manually deploy, you can use:
+To deploy without pushing to `main`, run the `deploy-book` workflow by hand from the repository's Actions tab.
+
+To run every check and build the site locally, without deploying, use:
 
 ```bash
 ./scripts/build.sh
