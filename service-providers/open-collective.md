@@ -1,6 +1,8 @@
-# Open Collective Inc
+# Open Collective
 
-Open Collective Inc. is the for‑profit entity behind the widely used Open Collective platform—an open‑source, transparent financial toolkit launched in 2015 that empowers grassroots communities, open‑source projects, and mutual‑aid networks to raise, manage, and disburse funds without needing their own legal setup or bank account.
+The widely used [Open Collective](https://opencollective.com/) platform is an open‑source, transparent financial toolkit launched in 2015 that empowers grassroots communities, open‑source projects, and mutual‑aid networks to raise, manage, and disburse funds without needing their own legal setup or bank account.
+
+Open Collective Inc., a for‑profit company, built and ran the platform until 2024. That year, [stewardship of the platform moved to a new nonprofit](https://opencollective.com/about): the Open Finance Consortium (OFiCo), a US 501(c)(6) association. OFiCo governs the platform collectively, and its subsidiary OFi Technologies (OFiTech) runs it day to day.
 
 **Key features of the Open Collective platform:**
 

@@ -10,6 +10,7 @@ Sorted alphabetically.
 
 - **[Apache Foundation](./apachefoundation.md)**
 - **[Apereo](./apereo.md)**
+- **[Aspiration](./aspiration.md)**
 - [Code for Science and Society](https://www.codeforsociety.org/)
 - [Community Initiatives](https://communityinitiatives.org/)
 - **[Creative Commons](./creativecommons.md)**
@@ -39,13 +40,17 @@ Sorted alphabetically.
 
 - **[Center for Scientific Collaboration and Community Engagement (CSCCE)](./center-for-scientific-collaboration-and-community-engagement.md)**
 - **[CHAOSS](./chaoss.md)**
+- **[Coalition for Networked Information (CNI)](./coalition-for-networked-information.md)**
 - **[CURIOSS](./curioss.md)**
+- [Data Umbrella](https://www.dataumbrella.org/)
 - [InnerSource Commons](https://innersourcecommons.org/)
+- [Openscapes](https://openscapes.org/)
 - **[ORCA](./open-research-community-accelerator.md)**
 - **[OSPO++](./ospoplusplus.md)**
 - **[Research Software Alliance (ReSA)](./research-software-alliance.md)**
 - **[SciCodes](./scicodes.md)**
 - [TODO Group](https://todogroup.org/)
+- [Translate Science](https://translatescience.org/)
 - **[URSSI](./urssi.md)**
 - **[USRSE](./usrse.md)**
 
@@ -59,10 +64,12 @@ Sorted alphabetically.
 - **[American Psychological Association (APA)](./american-psychological-association.md)**
 - **[American Society for Microbiology](./american-society-for-microbiology.md)**
 - **[Association for Computing Machinery (ACM)](./association-for-computing-machinery.md)**
+- [Center for Open Science (COS)](https://www.cos.io/)
 - **[Ecological Society of America (ESA)](./ecological-society-of-america.md)**
 - **[European Space Agency (ESA)](./european-space-agency.md)**
 - **[Institute of Electrical and Electronics Engineers (IEEE)](./institute-of-electrical-and-electronics-engineers.md)**
 - **[Molecular Sciences Software Institute (MolSSI)](./molecular-sciences-software-institute.md)**
+- [UNESCO Open Science](https://www.unesco.org/en/open-science)
 
 ### Scientific Software
 

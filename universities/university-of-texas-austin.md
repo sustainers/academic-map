@@ -3,7 +3,7 @@
 - *OSPO*: The UT Austin-OSPO is situated across the university in the Texas Advanced Computing Center (TACC), the central IT office, (CIO), the School of Information (iSchool), and the University Libraries.
 - *Personnel*: PI - Dr. Jennifer Schopf (TACC), co-PI and Director - Dr. Angela Newell (CIO), co-PI - Dr. James Howison (iSchool), co-PI - Michael Shensky (Libraries).
 - *Link*: [https://opensource.utexas.edu/](https://opensource.utexas.edu/)
-- *Member of*: [Center for Networked Information](https://www.cni.org/), [CURIOSS](https://curioss.org/), [HELIOS](https://www.heliosopen.org/members)
+- *Member of*: [Coalition for Networked Information](https://www.cni.org/), [CURIOSS](https://curioss.org/), [HELIOS](https://www.heliosopen.org/members)
 
 ## General Description
 
