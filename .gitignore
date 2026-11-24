@@ -2,4 +2,6 @@ node_modules
 _build/
 _sources/
 _static/
+_curioss/
 .DS_Store
+__pycache__/

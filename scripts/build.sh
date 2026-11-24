@@ -20,6 +20,9 @@ npm run links-ci
 echo "Checking TOC completeness..."
 npm run check-toc
 
+echo "Fetching CURIOSS member logos and funding calls..."
+python3 scripts/sync_curioss.py
+
 echo "Building Jupyter book..."
 jupyter-book build --all .
 

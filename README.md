@@ -21,12 +21,13 @@ This is a Jupyter Book, and depends on the Jupyter Book tooling to work. [Their 
 
 ### Automatic Deployment
 
-The site automatically builds and deploys when you push to the `main` branch. The GitHub Action (`.github/workflows/deploy-book.yml`) will:
+The site automatically builds and deploys when you push to the `main` branch, and once a week, to pick up changes to the CURIOSS data. The GitHub Action (`.github/workflows/deploy-book.yml`) will:
 
-1. Build the Jupyter book (`jupyter-book build --all .`)
-2. Lint all markdown files (`npm run lint`)
-3. Check that every page is in `_toc.yml`, its folder's `index.md`, and any member lists it belongs on (`npm run check-toc`)
-4. Publish the site at [curioss.org/academic-map](https://curioss.org/academic-map/intro.html), by pushing the built HTML into the `static/academic-map` folder of the [curioss.org repository](https://github.com/CURIOSSorg/curioss.org). That push triggers the curioss.org site's own deploy.
+1. Fetch CURIOSS member logos and open funding calls from curioss.org (`python scripts/sync_curioss.py`)
+2. Build the Jupyter book (`jupyter-book build --all .`)
+3. Lint all markdown files (`npm run lint`)
+4. Check that every page is in `_toc.yml`, its folder's `index.md`, and any member lists it belongs on (`npm run check-toc`)
+5. Publish the site at [curioss.org/academic-map](https://curioss.org/academic-map/intro.html), by pushing the built HTML into the `static/academic-map` folder of the [curioss.org repository](https://github.com/CURIOSSorg/curioss.org). That push triggers the curioss.org site's own deploy.
 
 If any step fails, the deployment will stop and you'll receive a notification (if enabled in your GitHub notification settings).
 
@@ -50,7 +51,8 @@ npm run links
 # Check TOC completeness (ensures all files are in _toc.yml, index pages, and member lists)
 npm run check-toc
 
-# Build the book locally
+# Build the book locally (this first fetches CURIOSS member logos and
+# funding calls into _curioss/; see scripts/sync_curioss.py)
 npm run build
 
 # View the built site

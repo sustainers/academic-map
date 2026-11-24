@@ -4,7 +4,7 @@
 title: CURIOSS Academic Map
 author: CURIOSS
 logo: static/logo.svg
-exclude_patterns: [README.md, CODE_OF_CONDUCT.md, contributing.md, node_modules, organizations/example.md, .claude]
+exclude_patterns: [README.md, CODE_OF_CONDUCT.md, contributing.md, node_modules, organizations/example.md, .claude, _curioss, _ext]
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
@@ -38,6 +38,10 @@ html:
 
 # Configure Sphinx directly to include custom CSS and specify static paths
 sphinx:
+  # Shows CURIOSS member logos and open funding calls from curioss.org.
+  # Run scripts/sync_curioss.py before building to fetch them.
+  local_extensions:
+    curioss_data: _ext
   config:
     html_static_path: ['static']
     html_css_files: ['base.css']
