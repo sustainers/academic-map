@@ -1,4 +1,4 @@
-# Electronic Frontier Foundation (EFF) Overview
+# Electronic Frontier Foundation (EFF)
 
 - **Website:** [Electronic Frontier Foundation (EFF)](https://www.eff.org/)
 

@@ -1,4 +1,4 @@
-# Ecological Society of America Overview
+# Ecological Society of America
 
 - **Website:** [Ecological Society of America](https://www.esa.org/)
 

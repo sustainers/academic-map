@@ -1,4 +1,4 @@
-# PyTorch Overview
+# PyTorch
 
 - **Website:** [PyTorch](https://pytorch.org/)
 

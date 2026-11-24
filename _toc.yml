@@ -176,7 +176,7 @@ chapters:
   - file: organizations/science-gateways-community-institute.md
     title: SGCI
   - file: organizations/ssi.md
-    title: SSI
+    title: Institute for Research Software
   - file: organizations/space-telescope-science-insitute.md
     title: STSI
   - file: organizations/sustainoss.md
@@ -185,8 +185,6 @@ chapters:
     title: The Carpentries
   - file: organizations/the-turing-way.md
     title: The Turing Way
-  - file: organizations/uk-software-sustainability-institute.md
-    title: SSI
   - file: organizations/urssi.md
     title: URSSI
   - file: organizations/university-corp-atmospheric-research.md

@@ -1,4 +1,4 @@
-# Open Knowledge Foundation Overview
+# Open Knowledge Foundation
 
 - **Website:** [Open Knowledge Foundation](https://okfn.org/)
 

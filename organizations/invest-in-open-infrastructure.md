@@ -1,4 +1,4 @@
-# Invest in Open Infrastructure (IOI) Overview
+# Invest in Open Infrastructure (IOI)
 
 - **Website:** [Invest in Open Infrastructure](https://investinopen.org/)
 - **Initiatives:** [Research & Strategic Support](https://investinopen.org/our-impact/)

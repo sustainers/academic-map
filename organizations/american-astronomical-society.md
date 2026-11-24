@@ -1,4 +1,4 @@
-# American Astronomical Society Overview
+# American Astronomical Society
 
 - **Website:** [American Astronomical Society](https://aas.org/)
 
