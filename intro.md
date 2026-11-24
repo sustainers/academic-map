@@ -6,7 +6,11 @@ Open source software is everywhere. In an academic context, it can be used eithe
 
 The many areas where open source can apply means that navigating the landscape of open source software can be difficult to practitioners looking to specialize in open source as a whole.
 
-[SustainOSS](https://sustainoss.org) is a community of people who hold space for conversations around the long term sustainability of both open source code and the communities that build and use it. As part of this work, the Academic working group meets in order to discuss sustainability issues within open source. This website is meant to function as a starting point for discussions and links to other communities, universities, and researchers working on open source, and as a list of resources for practitioners.
+This map is hosted by [CURIOSS](https://curioss.org/), the Community for University and Research Institution OSPOs. This website is meant to function as a starting point for discussions and links to other communities, universities, and researchers working on open source, and as a list of resources for practitioners.
+
+## History
+
+This map started in 2023 as the SustainOSS Academic Map. [SustainOSS](https://sustainoss.org) is a community of people who hold space for conversations around the long term sustainability of both open source code and the communities that build and use it, and its Academic Working Group built the map. In 2026, the map moved to CURIOSS as a more sustainable, permanent home.
 
 ## How to use this website
 
@@ -31,5 +35,4 @@ This work cannot be done by a single person or a single team. There are several 
 - [**Open an issue**](https://github.com/CURIOSSorg/academic-map/issues/new) to add data. If you are unsure how to use Git easily or you are unsure where something goes, just open an issue with your suggestions or comments.
 - Add a page directly to the Git repository using a **Pull Request**. The GitHub repo is [here](https://github.com/CURIOSSorg/academic-map/). If you have a university, community, or so on, and you know how to use Git and GitHub, please open a PR with the resource!
 - **Complain**. If this isn't working for you, tell us why, and we'd be more than happy to work to make it better.
-- **Join** the regular calls. We meet every fourth Thursday. These are announced in [the Sustain Discourse](https://discourse.sustainoss.org/).
-- **Send an email.** Richard Littauer is the main editor for this repository, at the moment, and he's happy to incorporate any changes or to build a more welcoming and inclusive structure for collaboration here if any of the above options is less than ideal. Email [richard@sustainoss.org](mailto:richard@sustainoss.org).
+- **Send an email.** Richard Littauer is the main editor for this repository, at the moment, and he's happy to incorporate any changes or to build a more welcoming and inclusive structure for collaboration here if any of the above options is less than ideal. Email [info@curioss.org](mailto:info@curioss.org).

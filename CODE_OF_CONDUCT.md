@@ -1,3 +1,3 @@
 # Code of Conduct
 
-This repository and affiliated channels uses the [SustainOSS Code of Conduct](https://sustainoss.org/code-of-conduct/).
+This repository and affiliated channels use the [CURIOSS Code of Conduct](https://curioss.org/about/codeofconduct/).
