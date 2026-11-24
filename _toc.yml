@@ -228,6 +228,8 @@ chapters:
     - file: funders/nsf-grants/geo-ose.md
       title: GEO OSE
   - file: funders/navigation.md
+  - file: funders/os4science.md
+    title: Open Source for Science Fund
   - file: funders/protocollabs.md
   - file: funders/top10vpn.md
 - file: blog/index.md

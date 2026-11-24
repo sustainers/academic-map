@@ -28,6 +28,7 @@ A full list is [here](https://en.wikipedia.org/wiki/Crown_Research_Institute).
 - **[Chan Zuckerberg Initiative](./czi.md)**
 - [Ford Foundation](https://www.fordfoundation.org/)
 - **[Navigation](./navigation.md)**
+- **[Open Source for Science Fund](./os4science.md)**
 
 ## Individual Funding Opportunities
 
